@@ -9,7 +9,7 @@ Este repositório é dedicada à documentação de todos os artefatos produzidos
 |[Altino Arthur](https://github.com/arthurrochamoreira)|[Breno Queiroz](https://github.com/brenob6)|[Limirio Correia](https://github.com/LimirioGuimaraes)|[Luis Eduardo](https://github.com/LuisMiranda10)|[Mayara Alves](https://github.com/Mayara-tech)|[Milena Baruc](https://github.com/MilenaBaruc)|[Vinicius Mendes](https://github.com/yabamiah)|
 
 
-<br><br>
+<br>
 
 ![ventoy](https://github.com/Interacao-Humano-Computador/2023.2-Grupo02/assets/67807684/e6728fd1-bb4b-4160-a70b-4e5b8dacdf36)
 
