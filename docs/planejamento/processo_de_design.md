@@ -14,9 +14,16 @@ O modelo simples de processo de design, possui uma atividade de síntese, chama 
 É nessa etapa que o designer elaboram soluções para os requisitos propostos.
 ou ajustam soluções passadas para melhor se adequar.
 
-<div align="center">
-    <img src="/assets/ciclo_simples.png"/>
-</div>
+<center>
+
+**Figura 01** - Ciclo Simples
+
+<img src="/assets/ciclo_simples.png"/>
+
+
+**Fonte**: (BARBOSA, SILVA, 2010, p. 99)
+
+</center>
 
 A simplicidade do modelo o torna flexivel e de fácil entendimento. Mas
 tal caracteristica pode ser ruim para projetos mais complexos.
@@ -28,16 +35,28 @@ O ciclo de vida em estrela possui seis atividades. O interessante desse método
 é que existem cinco pontos de entrada, e não existe ordem definida para execução das atividades,
 exceto a de avaliação que deve ser feita após todas as outras.
 
-<div align="center">
-    <img src="/assets/ciclo_estrela.png"/>
-</div>
+<center>
+
+**Figura 02** - Ciclo em Estrela
+
+<img src="/assets/ciclo_estrela.png"/>
+
+(BARBOSA, SILVA, 2010, Capítulo 4.3.1,p. 103)
+
+</center>
 
 Nessa etapa o designer verifica, se os requisitos especificados estão sendo satisfeitos e
-se existem problemas de usabilidade nas representações de design, nos protótipos e no sistema final. (BARBOSA, SILVA, 2010, p. 103-104)
+se existem problemas de usabilidade nas representações de design, nos protótipos e no sistema final. 
+(BARBOSA, SILVA, 2010, p. 103-104)
 
 ## Engenharia de Usabilidade de Nielsen
 
-Nielsen definiu um conjunto de dez atividades que devem ocorrer durantetodo o ciclo de vida do produto. 
+Nielsen definiu um conjunto de dez atividades que devem ocorrer durantetodo o ciclo de vida do produto.
+A tabala 01 faz uma breve descrição de cada atividade.
+
+<center>
+
+**Tabela 01** - atividades de Nielsen
 
 | Etapa | Tarefa    | Descrição |
 | :-:   | :-       | :-       | 
@@ -52,16 +71,25 @@ Nielsen definiu um conjunto de dez atividades que devem ocorrer durantetodo o ci
 | 9 | Testes empíricos      | Utilizar os protótipos para realizar testes de observação dos usuários |
 | 10| Design iterativo      | A partir dos problemas de usabilidade e dos testes empíricos repassar pelas atividades do processo |
 
-(BARBOSA, SILVA, 2010, p. 105)
+**Fonte:** (BARBOSA, SILVA, 2010, p. 102)
+
+</center>
+
 
 ## Engenharia de Usabilidade de Mayhew
 
 Mayhew propôs um processo de design com uma gama maior de detalhes. Nele as atividades são
 dividas em três fases.
 
-<div align="center">
-    <img src="/assets/ciclo_de_mayhew.png"/>
-</div>
+<center>
+
+**Figura 03** - Ciclo de Mayhew
+
+![Ciclo de Mayhew](/assets/ciclo_de_mayhew.png)
+
+**Fonte:** (BARBOSA, SILVA, 2010, Capítulo 4.3.3, p. 110)
+
+</center>
 
 Na primeira fase é definido os requisitos e as metas de usabilidade, com base no perfil dos usuários,
 nas tarefa
@@ -76,8 +104,13 @@ separada em três níveis, alguns pontos chaves de cada um são:
 Por fim, é coletado opiniões dos usuários, para verificar possíveis melhorias.
 (BARBOSA, SILVA, 2010, p. 109-111)
 
-
 ## Escolha
+
+Baseado em uma análise feita minuciosamente a respeito de toda as alternativas, chegamos em um concesso
+geral que o ciclo de Mayhew seria o mais apropriado e eficaz para o projeto como o todo, uma vez que
+nos é fornecido uma estrutura abrangente para a gestão de projeto, ajudando a garantir que todas as
+etapas necessárias sejam consideradas e executadas de forma inteligente e eficiente para alcançar os
+objetivos que temos com sucesso.
 
 ## Bibliografia
 
@@ -85,6 +118,10 @@ Por fim, é coletado opiniões dos usuários, para verificar possíveis melhoria
 
 ## Histório de versão
 
+<center>
+**Tabela 02** - Histórico de Versão
+
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
-| 1.0   |16/09/2023 |Criação da página Processo de Design de IHC| Breno | Luis Miranda  |
+| 1.0   |16/09/2023 |Criação da página Processo de Design de IHC| Breno e Luis Miranda  | Vinícius Mendes |
+</center>
