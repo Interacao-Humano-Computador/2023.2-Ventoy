@@ -17,4 +17,4 @@ Com base nos resultados analisados no heatmap, o grupo promoveu uma discussão a
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-1.0 | 20/09/2023| Criação do Heatmap | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | Todos |
+1.0 | 27/09/2023| Criação do Heatmap | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | Todos |
