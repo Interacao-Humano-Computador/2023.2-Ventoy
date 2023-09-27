@@ -102,13 +102,17 @@ separada em três níveis, alguns pontos chaves de cada um são:
 Por fim, é coletado opiniões dos usuários, para verificar possíveis melhorias.
 (BARBOSA, SILVA, 2010, p. 109-111)
 
-## Escolha
+## Escolha do Processo de Design
 
 Baseado em uma análise feita minuciosamente a respeito de toda as alternativas, chegamos em um concesso
 geral que o ciclo de Mayhew seria o mais apropriado e eficaz para o projeto como o todo, uma vez que
 nos é fornecido uma estrutura abrangente para a gestão de projeto, ajudando a garantir que todas as
 etapas necessárias sejam consideradas e executadas de forma inteligente e eficiente para alcançar os
 objetivos que temos com sucesso.
+
+O ciclo Mayhew será seguido de forma integral, e começaremos o processo pela análise de requisitos,
+seguindo as etapas do fluxo de acordo com o digrama da figura 3. Posteriormente será realizada as 
+etapas de design, avaliação, desenvolvimento  e finalmente a instalação.
 
 ## Bibliografia
 
