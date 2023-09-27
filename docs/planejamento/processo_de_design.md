@@ -10,18 +10,17 @@ Existem vários tipos de processos de design de IHC, que são recomendados por d
 
 ## Modelo Simples de Processo de Design
 
-O modelo simples de processo de design, possui uma atividade de síntese, chama de re(design).
-É nessa etapa que o designer elaboram soluções para os requisitos propostos.
+O modelo simples de processo de design, possui uma atividade de síntese, chamada de re(design).
+É nessa etapa que os designers elaboram soluções para os requisitos propostos,
 ou ajustam soluções passadas para melhor se adequar.
 
 <center>
 
 **Figura 01** - Ciclo Simples
 
-<img src="/assets/ciclo_simples.png"/>
+![Ciclo Simples](../assets/ciclo_simples.png)
 
-
-**Fonte**: (BARBOSA, SILVA, 2010, p. 99)
+**Fonte**: BARBOSA, SILVA, 2010
 
 </center>
 
@@ -37,11 +36,11 @@ exceto a de avaliação que deve ser feita após todas as outras.
 
 <center>
 
-**Figura 02** - Ciclo em Estrela
+**Figura 2** - Ciclo em Estrela
 
-<img src="/assets/ciclo_estrela.png"/>
+![Ciclo em Estrela](../assets/ciclo_estrela.png)
 
-(BARBOSA, SILVA, 2010, Capítulo 4.3.1,p. 103)
+**Fonte**: BARBOSA, SILVA, 2010
 
 </center>
 
@@ -59,7 +58,7 @@ A tabala 01 faz uma breve descrição de cada atividade.
 **Tabela 01** - atividades de Nielsen
 
 | Etapa | Tarefa    | Descrição |
-| :-:   | :-       | :-       | 
+| :-:   | :-        | :-       | 
 | 1 |Conhecer o usuário     | Estudar os usuários e os usos pretendidos do produto |
 | 2 | Análise competitiva   | Examinar produtos com funcionalidade semelhantes |
 | 3 | Definir metas de usabilidade | Definir fatores de qualidade que devem ser priorizados no projeto |
@@ -71,10 +70,9 @@ A tabala 01 faz uma breve descrição de cada atividade.
 | 9 | Testes empíricos      | Utilizar os protótipos para realizar testes de observação dos usuários |
 | 10| Design iterativo      | A partir dos problemas de usabilidade e dos testes empíricos repassar pelas atividades do processo |
 
-**Fonte:** (BARBOSA, SILVA, 2010, p. 102)
+**Fonte:** BARBOSA, SILVA, 2010
 
 </center>
-
 
 ## Engenharia de Usabilidade de Mayhew
 
@@ -83,11 +81,11 @@ dividas em três fases.
 
 <center>
 
-**Figura 03** - Ciclo de Mayhew
+**Figura 3** - Ciclo de Mayhew
 
-![Ciclo de Mayhew](/assets/ciclo_de_mayhew.png)
+![Ciclo de Mayhew](../assets/ciclo_de_mayhew.png)
 
-**Fonte:** (BARBOSA, SILVA, 2010, Capítulo 4.3.3, p. 110)
+**Fonte:** BARBOSA, SILVA, 2010
 
 </center>
 
@@ -97,9 +95,9 @@ nas tarefa
 Após a fase inicial, começa o processo de desenvolvimeto de solução de IHC. Essa etapa é
 separada em três níveis, alguns pontos chaves de cada um são:
 
-- Nível 1: Elaboração de alternativas de solução do modelo conceitual; elaboração de protótipo de baixa fidelidade;
-- Nível 2: Estabelecer padrões de design de IHC; construção de protótipo de média fidelidade;
-- Nível 3: Protótipo de alta fidelidade;
+- **Nível 1**: Elaboração de alternativas de solução do modelo conceitual; elaboração de protótipo de baixa fidelidade;
+- **Nível 2**: Estabelecer padrões de design de IHC; construção de protótipo de média fidelidade;
+- **Nível 3**: Protótipo de alta fidelidade;
 
 Por fim, é coletado opiniões dos usuários, para verificar possíveis melhorias.
 (BARBOSA, SILVA, 2010, p. 109-111)
@@ -119,9 +117,11 @@ objetivos que temos com sucesso.
 ## Histório de versão
 
 <center>
-**Tabela 02** - Histórico de Versão
+
+**Tabela 2** - Histórico de Versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
 | 1.0   |16/09/2023 |Criação da página Processo de Design de IHC| Breno e Luis Miranda  | Vinícius Mendes |
+
 </center>
