@@ -29,12 +29,12 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
 | Correção dos artefatos Ponto de Controle 4                       	      | Início: 31/10<br>Fim: 01/11 | Todos	      	     |   02/11   | Todos	            |
-| Relato dos resultados do Storyboard                              	      | Início: 01/11<br>Fim: 06/11 | Altino             |   07/11   | Luis               |
-| Relato dos resultados da Análise de tarefas                      	      | Início: 01/10<br>Fim: 06/11 | Vinicius e Milena  |   07/11   | Mayara 	          |
-| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 01/10<br>Fim: 06/11 | Limírio e Breno    |   07/11   | Milena             |
-| Planejamento da avaliação do protótipo de papel         	              | Início: 01/10<br>Fim: 06/11 | Luis e Mayara      |   07/11   | Limírio            |
-| Gravação da apresentação                                           	    | Início: 08/11<br>Fim: 08/11 | Todos              |   09/11   | Todos              |
-| Cronograma executado                                           	        | Início: 08/11<br>Fim: 09/11 | Todos              |   09/11   | Todos              |
+| Relato dos resultados do Storyboard                              	      | Início: 01/11<br>Fim: 05/11 | Altino             |   06/11   | Luis               |
+| Relato dos resultados da Análise de tarefas                      	      | Início: 01/10<br>Fim: 05/11 | Vinicius e Milena  |   06/11   | Mayara 	          |
+| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 01/10<br>Fim: 05/11 | Limírio e Breno    |   06/11   | Milena             |
+| Planejamento da avaliação do protótipo de papel         	              | Início: 01/10<br>Fim: 05/11 | Luis e Mayara      |   06/11   | Limírio            |
+| Gravação da apresentação                                           	    | Início: 07/11<br>Fim: 07/11 | Todos              |   08/11   | Todos              |
+| Cronograma executado                                           	        | Início: 07/11<br>Fim: 08/11 | Todos              |   08/11   | Todos              |
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
