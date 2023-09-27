@@ -12,7 +12,7 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 
 <font size="3"><p style="text-align: center"> <b>Tabela x</b> - Entrega 4 </p></font>
 
-| Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
+| Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
 | ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
 | Correção dos artefatos Ponto de Controle 3                       | Início: 24/10<br>Fim: 25/10 | Todos	            |   26/10   | Todos	             |
 | Planejamento da avaliação do Storyboard                          | Início: 24/10<br>Fim: 27/10 | Luis e Milena      |   28/10   | Limírio            |
@@ -26,7 +26,7 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 
 <font size="3"><p style="text-align: center"> <b>Tabela x</b> - Entrega 5 </p></font>
 
-| Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
+| Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
 | Correção dos artefatos Ponto de Controle 4                       	      | Início: 31/10<br>Fim: 01/11 | Todos	      	     |   02/11   | Todos	            |
 | Relato dos resultados do Storyboard                              	      | Início: 01/11<br>Fim: 05/11 | Altino             |   06/11   | Luis               |
