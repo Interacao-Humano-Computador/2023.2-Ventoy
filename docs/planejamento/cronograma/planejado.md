@@ -44,7 +44,7 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
-<p align="center"><b>Tabela 02</b> - Entrega 2. Perfil do Usuário </p>
+<p align="center"><b>Tabela 03</b> - Entrega 2. Perfil do Usuário </p>
 
 | Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
 | ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
@@ -64,30 +64,25 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
-<p align="center"><b>Tabela 02</b> - Entrega 3. Análise de requisitos </p>
+<p align="center"><b>Tabela 04</b> - Entrega 3. Análise de requisitos </p>
 
 | Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
 | ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
 | Correção dos artefatos da entrega 2                              | Início: 18/10<br>Fim: 20/10 | Todos	                   |   05/09   | Todos	     |
-| Selecionar possíveis sites para o projeto                        | Início: 02/09<br>Fim: 14/09 | Todos	                   |   14/09   | Todos	     |
-| Definir e justificar site utilizado no projeto                   | Início: 14/09<br>Fim: 14/09 | Todos                     |   14/09   | Todos       |
-| Definir ferramentas                                              | Início: 14/09<br>Fim: 27/09 | Limírio                   |   28/09   | Mayara	     |
-| Definir cronograma planejado das etapas do projeto               | Início: 14/09<br>Fim: 27/09 | Mayara, Limírio e Altino  |   28/09   | Milena      |
-| Documentar equipe                                                | Início: 14/09<br>Fim: 20/09 | Breno e Mayara            |   27/09   | Breno       |
-| Definir o processo de Design do projeto                          | Início: 14/09<br>Fim: 27/09 | Luis e Milena             |   28/09   | Vinicius    |
-| Executar o planejamento do projeto                               | Início: 14/09<br>Fim: 27/09 | Vinícius                  |   28/09   | Milena      |
-| Inserir termo de uso so site                                     | Início: 14/09<br>Fim: 27/09 | Vinícius                  |   28/09   | Luis        |
-| Implementar Git Page                                             | Início: 27/09<br>Fim: 28/09 | Breno                     |   28/09   | Mayara      |
+| Definir princípios gerais do projeto                             | Início: 18/10<br>Fim: 20/10 | Mayara	                   |   21/10   | Milena	     |
+| Determinar as metas de usabilidade                               | Início: 18/10<br>Fim: 20/10 | Breno                     |   21/10   | Altino      |
+| Criar o  guia de estilo                                          | Início: 18/10<br>Fim: 20/10 | Limírio e Luis            |   21/10   | Mayara	     |
+| Determinar as características da plataforma para o projeto       | Início: 18/10<br>Fim: 20/10 | Vinícius E Milena         |   21/10   | Luis        |
 | Gravação da apresentação                                         | Início: 22/10<br>Fim: 22/10 | Todos                     |   22/10   | Todos       |
-| Inserir cronograma executado                                     | Início: 22/10<br>Fim: 23/10 | Limírio                   |   23/10   | Mayara      |
+| Inserir cronograma executado                                     | Início: 22/10<br>Fim: 23/10 | Altino                    |   23/10   | Mayara      |
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
-<font size="3"><p style="text-align: center"> <b>Tabela x</b> - Entrega 4 </p></font>
+<p align="center"><b>Tabela 05</b> - Entrega 4. Storyboard e Análise de tarefas </p>
 
 | Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
 | ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
-| Correção dos artefatos Ponto de Controle 3                       | Início: 24/10<br>Fim: 25/10 | Todos	            |   26/10   | Todos	             |
+| Correção dos artefatos da entrega 3                       | Início: 24/10<br>Fim: 25/10 | Todos	            |   26/10   | Todos	             |
 | Planejamento da avaliação do Storyboard                          | Início: 24/10<br>Fim: 27/10 | Luis e Milena      |   28/10   | Limírio            |
 | Planejamento do relato dos resultados da avaliação do Storyboard | Início: 24/10<br>Fim: 27/10 | Vinicius e Altino  |   28/10   | Altino	           |
 | Planejamento da Avaliação da Análise de tarefas                  | Início: 27/10<br>Fim: 29/10 | Limírio   	        |   29/10   | Milena             |
@@ -97,11 +92,11 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
-<font size="3"><p style="text-align: center"> <b>Tabela x</b> - Entrega 5 </p></font>
+<p align="center"><b>Tabela 06</b> - Entrega 5. Planejamento da Avaliação do Protótipo de Papel </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
-| Correção dos artefatos Ponto de Controle 4                       	      | Início: 31/10<br>Fim: 01/11 | Todos	      	     |   02/11   | Todos	            |
+| Correção dos artefatos da entrega 4                       	            | Início: 31/10<br>Fim: 01/11 | Todos	      	     |   02/11   | Todos	            |
 | Relato dos resultados do Storyboard                              	      | Início: 01/11<br>Fim: 05/11 | Altino             |   06/11   | Luis               |
 | Relato dos resultados da Análise de tarefas                      	      | Início: 01/11<br>Fim: 05/11 | Vinicius e Milena  |   06/11   | Mayara 	          |
 | Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 01/11<br>Fim: 05/11 | Limírio e Breno    |   06/11   | Milena             |
@@ -111,15 +106,15 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
-<font size="3"><p style="text-align: center"> <b>Tabela x</b> - Entrega 6.1 </p></font>
+<p align="center"><b>Tabela 07</b> - Entrega 6.1. Verificação dos artefatos I </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
 | Correção dos artefatos Ponto de Controle 5                       	      | Início: 09/11<br>Fim: 10/11 | Todos	      	     |   11/11   | Todos	            |
-| Verificação dos artefatos da Etapa 1 do grupo 3                         | Início: 10/11<br>Fim: 12/11 | Luis               |   13/11   | Mayara             |
-| Verificação dos artefatos da Etapa 2 do grupo 3      	                  | Início: 10/11<br>Fim: 12/11 | Vinicius e Altino  |   13/11   | Breno 	            |
-| Verificação dos artefatos da Etapa 3 do grupo 3 			                  | Início: 10/11<br>Fim: 12/11 | Breno e Mayara     |   13/11   | Altino             |
-| Verificação dos artefatos da Etapa 4 do grupo 3                         | Início: 10/11<br>Fim: 12/11 | Limírio e Milena   |   13/11   | Luis               |
+| Verificação dos artefatos da Etapa 1                                    | Início: 10/11<br>Fim: 12/11 | Luis               |   13/11   | Mayara             |
+| Verificação dos artefatos da Etapa 2                	                  | Início: 10/11<br>Fim: 12/11 | Vinicius e Altino  |   13/11   | Breno 	            |
+| Verificação dos artefatos da Etapa 3             			                  | Início: 10/11<br>Fim: 12/11 | Breno e Mayara     |   13/11   | Altino             |
+| Verificação dos artefatos da Etapa 4                                    | Início: 10/11<br>Fim: 12/11 | Limírio e Milena   |   13/11   | Luis               |
 | Gravação da apresentação                                           	    | Início: 13/11<br>Fim: 13/11 | Todos              |   14/11   | Todos              |
 | Cronograma executado                                           	        | Início: 13/11<br>Fim: 14/11 | Todos              |   14/11   | Todos              |
 
@@ -132,5 +127,5 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --             |
-| 1.0   |18/09/2023 |Criação da primeira versão do cronograma | [Limírio Guimarães](https://github.com/LimirioGuimaraes) | Assine |
+| 1.0   |26/09/2023 |Criação da primeira versão do cronograma | [Limírio Guimarães](https://github.com/LimirioGuimaraes), [Mayara Alves](https://github.com/Mayara-tech) | Assine |
 
