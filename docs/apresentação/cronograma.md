@@ -10,7 +10,7 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 <p align="center"><b>Tabela 01</b> - Planejamento do cronograma etapa 1</p>
 
 
-<font size="3"><p style="text-align: center"> <b>Tabela x</b> - Perfil do usuário</p></font>
+<font size="3"><p style="text-align: center"> <b>Tabela x</b> - Entrega 4 - Perfil do usuário</p></font>
 
 | Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
