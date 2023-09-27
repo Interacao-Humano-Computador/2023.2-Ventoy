@@ -22,4 +22,4 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 | Gravação da apresentação                                         | Início: 29/10<br>Fim: 29/10 | Todos              |   29/10   | Todos              |
 
 
-<font size="3"><p style="text-align: center">Fonte: [Limírio Correia](https://github.com/LimirioGuimaraes).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
