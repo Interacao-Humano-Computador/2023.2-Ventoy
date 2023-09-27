@@ -10,7 +10,7 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 <p align="center"><b>Tabela 01</b> - Planejamento do cronograma etapa 1</p>
 
 
-<font size="3"><p style="text-align: center"> <b>Tabela x</b> - Entrega 4 - Perfil do usuário</p></font>
+<font size="3"><p style="text-align: center"> <b>Tabela x</b> - Entrega 4 </p></font>
 
 | Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
@@ -20,10 +20,23 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 | Planejamento da Avaliação da Análise de tarefas                  | Início: 27/10<br>Fim: 29/10 | Limírio   	        |   29/10   | Milena             |
 | Planejamento do relato da avaliação da análise de tareas         | Início: 27/10<br>Fim: 29/10 | Breno e Mayara     |   29/10   | Breno              |
 | Gravação da apresentação                                         | Início: 29/10<br>Fim: 29/10 | Todos              |   29/10   | Todos              |
-
+| Cronograma executado                                           	 | Início: 29/10<br>Fim: 30/10 | Todos              |   30/10   | Todos              |
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
+<font size="3"><p style="text-align: center"> <b>Tabela x</b> - Entrega 5 </p></font>
+
+| Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
+| ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos Ponto de Controle 4                       	      | Início: 31/10<br>Fim: 01/11 | Todos	      	     |   02/11   | Todos	            |
+| Relato dos resultados do Storyboard                              	      | Início: 01/11<br>Fim: 06/11 | Altino             |   07/11   | Luis               |
+| Relato dos resultados da Análise de tarefas                      	      | Início: 01/10<br>Fim: 06/11 | Vinicius e Milena  |   07/11   | Mayara 	          |
+| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 01/10<br>Fim: 06/11 | Limírio e Breno    |   07/11   | Milena             |
+| Planejamento da avaliação do protótipo de papel         	              | Início: 01/10<br>Fim: 06/11 | Luis e Mayara      |   07/11   | Limírio            |
+| Gravação da apresentação                                           	    | Início: 08/11<br>Fim: 08/11 | Todos              |   09/11   | Todos              |
+| Cronograma executado                                           	        | Início: 08/11<br>Fim: 09/11 | Todos              |   09/11   | Todos              |
+
+<font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
 ## Histório de versão
 
