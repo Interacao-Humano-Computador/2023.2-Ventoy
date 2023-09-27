@@ -20,7 +20,8 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 |![](../assets/youtube.jpg){width=75x}          |          YouTube          |         Hospedagem de vídeos de apresentações e reuniões.                     |
 |![](../assets/gdrive.png){width=75x}           |       Google Drive        |                     Compartilhamento de arquivos.                             |
 |![](../assets/thispersondoesntexist.png){width=75x}  | This Person Doesn't Exist |              Geração de imagens de personas fictícias.                  |
-|![](![excell_logo](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/assets/80782534/159cbf7c-382e-4ae7-987f-b2c0ce761baf){width=75x}  | Excel online |              Criação de planilhas de horários                  |
+|![](../assets/Excel_logo.png){width=75x}  | Excel online |              Criação de planilhas de horários                 |
+
 
 
 <font size="3"><p style="text-align: center">Fonte: Autores do Grupo 2.</p></font>
@@ -36,11 +37,11 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 >YOUTUBE. Disponível em: [YouTube](https://youtube.com). Acesso em: 19 de Set. 2023.</br>
 >GOOGLE DRIVE. Disponível em: [GoogleDrive](https://drive.google.com/drive/) Acesso em: 19 de Set. 2023.</br>
 >THIS PERSON DOESNT EXIST. Disponível em: [ThisPerson](https://this-person-does-not-exist.com/en) Acesso em: 19 de Set. 2023.</br>
->EXCEL/WORD ONLINE. Disponível em: [Ferramentas Office 365](https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web) Acesso em: 19 de Set. 2023.</br>
+>EXCEL ONLINE. Disponível em: [Excel Online](https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web) Acesso em: 19 de Set. 2023.</br>
 
 ## Histórico de Versões
 
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  `1.0`  | 19/09/2023 |            Criação da página de ferramentas.            | [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | [Mayara Alves](https://github.com/Mayara-tech) |
-|  `1.1`  | 27/09/2023 |            Melhor descrição do uso das ferramentas      | [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | Alguém |
+|  `1.0`  | 27/09/2023 |            Criação da página de ferramentas.            | [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | Alguém |
+
