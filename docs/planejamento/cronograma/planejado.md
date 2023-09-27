@@ -48,18 +48,19 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 
 | Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
 | ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
-| Definir horários de reunião - Heatmap                            | Início: 31/08<br>Fim: 02/09 | Todos	                   |   05/09   | Todos	     |
-| Selecionar possíveis sites para o projeto                        | Início: 02/09<br>Fim: 14/09 | Todos	                   |   14/09   | Todos	     |
-| Definir e justificar site utilizado no projeto                   | Início: 14/09<br>Fim: 14/09 | Todos                     |   14/09   | Todos       |
-| Definir ferramentas                                              | Início: 14/09<br>Fim: 27/09 | Limírio                   |   28/09   | Mayara	     |
-| Definir cronograma planejado das etapas do projeto               | Início: 14/09<br>Fim: 27/09 | Mayara, Limírio e Altino  |   28/09   | Milena      |
-| Documentar equipe                                                | Início: 14/09<br>Fim: 20/09 | Breno e Mayara            |   27/09   | Breno       |
-| Definir o processo de Design do projeto                          | Início: 14/09<br>Fim: 27/09 | Luis e Milena             |   28/09   | Vinicius    |
-| Executar o planejamento do projeto                               | Início: 14/09<br>Fim: 27/09 | Vinícius                  |   28/09   | Milena      |
-| Inserir termo de uso so site                                     | Início: 14/09<br>Fim: 27/09 | Vinícius                  |   28/09   | Luis        |
-| Implementar Git Page                                             | Início: 27/09<br>Fim: 28/09 | Breno                     |   28/09   | Mayara      |
-| Gravação da apresentação                                         | Início: 28/09<br>Fim: 28/09 | Todos                     |   29/09   | Todos       |
-| Inserir cronograma executado                                     | Início: 29/09<br>Fim: 30/09 | Mayara                    |   01/10   | Limírio     |
+| Correção dos artefatos da entrega 1                              | Início: 05/10<br>Fim: 08/10 | Todos	                   |   09/10   | Todos	     |
+| Criar perfil de usuário                                          | Início: 05/10<br>Fim: 13/10 | Mayara	                   |   14/10   | Breno       |
+| Criar personas                                                   | Início: 05/10<br>Fim: 13/10 | Vinicius                  |   14/10   | Mayara      |
+| Definir aspectos éticos da pesquisa com usuário                  | Início: 05/10<br>Fim: 07/10 | Milena                    |   08/10   | Luis        |
+| Criar termo de consertimento para a pesquisa                     | Início: 05/10<br>Fim: 07/10 | Altino                    |   08/10   | Limírio     |
+| Realiza coleta de dados (Entrevista)                             | Início: 05/10<br>Fim: 13/10 | Milena, Luis e Altino     |   14/10   | Breno       |
+| Realiza coleta de dados (Grupo de foco)                          | Início: 05/10<br>Fim: 13/10 | Mayara e Breno            |   14/10   | Vinicius    |
+| Realiza coleta de dados (Questinários)                           | Início: 05/10<br>Fim: 13/10 | Vinícius e Limírio        |   14/10   | Milena      |
+| Decidir técnica para especificar as tarefas                      | Início: 05/10<br>Fim: 07/10 | Breno                     |   08/10   | Mayara      |
+| Análise de cenários                                              | Início: 05/10<br>Fim: 13/10 | Altino                    |   14/10   | Luis        |
+| Análise de tarefas                                               | Início: 05/10<br>Fim: 13/10 | Limírio                   |   14/10   | Altino      |
+| Gravação da apresentação                                         | Início: 15/10<br>Fim: 15/10 | Todos                     |   15/10   | Todos       |
+| Inserir cronograma executado                                     | Início: 15/10<br>Fim: 16/10 | Limírio                   |   16/10   | Altino      |
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
@@ -67,7 +68,7 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 
 | Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
 | ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
-| Definir horários de reunião - Heatmap                            | Início: 31/08<br>Fim: 02/09 | Todos	                   |   05/09   | Todos	     |
+| Correção dos artefatos da entrega 2                              | Início: 18/10<br>Fim: 20/10 | Todos	                   |   05/09   | Todos	     |
 | Selecionar possíveis sites para o projeto                        | Início: 02/09<br>Fim: 14/09 | Todos	                   |   14/09   | Todos	     |
 | Definir e justificar site utilizado no projeto                   | Início: 14/09<br>Fim: 14/09 | Todos                     |   14/09   | Todos       |
 | Definir ferramentas                                              | Início: 14/09<br>Fim: 27/09 | Limírio                   |   28/09   | Mayara	     |
@@ -77,8 +78,8 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 | Executar o planejamento do projeto                               | Início: 14/09<br>Fim: 27/09 | Vinícius                  |   28/09   | Milena      |
 | Inserir termo de uso so site                                     | Início: 14/09<br>Fim: 27/09 | Vinícius                  |   28/09   | Luis        |
 | Implementar Git Page                                             | Início: 27/09<br>Fim: 28/09 | Breno                     |   28/09   | Mayara      |
-| Gravação da apresentação                                         | Início: 28/09<br>Fim: 28/09 | Todos                     |   29/09   | Todos       |
-| Inserir cronograma executado                                     | Início: 29/09<br>Fim: 30/09 | Mayara                    |   01/10   | Limírio     |
+| Gravação da apresentação                                         | Início: 22/10<br>Fim: 22/10 | Todos                     |   22/10   | Todos       |
+| Inserir cronograma executado                                     | Início: 22/10<br>Fim: 23/10 | Limírio                   |   23/10   | Mayara      |
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
