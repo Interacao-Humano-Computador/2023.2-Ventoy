@@ -23,3 +23,12 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+
+
+## Histório de versão
+
+<p align="center"><b>Tabela 01</b></p>
+
+| Versão| Data      | Descrição | Autor | Revisor       |
+| :-:   | :-:       | :--       | --    | --             |
+| 1.0   |18/09/2023 |Criação da primeira versão do cronograma | [Limírio Guimarães](https://github.com/LimirioGuimaraes) | Assine |
