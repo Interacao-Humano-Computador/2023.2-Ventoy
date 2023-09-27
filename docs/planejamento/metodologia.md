@@ -54,4 +54,4 @@ A metodologia XP define um conjuto de cinco valores que são bases para a realiz
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-----:       | :------       | -------    | -------            |
-| 1.0   |18/09/2023 |   Criação da página de metodologia   |  [Breno Queiroz](https://github.com/brenob6)| [Mayara Alves](https://github.com/Mayara-tech) |
+| 1.0   |27/09/2023 |   Criação da página de metodologia   |  [Breno Queiroz](https://github.com/brenob6)| [Mayara Alves](https://github.com/Mayara-tech) |
