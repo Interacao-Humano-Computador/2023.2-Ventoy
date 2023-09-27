@@ -30,11 +30,26 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
 | Correção dos artefatos Ponto de Controle 4                       	      | Início: 31/10<br>Fim: 01/11 | Todos	      	     |   02/11   | Todos	            |
 | Relato dos resultados do Storyboard                              	      | Início: 01/11<br>Fim: 05/11 | Altino             |   06/11   | Luis               |
-| Relato dos resultados da Análise de tarefas                      	      | Início: 01/10<br>Fim: 05/11 | Vinicius e Milena  |   06/11   | Mayara 	          |
-| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 01/10<br>Fim: 05/11 | Limírio e Breno    |   06/11   | Milena             |
-| Planejamento da avaliação do protótipo de papel         	              | Início: 01/10<br>Fim: 05/11 | Luis e Mayara      |   06/11   | Limírio            |
+| Relato dos resultados da Análise de tarefas                      	      | Início: 01/11<br>Fim: 05/11 | Vinicius e Milena  |   06/11   | Mayara 	          |
+| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 01/11<br>Fim: 05/11 | Limírio e Breno    |   06/11   | Milena             |
+| Planejamento da avaliação do protótipo de papel         	              | Início: 01/11<br>Fim: 05/11 | Luis e Mayara      |   06/11   | Limírio            |
 | Gravação da apresentação                                           	    | Início: 07/11<br>Fim: 07/11 | Todos              |   08/11   | Todos              |
 | Cronograma executado                                           	        | Início: 07/11<br>Fim: 08/11 | Todos              |   08/11   | Todos              |
+
+<font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+
+<font size="3"><p style="text-align: center"> <b>Tabela x</b> - Entrega 6.1 </p></font>
+
+| Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
+| ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos Ponto de Controle 5                       	      | Início: 09/11<br>Fim: 10/11 | Todos	      	     |   11/11   | Todos	            |
+| Verificação dos artefatos da Etapa 1 do grupo 3                         | Início: 10/11<br>Fim: 12/11 | Luis               |   13/11   | Mayara             |
+| Verificação dos artefatos da Etapa 2 do grupo 3      	                  | Início: 10/11<br>Fim: 12/11 | Vinicius e Altino  |   13/11   | Breno 	            |
+| Verificação dos artefatos da Etapa 3 do grupo 3 			                  | Início: 10/11<br>Fim: 12/11 | Breno e Mayara     |   13/11   | Altino             |
+| Verificação dos artefatos da Etapa 4 do grupo 3                         | Início: 10/11<br>Fim: 12/11 | Limírio e Milena   |   13/11   | Luis               |
+| Gravação da apresentação                                           	    | Início: 13/11<br>Fim: 13/11 | Todos              |   14/11   | Todos              |
+| Cronograma executado                                           	        | Início: 13/11<br>Fim: 14/11 | Todos              |   14/11   | Todos              |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
