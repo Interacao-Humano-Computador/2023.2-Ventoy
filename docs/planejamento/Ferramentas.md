@@ -13,14 +13,15 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 | :-------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------:    |
 |![]( ../assets/teams.png){width=75x}           |           Teams           |        Realizar reuniões virtuais, compartilhar documentos e colaborar em tempo real, tornando a comunicação rápida e eficaz., juntamente com organização de documentos.        | 
 |![](../assets/github.png){width=75x}           |          GitHub           |        Controle de versão e colaboração em projetos, permitindo o rastreamento de mudanças nos artefatos do projeto e facilitando a revisão de código, tornando a colaboração eficiente e organizada.     |
-|![](../assets/figma.png){width=75x}            |           Figma           |        Design da interface de apresentação de resultados.                               |
+|![](../assets/figma.png){width=75x}            |           Figma           |        Criar, atualizar e revisar designs de interfaces de usuário (UI) e experiência do usuário (UX) de forma eficiente e em tempo real. Será principalmente utilizado na prototipação de alternativas de design para o site objeto de estudo do projeto.   |
 |![](../assets/mkdocs.png){width=75x}           |          MkDocs           |        Simplificar a criação, a organização e a manutenção da documentação do projeto de forma eficaz.               |
 |![](../assets/vscode.png){width=75x}           |    Visual Studio Code     |         Desenvolvimento de código/documentação e programação.                 |
 |![](../assets/whatsapp.png){width=75x}         |         WhatsApp          |         Comunicação da equipe por meio de mensagens diretas.                  |
 |![](../assets/youtube.jpg){width=75x}          |          YouTube          |         Hospedagem de vídeos de apresentações e reuniões.                     |
 |![](../assets/gdrive.png){width=75x}           |       Google Drive        |                     Compartilhamento de arquivos.                             |
 |![](../assets/thispersondoesntexist.png){width=75x}  | This Person Doesn't Exist |              Geração de imagens de personas fictícias.                  |
-|![](../assets/canvas.jpg){width=75x}           | Canvas |              Criação de personas  e confecção do RichPicture, assim como possiveis elementos visuais necessários.    |
+|![](![excell_logo](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/assets/80782534/159cbf7c-382e-4ae7-987f-b2c0ce761baf){width=75x}  | Excel online |              Criação de planilhas de horários                  |
+
 
 <font size="3"><p style="text-align: center">Fonte: Autores do Grupo 2.</p></font>
 
@@ -35,7 +36,7 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 >YOUTUBE. Disponível em: [YouTube](https://youtube.com). Acesso em: 19 de Set. 2023.</br>
 >GOOGLE DRIVE. Disponível em: [GoogleDrive](https://drive.google.com/drive/) Acesso em: 19 de Set. 2023.</br>
 >THIS PERSON DOESNT EXIST. Disponível em: [ThisPerson](https://this-person-does-not-exist.com/en) Acesso em: 19 de Set. 2023.</br>
->CANVAS. Disponível em: [canvas](https://www.canva.com/pt_br/logos/) Acesso em: 19 de Set. 2023.</br>
+>EXCEL/WORD ONLINE. Disponível em: [Ferramentas Office 365](https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web) Acesso em: 19 de Set. 2023.</br>
 
 ## Histórico de Versões
 
