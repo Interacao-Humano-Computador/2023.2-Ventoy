@@ -1,10 +1,28 @@
-# Cronograma
+# Cronograma 
 
 ## Descrição
 O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o planejamento, organização e distribuição das atividades que serão executadas e entregues ao longo do curso "Interação Humano Computador", ministrado pelo professor André Barros de Sales na Universidade de Brasília durante o período letivo de 2023.2. Os cronogramas a seguir foram desenvolvidos com base nas datas de entrega especificadas no plano de ensino fornecido pelo professor, utilizando também como referência o cronograma de projetos anteriores, tais como a Bilheteria Digital e o Banco Central do Brasil.
 
-## Cronograma do Planejamento do Projeto
 
+### Cronograma de entregas
+
+<p align="center"><b>Tabela 01</b> - Cronograma de Entregas </p>
+
+| **Nº da entrega** | **Fase** | **Atividade** | **Data de gravação** | **Data de entrega** |  **Data da apresentação** |
+|:---------------:|:------------:|:---------:|:------------------:|:----------------:|:----------------:|
+|  1   | Planejamento | Planejamento do projeto e do Processo de Design                                                                                    | 28/10/2023  | 02/10/2023  | 03/10/2023 |
+|  2   | Perfil do usuário  | Perfil do usuário, Aspectos Éticos de Pesquisas com Pessoas e Análise de tarefas                                             | 15/10/2023  | 16/10/2023  | 17/10/2023 |
+|  3   | Análise de requisitos | Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo e  características da plataforma para o projeto        | 22/10/2023  | 23/10/2023  | 24/10/2023 |
+|  4   | Storyboard e Análise de tarefas|  Planejamento da Avaliação do Storyboard e Análise de tarefas, planejamento do relato dos resultados da avaliação do Storyboard e o planejamento do relato dos resultados da avaliação do Análise de tarefas.                                                                                                                        | 29/10/2023  | 30/10/2023  | 31/10/2023 |
+|  5   | Planejamento da Avaliação do Protótipo de Papel| Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel.                                                                                                             | 07/11/2023  | 08/11/2023  | 09/11/2023 |
+| 6.1  | Verificação dos artefatos I| Verificação e relato dos artefatos I                                                                                 | 14/11/2023  | 15/11/2023  | 16/11/2023 |
+|  7   | Planejamento da Avaliação do protótipo de alta fidelidade| Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade                                                                                                    | 21/11/2023  | 22/11/2023  | 23/11/2023 |
+|  8   | Resultados da avaliação do protótipo de alta fidelidade| Relato dos resultados da avaliação do protótipo de alta fidelidade                       | 26/11/2023  | 27/11/2023  | 28/11/2023 |
+| 6.2  | Verificação dos artefatos II| Verificação e relato dos artefatos II                                                                               | 28/11/2023  | 29/11/2023  | 30/11/2023 |
+
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
+## Cronograma do Planejamento do Projeto
 
 
 <p align="center"><b>Tabela 01</b> - Planejamento do cronograma etapa 1</p>
