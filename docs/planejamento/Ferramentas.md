@@ -20,7 +20,7 @@ A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levant
 |![](../assets/youtube.jpg){width=75x}          |          YouTube          |         Hospedagem de vídeos de apresentações e reuniões.                     |
 |![](../assets/gdrive.png){width=75x}           |       Google Drive        |                     Compartilhamento de arquivos.                             |
 |![](../assets/thispersondoesntexist.png){width=75x}  | This Person Doesn't Exist |              Geração de imagens de personas fictícias.                  |
-|![](../assets/Excel_logo.png){width=75x}  | Excel online |              Criação de planilhas de horários                 |
+|![](../assets/excel_logo.png){width=75x}  | Excel online |              Criação de planilhas de horários                 |
 
 
 
