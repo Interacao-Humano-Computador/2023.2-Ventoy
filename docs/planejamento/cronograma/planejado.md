@@ -126,6 +126,8 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
 | Correção dos artefatos Ponto de Controle 6.1                       	    | Início: 15/11<br>Fim: 16/11 | Todos	      	     |   17/11   | Todos	            |
+| Verificação dos artefatos da Etapa 5             			                  | Início: 10/11<br>Fim: 12/11 | Breno e Mayara     |   13/11   | Altino             |
+| Verificação dos artefatos da Etapa 6                                    | Início: 10/11<br>Fim: 12/11 | Limírio e Milena   |   13/11   | Luis               |
 | Gravação da apresentação                                           	    | Início: 18/11<br>Fim: 19/11 | Todos              |   19/11   | Todos              |
 | Cronograma executado                                           	        | Início: 18/11<br>Fim: 19/11 | Todos              |   20/11   | Todos              |
 
@@ -153,6 +155,7 @@ alta fidelidade </p>
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
 | Correção dos artefatos Ponto de Controle 7                        	    | Início: 20/11<br>Fim: 21/11 | Todos	      	     |   22/11   | Todos	            |
 | Relato dos resultados do Protótipo de alta fidelidade                   | Início: 21/11<br>Fim: 22/11 | Luis               |   23/11   | Mayara             |
+| Verificação dos artefatos da Etapa 7                                    | Início: 10/11<br>Fim: 12/11 | Limírio e Milena   |   13/11   | Luis               |
 | Gravação da apresentação                                           	    | Início: 26/11<br>Fim: 27/11 | Todos              |   26/11   | Todos              |
 | Cronograma executado                                           	        | Início: 26/11<br>Fim: 27/11 | Todos              |   26/11   | Todos              |
 
