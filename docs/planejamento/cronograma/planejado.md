@@ -121,6 +121,45 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
+<p align="center"><b>Tabela 07</b> - Entrega 6.2. Verificação dos artefatos </p>
+
+| Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
+| ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos Ponto de Controle 6.1                       	    | Início: 15/11<br>Fim: 16/11 | Todos	      	     |   17/11   | Todos	            |
+| Gravação da apresentação                                           	    | Início: 18/11<br>Fim: 19/11 | Todos              |   19/11   | Todos              |
+| Cronograma executado                                           	        | Início: 18/11<br>Fim: 19/11 | Todos              |   20/11   | Todos              |
+
+<font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+
+
+<p align="center"><b>Tabela 07</b> - Entrega 7.  Planejamento da Avaliação do protótipo de
+alta fidelidade </p>
+
+| Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
+| ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos Ponto de Controle 6.2                       	    | Início: 20/11<br>Fim: 21/11 | Todos	      	     |   22/11   | Todos	            |
+| Relato dos resultados do Protótipo de Papel                             | Início: 21/11<br>Fim: 22/11 | Luis               |   23/11   | Mayara             |
+| Planejamento da Avaliação do protótipo de alta fidelidade               | Início: 22/11<br>Fim: 23/11 | Vinicius e Altino  |   25/11   | Breno 	            |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 24/11<br>Fim: 25/11 | Breno e Mayara     |   13/11   | Altino  |
+| Gravação da apresentação                                           	    | Início: 26/11<br>Fim: 27/11 | Todos              |   26/11   | Todos              |
+| Cronograma executado                                           	        | Início: 26/11<br>Fim: 27/11 | Todos              |   26/11   | Todos              |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+
+<p align="center"><b>Tabela 07</b> - Entrega 8. Relato dos resultados do Protótipo de alta fidelidade </p>
+
+| Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
+| ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos Ponto de Controle 7                        	    | Início: 20/11<br>Fim: 21/11 | Todos	      	     |   22/11   | Todos	            |
+| Relato dos resultados do Protótipo de alta fidelidade                   | Início: 21/11<br>Fim: 22/11 | Luis               |   23/11   | Mayara             |
+| Gravação da apresentação                                           	    | Início: 26/11<br>Fim: 27/11 | Todos              |   26/11   | Todos              |
+| Cronograma executado                                           	        | Início: 26/11<br>Fim: 27/11 | Todos              |   26/11   | Todos              |
+
+
+<font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+
+
 ## Histório de versão
 
 <p align="center"><b>Tabela 01</b></p>
