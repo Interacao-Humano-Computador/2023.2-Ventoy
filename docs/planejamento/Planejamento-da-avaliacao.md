@@ -66,7 +66,7 @@ Como está avaliação é feita por uma equipe sem fins lucrativos e para um sit
 
 ### D - Decidir como lidar com as questões éticas
 
-Para a proteção do saúde física e mental dos participantes da nossa avaliação, será utilizado um **termo de consentimento**, para que primeiro, os usuários estejam bem esclarecidos sobre as suas atividades durante a avaliação e para que tenhamos a sua autorização para que tais atividades sejam realizadas, e assim garantir que essas atividades ou métodos utilizados o causem desconforto.
+Para a proteção do saúde física e mental dos participantes da nossa avaliação, será utilizado um **termo de consentimento**, para que primeiro, os usuários estejam bem esclarecidos sobre as suas atividades durante a avaliação e para que tenhamos a sua autorização para que tais atividades sejam realizadas, e assim garantir que essas atividades ou métodos utilizados não o causem desconforto.
 
 ### E - Avaliar, interpretar e apresentar os dados
 
