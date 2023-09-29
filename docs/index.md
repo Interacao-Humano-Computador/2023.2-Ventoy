@@ -1,4 +1,4 @@
-# <p align="center"> 🖥VENTOY
+# <p align="center"> :computer:VENTOY
 <p align="center" ><br><img style="border: 2px solid white; border-radius: 30%" src="assets/Ventoy-logo.PNG" width = 80%></p>
 <p align="center" > <font><a href="https://www.ventoy.net/en/index.html">Ventoy</a></font> <br></p>
 
