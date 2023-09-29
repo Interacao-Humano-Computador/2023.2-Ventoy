@@ -121,7 +121,7 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
-<p align="center"><b>Tabela 07</b> - Entrega 7.  Planejamento da Avaliação do protótipo de
+<p align="center"><b>Tabela 08</b> - Entrega 7.  Planejamento da Avaliação do protótipo de
 alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
@@ -134,9 +134,9 @@ alta fidelidade </p>
 | Cronograma executado                                           	        | Início: 21/11<br>Fim: 22/11 | Todos              |   22/11   | Todos              |
 
 
-<font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+<font size="3"><p style="text-align: center">Fonte:[Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
 
-<p align="center"><b>Tabela 07</b> - Entrega 8. Relato dos resultados do Protótipo de alta fidelidade </p>
+<p align="center"><b>Tabela 09</b> - Entrega 8. Relato dos resultados do Protótipo de alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -147,9 +147,9 @@ alta fidelidade </p>
 | Cronograma executado                                           	        | Início: 26/11<br>Fim:27/11 | Todos              |   27/11   | Todos              |
 
 
-<font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
 
-<p align="center"><b>Tabela 07</b> - Entrega 6.2. Verificação dos artefatos </p>
+<p align="center"><b>Tabela 10</b> - Entrega 6.2. Verificação dos artefatos </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -159,7 +159,7 @@ alta fidelidade </p>
 | Gravação da apresentação                                           	    | Início: 28/11<br>Fim: 29/11 | Todos              |   29/11   | Todos              |
 | Cronograma executado                                           	        | Início: 28/11<br>Fim: 29/11 | Todos              |   29/11   | Todos              |
 
-<font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
 
 ## Histório de versão
 
