@@ -126,7 +126,7 @@ alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
-| Correção dos artefatos da entrega 6.2                       	    | Início: 14/11<br>Fim: 15/11 | Todos	      	     |   18/11   | Todos	            |
+| Correção dos artefatos da entrega 6.1                       	    | Início: 14/11<br>Fim: 15/11 | Todos	      	     |   18/11   | Todos	            |
 | Relato dos resultados do Protótipo de Papel                             | Início: 14/11<br>Fim: 15/11 | Luis               |   18/11   | Mayara             |
 | Planejamento da Avaliação do protótipo de alta fidelidade               | Início: 14/11<br>Fim: 15/11 | Vinicius e Altino  |   18/11   | Breno 	            |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 15/11<br>Fim: 18/11 | Breno e Mayara     |   13/11   | Altino  |
@@ -153,7 +153,7 @@ alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
-| Correção dos artefatos da entrega 6.1                       	    | Início: 21/11<br>Fim: 21/11 | Todos	      	     |   22/11   | Todos	            |
+| Correção dos artefatos da entrega 8                       	    | Início: 21/11<br>Fim: 21/11 | Todos	      	     |   22/11   | Todos	            |
 | Verificação dos artefatos da Etapa 5             			                  | Início: 21/11<br>Fim: 22/11 | Breno e Mayara     |   23/11   | Altino             |
 | Verificação dos artefatos da Etapa 6                                    | Início: 22/11<br>Fim: 23/11 | Limírio e Milena   |   16/11   | Luis               |
 | Gravação da apresentação                                           	    | Início: 28/11<br>Fim: 29/11 | Todos              |   29/11   | Todos              |
