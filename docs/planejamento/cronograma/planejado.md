@@ -110,7 +110,7 @@ O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o plan
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
-| Correção dos artefatos Ponto de Controle 5                       	      | Início: 09/11<br>Fim: 10/11 | Todos	      	     |   11/11   | Todos	            |
+| Correção dos artefatos da entrega 5                       	      | Início: 09/11<br>Fim: 10/11 | Todos	      	     |   11/11   | Todos	            |
 | Verificação dos artefatos da Etapa 1                                    | Início: 10/11<br>Fim: 12/11 | Luis               |   13/11   | Mayara             |
 | Verificação dos artefatos da Etapa 2                	                  | Início: 10/11<br>Fim: 12/11 | Vinicius e Altino  |   13/11   | Breno 	            |
 | Verificação dos artefatos da Etapa 3             			                  | Início: 10/11<br>Fim: 12/11 | Breno e Mayara     |   13/11   | Altino             |
@@ -126,12 +126,12 @@ alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
-| Correção dos artefatos Ponto de Controle 6.2                       	    | Início: 14/11<br>Fim: 15/11 | Todos	      	     |   18/11   | Todos	            |
+| Correção dos artefatos da entrega 6.2                       	    | Início: 14/11<br>Fim: 15/11 | Todos	      	     |   18/11   | Todos	            |
 | Relato dos resultados do Protótipo de Papel                             | Início: 14/11<br>Fim: 15/11 | Luis               |   18/11   | Mayara             |
 | Planejamento da Avaliação do protótipo de alta fidelidade               | Início: 14/11<br>Fim: 15/11 | Vinicius e Altino  |   18/11   | Breno 	            |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 15/11<br>Fim: 18/11 | Breno e Mayara     |   13/11   | Altino  |
-| Gravação da apresentação                                           	    | Início: 15/11<br>Fim: 15/11 | Todos              |   21/11   | Todos              |
-| Cronograma executado                                           	        | Início: 15/11<br>Fim: 15/11 | Todos              |   21/11   | Todos              |
+| Gravação da apresentação                                           	    | Início: 21/11<br>Fim: 21/11 | Todos              |   22/11   | Todos              |
+| Cronograma executado                                           	        | Início: 21/11<br>Fim: 22/11 | Todos              |   22/11   | Todos              |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
@@ -140,11 +140,11 @@ alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
-| Correção dos artefatos Ponto de Controle 7                        	    | Início: 16/11<br>Fim: 17/11 | Todos	      	     |   22/11   | Todos	            |
+| Correção dos artefatos da entrega 7                        	    | Início: 16/11<br>Fim: 17/11 | Todos	      	     |   22/11   | Todos	            |
 | Relato dos resultados do Protótipo de alta fidelidade                   | Início: 16/11<br>Fim: 17/11 | Luis               |   23/11   | Mayara             |
 | Verificação dos artefatos da Etapa 7                                    | Início: 17/11<br>Fim: 18/11 | Limírio e Milena   |   24/11   | Luis               |
-| Gravação da apresentação                                           	    | Início: 20/11<br>Fim: 20/11 | Todos              |   27/11   | Todos              |
-| Cronograma executado                                           	        | Início: 20/11<br>Fim:20/11 | Todos              |   27/11   | Todos              |
+| Gravação da apresentação                                           	    | Início: 26/11<br>Fim: 27/11 | Todos              |   27/11   | Todos              |
+| Cronograma executado                                           	        | Início: 26/11<br>Fim:27/11 | Todos              |   27/11   | Todos              |
 
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
@@ -153,11 +153,11 @@ alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
-| Correção dos artefatos Ponto de Controle 6.1                       	    | Início: 21/11<br>Fim: 21/11 | Todos	      	     |   16/11   | Todos	            |
-| Verificação dos artefatos da Etapa 5             			                  | Início: 21/11<br>Fim: 22/11 | Breno e Mayara     |   16/11   | Altino             |
+| Correção dos artefatos da entrega 6.1                       	    | Início: 21/11<br>Fim: 21/11 | Todos	      	     |   22/11   | Todos	            |
+| Verificação dos artefatos da Etapa 5             			                  | Início: 21/11<br>Fim: 22/11 | Breno e Mayara     |   23/11   | Altino             |
 | Verificação dos artefatos da Etapa 6                                    | Início: 22/11<br>Fim: 23/11 | Limírio e Milena   |   16/11   | Luis               |
-| Gravação da apresentação                                           	    | Início: 25/11<br>Fim: 25/11 | Todos              |   17/11   | Todos              |
-| Cronograma executado                                           	        | Início: 25/11<br>Fim: 25/11 | Todos              |   17/11   | Todos              |
+| Gravação da apresentação                                           	    | Início: 28/11<br>Fim: 29/11 | Todos              |   29/11   | Todos              |
+| Cronograma executado                                           	        | Início: 28/11<br>Fim: 29/11 | Todos              |   29/11   | Todos              |
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
