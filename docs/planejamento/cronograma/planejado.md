@@ -167,5 +167,5 @@ alta fidelidade </p>
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --             |
-| 1.0   |26/09/2023 |Criação da primeira versão do cronograma | [Limírio Guimarães](https://github.com/LimirioGuimaraes), [Mayara Alves](https://github.com/Mayara-tech) | Assine |
+| 1.0   |26/09/2023 |Criação da primeira versão do cronograma | [Limírio Guimarães](https://github.com/LimirioGuimaraes), [Mayara Alves](https://github.com/Mayara-tech) e Altino Arthur | Mayara Alves|
 
