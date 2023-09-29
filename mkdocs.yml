@@ -2,7 +2,7 @@ site_name: Ventoy
 theme:
   name: material
   language: pt-BR
-  logo: assets/icon.png
+  logo: assets/icon.PNG
 
   palette: 
 
