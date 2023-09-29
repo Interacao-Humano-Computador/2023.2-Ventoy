@@ -87,4 +87,4 @@ A próxima reunião ficou marcada para o dia 28/09/2023, às 21:00.
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
-| 1.0    |25/09/2023 | Criação da segunda ata |[Breno Queiroz](https://github.com/brenob6)| |
+| 1.0    |25/09/2023 | Criação da segunda ata |[Breno Queiroz](https://github.com/brenob6)| Vinícius Mendes |
