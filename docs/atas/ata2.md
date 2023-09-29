@@ -1,17 +1,30 @@
 # Ata da  2° reunião de Requisitos de Software
 
-**Ordem de fazer ata:** Vinícius, Breno, Milena, Limirio, Mayara, Luis Eduardo,
+**Ordem do escrivão da ata:** Vinícius, Breno, Milena, Limirio, Mayara, Luis Eduardo,
 Arthur
 
-## 1. Identificação
 **Data**:   21/09/2023 **Local**: Teams <br>
-**Horário previsto de início**:     21:00       **Realizado**:  21:03 <br>
-**Horário Previsto de término**:    21:30       **Realizado**:  21:28 <br>
 **Projeto**: Projeto de Interação Humano Computador - Ventoy <br>
 
 <center>
 
-<b>Tabela 01</b>
+**Tabela 01** - Previsão de início e término da reunião
+
+|   | Horário Previsto | Horário Realizado |
+|:-:| :-: | :-: |
+|**Início da reunião**| 21:00 | 21:03 |
+|**Fim da reunião**| 21:30 | 21:28 |
+
+**Fonte:** [Breno](https://github.com/brenob6)
+
+</center>
+
+
+## 1. Identificação
+
+<center>
+
+**Tabela 02** - Integrantes presentes
 
 | Convocados    | Presentes         | E-mail                        | Emoji |
 | ---           | :---:             | :--                           | :---: |
@@ -23,19 +36,22 @@ Arthur
 | 6.Milena      |:white_check_mark: |milenabaruc072@gmail.com       |:fairy:        |
 | 7.Vinícius    |:white_check_mark: |viniciusmendes1019@gmail.com   |:cold_face:    |
 
-</center>
+**Fonte:** [Breno](https://github.com/brenob6)
 
+</center>
 
 ## 2. Pautas
 
 <center>
-
-<b>Tabela 02</b>
+**Tabela 03** - Pautas discultidas na reunião
 
 | **N°** | **Descrição**|
 |---|-----------------|
 | 1 | Propor melhorias baseadas nos comentários do professor na primeira apresentação de Requisitos |
 | 2 | Divisão das tarefas entre os integrantes da equipe do projeto de IHC |
+
+**Fonte:** [Breno](https://github.com/brenob6)
+
 
 </center>
 
@@ -43,7 +59,7 @@ Arthur
 
 <center>
 
-<p align="center"><b>Tabela 03</b></p>
+<p align="center"><b>Tabela 04</b></p>
 
 | **N°** | **Pendência** | **Responsável** | **Data** |
 |--------|---------------|-----------------|----------|
@@ -51,6 +67,8 @@ Arthur
 |        |               |                 |          |
 |        |               |                 |          |
 |        |               |                 |          |
+
+**Fonte:** [Breno](https://github.com/brenob6)
 
 </center>
 
@@ -65,7 +83,7 @@ A próxima reunião ficou marcada para o dia 28/09/2023, às 21:00.
 
 <center>
 
-<p align="center"><b>Tabela 04</b></p>
+**Tabela** 05 - Compromissos e seus responsáveis
 
 |**N°** | **Compromisso**                               | **Responsável**   | **Data**  |
 |------ |-------------------------------------          |------------------ |-----------|
@@ -75,16 +93,12 @@ A próxima reunião ficou marcada para o dia 28/09/2023, às 21:00.
 | 4     | Terminar página de ferramentas escolhidas     | Limiro            | 27/09/2023|
 | 5     | Panejamento de avaliação                      | Vinícius e Milena | 27/09/2023|
 
+**Fonte:** [Breno](https://github.com/brenob6)
+
 </center>
-
-
-## Bibliografia
-
->  Atas de Reunião do MCTI - Ministério da Ciência, Tecnologia e Inovação. Disponível em : https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Ata%20Reuniao_21C35EC2.html?nodeId=7c6d2e0 <br/>
-
 
 ## Histórico de versão
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
-| 1.0    |25/09/2023 | Criação da segunda ata |[Breno Queiroz](https://github.com/brenob6)| Vinícius Mendes |
+| 1.0    |25/09/2023 | Criação da segunda ata |[Breno Queiroz](https://github.com/brenob6)| [Vinícius Mendes](https://github.com/yabamiah) |
