@@ -19,22 +19,18 @@ markdown_extensions:
 
 site_name: Ventoy
 nav:
-  - Home: index.md
+  - Sobre o projeto: index.md
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao1.md
   - Atas:
-      - Ata 1: atas/ata1.md
       - Ata 2: atas/ata2.md
-      - Ata 3: atas/ata3.md
   - Planejamento:
-      - Cronograma planejado: planejamento/cronograma/planejado
-      - Cronograma executado: planejamento/cronograma/executado
+      - Cronograma planejado: planejamento/cronograma/planejado.md
+      - Cronograma executado: planejamento/cronograma/executado.md
       - Ferramentas: planejamento/ferramentas.md
       - Metodologia: planejamento/metodologia.md
-      - Heatmap: planejamento/Heatmap
-      - planejamento da avaliação: planejamento/Planejamento-da-avaliacao
-      - Sites avaliados: planejamento/sites-avaliados.md
-      - Site escolhido: planejamento/site-escolhido.md
+      - Heatmap: planejamento/Heatmap.md
+      - planejamento da avaliação: planejamento/Planejamento-da-avaliacao.md
       - Processo design: planejamento/processo_de_design.md
 
 theme:
