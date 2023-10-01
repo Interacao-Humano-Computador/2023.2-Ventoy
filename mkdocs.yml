@@ -17,9 +17,6 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-plugins:
-  - glightbox
-
 site_name: Ventoy
 nav:
   - Home: index.md
