@@ -1,40 +1,69 @@
+repo_url: https://github.com/Interacao-Humano-Computador/2023.2-Ventoy
+repo_name: 2023.2-Ventoy
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - glightbox
+
 site_name: Ventoy
+nav:
+  - Home: index.md
+  - Apresentações:
+      - Apresentação 1: apresentacao/apresentacao1.md
+  - Atas:
+      - Ata 1: atas/ata1.md
+      - Ata 2: atas/ata2.md
+      - Ata 3: atas/ata3.md
+  - Planejamento:
+      - Cronograma planejado: planejamento/cronograma/planejado
+      - Cronograma executado: planejamento/cronograma/executado
+      - Ferramentas: planejamento/ferramentas.md
+      - Metodologia: planejamento/metodologia.md
+      - Heatmap: planejamento/Heatmap
+      - planejamento da avaliação: planejamento/Planejamento-da-avaliacao
+      - Sites avaliados: planejamento/sites-avaliados.md
+      - Site escolhido: planejamento/site-escolhido.md
+      - Processo design: planejamento/processo_de_design.md
+
 theme:
   name: material
-  language: pt-BR
-  logo: assets/icon.PNG
-
-  palette: 
-
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-  
   features:
-    - navigation.expand
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: claro
+      toggle:
+        icon: material/circle-half-full
+        name: Mudar para o modo escuro
 
-  markdown_extensions:
-    - admonition
-    - attr_list
-    - def_list
-    - md_in_html
-    - footnotes
-    - pymdownx.caret
-    - pymdownx.details
-    - pymdownx.superfences
-    - pymdownx.tabbed:
-        alternate_style: true
-    - pymdownx.tasklist:
-        custom_checkbox: true
-    - pymdownx.tilde
-    - pymdownx.emoji:
-        emoji_index: !!python/name:materialx.emoji.twemoji
-        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/circle-half-full
+        name: Mudar para o modo claro
+
+  language: pt-BR
+  favicon: assets/Ventoy-logo.PNG
+  logo: assets/Ventoy-logo.PNG
+
+
