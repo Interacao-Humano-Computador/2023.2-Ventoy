@@ -56,6 +56,6 @@ theme:
         name: Mudar para o modo claro
 
   language: pt-BR
-  favicon: assets/Ventoy-logo.PNG
-  logo: assets/Ventoy-logo.PNG
+  favicon: assets/icon.PNG
+  logo: assets/icon.PNG
 
