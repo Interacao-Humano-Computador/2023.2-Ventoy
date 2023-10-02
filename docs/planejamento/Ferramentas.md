@@ -43,5 +43,5 @@ Com o objetivo de facilitar o gerenciamento e a execução do projeto, realizou-
 
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  `1.0`  | 27/09/2023 |            Criação da página de ferramentas.            | [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | Alguém |
+|  `1.0`  | 27/09/2023 |            Criação da página de ferramentas.            | [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | [Mayara Alves](https://github.com/Mayara-tech)|
 
