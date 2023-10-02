@@ -17,9 +17,6 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-plugins:
-  - glightbox
-
 site_name: Ventoy
 nav:
   - Home: index.md
@@ -30,15 +27,15 @@ nav:
       - Ata 2: atas/ata2.md
       - Ata 3: atas/ata3.md
   - Planejamento:
-      - Cronograma planejado: planejamento/cronograma/planejado
-      - Cronograma executado: planejamento/cronograma/executado
-      - Ferramentas: planejamento/ferramentas.md
+      - Cronograma planejado: planejamento/cronograma/planejado.md
+      - Cronograma executado: planejamento/cronograma/executado.md
+      - Ferramentas: planejamento/Ferramentas.md
       - Metodologia: planejamento/metodologia.md
-      - Heatmap: planejamento/Heatmap
-      - planejamento da avaliação: planejamento/Planejamento-da-avaliacao
+      - Heatmap: planejamento/Heatmap.md
+      - Planejamento da avaliação: planejamento/Planejamento-da-avaliacao.md
+      - Processo design: planejamento/processo_de_design.md
       - Sites avaliados: planejamento/sites-avaliados.md
       - Site escolhido: planejamento/site-escolhido.md
-      - Processo design: planejamento/processo_de_design.md
 
 theme:
   name: material
@@ -63,7 +60,7 @@ theme:
         name: Mudar para o modo claro
 
   language: pt-BR
-  favicon: assets/Ventoy-logo.PNG
-  logo: assets/Ventoy-logo.PNG
+  favicon: assets/icon.PNG
+  logo: assets/icon.PNG
 
 
