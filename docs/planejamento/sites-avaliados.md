@@ -19,9 +19,17 @@ No início do projeto, cada colaborador foi convidado a analisar um site de cód
 
 ## Sites avaliados
 ### Minha Biblioteca 
-O site [Minha Biblioteca](https://minhabiblioteca.com.br/) é uma plataforma digital de livros que possui um vasto acervo de títulos técnicos e científicos. Com um acervo multidisciplinar, são milhares de títulos técnicos, acadêmicos e científicos, em português, divididos em 7 catálogos: Ciências Jurídicas, Ciências Sociais aplicadas, Ciências Exatas, Saúde, Medicina e Odontologia, Ciências Pedagógicas e Letras e Arte, que atendem à bibliografia de mais de 400 cursos de graduação. A Minha Biblioteca também conta com a biblioteca digital para pessoa física, voltada a estudantes universitários, pesquisas acadêmicas e profissionais do mercado, com a possibilidade de assinatura dos catálogos segmentados de acordo com cada área do conhecimento. Esse site foi selecionado por apresentar inconformidade com alguns parametros de IHC, desta forma a avaliação pretende análisar os seguintes fatores:<br>
+O site [Minha Biblioteca](https://minhabiblioteca.com.br/) é uma plataforma digital de livros que possui um vasto acervo de títulos técnicos e científicos. Com um acervo multidisciplinar, são milhares de títulos técnicos, acadêmicos e científicos, em português, divididos em 7 catálogos: Ciências Jurídicas, Ciências Sociais aplicadas, Ciências Exatas, Saúde, Medicina e Odontologia, Ciências Pedagógicas e Letras e Arte, que atendem à bibliografia de mais de 400 cursos de graduação.
+
+A Minha Biblioteca também conta com a biblioteca digital para pessoa física, voltada a estudantes universitários, pesquisas acadêmicas e profissionais do mercado, com a possibilidade de assinatura dos catálogos segmentados de acordo com cada área do conhecimento. Esse site foi selecionado por apresentar inconformidade com alguns parametros de IHC, desta forma a avaliação pretende análisar os seguintes fatores:<br>
+
 A. Identificar problemas na interação e interface.<br>
 B. Analisar apropriação da tecnologia.<br>
 C. Identificar funcionalidade que melhorariam a satisfação do usuário.<br>
 [Acessar planejamento da avaliação](planejamento/avaliacoes/PlanejamentoAvaliacaoMinhaBiblioteca.pdf)
+
+## SAE - Serviço de Apoio Educacional 
+O Projeto [SAE - Serviço de Apoio Educacional](https://sae.unb.br/sae/) é originário de pesquisas envolvendo professores e estudantes de três instituições brasileiras de ensino superior (UCB, UFRGS e PUC-RS), que objetiva empregar recursos tecnológicos adequados a uma metodologia educacional coerente ao ensino-aprendizagem almejado, consistindo num projeto, naturalmente, multidisciplinar (Educação, Psicologia e Informática).
+
+O SAE utiliza como principal recurso de suporte tecnológico um tipo de software educacional que possibilita interação adequada por meio da rede mundial de computadores (Internet), podendo ser empregado como sistema de apoio ao ensino-aprendizagem praticado a distância ou presencial, bem como na combinação destas duas formas de instrução (semipresencial). Esse site foi selecionado por apresentar problemas na interação e interface. [Acessar planejamento da avaliação](planejamento/avaliacoes/PlanejamentoAvaliacaoSAE.pdf)
 
