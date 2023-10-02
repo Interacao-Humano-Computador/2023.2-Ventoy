@@ -19,4 +19,9 @@ No início do projeto, cada colaborador foi convidado a analisar um site de cód
 
 ## Sites avaliados
 ### Minha Biblioteca 
-O site [Minha Biblioteca](https://minhabiblioteca.com.br/) é uma plataforma digital de livros que possui um vasto acervo de títulos técnicos e científicos. Com um acervo multidisciplinar, são milhares de títulos técnicos, acadêmicos e científicos, em português, divididos em 7 catálogos: Ciências Jurídicas, Ciências Sociais aplicadas, Ciências Exatas, Saúde, Medicina e Odontologia, Ciências Pedagógicas e Letras e Arte, que atendem à bibliografia de mais de 400 cursos de graduação. A Minha Biblioteca também conta com a biblioteca digital para pessoa física, voltada a estudantes universitários, pesquisas acadêmicas e profissionais do mercado, com a possibilidade de assinatura dos catálogos segmentados de acordo com cada área do conhecimento. Esse site foi selecionado por apresentar inconformidade com alguns parametros de IHC.
+O site [Minha Biblioteca](https://minhabiblioteca.com.br/) é uma plataforma digital de livros que possui um vasto acervo de títulos técnicos e científicos. Com um acervo multidisciplinar, são milhares de títulos técnicos, acadêmicos e científicos, em português, divididos em 7 catálogos: Ciências Jurídicas, Ciências Sociais aplicadas, Ciências Exatas, Saúde, Medicina e Odontologia, Ciências Pedagógicas e Letras e Arte, que atendem à bibliografia de mais de 400 cursos de graduação. A Minha Biblioteca também conta com a biblioteca digital para pessoa física, voltada a estudantes universitários, pesquisas acadêmicas e profissionais do mercado, com a possibilidade de assinatura dos catálogos segmentados de acordo com cada área do conhecimento. Esse site foi selecionado por apresentar inconformidade com alguns parametros de IHC, desta forma a avaliação pretende análisar os seguintes fatores:<br>
+A. Identificar problemas na interação e interface.<br>
+B. Analisar apropriação da tecnologia.<br>
+C. Identificar funcionalidade que melhorariam a satisfação do usuário.<br>
+[Acessar planejamento da avaliação](planejamento/avaliacoes/PlanejamentoAvaliacaoMinhaBiblioteca.pdf)
+
