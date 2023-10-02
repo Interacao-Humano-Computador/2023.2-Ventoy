@@ -47,3 +47,25 @@ Em suma, o site do TSE é uma ferramenta essencial para eleitores, candidatos, p
 
 ### Detran-DF
 Os sites do [Detran - Departamento Estadual de Transito](https://www.detran.df.gov.br/) são plataformas online específicas de cada estado brasileiro, oferecendo uma ampla gama de serviços e informações relacionadas ao trânsito. Por meio desses sites, os motoristas e proprietários de veículos podem acessar serviços como consulta de multas, agendamento de atendimentos presenciais, renovação de CNH e verificação de pontos na carteira de habilitação. Além disso, essas plataformas disponibilizam informações educativas, orientações sobre procedimentos de trânsito e acesso a documentos relacionados a veículos, tornando-se recursos fundamentais para a regularização e segurança no tráfego rodoviário em cada estado do Brasil. Esse site foi selecionado por apresentar problemas de interação e interface que comprometem a usabilidade do site com seu excesso de informação. [Acessar planejamento da avaliação](planejamento/avaliacoes/PlanejamentoAvaliacaoDetran.pdf)
+
+### Ventoy
+O [Ventoy](https://www.ventoy.net/en/index.html) é uma ferramenta de código aberto que permite criar uma unidade USB bootável capaz de iniciar múltiplos sistemas operacionais a partir da mesma unidade, sem a necessidade de reformatar a unidade USB a cada vez que você deseja adicionar ou remover um sistema operacional. Ele é muito útil para técnicos de informática, desenvolvedores e entusiastas que precisam testar ou instalar diferentes sistemas operacionais em um único dispositivo de armazenamento USB. Esse site foi escolhido a pois identificar problemas com a interface do site como a falta de conformidade com um padrão e analisar a apropriação da tecnologia. [Acessar planejamento da avaliação](planejamento/avaliacoes/PlanejamentoAvaliacaoVentoy.pdf)
+
+
+## Bibliografia
+> DF no ponto. Disponível em: [DF no Ponto](https://dfnoponto.semob.df.gov.br). Acesso em: 02/10/2023 </br>
+> Minha Biblioteca. Disponível em: [MinhaBiblioteca](https://minhabiblioteca.com.br/). Acesso em: 02/10/2023 <br/>
+> SAE - Serviço de Apoio Educacional. Disponível em: [SAE - Serviço de Apoio Educacional](https://sae.unb.br/sae/). Acesso em: 02/10/2023 <br/>
+> STJ - Superior Tribunal de Justiça. Disponível em: [STJ - Superior Tribunal de Justiça](https://www.stj.jus.br/sites/portalp/Inicio). Acesso em: 02/10/2023 <br/>
+> TSE - Tribunal Superior Eleitoral. Disponível em: [TSE - Tribunal Superior Eleitoral](https://www.tse.jus.br/#/). Acesso em: 02/10/2023 <br/>
+> Portal do Detran. Disponível em: [Portal Detran DF](https://www.detran.df.gov.br/). Acesso em: 02/10/2023 <br/>
+> Ventoy. Disponível em: [Ventoy](https://www.ventoy.net/en/index.html). Acesso em: 02/10/2023 <br/>
+> Framework DECIDE. Disponível em: [Framework DECIDE](https://medium.com/caiquefortunato/framework-decide-e-avalia%C3%A7%C3%A3o-92ee269e4c55). Acesso em: 02/10/2023.
+
+## Histórico de versão
+
+<p align="center"><b>Tabela 02</b>Histórico de versões</p>
+
+| Versão| Data      | Descrição | Autor | Revisor       |
+| :-:   | :-----:       | :------       | -------    | -------            |
+| 1.0   |02/10/2023 |   Criação da página de sites avaliados  |  [Mayara Alves](https://github.com/Mayara-tech)|  |
