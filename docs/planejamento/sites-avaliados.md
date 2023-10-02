@@ -23,5 +23,5 @@ O site [Minha Biblioteca](https://minhabiblioteca.com.br/) é uma plataforma dig
 A. Identificar problemas na interação e interface.<br>
 B. Analisar apropriação da tecnologia.<br>
 C. Identificar funcionalidade que melhorariam a satisfação do usuário.<br>
-[Acessar planejamento da avaliação](/avaliacoes/PlanejamentoAvaliacaoMinhaBiblioteca.pdf)
+[Acessar planejamento da avaliação](planejamento/avaliacoes/PlanejamentoAvaliacaoMinhaBiblioteca.pdf)
 
