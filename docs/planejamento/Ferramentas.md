@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A fim de facilitar o gerenciamento e a execução do projeto, foi feito o levanta de possiveis ferramentas com o intuito de facilitar certas atividades e produção de artefatos. As ferramentas selecionadas para a realização do projeto estão apresentadas na Tabela 1.
+Com o objetivo de facilitar o gerenciamento e a execução do projeto, realizou-se um levantamento de possíveis ferramentas com a intenção de agilizar determinadas atividades e a produção de artefatos. As ferramentas escolhidas para a realização do projeto estão apresentadas na Tabela 1. Todas essas ferramentas foram selecionadas com base nas utilizadas em projetos anteriores, como a Bilheteria Digital e o Banco Central do Brasil. Além disso, também utilizamos a experiência e os conhecimentos dos integrantes do grupo como referência na escolha.
 
 ## Ferramentas Utilizadas
 
