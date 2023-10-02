@@ -8,6 +8,7 @@ Dentre os métodos ágeis disponíveis o SCRUM e o XP são os mais populares
 (SWEBOK). 
 
 Para o projeto em questão utilizaremos metodologias ágeis adaptadas.
+
 ## SCRUM Adaptado
 
 O ciclo do Scrum tem o seu progresso baseado em um série de iterações bem
