@@ -1,7 +1,7 @@
 # Sites avaliados 
 
 ## Introdução 
-No início do projeto, cada colaborador foi convidado a analisar um site de código aberto ou governamental em potencial, com o objetivo de, ao seu término, eleger um deles como projeto para a disciplina de Interação Humano-Computador.Para o planejamento da avaliação, foi utilizado em cada artefato a metodologia DECIDE, disponibilizado nos slides do professor André Barros. A Tabela 1 exibe a lista dos sites avaliados por cada colaborador.
+No início do projeto, cada colaborador foi convidado a analisar um site de código aberto ou governamental em potencial, com o objetivo de, ao seu término, eleger um deles como objeto de estudo para o projeto da disciplina "Interação Humano-Computador".Para o planejamento da avaliação, foi utilizado em cada artefato o framework DECIDE, disponibilizado nos slides do professor André Barros. A Tabela 1 exibe a lista dos sites avaliados por cada colaborador.
 
 <p align="center"><b>Tabela 01</b> - Sites avaliados </p>
 
@@ -68,4 +68,4 @@ O [Ventoy](https://www.ventoy.net/en/index.html) é uma ferramenta de código ab
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-----:       | :------       | -------    | -------            |
-| 1.0   |02/10/2023 |   Criação da página de sites avaliados  |  [Mayara Alves](https://github.com/Mayara-tech)|  |
+| 1.0   |02/10/2023 |   Criação da página de sites avaliados  |  [Mayara Alves](https://github.com/Mayara-tech)| [Limirio Correia](https://github.com/LimirioGuimaraes) |
