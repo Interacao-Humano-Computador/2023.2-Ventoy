@@ -1,4 +1,4 @@
-# Ata da  2° reunião de Requisitos de Software
+# Ata da  2° reunião de Interação Humano Computador
 
 **Ordem do escrivão da ata:** Vinícius, Breno, Milena, Limirio, Mayara, Luis Eduardo,
 Arthur
@@ -47,8 +47,7 @@ Arthur
 
 | **N°** | **Descrição**|
 |---|-----------------|
-| 1 | Propor melhorias baseadas nos comentários do professor na primeira apresentação de Requisitos |
-| 2 | Divisão das tarefas entre os integrantes da equipe do projeto de IHC |
+| 1 | Divisão das tarefas entre os integrantes da equipe do projeto de IHC |
 
 **Fonte:** [Breno](https://github.com/brenob6)
 
