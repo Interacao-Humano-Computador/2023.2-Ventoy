@@ -20,8 +20,8 @@ O cronograma executado pela equipe tem como objetivo rastrear planejamento, orga
 | Inserir termo de uso so site                                     | Início: 14/09<br>Fim: 27/09 | Vinícius e Milena         |   28/09   | Luis        |
 | Inserir sites avaliados                                          | Início: 14/09<br>Fim: 27/09 | Mayara                    |   28/09   | Limírio     |
 | Implementar Git Page                                             | Início: 27/09<br>Fim: 28/09 | Breno                     |   28/09   | Mayara      |
-| Gravação da apresentação                                         | Início: 28/09<br>Fim: 28/09 | Todos                     |   29/09   | Todos       |
-| Inserir cronograma executado                                     | Início: 29/09<br>Fim: 30/09 | Mayara                    |   01/10   | Limírio     |
+| Gravação da apresentação                                         | Início: 28/09<br>Fim: 02/10 | Todos                     |   02/10   | Todos       |
+| Inserir cronograma executado                                     | Início: 29/09<br>Fim: 02/10 | Mayara                    |   02/10   | Limírio     |
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
