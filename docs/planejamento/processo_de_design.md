@@ -51,7 +51,7 @@ se existem problemas de usabilidade nas representações de design, nos protóti
 ## Engenharia de Usabilidade de Nielsen
 
 Nielsen definiu um conjunto de dez atividades que devem ocorrer durantetodo o ciclo de vida do produto.
-A tabala 01 faz uma breve descrição de cada atividade.
+A tabela 01 faz uma breve descrição de cada atividade.
 
 <center>
 
@@ -77,7 +77,7 @@ A tabala 01 faz uma breve descrição de cada atividade.
 ## Engenharia de Usabilidade de Mayhew
 
 Mayhew propôs um processo de design com uma gama maior de detalhes. Nele as atividades são
-dividas em três fases.
+dividas em três tipos de fases.
 
 <center>
 
