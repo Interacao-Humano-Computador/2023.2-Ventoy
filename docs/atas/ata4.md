@@ -3,7 +3,7 @@
 **Ordem do escrivão da ata:** Vinícius, Breno, Mayara, Milena, Limirio, Luis Eduardo,
 Arthur
 
-**Data**:   28/09/2023 **Local**: Teams <br>
+**Data**:   05/10/2023 **Local**: Teams <br>
 **Projeto**: Projeto de Interação Humano Computador - Ventoy <br>
 
 <center>
