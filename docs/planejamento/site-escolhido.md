@@ -28,15 +28,10 @@ Baseado nos critérios acima, o site [Ventoy](https://www.ventoy.net/en/index.ht
 A [Licença do software Ventoy](../assets/Licenca_uso) define que não tem problemas em ser utilizado para estudo. GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007. Acessado em: 02 de outubro de 2023.
 
-## Histório de versão
-
-<center>
-
-**Tabela 1** - Histórico de Versão
+## 📑 Histório de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
-| 1.0   |02/10/2023 |Criação da página Site escolhido de IHC| Milena e Vinícius Mendes  | Luis Eduardo |
+| `1.0`   |02/10/2023 |Criação da página Site escolhido de IHC| [Milena Baruc](https://github.com/MilenaBaruc) e [Vinicius Mendes](https://github.com/yabamiah)  | [Luis Eduardo](https://github.com/LuisMiranda10) |
 
-</center>
 
