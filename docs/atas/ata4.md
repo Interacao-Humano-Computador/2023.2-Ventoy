@@ -36,7 +36,7 @@ Arthur
 | 6.Milena      |:x:                |milenabaruc072@gmail.com       |:fairy:        |
 | 7.Vinícius    |:white_check_mark: |viniciusmendes1019@gmail.com   |:cold_face:    |
 
-**Fonte:** [Mayara Alves](https://github.com/Mayara-tech)
+**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
 
 </center>
 
