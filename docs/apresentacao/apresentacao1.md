@@ -18,9 +18,9 @@ O propósito desta página consiste em arquivar os elementos pertinentes à prim
 ## Correções pós-apresentação
 
 
-## Histórico de versões 
+## 📑 Histórico de versões 
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-1.0 | 28/09/2023| Criação da página de apresentação 1 | [Mayara Alves](https://github.com/Mayara-tech) | Milena Baruc
+`1.0` | 28/09/2023| Criação da página de apresentação 1 | [Mayara Alves](https://github.com/Mayara-tech) | [Milena Baruc](https://github.com/MilenaBaruc)
 
