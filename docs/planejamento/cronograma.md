@@ -1,7 +1,7 @@
 # Cronograma 
 
 ## Descrição
-O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o planejamento, organização e distribuição das atividades que serão executadas e entregues ao longo do curso "Interação Humano Computador", ministrado pelo professor André Barros de Sales na Universidade de Brasília durante o período letivo de 2023.2. Os cronogramas a seguir foram desenvolvidos com base nas datas de entrega especificadas no plano de ensino fornecido pelo professor, utilizando também como referência o cronograma de projetos anteriores, tais como a Bilheteria Digital e o Banco Central do Brasil.
+O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o planejamento, organização e distribuição das atividades que serão executadas e entregues ao longo do curso "Interação Humano Computador", ministrado pelo professor André Barros de Sales na Universidade de Brasília durante o período letivo de 2023.2. Os cronogramas a seguir foram desenvolvidos com base nas datas de entrega especificadas no plano de ensino^1^ fornecido pelo professor, utilizando também como referência o cronograma de projetos anteriores, tais como a Bilheteria Digital^2^  e o Banco Central do Brasil^3^ .
 
 
 ### Cronograma de entregas
@@ -221,6 +221,14 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da entrega 
 | Cronograma executado                                           	        | Início: 28/11<br>Fim: 29/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino            |   29/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino              |
 
 <font size="3"><p style="text-align: center">Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
+
+## Referências Bibliográficas
+
+> <a id=“RP1” href=“#TEC1”>1.</a> SALES. A. B - PLANO DE ENSINO. Interação Humano Computador. Distrito Federal, 2023. Disponível em: <https://aprender3.unb.br/course/view.php?id=19947&section=7>. Acesso em: 04/10/2023.
+
+> <a id=“RP2” href=“#TEC2”>2.</a> BILHETERIA DIGITAL. Interação Humano Computador. Distrito Federal, 2023. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/>. Acesso em: 06/10/2023.
+
+> <a id=“RP3” href=“#TEC3”>2.</a> BANCO CENTRAL. Interação Humano Computador. Distrito Federal, 2023. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/>. Acesso em: 06/10/2023.
 
 ## 📑 Histórico de versão
 
