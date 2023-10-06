@@ -118,14 +118,8 @@ etapas de design, avaliação, desenvolvimento  e finalmente a instalação.
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
-## Histório de versão
-
-<center>
-
-**Tabela 2** - Histórico de Versão
+## 📑 Histório de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
-| 1.0   |16/09/2023 |Criação da página Processo de Design de IHC| Breno e Luis Miranda  | Vinícius Mendes |
-
-</center>
+| `1.0` |16/09/2023 |Criação da página Processo de Design de IHC| [Breno Queiroz](https://github.com/brenob6) e [Luis Eduardo](https://github.com/LuisMiranda10) | [Vinicius Mendes](https://github.com/yabamiah) |
