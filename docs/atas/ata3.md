@@ -97,8 +97,8 @@ A próxima reunião ficou marcada para o dia 05/10/2023, às 21:00.
 
 </center>
 
-## Histórico de versão
+## 📑 Histórico de versão
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
-| 1.0    |29/09/2023 | Criação da terceira ata |[Mayara Alves](https://github.com/Mayara-tech)| [Limirio Correia](https://github.com/LimirioGuimaraes) |
+| `1.0`    |29/09/2023 | Criação da terceira ata |[Mayara Alves](https://github.com/Mayara-tech)| [Limirio Correia](https://github.com/LimirioGuimaraes) |
