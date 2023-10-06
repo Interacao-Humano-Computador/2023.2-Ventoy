@@ -54,13 +54,13 @@ O [Ventoy](https://www.ventoy.net/en/index.html) é uma ferramenta de código ab
 
 ## Bibliografia
 > DF no ponto. Disponível em: [DF no Ponto](https://dfnoponto.semob.df.gov.br). Acesso em: 02/10/2023 </br>
+> Framework DECIDE. Disponível em: [Framework DECIDE](https://medium.com/caiquefortunato/framework-decide-e-avalia%C3%A7%C3%A3o-92ee269e4c55). Acesso em: 02/10/2023.
 > Minha Biblioteca. Disponível em: [MinhaBiblioteca](https://minhabiblioteca.com.br/). Acesso em: 02/10/2023 <br/>
+> Portal do Detran. Disponível em: [Portal Detran DF](https://www.detran.df.gov.br/). Acesso em: 02/10/2023 <br/>
 > SAE - Serviço de Apoio Educacional. Disponível em: [SAE - Serviço de Apoio Educacional](https://sae.unb.br/sae/). Acesso em: 02/10/2023 <br/>
 > STJ - Superior Tribunal de Justiça. Disponível em: [STJ - Superior Tribunal de Justiça](https://www.stj.jus.br/sites/portalp/Inicio). Acesso em: 02/10/2023 <br/>
 > TSE - Tribunal Superior Eleitoral. Disponível em: [TSE - Tribunal Superior Eleitoral](https://www.tse.jus.br/#/). Acesso em: 02/10/2023 <br/>
-> Portal do Detran. Disponível em: [Portal Detran DF](https://www.detran.df.gov.br/). Acesso em: 02/10/2023 <br/>
 > Ventoy. Disponível em: [Ventoy](https://www.ventoy.net/en/index.html). Acesso em: 02/10/2023 <br/>
-> Framework DECIDE. Disponível em: [Framework DECIDE](https://medium.com/caiquefortunato/framework-decide-e-avalia%C3%A7%C3%A3o-92ee269e4c55). Acesso em: 02/10/2023.
 
 ## Histórico de versão
 
