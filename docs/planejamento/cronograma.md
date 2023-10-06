@@ -232,8 +232,6 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da entrega 
 
 ## 📑 Histórico de versão
 
-<p align="center"><b>Tabela 12</b> - Histórico de versão</p>
-
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --             |
 | `1.0`   |26/09/2023 |Criação da primeira versão do cronograma | [Limírio Guimarães](https://github.com/LimirioGuimaraes), [Mayara Alves](https://github.com/Mayara-tech) e [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6)|
