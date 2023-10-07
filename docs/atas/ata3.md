@@ -74,7 +74,7 @@ Arthur
 </center>
 
 ## 4. Link da Gravação
-A gravação desta reunião está disponível pelo youtube [vídeo](https://www.youtube.com/watch?v=oKn5t2MwAjg)
+A gravação desta reunião está disponível pelo youtube [vídeo](https://www.youtube.com/watch?v=Rxx7XucIjLc)
 
 ## 5. Próxima Reunião
 
@@ -88,10 +88,10 @@ A próxima reunião ficou marcada para o dia 05/10/2023, às 21:00.
 
 |**N°** | **Compromisso**                               | **Responsável**   | **Data**  |
 |------ |-------------------------------------          |------------------ |-----------|
-| 1     | Terminar as revisões                          | Todos             | 29/09/2023|
-| 2     | Fazer pull request das branch dos artefatos   | Todos             | 29/09/2023|
-| 3     | Criar gitPage                                 | Breno             | 29/09/2023|
-| 4     | Padronizar a avaliação individual do site     | Todos             | 29/09/2023|
+| 1     | Terminar as revisões                          | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino           | 29/09/2023|
+| 2     | Fazer pull request das branch dos artefatos   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino           | 29/09/2023|
+| 3     | Criar gitPage                                 | Breno                                                             | 29/09/2023|
+| 4     | Padronizar a avaliação individual do site     | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino           | 29/09/2023|
 
 **Fonte:** [Mayara Alves](https://github.com/Mayara-tech)
 
