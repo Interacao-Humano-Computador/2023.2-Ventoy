@@ -10,8 +10,8 @@ Existem vários tipos de processos de design de IHC, que são recomendados por d
 
 ## Modelo Simples de Processo de Design
 
-O modelo simples de processo de design, possui uma atividade de síntese, chamada de re(design).
-É nessa etapa que os designers elaboram soluções para os requisitos propostos,
+O modelo simples de processo de design, representado na figura 1, possui uma atividade de síntese,
+chamada de re(design). É nessa etapa que os designers elaboram soluções para os requisitos propostos,
 ou ajustam soluções passadas para melhor se adequar.
 
 <center>
@@ -30,7 +30,7 @@ tal caracteristica pode ser ruim para projetos mais complexos.
 
 ## Ciclo de Vida em Estrela
 
-O ciclo de vida em estrela possui seis atividades. O interessante desse método
+O ciclo de vida em estrela, representado na figura 2, possui seis atividades. O interessante desse método
 é que existem cinco pontos de entrada, e não existe ordem definida para execução das atividades,
 exceto a de avaliação que deve ser feita após todas as outras.
 
@@ -77,7 +77,7 @@ A tabela 01 faz uma breve descrição de cada atividade.
 ## Engenharia de Usabilidade de Mayhew
 
 Mayhew propôs um processo de design com uma gama maior de detalhes. Nele as atividades são
-dividas em três tipos de fases.
+dividas em três tipos de fases, como pode ser observado na figura 3.
 
 <center>
 
@@ -85,7 +85,7 @@ dividas em três tipos de fases.
 
 ![Ciclo de Mayhew](../assets/ciclo_de_mayhew.png)
 
-**Fonte:** BARBOSA, SILVA, 2010
+**Fonte:** MAYHEW, 1999 apud, BARBOSA, SILVA, 2010
 
 </center>
 
@@ -106,13 +106,18 @@ Por fim, é coletado opiniões dos usuários, para verificar possíveis melhoria
 
 Baseado em uma análise feita minuciosamente a respeito de toda as alternativas, chegamos em um concesso
 geral que o ciclo de Mayhew seria o mais apropriado e eficaz para o projeto como o todo, uma vez que
-nos é fornecido uma estrutura abrangente para a gestão de projeto, ajudando a garantir que todas as
-etapas necessárias sejam consideradas e executadas de forma inteligente e eficiente para alcançar os
-objetivos que temos com sucesso.
+nos é fornecido uma estrutura abrangente para a gestão de projeto que, por sua vez, é bastante rica em
+detalhes, se comparado aos outros processos de design citados neste documento.
 
-O ciclo Mayhew será seguido de forma integral, e começaremos o processo pela análise de requisitos,
-seguindo as etapas do fluxo de acordo com o digrama da figura 3. Posteriormente será realizada as 
-etapas de design, avaliação, desenvolvimento  e finalmente a instalação.
+O ciclo Mayhew será seguido de forma integral, e começaremos o processo pela análise de requisitos.
+Nessa etapa, vamos definir as metas de usabilidade para o site escolhido, o perfil dos usuários,
+análises de tarefas e possíveis limitações da plataforma. Posteriormente vamos desenvolver uma
+solucação de IHC para atender as metas de usabilidades estabelecidades na etapa anterior. Nessa etapa
+está incluso, reengenharia do trabalho, que visa encontrar possíveis melhorias para a interface;
+a elaboração de protótipos de baixa, média e alta fidelidade, que deverão ser avaliados por usuários.
+
+Na fase de instalação, o objetivo é coletar opiniões de usuários para futuramente melhorar ainda mais
+o sistema e desenvolver novas funcionalidade em versões futuras.
 
 ## Bibliografia
 
@@ -126,6 +131,7 @@ etapas de design, avaliação, desenvolvimento  e finalmente a instalação.
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
-| 1.0   |16/09/2023 |Criação da página Processo de Design de IHC| Breno e Luis Miranda  | Vinícius Mendes |
+| 1.0   |16/09/2023 |Criação da página Processo de Design de IHC|[Breno](https://github.com/brenob6) e [Luis Miranda](https://github.com/luismiranda10)|[Vinícius Mendes](https://github.com/yabamiah)   |
+| 2.0   |08/10/2023 |Correção da página após primeira apresentação| [Breno](https://github.com/brenob6)|                   |
 
 </center>
