@@ -45,14 +45,12 @@ A metodologia XP define um conjuto de cinco valores que são bases para a realiz
 
 
 ## Bibliografia
-> VETORAZZO, Adriana. **Engenharia de Software**, 2018, SAGAH EDUCAÇÂO S.A. </br>
-> SWEBOK **SWEBOK V3.0**, IEEE <br/>
 > PEREIRA, Paulo; TORREÃO, Paula; MARÇAL, Ana Sofia. Entendendo Scrum para gerenciar projetos de forma ágil. Mundo PM, v. 1, p. 3-11, 2007. </br>
+> SWEBOK **SWEBOK V3.0**, IEEE <br/>
+> VETORAZZO, Adriana. **Engenharia de Software**, 2018, SAGAH EDUCAÇÂO S.A. </br>
 
-## Histórico de versão
-
-<p align="center"><b>Tabela 01</b></p>
+## 📑 Histórico de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-----:       | :------       | -------    | -------            |
-| 1.0   |27/09/2023 |   Criação da página de metodologia   |  [Breno Queiroz](https://github.com/brenob6)| [Mayara Alves](https://github.com/Mayara-tech) |
+| `1.0`   |27/09/2023 |   Criação da página de metodologia   |  [Breno Queiroz](https://github.com/brenob6)| [Mayara Alves](https://github.com/Mayara-tech) |

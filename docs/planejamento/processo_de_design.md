@@ -10,7 +10,7 @@ Existem vários tipos de processos de design de IHC, que são recomendados por d
 
 ## Modelo Simples de Processo de Design
 
-O modelo simples de processo de design, possui uma atividade de síntese, chamada de re(design).
+O modelo simples de processo de design, possui uma atividade de síntese, chamada de re(design) como demonstrado na figura 1.
 É nessa etapa que os designers elaboram soluções para os requisitos propostos,
 ou ajustam soluções passadas para melhor se adequar.
 
@@ -32,7 +32,7 @@ tal caracteristica pode ser ruim para projetos mais complexos.
 
 O ciclo de vida em estrela possui seis atividades. O interessante desse método
 é que existem cinco pontos de entrada, e não existe ordem definida para execução das atividades,
-exceto a de avaliação que deve ser feita após todas as outras.
+exceto a de avaliação que deve ser feita após todas as outras, como podemos observar na figura 2.
 
 <center>
 
@@ -51,11 +51,11 @@ se existem problemas de usabilidade nas representações de design, nos protóti
 ## Engenharia de Usabilidade de Nielsen
 
 Nielsen definiu um conjunto de dez atividades que devem ocorrer durantetodo o ciclo de vida do produto.
-A tabela 01 faz uma breve descrição de cada atividade.
+A tabela 1. faz uma breve descrição de cada atividade.
 
 <center>
 
-**Tabela 01** - atividades de Nielsen
+**Tabela 1.** - atividades de Nielsen
 
 | Etapa | Tarefa    | Descrição |
 | :-:   | :-        | :-       | 
@@ -77,7 +77,7 @@ A tabela 01 faz uma breve descrição de cada atividade.
 ## Engenharia de Usabilidade de Mayhew
 
 Mayhew propôs um processo de design com uma gama maior de detalhes. Nele as atividades são
-dividas em três tipos de fases.
+dividas em três tipos de fases como observado na figura 3.
 
 <center>
 
@@ -106,9 +106,10 @@ Por fim, é coletado opiniões dos usuários, para verificar possíveis melhoria
 
 Baseado em uma análise feita minuciosamente a respeito de toda as alternativas, chegamos em um concesso
 geral que o ciclo de Mayhew seria o mais apropriado e eficaz para o projeto como o todo, uma vez que
-nos é fornecido uma estrutura abrangente para a gestão de projeto, ajudando a garantir que todas as
-etapas necessárias sejam consideradas e executadas de forma inteligente e eficiente para alcançar os
-objetivos que temos com sucesso.
+nos é fornecido uma estrutura abrangente para a gestão de projeto logo que possui abordagem passo a passo e sistemática para o design e avaliação da usabilidade.
+Isso ajudará nosso grupo a entender a sequência lógica de atividades envolvidas, desde a definição de requisitos até a avaliação final, ajudando a garantir que todas as etapas necessárias sejam consideradas e executadas de forma inteligente e eficiente para alcançar os
+objetivos que temos com sucesso, também temos que ciclo Mayhew coloca a usabilidade no centro do processo de desenvolvimento. 
+Isso é fundamental em projetos de IHC, pois a usabilidade é crucial para a satisfação do usuário e o desempenho do sistema.
 
 O ciclo Mayhew será seguido de forma integral, e começaremos o processo pela análise de requisitos,
 seguindo as etapas do fluxo de acordo com o digrama da figura 3. Posteriormente será realizada as 
@@ -118,14 +119,8 @@ etapas de design, avaliação, desenvolvimento  e finalmente a instalação.
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
-## Histório de versão
-
-<center>
-
-**Tabela 2** - Histórico de Versão
+## 📑 Histório de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
-| 1.0   |16/09/2023 |Criação da página Processo de Design de IHC| Breno e Luis Miranda  | Vinícius Mendes |
-
-</center>
+| `1.0` |16/09/2023 |Criação da página Processo de Design de IHC| [Breno Queiroz](https://github.com/brenob6) e [Luis Eduardo](https://github.com/LuisMiranda10) | [Vinicius Mendes](https://github.com/yabamiah) |

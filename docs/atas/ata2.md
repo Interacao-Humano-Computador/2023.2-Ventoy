@@ -96,8 +96,8 @@ A próxima reunião ficou marcada para o dia 28/09/2023, às 21:00.
 
 </center>
 
-## Histórico de versão
+## 📑 Histórico de versão
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
-| 1.0    |25/09/2023 | Criação da segunda ata |[Breno Queiroz](https://github.com/brenob6)| [Vinícius Mendes](https://github.com/yabamiah) |
+| `1.0`    |25/09/2023 | Criação da segunda ata |[Breno Queiroz](https://github.com/brenob6)| [Vinícius Mendes](https://github.com/yabamiah) |

@@ -97,8 +97,8 @@ A próxima reunião ficou marcada para o dia 21/09/2023, às 21:00.
 
 </center>
 
-## Histórico de versão
+## 📑 Histórico de versão
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
-| 1.0    |29/09/2023 | Criação da primeira ata |[Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)   |
+| `1.0`    |29/09/2023 | Criação da primeira ata |[Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)   |
