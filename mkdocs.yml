@@ -27,8 +27,7 @@ nav:
       - Ata 2: atas/ata2.md
       - Ata 3: atas/ata3.md
   - Planejamento:
-      - Cronograma planejado: planejamento/cronograma/planejado.md
-      - Cronograma executado: planejamento/cronograma/executado.md
+      - Cronograma planejado: planejamento/cronograma.md
       - Ferramentas: planejamento/Ferramentas.md
       - Metodologia: planejamento/metodologia.md
       - Políticas: planejamento/políticas.md
