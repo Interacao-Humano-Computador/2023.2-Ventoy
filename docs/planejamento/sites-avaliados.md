@@ -1,7 +1,7 @@
 # Sites avaliados 
 
 ## Introdução 
-No início do projeto, cada colaborador foi convidado a analisar um site de código aberto ou governamental em potencial, com o objetivo de, ao seu término, eleger um deles como objeto de estudo para o projeto da disciplina "Interação Humano-Computador".Para o planejamento da avaliação, foi utilizado em cada artefato o framework DECIDE, disponibilizado nos slides do professor André Barros. A Tabela 1 exibe a lista dos sites avaliados por cada colaborador.
+No início do projeto, cada colaborador foi convidado a analisar um site de código aberto ou governamental em potencial, com o objetivo de, ao seu término, eleger um deles como objeto de estudo para o projeto da disciplina "Interação Humano-Computador".Para o planejamento da avaliação, foi utilizado em cada artefato o framework DECIDE, disponibilizado nos slides do professor André Barros. A Tabela 1. exibe a lista dos sites avaliados por cada colaborador.
 
 <p align="center"><b>Tabela 01</b> - Sites avaliados </p>
 
