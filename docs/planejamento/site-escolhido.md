@@ -25,7 +25,7 @@ Após a escolha do site para o projeto, temos como as principais motivações de
 * __Problemas na interface__: Interagindo com o site, é possível identificar muito erros visíveis na interface, como falta de padrões, uma interface atrativa e com falta de acessibilidade aos usuários.
 * __Nível de complexidade__: Apesar do site apresentar erros de interface e interação, esses problemas encontrados não são complexos a ponto de sair do domínio de conhecimento dos integrantes do grupo, assim sendo um site onde conseguiríamos ao mesmo tempo aprender e conseguir realizar as soluções pensadas.
 
-Para saber mais sobre os pontos, a [análise heurística](avaliacoes/PlanejamentoAvaliacaoVentoy.pdf) do site fornece uma visão mais detalhada acerca delas.
+Para saber mais sobre os pontos, a [análise heurística](avaliacoes/AvaliacaoVentoy.pdf) do site fornece uma visão mais detalhada acerca delas.
 
 ## Licença de uso 
 
@@ -34,8 +34,10 @@ Version 3, 29 June 2007. Acessado em: 02 de outubro de 2023.
 
 ## Bibliografia
 
-> <a id="REF1" href="#anchor_1">1.</a>Nielsen, J., & Molich, R. (1990). Heuristic evaluation of user interfaces. In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 249-256). Link: https://dl.acm.org/doi/10.1145/97243.97281 </br>
-> <a id="REF1" href="#anchor_1">2.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+> NIELSEN, J., & Molich, R. (1990). Heuristic evaluation of user interfaces. In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 249-256). Link: https://dl.acm.org/doi/10.1145/97243.97281 </br>
+
 
 ## 📑 Histório de versão
 
