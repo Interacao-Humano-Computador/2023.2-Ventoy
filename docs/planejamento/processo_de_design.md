@@ -104,10 +104,7 @@ Por fim, é coletado opiniões dos usuários, para verificar possíveis melhoria
 
 ## Escolha do Processo de Design
 
-Baseado em uma análise feita minuciosamente a respeito de toda as alternativas, chegamos em um concesso
-geral que o ciclo de Mayhew seria o mais apropriado e eficaz para o projeto como o todo, uma vez que
-nos é fornecido uma estrutura abrangente para a gestão de projeto que, por sua vez, é bastante rica em
-detalhes, se comparado aos outros processos de design citados neste documento.
+Baseado em uma análise feita minuciosamente a respeito de toda as alternativas, chegamos em um concesso geral que o ciclo de Mayhew seria o mais apropriado e eficaz para o projeto como o todo, uma vez que nos é fornecido uma estrutura abrangente para a gestão de projeto logo que possui abordagem passo a passo e sistemática para o design e avaliação da usabilidade. Isso ajudará nosso grupo a entender a sequência lógica de atividades envolvidas, desde a definição de requisitos até a avaliação final, ajudando a garantir que todas as etapas necessárias sejam consideradas e executadas de forma inteligente e eficiente para alcançar os objetivos que temos com sucesso, também temos que ciclo Mayhew coloca a usabilidade no centro do processo de desenvolvimento. Isso é fundamental em projetos de IHC, pois a usabilidade é crucial para a satisfação do usuário e o desempenho do sistema.
 
 O ciclo Mayhew será seguido de forma integral, e começaremos o processo pela análise de requisitos.
 Nessa etapa, vamos definir as metas de usabilidade para o site escolhido, o perfil dos usuários,
@@ -123,15 +120,10 @@ o sistema e desenvolver novas funcionalidade em versões futuras.
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
-## Histório de versão
-
-<center>
-
-**Tabela 2** - Histórico de Versão
+## 📑 Histório de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
-| 1.0   |16/09/2023 |Criação da página Processo de Design de IHC|[Breno](https://github.com/brenob6) e [Luis Miranda](https://github.com/luismiranda10)|[Vinícius Mendes](https://github.com/yabamiah)   |
-| 2.0   |08/10/2023 |Correção da página após primeira apresentação| [Breno](https://github.com/brenob6)|                   |
+| `1.0`   |16/09/2023 |Criação da página Processo de Design de IHC|[Breno Queiroz](https://github.com/brenob6) e [Luis Miranda](https://github.com/luismiranda10)|[Vinícius Mendes](https://github.com/yabamiah)   |
+| `1.1`   |08/10/2023 |Correção da página após primeira apresentação| [Breno Queiroz](https://github.com/brenob6)|  [Mayara Alves](https://github.com/Mayara-tech)                 |
 
-</center>
