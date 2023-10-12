@@ -29,6 +29,7 @@ Um termo de consentimento é um documento legal que estabelece o acordo entre du
   Se você concorda com as condições acima e está disposto(a) a participar como colaborador, por favor, nos dê o seu consentimento.
 
 
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <<https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>>. Acesso em: 06/05/2023.
