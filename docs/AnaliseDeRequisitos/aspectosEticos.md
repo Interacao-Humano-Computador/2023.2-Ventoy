@@ -12,21 +12,22 @@ Esses princípios éticos não se aplicam apenas a pesquisas de natureza médica
 
 Um termo de consentimento é um documento legal que estabelece o acordo entre duas partes, onde uma delas concede seu consentimento informado para a realização de determinada ação.  O termo de consentimento deve ser claro, específico e livre de qualquer vício ou coação, e deve informar ao titular dos dados ou ao paciente sobre os riscos, benefícios, direitos e deveres envolvidos na ação consentida. O termo de consentimento serve como instrumento de prova da obtenção do consentimento e como garantia da transparência e da segurança jurídica das partes.  <br>
 
-|                                                                                     Modelo Termo de Consetimento                                                                                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| Modelo Termo de Consentimento |
+| ----------------------------- |
 | Olá, somos a equipe do projeto acadêmico da disciplina de Interação Humano-Computador do curso de Engenharia de Software da Universidade de Brasília. Nosso objetivo é avaliar o Ventoy, que é um software que permite criar um dispositivo USB inicializável com vários sistemas operacionais. Estamos atualmente em uma etapa específica do projeto que consiste em [DESCREVE A ETAPA].
 
-Para isso, estamos conduzindo uma série de pesquisas e gostaríamos de solicitar o seu consentimento para participar de uma atividade que consiste em [DESCREVE QUAL ATIVIDADE SERÁ CONDUZIDA]. A atividade terá duração de aproximadamente [TEMPO DE DURACAO] minutos. É importante que você saiba algumas informações sobre a pesquisa: <br>
+  Para isso, estamos conduzindo uma série de pesquisas e gostaríamos de solicitar o seu consentimento para participar de uma atividade que consiste em [DESCREVE QUAL ATIVIDADE SERÁ CONDUZIDA]. A atividade terá duração de aproximadamente [TEMPO DE DURAÇÃO] minutos. É importante que você saiba algumas informações sobre a pesquisa:
 
-- Nosso compromisso é divulgar os resultados de nossas pesquisas para a disciplina e para o desenvolvedor do Ventoy. <br>
-- Sua participação na atividade é voluntária, ou seja, depende da sua escolha. <br>
-- Nosso objetivo não é prejudicar ou causar dano ao seu dispositivo ou aos seus dados. <br>
-- Seus dados brutos terão total privacidade. <br>
-- A atividade pode ser interrompida a qualquer momento, de acordo com a sua vontade e disponibilidade. <br>
-- Será necessário gravar a atividade, e as gravações serão utilizadas para análise e documentação do projeto. <br>
-- Os dados coletados são estritamente para fins didáticos e melhoria do software. <br>
+  - Nosso compromisso é divulgar os resultados de nossas pesquisas para a disciplina e para o desenvolvedor do Ventoy.
+  - Sua participação na atividade é voluntária, ou seja, depende da sua escolha.
+  - Nosso objetivo não é prejudicar ou causar dano ao seu dispositivo ou aos seus dados.
+  - Seus dados brutos terão total privacidade.
+  - A atividade pode ser interrompida a qualquer momento, de acordo com a sua vontade e disponibilidade.
+  - Será necessário gravar a atividade, e as gravações serão utilizadas para análise e documentação do projeto.
+  - Os dados coletados são estritamente para fins didáticos e melhoria do software.
 
-Se você concorda com as condições acima e está disposto(a) a participar como colaborador, por favor, nos dê o seu consentimento. <br> | 
+  Se você concorda com as condições acima e está disposto(a) a participar como colaborador, por favor, nos dê o seu consentimento.
+
 
 ## Referências Bibliográficas
 
