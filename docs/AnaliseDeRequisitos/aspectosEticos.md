@@ -26,27 +26,7 @@ Para isso, estamos conduzindo uma série de pesquisas e gostaríamos de solicita
 - Será necessário gravar a atividade, e as gravações serão utilizadas para análise e documentação do projeto. <br>
 - Os dados coletados são estritamente para fins didáticos e melhoria do software. <br>
 
-Se você concorda com as condições acima e está disposto(a) a participar como colaborador, por favor, nos dê o seu consentimento. <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-| 
+Se você concorda com as condições acima e está disposto(a) a participar como colaborador, por favor, nos dê o seu consentimento. <br> | 
 
 ## Referências Bibliográficas
 
