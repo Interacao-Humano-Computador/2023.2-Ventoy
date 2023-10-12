@@ -26,7 +26,7 @@ Um termo de consentimento é um documento legal que estabelece o acordo entre du
   - Será necessário gravar a atividade, e as gravações serão utilizadas para análise e documentação do projeto.
   - Os dados coletados são estritamente para fins didáticos e melhoria do software.
 
-  Se você concorda com as condições acima e está disposto(a) a participar como colaborador, por favor, nos dê o seu consentimento.
+  Se você concorda com as condições acima e está disposto(a) a participar como colaborador, por favor, nos dê o seu consentimento. |
 
 
 
@@ -38,7 +38,7 @@ Um termo de consentimento é um documento legal que estabelece o acordo entre du
 > BANCO CENTRAL DO BRASIL. Interacao-Humano-Computador. Distrito Federal, 2023. Disponível em:<https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/analise_requisitos/aspectos_eticos>. Acesso em: 11/10/2023 <br>
 > BILHETERIA DIGITAL. Interacao-Humano_computador. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>. Acesso em: 11/10/2023.<br>
 > ÉTICA EM PESQUISA COM SERES HUMANOS. Universidade Estadual Paulista. São Paulo, 2019. Disponível em: <https://www.rosana.unesp.br/#!/pesquisa/orientacoes-e-manual/etica-em-pesquisa-com-seres-humanos/>. Acesso em: 11/10/2023.<br>
-
+RICCETTO, Brígida. LGPD: o que é e como elaborar o termo consentimento do tratamento de dados pessoais. Jusbrasil, 2021. Disponível em: <https://www.jusbrasil.com.br/artigos/lgpd-o-que-e-e-como-elaborar-o-termo-consentimento-do-tratamento-de-dados-pessoais/1245110635> . Acesso em: 12/10/2023. <br>
 
 
 ## Histórico de Versões
@@ -46,5 +46,5 @@ Um termo de consentimento é um documento legal que estabelece o acordo entre du
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
 | `1.0`  | 11/10/2023 | Introdução | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
-| `1.0`  | 11/10/2023 | Adicionado modelo de termo de consentimento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
+| `1.1`  | 11/10/2023 | Adicionado modelo de termo de consentimento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | |1
 
