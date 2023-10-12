@@ -14,7 +14,7 @@ Um termo de consentimento é um documento legal que estabelece o acordo entre du
 
 |                                                                                     Modelo Termo de Consetimento                                                                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| Olá, somos a equipe do projeto acadêmico da disciplina de Interação Humano-Computador do curso de Engenharia de Software da Universidade de Brasília. Nosso objetivo é avaliar o Ventoy, que é um software que permite criar um dispositivo USB inicializável com vários sistemas operacionais. Estamos atualmente em uma etapa específica do projeto que consiste em [DESCREVE A ETAPA].<br>
+| Olá, somos a equipe do projeto acadêmico da disciplina de Interação Humano-Computador do curso de Engenharia de Software da Universidade de Brasília. Nosso objetivo é avaliar o Ventoy, que é um software que permite criar um dispositivo USB inicializável com vários sistemas operacionais. Estamos atualmente em uma etapa específica do projeto que consiste em [DESCREVE A ETAPA].
 
 Para isso, estamos conduzindo uma série de pesquisas e gostaríamos de solicitar o seu consentimento para participar de uma atividade que consiste em [DESCREVE QUAL ATIVIDADE SERÁ CONDUZIDA]. A atividade terá duração de aproximadamente [TEMPO DE DURACAO] minutos. É importante que você saiba algumas informações sobre a pesquisa: <br>
 
