@@ -37,6 +37,8 @@ nav:
       - Processo design: planejamento/processo_de_design.md
       - Sites avaliados: planejamento/sites-avaliados.md
       - Site escolhido: planejamento/site-escolhido.md
+  - Análise de Requisitos:
+    - Cenários: AnaliseDeRequisitos/cenarios.md
 
 theme:
   name: material
