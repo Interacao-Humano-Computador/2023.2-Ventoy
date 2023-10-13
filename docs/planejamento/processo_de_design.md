@@ -10,6 +10,7 @@ Existem vários tipos de processos de design de IHC, que são recomendados por d
 
 ## Modelo Simples de Processo de Design
 
+
 O modelo simples de processo de design, representado na figura 1, possui uma atividade de síntese,
 chamada de re(design). É nessa etapa que os designers elaboram soluções para os requisitos propostos,
 ou ajustam soluções passadas para melhor se adequar.
@@ -32,7 +33,7 @@ tal caracteristica pode ser ruim para projetos mais complexos.
 
 O ciclo de vida em estrela, representado na figura 2, possui seis atividades. O interessante desse método
 é que existem cinco pontos de entrada, e não existe ordem definida para execução das atividades,
-exceto a de avaliação que deve ser feita após todas as outras.
+exceto a de avaliação que deve ser feita após todas as outras, como podemos observar na figura 2.
 
 <center>
 
@@ -51,11 +52,11 @@ se existem problemas de usabilidade nas representações de design, nos protóti
 ## Engenharia de Usabilidade de Nielsen
 
 Nielsen definiu um conjunto de dez atividades que devem ocorrer durantetodo o ciclo de vida do produto.
-A tabela 01 faz uma breve descrição de cada atividade.
+A tabela 1. faz uma breve descrição de cada atividade.
 
 <center>
 
-**Tabela 01** - atividades de Nielsen
+**Tabela 1.** - atividades de Nielsen
 
 | Etapa | Tarefa    | Descrição |
 | :-:   | :-        | :-       | 
@@ -78,6 +79,7 @@ A tabela 01 faz uma breve descrição de cada atividade.
 
 Mayhew propôs um processo de design com uma gama maior de detalhes. Nele as atividades são
 dividas em três tipos de fases, como pode ser observado na figura 3.
+
 
 <center>
 
@@ -104,7 +106,14 @@ Por fim, é coletado opiniões dos usuários, para verificar possíveis melhoria
 
 ## Escolha do Processo de Design
 
-Baseado em uma análise feita minuciosamente a respeito de toda as alternativas, chegamos em um concesso geral que o ciclo de Mayhew seria o mais apropriado e eficaz para o projeto como o todo, uma vez que nos é fornecido uma estrutura abrangente para a gestão de projeto logo que possui abordagem passo a passo e sistemática para o design e avaliação da usabilidade. Isso ajudará nosso grupo a entender a sequência lógica de atividades envolvidas, desde a definição de requisitos até a avaliação final, ajudando a garantir que todas as etapas necessárias sejam consideradas e executadas de forma inteligente e eficiente para alcançar os objetivos que temos com sucesso, também temos que ciclo Mayhew coloca a usabilidade no centro do processo de desenvolvimento. Isso é fundamental em projetos de IHC, pois a usabilidade é crucial para a satisfação do usuário e o desempenho do sistema.
+
+Baseado em uma análise feita minuciosamente a respeito de toda as alternativas, chegamos em um concesso geral que o ciclo de Mayhew
+seria o mais apropriado e eficaz para o projeto como o todo, uma vez que nos é fornecido uma estrutura abrangente para a gestão de
+projeto que possui uma abordagem passo a passo e sistemática para o design e avaliação da usabilidade. Isso ajudará nosso grupo
+a entender a sequência lógica de atividades envolvidas, desde a definição de requisitos até a avaliação final, ajudando a garantir
+que todas as etapas necessárias sejam consideradas e executadas de forma inteligente e eficiente para alcançar os objetivos que
+temos com sucesso. Vale resaltar que ciclo Mayhew coloca a usabilidade no centro do processo de desenvolvimento. Isso é fundamental
+em projetos de IHC, pois a usabilidade é crucial para a satisfação do usuário e o desempenho do sistema.
 
 O ciclo Mayhew será seguido de forma integral, e começaremos o processo pela análise de requisitos.
 Nessa etapa, vamos definir as metas de usabilidade para o site escolhido, o perfil dos usuários,

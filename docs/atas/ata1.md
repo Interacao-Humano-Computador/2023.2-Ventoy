@@ -74,7 +74,7 @@ Arthur
 </center>
 
 ## 4. Link da Gravação
-A gravação desta reunião está disponível pelo youtube [vídeo](https://www.youtube.com/watch?v=oKn5t2MwAjg)
+A gravação desta reunião está disponível pelo youtube [vídeo](https://youtu.be/z4kUvnm9F90?si=jHQJ83mMwjGfY96Z)
 
 ## 5. Próxima Reunião
 
@@ -97,8 +97,8 @@ A próxima reunião ficou marcada para o dia 21/09/2023, às 21:00.
 
 </center>
 
-## Histórico de versão
+## 📑 Histórico de versão
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
-| 1.0    |29/09/2023 | Criação da primeira ata |[Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)   |
+| `1.0`    |29/09/2023 | Criação da primeira ata |[Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)   |
