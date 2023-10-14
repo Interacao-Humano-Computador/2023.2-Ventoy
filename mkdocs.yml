@@ -36,8 +36,8 @@ nav:
       - Sites avaliados: planejamento/sites-avaliados.md
       - Site escolhido: planejamento/site-escolhido.md
   - Análise de Requisitos:
-   - Perfil de Usuário: elicitacao/PerfilUsuario.md
-   - Persona: elicitacao/Persona.md
+      - Perfil de Usuário: elicitacao/PerfilUsuario.md
+      - Persona: elicitacao/Persona.md
 
 theme:
   name: material
