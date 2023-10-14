@@ -112,7 +112,8 @@ para gerar uma imagem falsa que representaria a persona.
 > BILHETERIA DIGITAL. Personas. Repositório da disciplina de Interação Humano-Computador da Universidade de Brasília, 2023. Disponível em: [https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/personas/#elenco](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/personas/#elenco). Acesso em: 14 outubro de 2023.
 
 > LICHESS. Personas. Repositório da disciplina de Interação Humano-Computador da Universidade de Brasília, 2022. Disponível em: [https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/personas/](https://interacao-humano-computador.github.io/2022.2-Lichess/analise_requisitos/personas/). Acesso em: 14 outubro de 2023.
-## Histórico de Versões
+> 
+## 📑 Histórico de Versões
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
