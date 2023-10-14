@@ -98,8 +98,8 @@ A próxima reunião ficou marcada para o dia 12/10/2023, às 21:00.
 
 </center>
 
-## Histórico de versão
+## 📑 Histórico de versão
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
-| 1.0    |29/09/2023 | Criação da quarta ata |[Limirio Correia](https://github.com/LimirioGuimaraes)|alguém |
+| `1.0`  |05/10/2023 | Criação da quarta ata |[Limirio Correia](https://github.com/LimirioGuimaraes)||[Mayara Alves](https://github.com/Mayara-tech) |
