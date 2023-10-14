@@ -7,8 +7,10 @@ No nível mais baixo, cada subobjetivo será realizado por uma operação. Logo 
 
 <p align="center"><b>Figura 01</b> - Elementos de um diagrama HTA.</p>
 
-![Elementos de um diagrama HTA](elementoshta.png)
+![Elementos de um diagrama HTA](../assets/elementoshta.png)
+
 <p align="center"><b>Fonte</b>: Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193</p>
+
 ## Análise Hierárquica de Tarefas (HTA)
 
 Nessa seção iremos apresentar as análises de tarefas utilizando o método HTA do site Ventoy, utilizando representações em diagrama e tabela para um maior compreensão.
@@ -16,7 +18,8 @@ Nessa seção iremos apresentar as análises de tarefas utilizando o método HTA
 O diagrama feito para analisar esta tarefa foi represento em um diagrama na figura 2 e na na tabela 1.  Nesta tarefa o usuário tem como objetivo iniciar o uso do Ventoy.
 
 <p align="center"><b>Figura 02</b> - Diagrama HTA do iniciar uso do Ventoy</p>
-![HTA uso do ventoy](HTA.drawio.png)
+
+![HTA uso do ventoy](../assets/HTA.drawio.png)
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/yabamiah">Vinicius Mendes.</a></p>
 
 
