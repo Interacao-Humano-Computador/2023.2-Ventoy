@@ -2,11 +2,23 @@
 
 ## Introdução
 
-As personas são personagens fictícias criadas para representar os usuários da aplicação no intuito de melhorar o entendimento das funcionalidades que o sistema deve apresentar. Elas devem possuir características que sumarizam bem os usuários “típicos”, mas que sejam específicas para torná-las ferramentas de design e comunicação eficientes^1^. Ja a antipersonas é um perfil fictício que descreve um tipo de usuário que não é o público-alvo da aplicação.
+As personas são personagens fictícias criadas para representar os usuários da aplicação
+no intuito de melhorar o entendimento das funcionalidades que o sistema deve apresentar.
+Elas devem possuir características que sumarizam bem os usuários “típicos”, mas que
+sejam específicas para torná-las ferramentas de design e comunicação eficientes^1^.
+Ja a antipersonas é um perfil fictício que descreve um tipo de usuário que não é o
+público-alvo da aplicação.
 
 ## Metodologia
 
-As personas criadas possuem as características apresentadas na seção de <a href="/elicitacao/PerfilUsuario/">perfil de usuário</a>. Foram criadas quatro personas, assim como vistas nas figuras de 1 a 4, sendo 2 primárias, 1 secundárias e 1 antipersona. Foi escolhida essa quantidade, pois permite que as diversas características distintas possam ter ao menos um representante sem que o foco no usuário principal do sistema seja perdido. Após o detalhamento das personas foi utilizada a ferramenta <a href="https://this-person-does-not-exist.com/pt"><i>This Person Doesn't Exist^2^</i></a> para gerar uma imagem falsa que representaria a persona.
+As personas criadas possuem as características apresentadas na seção de <a href="/
+elicitacao/PerfilUsuario/">perfil de usuário</a>. Foram criadas quatro personas, assim
+como vistas nas figuras de 1 a 4, sendo 2 primárias, 1 secundárias e 1 antipersona
+. Foi escolhida essa quantidade, pois permite que as diversas características distintas
+possam ter ao menos um representante sem que o foco no usuário principal do sistema
+seja perdido. Após o detalhamento das personas foi utilizada a ferramenta <a href="
+https://this-person-does-not-exist.com/pt"><i>This Person Doesn't Exist^2^</i></a>
+para gerar uma imagem falsa que representaria a persona.
 
 ## Elenco
 
@@ -22,12 +34,12 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 | **Idade**: 32 anos                                                                                                                                                                                                                                                                                                                                                                  |
 | **Profissão**: Técnico de TI .                                                                                                                                                                                                                                                                                                                       |
 | **Escolaridade**: Ensino Superior Completo em Tecnologia da Informação.                                                                                                                                                                                                                                                                                                              |
-| **Habilidades e Experiências**: Conhecimento em informatica, tecnologias e redes de computadores.                                                                                                                                                                                            |
+| **Habilidades e Experiências**: Conhecimento em informática, tecnologias e redes de computadores.                                                                                                                                                                                            |
 | **Relacionamento**: Colegas de trabalho.                                             |                                                                                                                                                 
 | **Objetivo**:  Tony utiliza USB bootáveis regularmente para diagnosticar e resolver problemas em servidores e computadores de sua empresa. Ele busca soluções eficientes para manter os sistemas funcionando perfeitamente.                          |
-| **Expectativa**:  encontrar documentação e informações técnicas sobre o uso da ferramenta             |
+| **Expectativa**:  Encontrar documentação e informações técnicas sobre o uso da ferramenta Ventoy             |
 | **Requisitos**: Criar um USB bootável e ter uma interface amigável ao usuário.                                                                   |
-| **Tarefas**: Acorda cedo, prepara sua xicara de cafe, verificar os sistema da empresa, participa de reuniões, resolver demandas do setor.                   |                             
+| **Tarefas**: Acorda cedo, prepara sua xícara de café, verificar os sistema da empresa, participa de reuniões, resolver demandas do setor.                   |                             
 
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/mayara-tech).</p></font>
@@ -104,5 +116,5 @@ As personas criadas possuem as características apresentadas na seção de <a hr
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 14/10/2023 | Criação das personas                        |[Mayara Alves](https://github.com/Mayara-tech)  |   |
+| `1.0`  | 14/10/2023 | Criação das personas                        |[Mayara Alves](https://github.com/Mayara-tech)  | [Breno](https://github.com/brenob6)|
 
