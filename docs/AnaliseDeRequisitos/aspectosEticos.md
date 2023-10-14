@@ -39,10 +39,10 @@ Para isso, estamos conduzindo uma série de pesquisas e gostaríamos de solicita
 RICCETTO, Brígida. LGPD: o que é e como elaborar o termo consentimento do tratamento de dados pessoais. Jusbrasil, 2021. Disponível em: <https://www.jusbrasil.com.br/artigos/lgpd-o-que-e-e-como-elaborar-o-termo-consentimento-do-tratamento-de-dados-pessoais/1245110635> . Acesso em: 12/10/2023. <br>
 
 
-## Histórico de Versões
+## 📑 Histórico de Versões
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 11/10/2023 | Introdução | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
-| `1.1`  | 11/10/2023 | Adicionado modelo de termo de consentimento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | |1
+| `1.0`  | 11/10/2023 | Introdução | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  [Mayara Alves](https://github.com/Mayara-tech)
+| `1.1`  | 11/10/2023 | Adicionado modelo de termo de consentimento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)
 
