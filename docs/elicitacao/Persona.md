@@ -82,9 +82,9 @@ para gerar uma imagem falsa que representaria a persona.
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/mayara-tech).</p></font>
 
-<font size="3"><p style="text-align: center">**Tabela 5** - Antipersona Carlos Sousa</p></font>
+<font size="3"><p style="text-align: center">**Tabela 4** - Antipersona Carlos Sousa</p></font>
 
-| <font size="3"><p style="text-align: center">Figura 5 - Antipersona Carlos Sousa</p></font><figure markdown>![Persona Carlos Sousa](../assets/persona_carlos.jpg){: style="height:500px;width:500px"} <figcaption>Fonte: Elaborada por [Mayara Alves](https://github.com/Mayara-tech) (2023).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
+| <font size="3"><p style="text-align: center">Figura 4 - Antipersona Carlos Sousa</p></font><figure markdown>![Persona Carlos Sousa](../assets/persona_carlos.jpg){: style="height:500px;width:500px"} <figcaption>Fonte: Elaborada por [Mayara Alves](https://github.com/Mayara-tech) (2023).<a id="TEC2" href="#QT2">^2^</a></figcaption></figure> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Nome**: Carlos Sousa                                                                                                                                                                                                                                                                                                                                                                |
 | **Status**: Antipersona.                                                                                                                                                                                                                                                                                                                                                                     |
@@ -116,5 +116,5 @@ para gerar uma imagem falsa que representaria a persona.
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 14/10/2023 | Criação das personas                        |[Mayara Alves](https://github.com/Mayara-tech)  | [Breno](https://github.com/brenob6)|
+| `1.0`  | 14/10/2023 | Criação das personas                        |[Mayara Alves](https://github.com/Mayara-tech)  | [Breno Queiroz](https://github.com/brenob6)|
 
