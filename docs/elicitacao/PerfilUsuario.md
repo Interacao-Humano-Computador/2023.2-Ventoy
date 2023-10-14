@@ -65,12 +65,20 @@ De acordo com a figura 6 sobre a frequência que o participante utiliza o aplica
 A questão de numero 7, era uma questão aberta onde os usuários poderiam escrever o seu objetivo ao Utilizar o ventoy, nesta questão 98,2% dos usuários relacionaram sua resposta a funcionalidade de criar USB bootável, e os outros 1,8% relacionaram a apredizagem ou criação de um inicializador de arquivos, como podemos observar na figura 7.
 
 <font size="3"><p style="text-align: center">**Figura 7** - Questão 7.</p></font>
-![Figura 7. Questão 7](../assets/grafico-7.PNG)
+![Figura 7. Questão 7](../assets/Grafico-7.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 #### Questão 8 - (Caso a resposta da questão 1 seja sim) Qual seu grau de satisfação ao utilizar o site do Ventoy?
-De acordo com a figura 9 em relação ao grau de satisfação dos usuários com ao utilizarem o site do Ventoy, o gráfico apresentou que os participantes possuem uma boa satisfação ao utilizarem o site. 
+De acordo com a figura 8 em relação ao grau de satisfação dos usuários com ao utilizarem o site do Ventoy, o gráfico apresentou que os participantes possuem uma boa satisfação ao utilizarem o site. 
 
 <font size="3"><p style="text-align: center">**Figura 8** - Questão 8.</p></font>
 ![Figura 8. Questão 8](../assets/Grafico-8.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
+#### Questão 2 - (Caso a resposta da questão 1 seja não) Por que você não utiliza o site do ventoy??
+De acordo com a figura 9 em relação ao porque dos usuários não utilizarem o site do ventoy, 71,4% dos usuários afirmaram não conhecer o site, e outros 21,4% não utilizam por não gosta da sua interface.
+
+<font size="3"><p style="text-align: center">**Figura 9** - Questão 2.</p></font>
+![Figura 9. Questão 2](../assets/Grafico-9.PNG)
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
