@@ -82,3 +82,26 @@ De acordo com a figura 9 em relação ao porque dos usuários não utilizarem o 
 ![Figura 9. Questão 2](../assets/Grafico-9.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
+## Definição do Perfil de Usuário
+
+Vale ressaltar que a análise das resposta foi feita com base em uma pequena amostra de pessoas que responderam o questionário nos foruns de comunidade do Ventoy.
+Após uma análise das respostas, foi traçado um Perfil de Usuário para o aplicativo com as seguintes descrições:
+
+- **Gênero:** Em sua maioria Masculino.
+- **Idade:** Entre 25 e 34 anos.
+- **Experiência:** Experiente.
+- **Atitudes:** Tecnófilos.
+- **Tarefas primárias:** Criar pen-drive bootável
+
+
+## Bibliografia
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+> HENRIQUE, Matheus. FERREIRA, Rafael. Perfil do Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 1/2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/). Acesso em: 29 setembro de 2023.
+
+## 📑 Histórico de versões:
+
+ Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   
+ :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: 
+  `1.0`  | 29/10/2023 |            Criação do Perfil de Usuário           | [Mayara Alves](https://github.com/Mayara-tech) | [Luis Eduardo](https://github.com/LuisMiranda10)
+  
