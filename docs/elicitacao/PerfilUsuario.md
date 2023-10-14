@@ -15,3 +15,62 @@ usuário do site e 2 perguntas para os usuários que nunca utilizaram o Ventoy. 
 
 ## Resultado do questionário 
 O resultado no questionário teve o total de 74 respostas todas de acordo com o [Termo de consentimento](termoConsertimento.pdf). O resultado das respostas são apresentados nas figuras de 1 a 9.
+
+#### Questão 1 - Você e usuário do site do Ventoy?
+De acordo com o gráfico apresentado na figura 1 em relação a utilização do aplicativo, 60 participantes (81,1%) são usuários do site do Ventoy.
+
+
+<font size="3"><p style="text-align: center">**Figura 1** - Questão 1.</p></font>
+![Figura 1. Questão 1](../assets/Grafico-1.PNG)
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
+#### Questão 2 - (Caso a resposta da questão 1 seja sim) Qual seu sexo??
+De acordo com a figura 2, o gênero dos participantes em sua maioria é masculino representando 93,3% das respostas sendo que o gênero feminino presenta os outros 6,7%.
+
+
+<font size="3"><p style="text-align: center">**Figura 2** - Questão 2.</p></font>
+![Figura 2. Questão 2](../assets/Grafico-2.PNG)
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
+#### Questão 3 - (Caso a resposta da questão 1 seja sim) Qual seu estado civil?
+De acordo com a figura 3, o estado civil dos participantes em sua maioria é solteiro representando 65% das respostas, onde divorciado representa os outros 25%.
+
+
+<font size="3"><p style="text-align: center">**Figura 3** - Questão 3.</p></font>
+![Figura 3. Questão 3](../assets/Grafico-3.PNG)
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
+#### Questão 4 - (Caso a resposta da questão 1 seja sim) Qual a sua faixa etária ?
+De acordo com a figura 4 em relação a faixa etária dos participantes, a maioria representando 46,7% dos participantes estão na faixa etária de 25 a 34 anos, seguido de 38,3% que estão na faixa etária de 18 a 24 anos.
+
+<font size="3"><p style="text-align: center">**Figura 4** - Questão 4.</p></font>
+![Figura 4. Questão 4](../assets/Grafico-4.PNG)
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
+#### Questão 5 - (Caso a resposta da questão 1 seja sim) Qual seu grau de afinidade com dispositivos tecnológicos? (Computadores, tablets, smartphones e etc.)?
+De acordo com a figura 5 em relação ao grau de afinidade com os dispositivos eletrônicos, o gráfico apresentou que os participantes possuem muita experiência em manusear dispositivos eletrônicos com 70% e os outros 26,7% com média experiencia.
+
+<font size="3"><p style="text-align: center">**Figura 5** - Questão 5.</p></font>
+![Figura 5. Questão 5](../assets/Grafico-5.PNG)
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
+#### Questão 6 - (Caso a resposta da questão 1 seja sim) Com qual frequência você utiliza o site do Ventoy? ?
+De acordo com a figura 6 sobre a frequência que o participante utiliza o aplicativo 76,7% selecionaram a opção esporadicamente e os outros 21,6% semanalmente e diariamente.
+
+<font size="3"><p style="text-align: center">**Figura 6** - Questão 6.</p></font>
+![Figura 6. Questão 6](../assets/Grafico-6.PNG)
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
+#### Questão 7 - (Caso a resposta da questão 1 seja sim) Qual seu principal objetivo ao utilizar o site do Ventoy?
+A questão de numero 7, era uma questão aberta onde os usuários poderiam escrever o seu objetivo ao Utilizar o ventoy, nesta questão 98,2% dos usuários relacionaram sua resposta a funcionalidade de criar USB bootável, e os outros 1,8% relacionaram a apredizagem ou criação de um inicializador de arquivos, como podemos observar na figura 7.
+
+<font size="3"><p style="text-align: center">**Figura 7** - Questão 7.</p></font>
+![Figura 7. Questão 7](../assets/grafico-7.PNG)
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
+#### Questão 8 - (Caso a resposta da questão 1 seja sim) Qual seu grau de satisfação ao utilizar o site do Ventoy?
+De acordo com a figura 9 em relação ao grau de satisfação dos usuários com ao utilizarem o site do Ventoy, o gráfico apresentou que os participantes possuem uma boa satisfação ao utilizarem o site. 
+
+<font size="3"><p style="text-align: center">**Figura 8** - Questão 8.</p></font>
+![Figura 8. Questão 8](../assets/Grafico-8.PNG)
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
