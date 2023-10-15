@@ -38,6 +38,30 @@ O diagrama feito para analisar esta tarefa foi represento em um diagrama na figu
 | 2.1. Documentação de uso no Windows |
 | 2.2. Documentação de uso no Linux |
 
+### Fazer Postagem no Fórum
+
+O diagrama feito para analisar esta tarefa foi represento em um diagrama na figura 3 e na na tabela 2.
+Nesta tarefa o usuário tem como objetivo criar um novo post no fórum do Ventoy.
+
+<center>
+<b>Figura 03</b> - Diagrama HTA fazer postagem no fórum
+
+![HTA postagem no fórum](../../assets/post.drawio.png)
+
+<b>Fonte</b>:  <a href="https://github.com/brenob6">Breno</a>
+
+<p align="center"><b>Tabela 02</b> - Representação HTA em tabela da figura 3</p>
+
+|**Objetivos / Operações** | **Problemas e Recomendações** |
+|:----------------------|:-------------------------------|
+|0. Criar uma postagem em um fórum 1>2|**Plano:** Escrever uma postagem e publicar no fórum. <br/> **Feedback** a nova postagem aparece no fórum com a tag recente.|
+|1. Realizar login|**Input** dados de login do usuário. <br/>**feedback** caso não tenha exito no login o usuário deve ser informado.|
+|2. Escolher fórum |**Input**: Escolher um fórum que se adaque melhor ao tema da postagem.|
+|3. Criar postagem 1+2|**Input**: clica em criar novo post.|
+|3.1 Informar: assunto, texto, ícone |**Input**: escrever mensagem da postagem<br/>**Recomentadação**: salvar rascunho caso o usuário não finalize a ação.|
+    |3.2 Anexar arquivo|**Input**: anexar algum arquivo ao post<br/> **Recomendação**: permitir ao usuário inserir arquivo arrastando o arquivo.|
+
+</center>
 ## Bibliografia
 >Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193.
 
@@ -47,5 +71,5 @@ O diagrama feito para analisar esta tarefa foi represento em um diagrama na figu
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|1.0| 14/10/2023 | Criação da página de analise de tarefas | [Vinícius Mendes](https://github.com/yabamiah)| [Breno](https://github.com/brenob6) |
+|1.0| 14/10/2023 | Criação da página de analise de tarefas | [Vinícius Mendes](https://github.com/yabamiah) e [Breno](https://github.com/brenob6)| [Breno](https://github.com/brenob6) |
 
