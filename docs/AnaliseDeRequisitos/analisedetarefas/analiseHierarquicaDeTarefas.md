@@ -1,5 +1,7 @@
 # Análise Hierárquica de Tarefas 
-## IntroduçãoA Análise Hierárquica de Tarefas (HTA - Hierarchical Task Analysis) é um método de análise de tarefas que é utilizado para obtermos um maior entendimento das competências e de quais tarefas os usuários realizam em um sistema e como eles realizam e o por quê, para nos ajudar a entender o processo da atividade e a identificar os problemas nesse processo.
+## IntroduçãoA Análise Hierárquica de Tarefas (HTA - Hierarchical Task Analysis) 
+
+é um método de análise de tarefas que é utilizado para obtermos um maior entendimento das competências e de quais tarefas os usuários realizam em um sistema e como eles realizam e o por quê, para nos ajudar a entender o processo da atividade e a identificar os problemas nesse processo.
 
 Nesse método de análise de tarefas, iremos decompor as tarefas em objetivos, objetivo esse que representa o estado final de uma ação. No nível mais alto, ss objetivos serão divididos subobjetivos, e a relação entre eles formam um plano, que a definição de subobjetivos que irão garantir que seja possível atingir um objetivo. 
 
@@ -7,7 +9,7 @@ No nível mais baixo, cada subobjetivo será realizado por uma operação. Logo 
 
 <p align="center"><b>Figura 01</b> - Elementos de um diagrama HTA.</p>
 
-![Elementos de um diagrama HTA](../assets/elementoshta.png)
+![Elementos de um diagrama HTA](../../assets/elementoshta.png)
 
 <p align="center"><b>Fonte</b>: Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193</p>
 
@@ -19,7 +21,7 @@ O diagrama feito para analisar esta tarefa foi represento em um diagrama na figu
 
 <p align="center"><b>Figura 02</b> - Diagrama HTA do iniciar uso do Ventoy</p>
 
-![HTA uso do ventoy](../assets/HTA.drawio.png)
+![HTA uso do ventoy](../../assets/HTA.drawio.png)
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/yabamiah">Vinicius Mendes.</a></p>
 
 
