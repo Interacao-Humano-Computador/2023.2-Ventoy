@@ -7,11 +7,10 @@ Nesse método de análise de tarefas, iremos decompor as tarefas em objetivos, o
 
 No nível mais baixo, cada subobjetivo será realizado por uma operação. Logo abaixo na figura 1, há uma demonstração do livro Interação Humano-Computador, de Barbosa e Silva, no capítulo 6, p. 193, que representa os elementos de um diagrama HTA.
 
-<font size="3"><p style="text-align: center">Figura 01 - Elementos de um diagrama HTA.</p></font>
-<figure markdown>
-  <img src="../../assets/elementoshta.png" alt="Elementos de um diagrama HTA" style="height:auto;width:auto">
-  <figcaption>Fonte: Barbosa e Silva. Interação Humano-Computador. 1 ed. ELSEVIER INC, 2010. Capítulo 6, p. 193</figcaption>
-</figure>
+<p align="center"><b>Figura 01</b> - Elementos de um diagrama HTA.</p>
+
+![Elementos de um diagrama HTA](../../assets/elementoshta.png)
+<p align="center"><b>Fonte</b>: Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193</p>
 
 ## Análise Hierárquica de Tarefas (HTA)
 
