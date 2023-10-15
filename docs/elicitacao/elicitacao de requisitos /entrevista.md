@@ -69,4 +69,4 @@ and the Social Sciences. New York, NY: Teachers College Press, 1998
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-`1.0` | 15/10/2023| Entrevista  | [Mayara Alves](https://github.com/Mayara-tech) e [Breno Queiroz](https://github.com/brenob6) | Altino Arthur
+`1.0` | 15/10/2023| Entrevista  | [Mayara Alves](https://github.com/Mayara-tech) e [Breno Queiroz](https://github.com/brenob6) | [Altino Arthur](https://github.com/arthurrochamoreira)
