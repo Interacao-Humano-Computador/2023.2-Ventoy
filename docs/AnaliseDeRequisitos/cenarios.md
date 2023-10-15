@@ -11,119 +11,109 @@ necessidade dos seus usuários (ROSSON, CARROL, apud BARBOSA, SILVA, 2010).
 
 ## Cenário 01
 
-O cenário de atividade
-- narração sobre atividades típicas e críticas;
-- Relatar as funcionalidade do sistema, sem especificar como os 
-usuários vão utilizar
+### Aprendendo a Ferramenta
 
-Cenario de informação
+**Ator:** Júlia Motonaro
 
-- elabora de uma cenário de atividade que descreve informações
-fornecidos pelo sustema para o usuário.
+Júlia Montonaro é uma estudante dedicada de Engenharia de Software, sempre curiosa
+para aprender algo novo. Durante as férias, ela decidiu explorar o mundo das distribuições
+Linux e testar diferentes sistemas operacionais em seu computador. Ela decide utilizar o
+Ventoy, para criar um drive USB inicializável com várias imagens ISO de sistemas operacionais.
 
-cenário de interação
+Ela visita o site do Ventoy para baixar a ferramenta. Ao fazer o download, ela se deparou
+com uma série de opções e configurações que a deixaram um pouco confusa. Determinada
+a aprender, Júlia navegou até a página de documentação do Ventoy, nela Júlia se depara com uma
+página com notícias recentes sobre o aplicativo, por um momento ela pensa que havia clicado em um
+link errado, mas ao canto da página, na navbar ela observa um link para o "GetStarted", que por sua
+vez possuía informações de instalação. Decidida a entender como tudo funcionava, ela dedicou
+seu tempo para aprender a instalar e configurar a ferramenta.
 
-- Detalhes das ações do usuário e as respectivas respostas
-do sistema necessárias para executar as tarefas
+Com paciência e concentração, Júlia conseguiu instalar o Ventoy com sucesso em seu
+drive USB. Animada, ela escolheu uma distribuição Linux que sempre quis testar: o PopOS.
+No entanto, ao tentar instalar o PopOS em seu computador, ela encontrou problemas.
+Apesar de seus esforços, o sistema simplesmente não inicializava corretamente.
 
-### Testando Distros
+Ela voltou ao site do Ventoy e explorou a seção de perguntas frequentes (FAQ) em busca
+de uma solução. Dentro na página Montonaro, percorre toda a lista de questões fornecidas
+uma a uma, tentando achar uma que se adeque a seu problema. Após verificar várias questões
+ela descobre algo crucial: a importância de verificar a integridade da imagem ISO usando um checksum.
 
-**Atores:** Fulano (aluno da FGA)
+Percebendo que esse poderia ser o problema, Júlia fez o checksum da imagem ISO do PopOS
+que tinha baixado anteriormente. Para sua surpresa, o resultado indicava que a imagem
+estava corrompida.
 
-Fulano, um estudante de Engenharia de Software apaixonado por tecnologia, estava animado
-com as férias de verão que se aproximavam. Durante o semestre, ele ouvira falar muito
-sobre diferentes distribuições Linux e estava ansioso para experimentar algumas delas
-. Ele decidiu que era hora de testar suas habilidades técnicas e se aventurar no mundo
-das distribuições Linux durante as férias.
+Sem perder tempo, Júlia fez o download do arquivo ISO do PopOS novamente, garantindo
+que desta vez fosse uma cópia íntegra e não corrompida. Com a nova imagem ISO em mãos
+, ela seguiu os passos do Ventoy e, para sua alegria, conseguiu instalar o PopOS com
+sucesso em seu computador.
 
-Com um entusiasmo crescente, Fulano começou sua jornada pesquisando sobre as melhores maneiras
-de testar várias distribuições Linux em seu computador. Após algumas pesquisas online
-, ele descobriu o Ventoy, uma ferramenta que permite criar um USB inicializável com
-várias imagens ISO de sistemas operacionais. Empolgado com a ideia, ele acessou o site
-do Ventoy para começar sua jornada.
+### Análise Cenário 01
 
-Ao chegar no site do Ventoy, Fulano rapidamente entra na página de Download e baixa a
-ferramenta. Porém Fulano não sabe como instalar e nem configurar. Então ele retorna ao
-site e entra na página de documentação, e encontra o campo "Get started" da documentação
+Pontos considerados problemáticos e devem ser considerados no projeto.
 
-
-Fulano encontrou uma seção chamada "GetStarted" na página
-de documentação. Ele sabia que precisava aprender a instalar e configurar o Ventoy
-antes de começar a experimentar as diferentes distribuições Linux. Com paciência, ele
-leu cuidadosamente as instruções e seguiu cada passo do processo de instalação. Apesar
-de ser um novato, Fulano conseguiu instalar o Ventoy com sucesso em seu dispositivo
-USB.
-
-No entanto, quando ele tentou instalar sua primeira distribuição Linux, algo deu errado
-. Apesar de todos os seus esforços, o sistema simplesmente não inicializava. Confuso
-e frustrado, Fulano decidiu procurar ajuda. Ele navegou até a seção de Perguntas Frequentes
-(FAQ) do site do Ventoy em busca de uma solução para seu problema.
-
-Após um pouco de pesquisa na seção de FAQ, Fulano encontrou uma pergunta relacionada ao
-problema que ele estava enfrentando. A resposta indicava que ele deveria verificar
-a integridade do arquivo ISO usando um checksum para garantir que não estava corrompido
-. Fulano percebeu que essa poderia ser a causa de seus problemas.
-
-Determinado a resolver o problema, Fulano baixou novamente a ISO do Ubuntu, desta vez tomando cuidado
-extra para garantir que o arquivo não estivesse corrompido. Ele usou uma ferramenta
-para calcular o checksum da ISO e comparou-o com o valor fornecido no site oficial
-do Ubuntu. Para sua alegria, os valores coincidiram!
-
-Com o arquivo ISO verificado e íntegro, Fulano repetiu o processo de instalação usando
-o Ventoy. Desta vez, tudo correu perfeitamente. Ele estava emocionado ao ver o Ubuntu
-sendo inicializado em seu computador. O ambiente Linux estava à sua disposição para
-explorar e aprender.
-
-Ao longo das férias, Fulano mergulhou profundamente no mundo Linux. Ele experimentou várias
-distribuições, aprendeu sobre diferentes ambientes de desktop e desenvolveu suas habilidades
-técnicas. O incidente inicial, que o levou a aprender sobre a importância dos checksums
-, acabou sendo uma valiosa lição que o ajudou a evitar problemas semelhantes no futuro.
-
-Ao final das férias, Fulano não apenas ganhou um conhecimento mais profundo sobre o
-Linux, mas também a confiança para experimentar novas tecnologias e resolver problemas
-técnicos por conta própria. Sua paixão pela Engenharia de Software apenas aumentou
-, e ele estava ansioso para aplicar o que aprendeu em seu próximo ano letivo e em futuros
-projetos pessoais.
-
-###
-Análise Cenário 01
-
-Pontos considerados problemáticas e devem ser considerados em
-um projeto.
-
-- O site possui uma linguaguem bastante técnica, que pode "assustar"
-usuários que não possuem conhecimento avançado em sistemas operacionáis.
-- Uma página tutorial que mostre passo a passo, como utilizar a ferramenta,
-e seu processo de instalação seria útil para usuários com pouco 
-conhecimento técnico.
-- Uma barra de pesquisa na página FAQ pode auxiliar para encontrar um
-resposta de maneira rápida.
-
+- Notícias e novidades da ferramenta, podem se disponibilizados em um lugar mais adequado
+no site e não da documentação.
+- A página de FAQ não possui campo de busca, sendo necessário realizar uma busca manual
+pela página para encontrar um campo que se adeque ao problema do usuário.
 
 ## Cenário 02
 
-### Título
+### Pesquisando Features
 
-**Atores:** Joana (secretária), Fernando (aluno)
+**Atores:** Tony Mitchell
 
-Cenário aqui
+Tony Mitchell é um profissional experiente na área de Tecnologia da Informação (
+TI). Tony gostaria de aprender mais sobre o Ventoy, e gostaria de encontrar maneiras de
+personalizar seu drive bootável.
+
+Tony então acessa a documentação do aplicativo, acessando a documentação Tony não encontra um tópico
+sobre personalização do Ventoy. Ele preciona as teclas Ctrl+f e procura por "personalize", mas sem sucesso.
+Tony então percorre toda página prestanto bastante ateção no tópicos da sidebar, e encontra o tópico theme.
+Ele acessa e encontra algumas informações interessantes.
+
+Tony gostaria de se aprofundar ainda mais em sua pesquisa, então ele opta por acessar o fórum do
+site.
+
+Acessando a página do fórum, Tony se depara com alguns tópicos, a página fornece diferentes
+fórum para tratar de diferentes tópicos. Tony percorre a página e entra no fórum que ele
+julga se adequar mais com seu próposito. Clicando no título do fórum Tony é redirecionado
+para uma página de seleção do fórum, porém dessa fez só há o fórum que Tony havia clicado
+anteriormente, Tony acha estranho, mas após clicar no forúm pela segunda fez ele é redirecionado
+para um página com as postagens do fórum.
+
+Mitchell se depara com uma tabela com várias postagens. Cada linha na tabela possui alguns ícones
+que Tony não sabe o significa. Tony percorre a primeira página, tentando achar algo sobre o tema que
+ele procura, mas não tem sucesso. Ao chegar ao final da página Tony repara em uma legenda para os ícones
+que ele não sabia o que significava. Continuando no fórum ele acessa a próxima página da tabela, e procura,
+mas também sem sucesso. Há muitas páginas. Então Tony recorre a pesquisa que ele visualiza na página.
+
+Fazendo a pesquisa, utilizando palavras chaves, Tony encontra algumas postagem sobre o assunto que
+ele procura.
+
+### Análise Cenário 02
+
+Pontos considerados problemáticos e devem ser considerados no projeto.
+
+- É importante que haja um campo de pesquisa na documentação do site.
+- Os ícones das postagens nos fóruns devem ser intuitivos.
+- A legenda de ícones no site deve se encontrar no topo da página não ao final.
 
 ## Cenário 03
 
-### Título
+### Doação
 
-**Atores:** Joana (secretária), Fernando (aluno)
+**Atores:** Steve Vobes
 
-Cenário aqui
+Steve Vobes é um grande entusiasta de projetos open-source, ao entrar no site do Ventoy
+ele se encomoda bastante com os anúncios evasivos que existem na página. Vobes então decide
+ajudar com um doação. Ele clica no campo donate na navbar e é direcionado para uma página 
+onde pode fazer doações fica paybay, cripto-moedas, etc.
 
-## Análise dos Cenários
+### Análise Cenário 03
 
-No cenário x, foi observados alguns pontos que podem ser
-considerados problemáticos:
+Pontos considerados problemáticos e devem ser considerados no projeto.
 
-- Problema 1
-- Problema 2
-- Problema 3
+- Anúncios evasivos podem prejudicar a experiência do usuário.
 
 # Bibliografia
 
