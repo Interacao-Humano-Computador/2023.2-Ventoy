@@ -19,7 +19,6 @@ A estrutura de entrevista utilizada foi a de:
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/o-aAB8D8C3s?si=efG7a5xVPrjy62PJ&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 ## Roteiro 
 Na Tabela 1, é possível contemplar o roteiro empregado para a condução da entrevista.
