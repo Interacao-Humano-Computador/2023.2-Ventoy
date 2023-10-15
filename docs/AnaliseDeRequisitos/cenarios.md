@@ -119,7 +119,7 @@ Pontos considerados problemáticos e devem ser considerados no projeto.
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
-## Histório de versão
+📑## Histório de versões:
 
 <center>
 
