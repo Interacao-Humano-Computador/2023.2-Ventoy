@@ -36,13 +36,14 @@ nav:
       - Processo design: planejamento/processo_de_design.md
       - Sites avaliados: planejamento/sites-avaliados.md
       - Site escolhido: planejamento/site-escolhido.md
-  - Análise de Requisitos:
-      - Aspectos Éticos: AnaliseDeRequisitos/aspectosEticos.md
-      - Perfil de Usuário: elicitacao/PerfilUsuario.md
-      - Persona: elicitacao/Persona.md
-      - Elicitação de requisitos:
-        - Entrevista: elicitacao/elicitacao de requisitos/entrevista.md
-        - Brainstorming: icitacao/elicitacao de requisitos/Brainstorming.md
+- Análise de Requisitos:
+  - Análise de Tarefas: AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md
+  - Aspectos Éticos: AnaliseDeRequisitos/aspectosEticos.md
+  - Perfil de Usuário: elicitacao/PerfilUsuario.md
+  - Persona: elicitacao/Persona.md
+  - Elicitação de requisitos:
+    - Entrevista: elicitacao/elicitacao de requisitos/entrevista.md
+    - Brainstorming: icitacao/elicitacao de requisitos/Brainstorming.md
 theme:
   name: material
   features:
@@ -68,5 +69,3 @@ theme:
   language: pt-BR
   favicon: assets/icon.PNG
   logo: assets/icon.PNG
-
-
