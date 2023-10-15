@@ -70,6 +70,6 @@ Uma possível forma de organizar o texto em uma tabela em markdown é:
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 ---------- | -----  | ------ | ---------- | ----------
- 1.0 | 15/10/2023 | Introdução, Metodologia e Resultados |[Limirio Guimarães](https://github.com/LimirioGuimaraes)|
+ 1.0 | 15/10/2023 | Introdução, Metodologia e Resultados |[Limirio Guimarães](https://github.com/LimirioGuimaraes) [Vinicius Mendes](https://github.com/yabamiah) |
  
 
