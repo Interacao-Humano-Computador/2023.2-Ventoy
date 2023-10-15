@@ -31,12 +31,12 @@ O diagrama feito para analisar esta tarefa foi representado em um diagrama na fi
 <p align="center"><b>Tabela 01</b> - Representação HTA em tabela da figura 2</p>
 
 |**Objetivos / Operações** | **Problemas e Recomendações** |
-|:-----------------------:|:--------------------------------:|
-| 0. Começar a usar o Ventoy 1+2| **Feedback**: Criar um pendrive bootável; **Plano**: Baixar o Ventoy e acessar a documentação; **Recomendação**: Interface da documentação mais limpo e minimalista | 
-| 1. Escolher arquivo para instalação 1/2 | **Input**: Clicar em uma das opções de download de arquivos para diferentes sistemas operacionais; **Plano**: Escolher arquivo compatível com o sistema do usuário |
+|:------------------------|:---------------------------------|
+| 0. Começar a usar o Ventoy 1+2| **Feedback**: Criar um pendrive bootável. <br/> **Plano**: Baixar o Ventoy e acessar a documentação. <br/> **Recomendação**: Interface da documentação mais limpo e minimalista. | 
+| 1. Escolher arquivo para instalação 1/2 | **Input**: Clicar em uma das opções de download de arquivos para diferentes sistemas operacionais. <br/> **Plano**: Escolher arquivo compatível com o sistema do usuário. |
 | 1.1. Arquivo para instalação em Windows |
 | 1.2. Arquivo para instalação em Linux |
-| 2. Acessar a documentação de uso do Ventoy no seu sistema operacional 1/2| **Input**: Selecionar tópico de uso do Ventoy na documentação; **Plano**: Aprender a utilizar o Ventoy no sistema operacional atual do usuário |
+| 2. Acessar a documentação de uso do Ventoy no seu sistema operacional 1/2| **Input**: Selecionar tópico de uso do Ventoy na documentação. <br/> **Plano**: Aprender a utilizar o Ventoy no sistema operacional atual do usuário. |
 | 2.1. Documentação de uso no Windows |
 | 2.2. Documentação de uso no Linux |
 
