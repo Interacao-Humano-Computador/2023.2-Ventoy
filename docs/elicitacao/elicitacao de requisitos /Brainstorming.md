@@ -27,7 +27,7 @@ Nome| Função|
 
 ## Metodologia
 
-A técnica de brainstorming foi empregada para coletar dados e levantar os requisitos dos usuários. A sessão ocorreu em uma reunião via Discord, no dia  15 de outubro de 2023, às 17:42, com a participação de seis usuários, conforme mostrado na Tabela 1. A reunião teve a duração aproximada de 25 minutos e foi conduzida por um moderador, que explicou o método e esclareceu as dúvidas dos participantes. Em seguida, o moderador iniciou a dinâmica, na qual os usuários discutiram livremente sobre o tema proposto, seguindo as orientações do facilitador. Todos os participantes se sentiram à vontade para compartilhar suas ideias sobre o assunto, e apenas ocasionalmente foi necessário intervir para incluir algum usuário na conversa sobre o tema. A reunião foi gravada com consentimento dos usuários e pode ser acessada [aqui](https://youtu.be/RSev56lJzfo)
+A técnica de brainstorming foi empregada para coletar dados e levantar os requisitos dos usuários. A sessão ocorreu em uma reunião via Discord, no dia  14 de outubro de 2023, às 17:42, com a participação de seis usuários, conforme mostrado na Tabela 1. A reunião teve a duração aproximada de 25 minutos e foi conduzida por um moderador, que explicou o método e esclareceu as dúvidas dos participantes. Em seguida, o moderador iniciou a dinâmica, na qual os usuários discutiram livremente sobre o tema proposto, seguindo as orientações do facilitador. Todos os participantes se sentiram à vontade para compartilhar suas ideias sobre o assunto, e apenas ocasionalmente foi necessário intervir para incluir algum usuário na conversa sobre o tema. A reunião foi gravada com consentimento dos usuários e pode ser acessada [aqui](https://youtu.be/RSev56lJzfo)
 
 
 ## Resultados
