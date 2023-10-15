@@ -59,7 +59,7 @@ Nesta tarefa o usuário tem como objetivo criar um novo post no fórum do Ventoy
 |2. Escolher fórum |**Input**: Escolher um fórum que se adaque melhor ao tema da postagem.|
 |3. Criar postagem 1+2|**Input**: clica em criar novo post.|
 |3.1 Informar: assunto, texto, ícone |**Input**: escrever mensagem da postagem<br/>**Recomendação**: salvar rascunho caso o usuário não finalize a ação.|
-    |3.2 Anexar arquivo|**Input**: anexar algum arquivo ao post<br/> **Recomendação**: permitir ao usuário inserir arquivo arrastando o arquivo.|
+|3.2 Anexar arquivo|**Input**: anexar algum arquivo ao post<br/> **Recomendação**: permitir ao usuário inserir arquivo arrastando o arquivo.|
 
 </center>
 ## Bibliografia
