@@ -17,14 +17,15 @@ A estrutura de entrevista utilizada foi a de:
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=e7p8hn9R-GQ" target="blanket">Vídeo da Entrevista</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/o-aAB8D8C3s?si=efG7a5xVPrjy62PJ&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/o-aAB8D8C3s?si=efG7a5xVPrjy62PJ&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 ## Roteiro 
 Na Tabela 1, é possível contemplar o roteiro empregado para a condução da entrevista.
 
-<p align="center"><b>Tabela 1.</b> - Roteiro da entrevista  </p>
+<p align="center"><b>Tabela 1.</b> Roteiro da entrevista  </p>
+
   
 Página  | Pergunta 
 :---------: | :------
@@ -35,10 +36,12 @@ Fórum | 10. Você consegue identificar rapidamente os temas que são tratadaos 
 Página de TestedISO | 12. Você consegue acha rapidamente se uma distribução que você visa instalar foi testada no Ventoy?
 Sobre todo site | 13. Quais são as funcionalidades que acha que são importantes, que foram ou que devem ser implementadas no Ventoy para melhora a usabilidade do mesmo?
 
+
 ## Requisitos Elicitados 
 Após a realização da entrevista com o usuário do Ventoy, foi possivel eliciar os requsitos apresentados na Tabela 2. Onde cada requisito e classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional, além disso também será representado se já há uma implementação do requisito no aplicativo.
 
 <p align="center"><b>Tabela 01</b> - Requisitos elicitados na Entrevista.</p>
+
 
 | **Identificador** | **Requisitos** | **Tipo** | **Implementado** |
 |--------------|-------------|-----|-----------------|
