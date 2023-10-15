@@ -42,8 +42,7 @@ nav:
       - Persona: elicitacao/Persona.md
       - Elicitação de requisitos:
         - Entrevista: elicitacao/elicitacao de requisitos/entrevista.md
-        - Brainstorming: elicitacao/elicitacao de requisitos/Brainstorming.md
-
+        - Brainstorming: icitacao/elicitacao de requisitos/Brainstorming.md
 theme:
   name: material
   features:
