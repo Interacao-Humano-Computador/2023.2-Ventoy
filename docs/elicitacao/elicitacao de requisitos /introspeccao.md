@@ -8,7 +8,7 @@ Como foi dito, esta técnica é realizada pelo próprio avaliador, levando em co
 
 **Desvantagens**: O avaliador pode estar fortemente vinculado ao uso do sistema, o que pode dificultar a visão na perspectiva de algum outro tipo de usuário.
 
-## Procedimento de Introspecção
+## Metodologia
 Para a preparação da técnica, foi necessário elaborar mentalmente um cenário de como o sistema deve ser para um usuário que busca resolver um determinado problema.
 
 O cenário imaginário elaborado foi: "Um usuário jovem precisa instalar o linux em seu notebook e, ao necessitar criar um pen drive bootável, ele encontra o software Ventoy. Porém, para utilizá-lo, ele precisa saber como proceder e, assim, acessa o site do Ventoy.".
@@ -41,4 +41,4 @@ Após o exercício mental de utilizar o site Ventoy para solucionar o problema d
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|1.0| 14/10/2023 | Criação da página de introspecção | [Vinícius Mendes](https://github.com/yabamiah)| [Luís Miranda](https://github.com/LuisMiranda10) e [Altino Arthur](https://github.com/arthurrochamoreira) |
+|`1.0`| 14/10/2023 | Criação da página de introspecção | [Vinícius Mendes](https://github.com/yabamiah)| [Luís Miranda](https://github.com/LuisMiranda10) e [Altino Arthur](https://github.com/arthurrochamoreira) |
