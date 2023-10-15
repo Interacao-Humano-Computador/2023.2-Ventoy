@@ -44,7 +44,7 @@ nav:
       - Elicitação de requisitos:
         - Entrevista: elicitacao/elicitacao de requisitos/entrevista.md
         - Brainstorming: elicitacao/elicitacao de requisitos/Brainstorming.md
-        - Introdupecção: elicitacao/elicitacao de requisitos/introspeccao.md
+        - Introspecção: elicitacao/elicitacao de requisitos/introspeccao.md
 
 theme:
   name: material
