@@ -1,3 +1,4 @@
+# Introspecção
 ## Introdução
 Quando falamos em técnicas de elicitação, de acordo com Goguen (1994) a técnica de introspecção é uma das mais utilizadas, já que é uma técnica que depende apenas do avaliador. A introspecção é uma técnica a qual a atividade é baseada em "imaginar" como o sistema deve ser e se comportar para solucionar um determinado problema do usuário.
 
