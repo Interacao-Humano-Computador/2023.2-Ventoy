@@ -24,7 +24,7 @@ De acordo com o gráfico apresentado na figura 1 em relação a utilização do 
 ![Figura 1. Questão 1](../assets/Grafico-1.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
-#### Questão 2 - (Caso a resposta da questão 1 seja sim) Qual seu sexo??
+#### Questão 2 - (Caso a resposta da questão 1 seja sim) Qual seu sexo?
 De acordo com a figura 2, o gênero dos participantes em sua maioria é masculino representando 93,3% das respostas sendo que o gênero feminino presenta os outros 6,7%.
 
 
@@ -40,7 +40,7 @@ De acordo com a figura 3, o estado civil dos participantes em sua maioria é sol
 ![Figura 3. Questão 3](../assets/Grafico-3.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
-#### Questão 4 - (Caso a resposta da questão 1 seja sim) Qual a sua faixa etária ?
+#### Questão 4 - (Caso a resposta da questão 1 seja sim) Qual a sua faixa etária?
 De acordo com a figura 4 em relação a faixa etária dos participantes, a maioria representando 46,7% dos participantes estão na faixa etária de 25 a 34 anos, seguido de 38,3% que estão na faixa etária de 18 a 24 anos.
 
 <font size="3"><p style="text-align: center">**Figura 4** - Questão 4.</p></font>
@@ -54,7 +54,7 @@ De acordo com a figura 5 em relação ao grau de afinidade com os dispositivos e
 ![Figura 5. Questão 5](../assets/Grafico-5.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
-#### Questão 6 - (Caso a resposta da questão 1 seja sim) Com qual frequência você utiliza o site do Ventoy? ?
+#### Questão 6 - (Caso a resposta da questão 1 seja sim) Com qual frequência você utiliza o site do Ventoy? 
 De acordo com a figura 6 sobre a frequência que o participante utiliza o aplicativo 76,7% selecionaram a opção esporadicamente e os outros 21,6% semanalmente e diariamente.
 
 <font size="3"><p style="text-align: center">**Figura 6** - Questão 6.</p></font>
@@ -75,7 +75,7 @@ De acordo com a figura 8 em relação ao grau de satisfação dos usuários com 
 ![Figura 8. Questão 8](../assets/Grafico-8.PNG)
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
-#### Questão 2 - (Caso a resposta da questão 1 seja não) Por que você não utiliza o site do ventoy??
+#### Questão 2 - (Caso a resposta da questão 1 seja não) Por que você não utiliza o site do ventoy?
 De acordo com a figura 9 em relação ao porque dos usuários não utilizarem o site do ventoy, 71,4% dos usuários afirmaram não conhecer o site, e outros 21,4% não utilizam por não gosta da sua interface.
 
 <font size="3"><p style="text-align: center">**Figura 9** - Questão 2.</p></font>

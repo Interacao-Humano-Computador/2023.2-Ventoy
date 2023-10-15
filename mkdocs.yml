@@ -26,18 +26,24 @@ nav:
       - Ata 1: atas/ata1.md
       - Ata 2: atas/ata2.md
       - Ata 3: atas/ata3.md
+      - Ata 4: atas/ata4.md
   - Planejamento:
-      - Cronograma planejado: planejamento/cronograma.md
+      - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/Ferramentas.md
       - Metodologia: planejamento/metodologia.md
       - Políticas: planejamento/políticas.md
       - Heatmap: planejamento/Heatmap.md
-      - Planejamento da avaliação: planejamento/Planejamento-da-avaliacao.md
       - Processo design: planejamento/processo_de_design.md
       - Sites avaliados: planejamento/sites-avaliados.md
       - Site escolhido: planejamento/site-escolhido.md
-  - Análise de Requisitos:
-      - Análise de Tarefas: AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md
+- Análise de Requisitos:
+  - Análise de Tarefas: AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md
+  - Aspectos Éticos: AnaliseDeRequisitos/aspectosEticos.md
+  - Perfil de Usuário: elicitacao/PerfilUsuario.md
+  - Persona: elicitacao/Persona.md
+  - Elicitação de requisitos:
+    - Entrevista: elicitacao/elicitacao de requisitos/entrevista.md
+    - Brainstorming: icitacao/elicitacao de requisitos/Brainstorming.md
 theme:
   name: material
   features:
