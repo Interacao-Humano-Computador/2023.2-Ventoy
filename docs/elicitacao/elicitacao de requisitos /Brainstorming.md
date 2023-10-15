@@ -30,13 +30,7 @@ Nome| Função|
 A técnica de brainstorming foi empregada para coletar dados e levantar os requisitos dos usuários. A sessão ocorreu em uma reunião via Discord, no dia  15 de outubro de 2023, às 17:42, com a participação de seis usuários, conforme mostrado na Tabela 1. A reunião teve a duração aproximada de 25 minutos e foi conduzida por um moderador, que explicou o método e esclareceu as dúvidas dos participantes. Em seguida, o moderador iniciou a dinâmica, na qual os usuários discutiram livremente sobre o tema proposto, seguindo as orientações do facilitador. Todos os participantes se sentiram à vontade para compartilhar suas ideias sobre o assunto, e apenas ocasionalmente foi necessário intervir para incluir algum usuário na conversa sobre o tema. A reunião foi gravada com consentimento dos usuários e pode ser acessada [aqui](https://youtu.be/RSev56lJzfo)
 
 
-## Requisitos priorizados
-
-Legenda da Tabela 2:
-
-* RFx: Requisito Funcional nºx
-
-### Funcionais
+## Resultados
 
 As sugestões dos usuários sobre a interface e a interação do site, obtidas na sessão de brainstorming, estão resumidas na Tabela 2. Essas sugestões abrangem aspectos como cores, fontes, layout, navegação, funcionalidades, feedback, entre outros. As sugestões foram agrupadas por usuário.
 
@@ -44,15 +38,12 @@ As sugestões dos usuários sobre a interface e a interação do site, obtidas n
 
 <center>
 
-Uma possível forma de organizar o texto em uma tabela em markdown é:
-
 | Usuário | Gostaria que tivesse | Poderia melhorar | Navegação do site | Responsividade | Acessibilidade | Clareza de informações | Funcionalidade interativas | Design estético | Integração com mídias sociais |
 |---------|----------------------|------------------|--------------------|----------------|----------------|------------------------|---------------------------|-----------------|----------------------------|
 | Gabriel |                      |                  | Redefinir a estrutura para facilitar o acesso à página principal | Corrigir corte de imagens no celular | Adicionar suporte para outros idiomas | Simplificar a organização das informações | Modularizar informações, especialmente a lista de sistemas operacionais testados | Adicionar barras de pesquisa para facilitar a busca | Acha que somente o fórum do próprio site é o suficiente |
 | Rafael  | Mais instruções sobre a instalação no sistema linux na página de Downloads |                  | Quando clica na logo principal do site leva para a imagem, corrigir para levar para a página principal, corrigir a falta de botões para retornar à página inicial | Aprimorar a experiência no celular | Incluir opções para aumentar o tamanho das fontes | Simplificar a adição de informações na página principal |                           | Organizar informações em blocos, reduzir texto e adicionar mais imagens, adotar barra retrátil e diminuir poluição visual | Concorda em integrar para atualizações e avisos |
 | Breno   | Adicionar modo escuro | Padronização de fontes e idioma, pois viu páginas misturando mandarim com inglês, o que lhe causou confusão  | Facilitar a busca para usuários com pressa  | Corrigir problemas no celular, pois quando acessa pelo celular a interface fica bagunçada e dificil de interagir  | Permitir ajuste no tamanho das fontes  | Aprimorar apresentação das informações, especialmente para usuários de Mac  |                           | Melhorar responsividade, padronizar fontes e redesenhar a página de doações  | Não acha necessário haver a integração |
 | Vinícius  | Adicionar tradução para o português  | Consistência e padronização do site  | Corrigir o redirecionamento ao clicar no logo  | Resolver problemas relacionados à responsividade  | Concordar com sugestões de outros membros  | Adicionar suporte a pesquisa dentro da documentação  | Incluir uma barra de pesquisa por palavra-chave  | Refazer o site, adotar temas de cores como petra e simetria nas barras  | Não acha necessário haver a integração, acha que o fórum do site já é o suficiente |
-
 
 </center>
 
