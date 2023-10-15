@@ -1,9 +1,9 @@
 # Análise Hierárquica de Tarefas 
-## IntroduçãoA Análise Hierárquica de Tarefas (HTA - Hierarchical Task Analysis) 
+## Introdução 
 
-é um método de análise de tarefas que é utilizado para obtermos um maior entendimento das competências e de quais tarefas os usuários realizam em um sistema e como eles realizam e o por quê, para nos ajudar a entender o processo da atividade e a identificar os problemas nesse processo.
+A Análise Hierárquica de Tarefas (HTA - Hierarchical Task Analysis) é um método de análise de tarefas que é utilizado para obtermos um maior entendimento das competências e de quais tarefas os usuários realizam em um sistema e como eles realizam e o por quê, para nos ajudar a entender o processo da atividade e a identificar os problemas nesse processo.
 
-Nesse método de análise de tarefas, iremos decompor as tarefas em objetivos, objetivo esse que representa o estado final de uma ação. No nível mais alto, ss objetivos serão divididos subobjetivos, e a relação entre eles formam um plano, que a definição de subobjetivos que irão garantir que seja possível atingir um objetivo. 
+Nesse método de análise de tarefas, iremos decompor as tarefas em objetivos, objetivo esse que representa o estado final de uma ação. No nível mais alto, os objetivos serão divididos subobjetivos, e a relação entre eles formam um plano, que é a definição de subobjetivos que irão garantir que seja possível atingir um objetivo. 
 
 No nível mais baixo, cada subobjetivo será realizado por uma operação. Logo abaixo na figura 1, há uma demonstração do livro Interação Humano-Computador, de Barbosa e Silva, no capítulo 6, p. 193, que representa os elementos de um diagrama HTA.
 
@@ -17,7 +17,7 @@ No nível mais baixo, cada subobjetivo será realizado por uma operação. Logo 
 
 Nessa seção iremos apresentar as análises de tarefas utilizando o método HTA do site Ventoy, utilizando representações em diagrama e tabela para um maior compreensão.
 ### Iniciar o uso do Ventoy
-O diagrama feito para analisar esta tarefa foi represento em um diagrama na figura 2 e na na tabela 1.  Nesta tarefa o usuário tem como objetivo iniciar o uso do Ventoy.
+O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 2 e na tabela 1.  Nesta tarefa o usuário tem como objetivo iniciar o uso do Ventoy.
 
 <p align="center"><b>Figura 02</b> - Diagrama HTA do iniciar uso do Ventoy</p>
 
@@ -58,7 +58,7 @@ Nesta tarefa o usuário tem como objetivo criar um novo post no fórum do Ventoy
 |1. Realizar login|**Input** dados de login do usuário. <br/>**feedback** caso não tenha exito no login o usuário deve ser informado.|
 |2. Escolher fórum |**Input**: Escolher um fórum que se adaque melhor ao tema da postagem.|
 |3. Criar postagem 1+2|**Input**: clica em criar novo post.|
-|3.1 Informar: assunto, texto, ícone |**Input**: escrever mensagem da postagem<br/>**Recomentadação**: salvar rascunho caso o usuário não finalize a ação.|
+|3.1 Informar: assunto, texto, ícone |**Input**: escrever mensagem da postagem<br/>**Recomendação**: salvar rascunho caso o usuário não finalize a ação.|
     |3.2 Anexar arquivo|**Input**: anexar algum arquivo ao post<br/> **Recomendação**: permitir ao usuário inserir arquivo arrastando o arquivo.|
 
 </center>
@@ -71,5 +71,5 @@ Nesta tarefa o usuário tem como objetivo criar um novo post no fórum do Ventoy
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|1.0| 14/10/2023 | Criação da página de analise de tarefas | [Vinícius Mendes](https://github.com/yabamiah) e [Breno](https://github.com/brenob6)| [Breno](https://github.com/brenob6) |
+|1.0| 14/10/2023 | Criação da página de analise de tarefas | [Vinícius Mendes](https://github.com/yabamiah) e [Breno](https://github.com/brenob6)| [Breno](https://github.com/brenob6) e [Altino Arthur](https://github.com/arthurrochamoreira)|
 
