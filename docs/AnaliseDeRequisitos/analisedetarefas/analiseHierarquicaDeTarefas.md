@@ -9,10 +9,7 @@ No nível mais baixo, cada subobjetivo será realizado por uma operação. Logo 
 
 <p align="center"><b>Figura 01</b> - Elementos de um diagrama HTA.</p>
 
-<p align="center">
-  <img src="../../assets/elementoshta.png" alt="Elementos de um diagrama HTA">
-</p>
-
+![Elementos de um diagrama HTA](../../assets/elementoshta.png)
 <p align="center"><b>Fonte</b>: Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193</p>
 
 ## Análise Hierárquica de Tarefas (HTA)
