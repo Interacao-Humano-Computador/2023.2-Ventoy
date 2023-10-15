@@ -42,9 +42,9 @@ nav:
       - Perfil de Usuário: elicitacao/PerfilUsuario.md
       - Persona: elicitacao/Persona.md
       - Elicitação de requisitos:
-        - Entrevista: elicitacao/elicitacao de requisitos /entrevista.md
-        - Brainstorming: elicitacao/elicitacao de requisitos /Brainstorming.md
-        - Introspecção: elicitacao/elicitacao de requisitos /introspeccao.md
+        - Entrevista: elicitacao/elicitacao de requisitos/entrevista.md
+        - Brainstorming: elicitacao/elicitacao de requisitos/Brainstorming.md
+        - Introspecção: elicitacao/elicitacao de requisitos/introspeccao.md
 
 theme:
   name: material
