@@ -23,7 +23,7 @@ Nome| Função|
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte:[Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
 ## Metodologia
 
@@ -61,6 +61,6 @@ As sugestões dos usuários sobre a interface e a interação do site, obtidas n
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 ---------- | -----  | ------ | ---------- | ----------
- 1.0 | 15/10/2023 | Introdução, Metodologia e Resultados |[Limirio Guimarães](https://github.com/LimirioGuimaraes) [Vinicius Mendes](https://github.com/yabamiah) |
+ 1.0 | 15/10/2023 | Introdução, Metodologia e Resultados |[Limirio Guimarães](https://github.com/LimirioGuimaraes) e [Vinicius Mendes](https://github.com/yabamiah) |
  
 
