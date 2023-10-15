@@ -3,7 +3,7 @@
 A entrevista é uma das técnicas mais utilizadas de coleta de dados e levantamento de requisitos. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado (Seidman^1^, 1998). A entrevista permite uma interação direta com os usuários para compreender suas necessidades e expectativas em relação ao sistema.
 
 ## Metodologia
-A entrevista foi realizado no dia 15/10/2023 e contou com a participação de um usuário do Ventoy - Wycthor da Silva do Nascimento, tendo como entrevistadora Mayara Alves de Oliveira que fez ao início da entrevista a leitura do Termo de consentimento ao participante, e uma breve explicação sobre o intuito do projeto. Foi preparado um roteiro de perguntas a serem seguidas logo que o modelo de entrevista escolhido foi o de entrevista semiestruturada (o roteiro é composto por perguntas abertas que devem ser endereçados na entrevista, em uma ordem lógica) utilizando a plataforma Teams para gravação e condução da entrevista.
+A entrevista foi realizada no dia 15/10/2023 e contou com a participação de um usuário do Ventoy - Wycthor da Silva do Nascimento, tendo como entrevistadora Mayara Alves de Oliveira que fez ao início da entrevista a leitura do Termo de consentimento ao participante, e uma breve explicação sobre o intuito do projeto. Foi preparado um roteiro de perguntas a serem seguidas logo que o modelo de entrevista escolhido foi o de entrevista semiestruturada (o roteiro é composto por perguntas abertas que devem ser endereçados na entrevista, em uma ordem lógica) utilizando a plataforma Teams para gravação e condução da entrevista.
 
 A estrutura de entrevista utilizada foi a de:
 
@@ -30,7 +30,7 @@ Página  | Pergunta
 :---------: | :------
 Página principal | 1.  Como você avalia o design da página principal? <br> 2.  O que você acha da barra de navegação do site? <br> 3.  A barra de navegação possui termos claros? <br> 4.  Você se incomoda com a disposição de anúncios do site?
 Página de documentação | 5. Você utiliza a página de documentação do Ventoy quando faz uso da ferramenta? <br> 6. É fácil encontrar tópicos na documentação? Ou seja, você encontra com facilidade o procura na página de documentação? <br> 7. Como você compara a página de documentação do Ventoy com de outras plataformas? 
-Página FAQ | 8. Como você avalia a disposição das perguntas no FAQ? <br> 9. Os simbolos que colapção as perguntas, são ao descritíveis?
+Página FAQ | 8. Como você avalia a disposição das perguntas no FAQ? <br> 9. Os simbolos que colapsam as perguntas, são facilmente descritíveis?
 Fórum | 10. Você consegue identificar rapidamente os temas que são tratadaos em cada fórum? <br> 11. Os ícones mostrados na página de post de um fórum elas são descritiveis? você sabe o que elas significam? <br>
 Página de TestedISO | 12. Você consegue acha rapidamente se uma distribução que você visa instalar foi testada no Ventoy?
 Sobre todo site | 13. Quais são as funcionalidades que acha que são importantes, que foram ou que devem ser implementadas no Ventoy para melhora a usabilidade do mesmo?
