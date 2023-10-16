@@ -10,8 +10,8 @@ estruturada e quantificável, o que facilita a análise e a interpretação dos 
 de forma eficiente, tornando possível a criação de perfis de usuário representativos de uma base diversificada de usuários potenciais. 
 
 ## Metodologia 
-Pensando nisso a equipe realizou um questionário com intuito de conhecer o perfil de usuário do site do Ventoy. O questionário engloba um total 8 perguntas sobre aspectos gerais do 
-usuário do site e 2 perguntas para os usuários que nunca utilizaram o Ventoy. Foram distribuidos os questionários em foruns de comunidades do Ventoy no reddit^1^ e no próprio site do Ventoy^2^ para garantir uma maior diversidade de usuários potenciais, entre o período de 11 a 13 de outubro de 2023. 
+Pensando nisso a equipe realizou um questionário com intuito de conhecer o perfil de usuário do site do Ventoy. O questionário engloba um total um total de 8 perguntas sobre aspectos gerais do 
+usuário do site e 2 perguntas para os usuários que nunca utilizaram o Ventoy. Foram distribuídos os questionários em fóruns das comunidades do Ventoy no Reddit^1^ e no próprio site do Ventoy^2^ para garantir uma maior diversidade de usuários potenciais, no período de 11 a 13 de outubro de 2023. 
 
 ## Resultado do questionário 
 O resultado no questionário teve o total de 74 respostas todas de acordo com o [Termo de consentimento](termoConsertimento.pdf). O resultado das respostas são apresentados nas figuras de 1 a 9.
@@ -25,7 +25,7 @@ De acordo com o gráfico apresentado na figura 1 em relação a utilização do 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 #### Questão 2 - (Caso a resposta da questão 1 seja sim) Qual seu sexo?
-De acordo com a figura 2, o gênero dos participantes em sua maioria é masculino representando 93,3% das respostas sendo que o gênero feminino presenta os outros 6,7%.
+De acordo com a figura 2, o gênero dos participantes em sua maioria é masculino representando 93,3% das respostas sendo que o gênero feminino representa os outros 6,7%.
 
 
 <font size="3"><p style="text-align: center">**Figura 2** - Questão 2.</p></font>
@@ -62,7 +62,7 @@ De acordo com a figura 6 sobre a frequência que o participante utiliza o aplica
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 #### Questão 7 - (Caso a resposta da questão 1 seja sim) Qual seu principal objetivo ao utilizar o site do Ventoy?
-A questão de numero 7, era uma questão aberta onde os usuários poderiam escrever o seu objetivo ao Utilizar o ventoy, nesta questão 98,2% dos usuários relacionaram sua resposta a funcionalidade de criar USB bootável, e os outros 1,8% relacionaram a apredizagem ou criação de um inicializador de arquivos, como podemos observar na figura 7.
+A questão de numero 7, era uma questão aberta onde os usuários poderiam escrever o seu objetivo ao Utilizar o ventoy, nesta questão 98,2% dos usuários relacionaram sua resposta a funcionalidade de criar USB bootável, e os outros 1,8% relacionaram a aprendizagem ou criação de um inicializador de arquivos, como podemos observar na figura 7.
 
 <font size="3"><p style="text-align: center">**Figura 7** - Questão 7.</p></font>
 ![Figura 7. Questão 7](../assets/Grafico-7.PNG)
@@ -103,6 +103,6 @@ Após uma análise das respostas, foi traçado um Perfil de Usuário para o apli
 
  Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   
  :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: 
-  `1.0`  | 14/10/2023 |            Criação do Perfil de Usuário           | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Correia](https://github.com/LimirioGuimaraes)
+  `1.0`  | 14/10/2023 |            Criação do Perfil de Usuário           | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Correia](https://github.com/LimirioGuimaraes) e [Altino Arthur](https://github.com/arthurrochamoreira)  
   
   
