@@ -37,13 +37,15 @@ nav:
       - Sites avaliados: planejamento/sites-avaliados.md
       - Site escolhido: planejamento/site-escolhido.md
   - Análise de Requisitos:
-      - Análise de Tarefas: AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md
-      - Aspectos Éticos: AnaliseDeRequisitos/aspectosEticos.md
-      - Perfil de Usuário: elicitacao/PerfilUsuario.md
-      - Persona: elicitacao/Persona.md
-      - Entrevista: elicitacao/elicitacao de requisitos /entrevista.md
-      - Brainstorming: elicitacao/elicitacao de requisitos /Brainstorming.md
-      - Introspecção: elicitacao/elicitacao de requisitos /introspeccao.md
+    - Análise de Tarefas: AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md
+    - Aspectos Éticos: AnaliseDeRequisitos/aspectosEticos.md
+    - Perfil de Usuário: elicitacao/PerfilUsuario.md
+    - Persona: elicitacao/Persona.md
+    - Elicitação:
+        - Entrevista: elicitacao/elicitacao de requisitos /entrevista.md
+        - Brainstorming: elicitacao/elicitacao de requisitos /Brainstorming.md
+        - Introspecção: elicitacao/elicitacao de requisitos /introspeccao.md
+
 
 theme:
   name: material
