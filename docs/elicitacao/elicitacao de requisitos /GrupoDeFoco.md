@@ -9,7 +9,7 @@ Os grupos de foco têm sido amplamente usados para a obtenção de informações
 A técnina de grupo de foco ocorreu no dia 16/10/2023 ás 14:32, durando aproximadamente 29 minutos, sendo conduzido por Luis Eduardo Carneiro Miranda e contou com a participação de 4 usuários ( conforme mostrado na tabela 1 ), é recomendável que essa reunião aconteça com um grupo que envolva entre 6 e 10 usuários finais, entretanto, pela falta de disponibilidade de algum usuários, somente foi possível com presença 
 de 4 usuários.
 
-A reunião teve um início com o condutor explicando sobre o método utilizado, além de uma ordem de perguntas a serem seguidas durante essa reunião que aconteceu presencialmente e com uma gravação autorizada pelos próprios usuários, que pode ser acessada [aqui](https://youtu.be/LGxVsSkCRGY).
+A reunião teve um início com o condutor explicando sobre o método utilizado, além de uma ordem de perguntas a serem seguidas durante essa reunião que aconteceu via plataforma do Microsoft Teams e com uma gravação autorizada pelos próprios usuários, que pode ser acessada [aqui](https://youtu.be/LGxVsSkCRGY).
 
 <p align="center"><b>Tabela 01</b> - Participantes. </p>
 
