@@ -1,7 +1,7 @@
 # ConcurTaskTrees (CTT)
 
 ## Introdução
-O ConcurTaskTrees (CTT), um modelo de árvores que tratam de tarefas concorrentes, foi desenvolvido com o propósito de apoiar a avaliação e o design de Interfaces Humano-Computador (IHC) por Paternò em 2000. Dentro desse modelo, identificam-se quatro categorias distintas de tarefas (conforme demonstrado na Figura 6.4a):
+O ConcurTaskTrees (CTT), um modelo de árvores que tratam de tarefas concorrentes, foi desenvolvido com o propósito de apoiar a avaliação e o design de Interfaces Humano-Computador (IHC) por Paternò em 2000. Dentro desse modelo, identificam-se quatro categorias distintas de tarefas:
 
 - Tarefas do Usuário: Estas tarefas são executadas fora do sistema, e os usuários desempenham um papel central na sua realização.
 
