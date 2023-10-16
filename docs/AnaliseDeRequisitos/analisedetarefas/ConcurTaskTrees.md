@@ -40,7 +40,10 @@ O diagrama feito para analisar esta tarefa foi represento em um diagrama na figu
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/MilenaBaruc">Milena Baruc.</a></p>
 
 ## Bibliografia
->Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 203.
+>Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193.
+
+## Referência Bibliográfica
+> Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.
 
 
 ## 📑 Histórico de Versões
