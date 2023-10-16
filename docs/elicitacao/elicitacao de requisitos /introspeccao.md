@@ -33,10 +33,10 @@ Após o exercício mental de utilizar o site Ventoy para solucionar o problema d
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/yabamiah">Vinicius Mendes.</a></p>
 
-## Referências
-- Elicitação de Requisitos, PUC-Rio. Disponível em: [link](https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF).
-- Marcelo Medeiros Eler. Aula 5 - Requisitos de Software - Conceitos e Técnicas de Elicitação. Universidade de São Paulo, 2006. Disponível em: [link](https://edisciplinas.usp.br/pluginfile.php/7993139/mod_resource/content/1/05%20-%20Requisitos%20de%20Software%20-%20Conceitos%20e%20T%C3%A9cnicas%20de%20Elicita%C3%A7%C3%A3o.PDF).
-- Luiz Eduardo Galvão Martins. Uma Metodologia de Elicitação de Requisitos de Software Baseada na Teoria da Atividade. Unicamp, 2001.
+## Bibliografia
+> Elicitação de Requisitos, PUC-Rio. Disponível em: [https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF](https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF).<br>
+> Luiz Eduardo Galvão Martins. Uma Metodologia de Elicitação de Requisitos de Software Baseada na Teoria da Atividade. Unicamp, 2001. <br>
+> Marcelo Medeiros Eler. Aula 5 - Requisitos de Software - Conceitos e Técnicas de Elicitação. Universidade de São Paulo, 2006. Disponível em: [https://edisciplinas.usp.br/pluginfile.php/7993139](https://edisciplinas.usp.br/pluginfile.php/7993139/mod_resource/content/1/05%20-%20Requisitos%20de%20Software%20-%20Conceitos%20e%20T%C3%A9cnicas%20de%20Elicita%C3%A7%C3%A3o.PDF).<br>
 
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
