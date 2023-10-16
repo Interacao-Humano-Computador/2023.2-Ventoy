@@ -15,7 +15,7 @@ necessidade dos seus usuários (ROSSON, CARROL, apud BARBOSA, SILVA, 2010).
 
 **Ator:** Júlia Motonaro
 
-Júlia Montonaro é uma estudante dedicada de Engenharia de Software, sempre curiosa
+Júlia Motonaro é uma estudante dedicada de Engenharia de Software, sempre curiosa
 para aprender algo novo. Durante as férias, ela decidiu explorar o mundo das distribuições
 Linux e testar diferentes sistemas operacionais em seu computador. Ela decide utilizar o
 Ventoy, para criar um drive USB inicializável com várias imagens ISO de sistemas operacionais.
@@ -34,7 +34,7 @@ No entanto, ao tentar instalar o PopOS em seu computador, ela encontrou problema
 Apesar de seus esforços, o sistema simplesmente não inicializava corretamente.
 
 Ela voltou ao site do Ventoy e explorou a seção de perguntas frequentes (FAQ) em busca
-de uma solução. Dentro na página Montonaro, percorre toda a lista de questões fornecidas
+de uma solução. Dentro na página Motonaro, percorre toda a lista de questões fornecidas
 uma a uma, tentando achar uma que se adeque a seu problema. Após verificar várias questões
 ela descobre algo crucial: a importância de verificar a integridade da imagem ISO usando um checksum.
 
@@ -68,7 +68,7 @@ personalizar seu drive bootável.
 
 Tony então acessa a documentação do aplicativo, acessando a documentação Tony não encontra um tópico
 sobre personalização do Ventoy. Ele preciona as teclas Ctrl+f e procura por "personalize", mas sem sucesso.
-Tony então percorre toda página prestanto bastante ateção no tópicos da sidebar, e encontra o tópico theme.
+Tony então percorre toda página prestando bastante atenção no tópicos da sidebar, e encontra o tópico theme.
 Ele acessa e encontra algumas informações interessantes.
 
 Tony gostaria de se aprofundar ainda mais em sua pesquisa, então ele opta por acessar o fórum do
@@ -107,7 +107,7 @@ Pontos considerados problemáticos e devem ser considerados no projeto.
 Steve Vobes é um grande entusiasta de projetos open-source, ao entrar no site do Ventoy
 ele se encomoda bastante com os anúncios evasivos que existem na página. Vobes então decide
 ajudar com um doação. Ele clica no campo donate na navbar e é direcionado para uma página 
-onde pode fazer doações fica paybay, cripto-moedas, etc.
+onde pode fazer doações via PayPal, cripto-moedas, etc.
 
 ### Análise Cenário 03
 
@@ -127,7 +127,7 @@ Pontos considerados problemáticos e devem ser considerados no projeto.
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
-| 1.0   |13/10/2023 |Criação do documento | Breno |  |
+| 1.0  |13/10/2023 |Criação do documento|[Breno Queiroz](https://github.com/brenob6)|  [Altino Arthur](https://github.com/arthurrochamoreira)|
 
 </center>
 
