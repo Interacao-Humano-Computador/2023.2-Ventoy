@@ -61,13 +61,13 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: claro
       toggle:
-        icon: docs/assets/moon.ico
+        icon: assets/moon.ico
         name: Mudar para o modo escuro
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: docs/assets/sun.ico
+        icon: assets/sun.ico
         name: Mudar para o modo claro
 
   language: pt-BR
