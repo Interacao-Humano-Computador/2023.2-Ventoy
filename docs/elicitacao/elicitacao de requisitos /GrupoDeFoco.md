@@ -6,7 +6,7 @@ Os grupos de foco  proporcionam um meio estruturado e eficaz para coletar inform
 Os grupos de foco têm sido amplamente usados para a obtenção de informações valiosas e para explorar questões complexas. Essa técnica oferece uma plataforma onde os participantes podem discutir abertamente suas perspectivas, expectativas e preocupações, criando assim um ambiente propício para a identificação de requisitos-chave, maximizando a satisfação do cliente e a eficiência do processo de desenvolvimento.
 
 ## Metodologia
-A técnina de grupo de foco ocorreu no dia 16/10/2023 ás 14:32, durando aproximadamente 29 minutos, sendo conduzido por Luis Eduardo Carneiro Miranda e contou com a participação de 4 usuários ( conforme mostrado na tabela 1 ), é recomendável que essa reunião aconteça com um grupo que envolva entre 6 e 10 usuários finais, entretanto, pela falta de disponibilidade de algum usuários, somente foi possível com presença 
+A técnica de grupo de foco ocorreu no dia 16/10/2023 às 14:32, durando aproximadamente 29 minutos, sendo conduzido por Luis Eduardo Carneiro Miranda e contou com a participação de 4 usuários ( conforme mostrado na tabela 1 ), é recomendável que essa reunião aconteça com um grupo que envolva entre 6 e 10 usuários finais, entretanto, pela falta de disponibilidade de alguns usuários, somente foi possível com presença 
 de 4 usuários.
 
 A reunião teve um início com o condutor explicando sobre o método utilizado, além de uma ordem de perguntas a serem seguidas durante essa reunião que aconteceu via plataforma do Microsoft Teams e com uma gravação autorizada pelos próprios usuários, que pode ser acessada [aqui](https://youtu.be/LGxVsSkCRGY).
@@ -70,6 +70,6 @@ Após a realização da reunião de grupo de foco com os usuários, foi possivel
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 15/10/2023 | Criação da página de Grupo de Foco | [Luis Miranda](https://github.com/LuisMiranda10)| [Vinícius Mendes](https://github.com/yabamiah) |
+|`1.0`| 15/10/2023 | Criação da página de Grupo de Foco | [Luis Miranda](https://github.com/LuisMiranda10)| [Vinícius Mendes](https://github.com/yabamiah) e [Altino Arthur](https://github.com/arthurrochamoreira)|
 
 
