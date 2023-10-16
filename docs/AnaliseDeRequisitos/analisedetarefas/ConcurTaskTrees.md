@@ -16,7 +16,7 @@ Essas categorias, como mostrado na figura 1, proporcionam uma estrutura para ana
 <p align="center"><b>Figura 01</b> - Tarefas</p>
 
 ![HTA uso do ventoy](../../assets/Tarefas.jpeg)
-<p align="center"><b>Fonte</b>: Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193</p>
+<p align="center"><b>Fonte</b>: Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 203</p>
 
 ## ConcurTaskTrees (CTT)
 Nessa seção iremos apresentar as análises de tarefas utilizando o método CTT do site Ventoy, utilizando representações em diagrama.
@@ -40,7 +40,7 @@ O diagrama feito para analisar esta tarefa foi represento em um diagrama na figu
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/MilenaBaruc">Milena Baruc.</a></p>
 
 ## Bibliografia
->Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193.
+>Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 203.
 
 
 ## 📑 Histórico de Versões
