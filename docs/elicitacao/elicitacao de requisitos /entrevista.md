@@ -31,29 +31,29 @@ Página  | Pergunta
 Página principal | 1.  Como você avalia o design da página principal? <br> 2.  O que você acha da barra de navegação do site? <br> 3.  A barra de navegação possui termos claros? <br> 4.  Você se incomoda com a disposição de anúncios do site?
 Página de documentação | 5. Você utiliza a página de documentação do Ventoy quando faz uso da ferramenta? <br> 6. É fácil encontrar tópicos na documentação? Ou seja, você encontra com facilidade o procura na página de documentação? <br> 7. Como você compara a página de documentação do Ventoy com de outras plataformas? 
 Página FAQ | 8. Como você avalia a disposição das perguntas no FAQ? <br> 9. Os simbolos que colapsam as perguntas, são facilmente descritíveis?
-Fórum | 10. Você consegue identificar rapidamente os temas que são tratadaos em cada fórum? <br> 11. Os ícones mostrados na página de post de um fórum elas são descritiveis? você sabe o que elas significam? <br>
+Fórum | 10. Você consegue identificar rapidamente os temas que são tratados em cada fórum? <br> 11. Os ícones mostrados na página de post de um fórum elas são descritíveis? você sabe o que elas significam? <br>
 Página de TestedISO | 12. Você consegue acha rapidamente se uma distribução que você visa instalar foi testada no Ventoy?
 Sobre todo site | 13. Quais são as funcionalidades que acha que são importantes, que foram ou que devem ser implementadas no Ventoy para melhora a usabilidade do mesmo?
 
 
 ## Requisitos Elicitados 
-Após a realização da entrevista com o usuário do Ventoy, foi possivel eliciar os requisitos apresentados na Tabela 2. Onde cada requisito e classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional, além disso também será representado se já há uma implementação do requisito no aplicativo.
+Após a realização da entrevista com o usuário do Ventoy, foi possível eliciar os requisitos apresentados na Tabela 2. Onde cada requisito é classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional, além disso também será representado se já há uma implementação do requisito no aplicativo.
 
 <p align="center"><b>Tabela 2</b> - Requisitos elicitados na Entrevista.</p>
 
 
 | **Identificador** | **Requisitos** | **Tipo** | **Implementado** |
 |--------------|-------------|-----|-----------------|
-|ENT01| Deve ser possível alterar o idioma para portugues | RF | Não implementado|
+|ENT01| Deve ser possível alterar o idioma para português | RF | Não implementado|
 |ENT02| Deve ser possível colocar no tema escuro| RF | Não implementado |
 |ENT03| O site deve ser responsivo | RNF | Não implementado |
 |ENT04| Deve ser possível alterar o tamanho da fonte do site | RF | Não implementado |
 |ENT05| O site deve padronizar o local dos anúncios ( Não deixando anúncios no meio do site)| RF | Não implementado |
-|ENT06| O site deve possuí uma organização padronizada da documentação | RF | Não implementado |
+|ENT06| O site deve possuir uma organização padronizada da documentação | RF | Não implementado |
 |ENT07| A interface deve ser padronizada e responsiva para todas as páginas dentro do site | RNF | Não implementado |
 |ENT08| O site deve incorporar uma paleta de cores acessível a indivíduos daltônicos. | RF | Não implementado |
 |ENT09| O site deve ter um tempo de resposta inferior a 1.0s | RNF | Não implementado |
-|ENT10| O site deve possui um FAQ de perguntas | RF | Implementado |
+|ENT10| O site deve possuir um FAQ de perguntas | RF | Implementado |
 
 <p align="center"><b>Fonte</b>: <a href="https://github.com/Mayara-tech">Mayara Alves.</a></p>
 
