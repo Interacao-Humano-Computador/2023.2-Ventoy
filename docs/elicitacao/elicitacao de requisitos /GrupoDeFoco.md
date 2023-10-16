@@ -11,7 +11,7 @@ de 4 usuários.
 
 A reunião teve um início com o condutor explicando sobre o método utilizado, além de uma ordem de perguntas a serem seguidas durante essa reunião que aconteceu presencialmente e com uma gravação autorizada pelos próprios usuários, que pode ser acessada [aqui](https://youtu.be/).
 
-<font size="3"><p style="text-align: center">Tabela 01: Participantes.</p></font>
+<p align="center"><b>Tabela 01</b> - Participantes. </p>
 
 <center>
 
@@ -28,7 +28,7 @@ Nome| Função|
 
 Abaixo segue as perguntas feitas durante a reunião com o grupo de foco, conforme segue na tabela 2.
 
-<font size="3"><p style="text-align: center">Tabela 02: Perguntas feitas.</p></font>
+<p align="center"><b>Tabela 02</b> - Perguntas feitas. </p>
 
 Ordem | Pergunta| 
 |---|-------------|
