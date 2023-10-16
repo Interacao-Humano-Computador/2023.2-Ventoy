@@ -37,9 +37,9 @@ Sobre todo site | 13. Quais são as funcionalidades que acha que são importante
 
 
 ## Requisitos Elicitados 
-Após a realização da entrevista com o usuário do Ventoy, foi possivel eliciar os requsitos apresentados na Tabela 2. Onde cada requisito e classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional, além disso também será representado se já há uma implementação do requisito no aplicativo.
+Após a realização da entrevista com o usuário do Ventoy, foi possivel eliciar os requisitos apresentados na Tabela 2. Onde cada requisito e classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional, além disso também será representado se já há uma implementação do requisito no aplicativo.
 
-<p align="center"><b>Tabela 01</b> - Requisitos elicitados na Entrevista.</p>
+<p align="center"><b>Tabela 2</b> - Requisitos elicitados na Entrevista.</p>
 
 
 | **Identificador** | **Requisitos** | **Tipo** | **Implementado** |
