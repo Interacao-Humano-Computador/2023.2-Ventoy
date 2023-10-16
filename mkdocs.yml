@@ -43,6 +43,7 @@ nav:
     - Aspectos Éticos: AnaliseDeRequisitos/aspectosEticos.md
     - Perfil de Usuário: elicitacao/PerfilUsuario.md
     - Persona: elicitacao/Persona.md
+    - Cenários: AnaliseDeRequisitos/cenarios.md
     - Elicitação:
         - Entrevista: elicitacao/elicitacao de requisitos /entrevista.md
         - Brainstorming: elicitacao/elicitacao de requisitos /Brainstorming.md
