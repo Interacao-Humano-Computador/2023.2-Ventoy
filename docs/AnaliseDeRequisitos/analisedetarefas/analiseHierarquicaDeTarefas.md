@@ -60,7 +60,7 @@ Nesta tarefa o usuário tem como objetivo criar um novo post no fórum do Ventoy
 |3.1 Informar: assunto, texto, ícone |**Input**: escrever mensagem da postagem<br/>**Recomendação**: salvar rascunho caso o usuário não finalize a ação.|
 |3.2 Anexar arquivo|**Input**: anexar algum arquivo ao post<br/> **Recomendação**: permitir ao usuário inserir arquivo arrastando o arquivo.|
 
-### Acesse a página de FAQ para consultar dúvida
+### Acessar a página de FAQ para consultar dúvida
 
 O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 4 e na na tabela 3.
 Nesta tarefa o usuário tem como objetivo procurar uma dúvida da instalação na página de FAQ (perguntas frequentes) Ventoy.
@@ -76,7 +76,7 @@ Nesta tarefa o usuário tem como objetivo procurar uma dúvida da instalação n
 
 |**Objetivos / Operações** | **Problemas e Recomendações** |
 |:----------------------|:-------------------------------|
-|0. Acesse a página de FAQ para consultar dúvida|**Plano:** Acessar a página de FAQ no site Ventoy.<br/> **Feedback:** Garantir que os usuários encontrem facilmente o link para o FAQ.|
+|0. Acessar a página de FAQ para consultar dúvida|**Plano:** Acessar a página de FAQ no site Ventoy.<br/> **Feedback:** Garantir que os usuários encontrem facilmente o link para o FAQ.|
 |1. Navegar pelas categorias de perguntas|**Input:** Clicar na categoria de dúvidas relacionada a dúvida. <br/>**Feedback:** Disponibilizar categorias claras e organizadas.<br/>|**Recomendação:** Inserir consulta de dúvida (Digitar a dúvida ou termos relacionados é realizar busca).
 |2. Visualizar listagem de FAQs da categoria|**Feedback:** Apresentar uma lista de FAQs relacionados à categoria selecionada.|
 |3. Clicar em uma pergunta|**Input:** Clicar em uma pergunta para expandir a resposta.<br/>**Feedback:** Tornar a expansão e contração de respostas intuitivas.|
