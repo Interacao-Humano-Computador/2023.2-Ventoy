@@ -1,4 +1,4 @@
-## Descrição
+## Introdução
 
 A avaliação de Interação Humano-Computador é uma das atividades principais para que seja desenvolvido um sistema de alta qualidade, de forma disciplinada e planejada. Nessa avaliação será descrito todo o processo de avaliação que seguiremos, como os critérios de qualidade escolhidos, métodos de avaliações e muitos outros tópicos fundamentais. Portanto, o objetivo desta avaliação é determinar os parâmetros ligados a utilização do sistema que devem ser investigados. (Barbosa e Silva. Interação Humano-Computador. 1 ed. ELSEVIER INC, 2010. Capítulo 9, p. 286-290). Tivemos como inspiração a criação e o desenvolvimento desta avaliação, o trabalho do Grupo 01 da disciplina de Interação Humano-Computador do 1° semestre de 2023, disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/.
 

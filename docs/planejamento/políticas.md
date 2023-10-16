@@ -52,17 +52,13 @@ a operação ou recusando. Se houver uma issue relacionada a essa branch, quando
 for aceito, a *issue* automaticamente será fechada.
 
 ## Bibliografia
-> gitglossary. **Git**, Disponível em: <https://git-scm.com/docs/gitglossary> acesso em: 29 de setembro 2023 <br/>
+>About issues. **Github Docs**, disponível em: <https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues> Acesso emm: 29 de setembro 2023<br/>
+> gitglossary. **Git**, Disponível em: <https://git-scm.com/docs/gitglossary> Acesso em: 29 de setembro 2023 <br/>
 > Sobre solicitação de pull, **GitHub Docs**, disponível em:
-<https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests>
-acesso em: 29 de setembro 2023<br/>
->About issues. **Github Docs**, disponível em: <https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues>
-acesso emm: 29 de setembro 2023<br/>
+<https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests> Acesso em: 29 de setembro 2023<br/>
 
-## Histórico de versão
-
-<p align="center"><b>Tabela 01</b></p>
+## 📑 Histórico de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
-| 1.0   |18/09/2023 |Criação da página de cronogramas | Breno | Luis |
+| `1.0`   |18/09/2023 |Criação da página de políticas do projeto | [Breno Queiroz](https://github.com/brenob6) | [Luis Eduardo](https://github.com/LuisMiranda10) |

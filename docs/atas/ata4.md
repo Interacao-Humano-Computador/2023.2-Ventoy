@@ -1,9 +1,9 @@
-# Ata da  2° reunião de Interação Humano Computador
+# Ata da  4° reunião de Interação Humano Computador
 
-**Ordem do escrivão da ata:** Vinícius, Breno, Milena, Limirio, Mayara, Luis Eduardo,
+**Ordem do escrivão da ata:** Vinícius, Breno, Mayara, Milena, Limirio, Luis Eduardo,
 Arthur
 
-**Data**:   21/09/2023 **Local**: Teams <br>
+**Data**:   05/10/2023 **Local**: Teams <br>
 **Projeto**: Projeto de Interação Humano Computador - Ventoy <br>
 
 <center>
@@ -12,10 +12,10 @@ Arthur
 
 |   | Horário Previsto | Horário Realizado |
 |:-:| :-: | :-: |
-|**Início da reunião**| 21:00 | 21:03 |
-|**Fim da reunião**| 21:30 | 21:28 |
+|**Início da reunião**| 21:00 | 21:12 |
+|**Fim da reunião**| 21:30 | 22:00 |
 
-**Fonte:** [Breno](https://github.com/brenob6)
+**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
 
 </center>
 
@@ -33,23 +33,25 @@ Arthur
 | 3.Limirio     |:white_check_mark: |limirioguimaraes@gmail.com     |:thumbsup:     |
 | 4.Luis Eduardo|:white_check_mark: |luiseduardocarneiro6@gmail.com |:sunglasses:   |
 | 5.Mayara      |:white_check_mark: |amayara939@gmail.com           |:fist:         |
-| 6.Milena      |:white_check_mark: |milenabaruc072@gmail.com       |:fairy:        |
+| 6.Milena      |:x:                |milenabaruc072@gmail.com       |:fairy:        |
 | 7.Vinícius    |:white_check_mark: |viniciusmendes1019@gmail.com   |:cold_face:    |
 
-**Fonte:** [Breno](https://github.com/brenob6)
+**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
 
 </center>
 
 ## 2. Pautas
 
 <center>
+  
 **Tabela 03** - Pautas discultidas na reunião
 
 | **N°** | **Descrição**|
 |---|-----------------|
-| 1 | Divisão das tarefas entre os integrantes da equipe do projeto de IHC |
+| 1 | Analisar as correções necessárias tendo em vista o feedback da entrega 01 |
+| 2 | Divisão das tarefas entre os integrantes para o desenvolvimento dos artefatos da entrega 02 |
 
-**Fonte:** [Breno](https://github.com/brenob6)
+**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
 
 
 </center>
@@ -58,7 +60,7 @@ Arthur
 
 <center>
 
-<p align="center"><b>Tabela 04</b></p>
+**Tabela 04** - Pendências
 
 | **N°** | **Pendência** | **Responsável** | **Data** |
 |--------|---------------|-----------------|----------|
@@ -67,16 +69,16 @@ Arthur
 |        |               |                 |          |
 |        |               |                 |          |
 
-**Fonte:** [Breno](https://github.com/brenob6)
+**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
 
 </center>
 
 ## 4. Link da Gravação
-A gravação desta reunião está disponível pelo youtube [vídeo](https://www.youtube.com/watch?v=oKn5t2MwAjg)
+A gravação desta reunião está disponível pelo youtube [vídeo](https://youtu.be/EIDCG4Uij0A)
 
 ## 5. Próxima Reunião
 
-A próxima reunião ficou marcada para o dia 28/09/2023, às 21:00.
+A próxima reunião ficou marcada para o dia 12/10/2023, às 21:00.
 
 ## 6. Compromissos
 
@@ -86,13 +88,13 @@ A próxima reunião ficou marcada para o dia 28/09/2023, às 21:00.
 
 |**N°** | **Compromisso**                               | **Responsável**   | **Data**  |
 |------ |-------------------------------------          |------------------ |-----------|
-| 1     | Terminar cronograma do projeto                | Mayara e Arthur   | 27/09/2023|
-| 2     | Copiar termo de uso do site escolhido         | Vinícius          | 27/09/2023|
-| 3     | Terminar artefato processo de design          | Breno e Luis      | 27/09/2023|
-| 4     | Terminar página de ferramentas escolhidas     | Limiro            | 27/09/2023|
-| 5     | Panejamento de avaliação                      | Vinícius e Milena | 27/09/2023|
+| 1     | Executar melhorias nos artefatos já entregues com base nos feedback's                          | Todos             | 08/10/2023|
+| 2     | Levantar perfil do usuário                                                                     | Mayara e Arthur   | 14/10/2023|
+| 3     | Aspectos éticos envolvendo pessoas                                                             | Limirio           | 14/10/2023|
+| 4     | Storyboard                                                                                     | Breno e Mayara    | 14/10/2023|
+| 5     | Elicitação de Requisitos                                                                       | Breno, Mayara, Limírio, Luís e Vinicius| 14/10/2023|
 
-**Fonte:** [Breno](https://github.com/brenob6)
+**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
 
 </center>
 
@@ -100,4 +102,4 @@ A próxima reunião ficou marcada para o dia 28/09/2023, às 21:00.
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
-| `1.0`    |25/09/2023 | Criação da segunda ata |[Breno Queiroz](https://github.com/brenob6)| [Vinícius Mendes](https://github.com/yabamiah) |
+| `1.0`  |05/10/2023 | Criação da quarta ata |[Limirio Correia](https://github.com/LimirioGuimaraes)|[Mayara Alves](https://github.com/Mayara-tech) |
