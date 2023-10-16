@@ -47,7 +47,7 @@ Nesta tarefa o usuário tem como objetivo criar um novo post no fórum do Ventoy
 
 ![HTA postagem no fórum](../../assets/post.drawio.png)
 
-<b>Fonte</b>:  <a href="https://github.com/brenob6">Breno</a>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/brenob6">Breno</a></p>
 
 <p align="center"><b>Tabela 02</b> - Representação HTA em tabela da figura 3</p>
 
@@ -60,16 +60,17 @@ Nesta tarefa o usuário tem como objetivo criar um novo post no fórum do Ventoy
 |3.1 Informar: assunto, texto, ícone |**Input**: escrever mensagem da postagem<br/>**Recomendação**: salvar rascunho caso o usuário não finalize a ação.|
 |3.2 Anexar arquivo|**Input**: anexar algum arquivo ao post<br/> **Recomendação**: permitir ao usuário inserir arquivo arrastando o arquivo.|
 
-### Fazer Postagem no Fórum
+### Acesse a página de FAQ para consultar dúvida
 
 O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 4 e na na tabela 3.
 Nesta tarefa o usuário tem como objetivo procurar uma dúvida da instalação na página de FAQ (perguntas frequentes) Ventoy.
+
 <center>
 <b>Figura 04</b> - Diagrama HTA procurar dúvida na página de FAQ
 
 ![HTA Procurar dúvida](../../assets/diagramaFAQ.png)
 
-<b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a>
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
 
 <p align="center"><b>Tabela 03</b> - Representação HTA em tabela da figura 4</p>
 
