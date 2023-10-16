@@ -6,7 +6,7 @@ As personas são personagens fictícias criadas para representar os usuários da
 no intuito de melhorar o entendimento das funcionalidades que o sistema deve apresentar.
 Elas devem possuir características que sumarizam bem os usuários “típicos”, mas que
 sejam específicas para torná-las ferramentas de design e comunicação eficientes^1^.
-Ja a antipersonas é um perfil fictício que descreve um tipo de usuário que não é o
+Já a antipersonas é um perfil fictício que descreve um tipo de usuário que não é o
 público-alvo da aplicação.
 
 ## Metodologia
@@ -56,7 +56,7 @@ para gerar uma imagem falsa que representaria a persona.
 | **Escolaridade**: Ensino Superior Completo em Tecnologia da Informação e pós gradução em Segurança de redes.                                                                                                                                                                                                                                                                         |
 | **Habilidades e Experiências**: Programação, design de UI/UX e conhecimento sobre startups e inovação tecnológica.                                                                                                                                                                       |
 | **Relacionamento**: Colegas de trabalho e comunidade de startups local.                                                                                                                                                                                                                                                                                               |
-| **Objetivo**: Steve pretente fazer contribuições financeiras (doações), e contribuir com o código fonte da ferramenta, pra isso ele acessa o Forum pra ficar por dentro da comunidade                                                                                                                      |
+| **Objetivo**: Steve pretente fazer contribuições financeiras (doações), e contribuir com o código fonte da ferramenta, para isso ele acessa o Forum pra ficar por dentro da comunidade                                                                                                                      |
 | **Expectativa**: Fácil acesso aos foruns e documentação da ferramenta .                                                                                                                                    |
 | **Requisitos**: Interface intuitiva, acesso rápido aos documentos e segurança robusta dos dados.                                                                                                                                                                                    |
 | **Tarefas**: Trabalhar em projetos pessoais e acadêmicos sobre segurança cibernética, participar de hackathons e eventos de networking, estudar e socializar com amigos.                           |
@@ -76,7 +76,7 @@ para gerar uma imagem falsa que representaria a persona.
 | **Habilidades e Experiências**: Possui habilidades em programação, design 3D e análise de dados, com experiência em estágios, projetos acadêmicos e pesquisa científica.                                       |
 | **Relacionamento**: Sua maior rede de relacionamento é com seus amigos da faculdade, pois se mudou de Estado para poder estudar na UnB.                                                                                                                                                                                                                           |
 | **Objetivo**: Júlia é uma entusiasta do Linux que adora experimentar diferentes distribuições. Ela usa unidades USB bootáveis para testar e aprender sobre sistemas Linux.                    |
-| **Expectativa**: continuar explorando e aprendendo sobre diferentes distribuições Linux e ambientes de código aberto, para isso ela pretende utilizar do foruns do Ventoy para esta por dentro da comunidade open-source.                                                                                                                                                                       |
+| **Expectativa**: continuar explorando e aprendendo sobre diferentes distribuições Linux e ambientes de código aberto. Para isso, ela pretende utilizar os fóruns do Ventoy para estar por dentro da comunidade open-source.                                                                                                                                                                       |
 | **Requisitos**: Como tem facilidade com tecnologia, Júlia acha que o site deve apresentar uma interface otimizada, para que a navegação seja mais fácil.                                                                                                                                                                |
 | **Tarefas**: Acorda cedo, ir para faculdade, verifica o grupo da faculdade, sair com colegas, estudar.                                                |
 
