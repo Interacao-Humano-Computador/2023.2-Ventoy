@@ -6,10 +6,10 @@ Os grupos de foco  proporcionam um meio estruturado e eficaz para coletar inform
 Os grupos de foco têm sido amplamente usados para a obtenção de informações valiosas e para explorar questões complexas. Essa técnica oferece uma plataforma onde os participantes podem discutir abertamente suas perspectivas, expectativas e preocupações, criando assim um ambiente propício para a identificação de requisitos-chave, maximizando a satisfação do cliente e a eficiência do processo de desenvolvimento.
 
 ## Metodologia
-A técnina de grupo de foco ocorreu no dia 16/10/2023, sendo conduzido por Luis Eduardo Carneiro Miranda e contou com a participação de 5 usuários ( conforme mostrado na tabela 1 ), é recomendável que essa reunião aconteça com um grupo que envolva entre 6 e 10 usuários finais, entretanto, pela falta de disponibilidade de algum usuários, somente foi possível com presença 
+A técnina de grupo de foco ocorreu no dia 16/10/2023 ás 14:32, durando aproximadamente 29 minutos, sendo conduzido por Luis Eduardo Carneiro Miranda e contou com a participação de 4 usuários ( conforme mostrado na tabela 1 ), é recomendável que essa reunião aconteça com um grupo que envolva entre 6 e 10 usuários finais, entretanto, pela falta de disponibilidade de algum usuários, somente foi possível com presença 
 de 4 usuários.
 
-A reunião teve um início com o condutor explicando sobre o método utilizado, além de uma ordem de perguntas a serem seguidas durante essa reunião que aconteceu presencialmente e com uma gravação autorizada pelos próprios usuários, que pode ser acessada [aqui](https://youtu.be/).
+A reunião teve um início com o condutor explicando sobre o método utilizado, além de uma ordem de perguntas a serem seguidas durante essa reunião que aconteceu presencialmente e com uma gravação autorizada pelos próprios usuários, que pode ser acessada [aqui](https://youtu.be/LGxVsSkCRGY).
 
 <p align="center"><b>Tabela 01</b> - Participantes. </p>
 
@@ -21,8 +21,7 @@ Nome| Função|
 <span style = "color: blue"> Adriana Cristina</span>      |  Usuário
 <span style = "color: blue"> Marcus Aurélio</span>      |  Usuário
 <span style = "color: blue"> Paulo Tibério </span>     |  Usuário
-<span style = "color: blue"> Danilo Rodrigues </span>       |  Usuário
-<span style = "color: blue"> Igor Theophilo </span>     |  Usuário
+<span style = "color: blue"> Rolando Severo </span>       |  Usuário
 
 ## Perguntas
 
@@ -50,16 +49,16 @@ Após a realização da reunião de grupo de foco com os usuários, foi possivel
 
 | **Identificador** | **Requisitos** | **Tipo** | **Implementado** |
 |--------------|-------------|-----|-----------------|
-|ITP01|                   | RF | Não implementado |
-|ITP02|                   | RF | Não implementado|
-|ITP03|                   | RNF | Não implementado |
-|ITP04|                   | RNF | Não implementado |
-|ITP05|                   | RNF | Não implementado |
-|ITP06|                   | RNF | Implementado |
-|ITP07|                   | RF | Implementado |
-|ITP08|                   | RNF | Implementado |
-|ITP09|                   | RNF | Não implementado |
-|ITP10|                   | RNF | Não implementado |
+|ITP01| Informações devem estar melhor localizadas, com um melhor fluxo de informação | RNF | Não implementado |
+|ITP02| O FAC deve ser menos minimalista, guiando melhor o usuário | RNF | Não implementado|
+|ITP03| O site deve possuir mais de uma opção para alterar o idioma | RF | Não implementado |
+|ITP04| O site deve possuir referências a videos para enriquecer o site  | RF | Não implementado |
+|ITP05| Deve ter um FAC de perguntas | RF | Implementado |
+|ITP06| O site deve possuir padronização de cores para uma melhor visualização dentro do site   | RNF | Não implementado |
+|ITP07| Deve possuir caminhos guiados para correção de possíveis erros | RF | Implementado |
+|ITP08| O site deve ter uma interface mais responsiva | RNF | Não Implementado |
+|ITP09| O site deve fornecer a quantidade de vezes que foi feito download desse open source | RF | Não implementado |
+|ITP10| O site deve  possuir uma identidade visual mais identificável | RNF | Não implementado |
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LuisMiranda10">Luis Miranda.</a></p>
 
