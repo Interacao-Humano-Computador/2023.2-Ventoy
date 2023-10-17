@@ -38,9 +38,6 @@ nav:
       - Site escolhido: planejamento/site-escolhido.md
   - Análise de Requisitos:
     - Aspectos Éticos: AnaliseDeRequisitos/aspectosEticos.md
-    - Análise de Tarefas: 
-        - Análise Hierarquica de Tarefas - HTA: AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md
-        - ConcurTaskTrees - CTT: AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees.md
     - Perfil de Usuário: elicitacao/PerfilUsuario.md
     - Persona: elicitacao/Persona.md
     - Cenários: AnaliseDeRequisitos/cenarios.md
@@ -49,6 +46,9 @@ nav:
         - Brainstorming: elicitacao/elicitacao de requisitos /Brainstorming.md
         - Introspecção: elicitacao/elicitacao de requisitos /introspeccao.md
         - Grupo de foco: elicitacao/elicitacao de requisitos /GrupoDeFoco.md
+    - Análise de Tarefas: 
+        - Análise Hierarquica de Tarefas - HTA: AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md
+        - ConcurTaskTrees - CTT: AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees.md
 
 
 theme:
