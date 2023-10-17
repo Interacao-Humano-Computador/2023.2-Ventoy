@@ -43,22 +43,22 @@ Ordem | Pergunta|
 | 10| Que funcionalidades ou informações você acha que estão faltando no site do Ventoy? |
  
 ## Requisitos Elicitados 
-Após a realização da reunião de grupo de foco com os usuários, foi possivel eliciar os requsitos apresentados na Tabela 03. Identificamos cada requisito por uma sigla formada por "ITP" + um número, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional, além disso também será representado se já há uma implementação do requisito no aplicativo.
+Após a realização da reunião de grupo de foco com os usuários, foi possivel eliciar os requsitos apresentados na Tabela 03. Identificamos cada requisito por uma sigla formada por "GPF" + um número, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional, além disso também será representado se já há uma implementação do requisito no aplicativo.
 
-<p align="center"><b>Tabela 03</b> - Requisitos elicitados do Grupo de Foco. Fonte: Autores.</p>
+<p align="center"><b>Tabela 03</b> - Requisitos elicitados do Grupo de Foco.</p>
 
 | **Identificador** | **Requisitos** | **Tipo** | **Implementado** |
 |--------------|-------------|-----|-----------------|
-|ITP01| Informações devem estar melhor localizadas, com um melhor fluxo de informação | RNF | Não implementado |
-|ITP02| O FAC deve ser menos minimalista, guiando melhor o usuário | RNF | Não implementado|
-|ITP03| O site deve possuir mais de uma opção para alterar o idioma | RF | Não implementado |
-|ITP04| O site deve possuir referências a videos para enriquecer o site  | RF | Não implementado |
-|ITP05| Deve ter um FAC de perguntas | RF | Implementado |
-|ITP06| O site deve possuir padronização de cores para uma melhor visualização dentro do site   | RNF | Não implementado |
-|ITP07| Deve possuir caminhos guiados para correção de possíveis erros | RF | Implementado |
-|ITP08| O site deve ter uma interface mais responsiva | RNF | Não Implementado |
-|ITP09| O site deve fornecer a quantidade de vezes que foi feito download desse open source | RF | Não implementado |
-|ITP10| O site deve  possuir uma identidade visual mais identificável | RNF | Não implementado |
+|GPF01| Informações devem estar melhor localizadas, com um melhor fluxo de informação | RNF | Não implementado |
+|GPF02| O FAC deve ser menos minimalista, guiando melhor o usuário | RNF | Não implementado|
+|GPF03| O site deve possuir mais de uma opção para alterar o idioma | RF | Não implementado |
+|GPF04| O site deve possuir referências a videos para enriquecer o site  | RF | Não implementado |
+|GPF05| Deve ter um FAC de perguntas | RF | Implementado |
+|GPF06| O site deve possuir padronização de cores para uma melhor visualização dentro do site   | RNF | Não implementado |
+|GPF07| Deve possuir caminhos guiados para correção de possíveis erros | RF | Implementado |
+|GPF08| O site deve ter uma interface mais responsiva | RNF | Não Implementado |
+|GPF09| O site deve fornecer a quantidade de vezes que foi feito download desse open source | RF | Não implementado |
+|GPF10| O site deve  possuir uma identidade visual mais identificável | RNF | Não implementado |
 
 <p align="center"><b>Fonte: </b><a href="https://github.com/LuisMiranda10">Luis Miranda.</a></p>
 
