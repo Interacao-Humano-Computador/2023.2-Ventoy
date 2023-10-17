@@ -49,7 +49,7 @@ Os sites do [Detran - Departamento Estadual de Transito](https://www.detran.df.g
 
 ### Ventoy
 O [Ventoy](https://www.ventoy.net/en/index.html) é uma ferramenta de código aberto que permite criar uma unidade USB bootável capaz de iniciar múltiplos sistemas operacionais a partir da mesma unidade, sem a necessidade de reformatar a unidade USB a cada vez que você deseja adicionar ou remover um sistema operacional. Ele é muito útil para técnicos de informática, desenvolvedores e entusiastas que precisam testar ou instalar diferentes sistemas operacionais em um único dispositivo de armazenamento USB. Esse site foi escolhido a pois identificar problemas com a interface do site como a falta de conformidade com um padrão e analisar a apropriação da tecnologia.
-
+  
 
 ## Bibliografia
 
