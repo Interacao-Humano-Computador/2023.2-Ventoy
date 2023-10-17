@@ -60,7 +60,7 @@ Após a realização da reunião de grupo de foco com os usuários, foi possivel
 |ITP09| O site deve fornecer a quantidade de vezes que foi feito download desse open source | RF | Não implementado |
 |ITP10| O site deve  possuir uma identidade visual mais identificável | RNF | Não implementado |
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/LuisMiranda10">Luis Miranda.</a></p>
+<p align="center"><b>Fonte: </b><a href="https://github.com/LuisMiranda10">Luis Miranda.</a></p>
 
 ## Bibliografia
 >ELICITAÇÃO DE REQUISITOS, PUC-Rio.  Disponível em: https://www.maxwell.vrac.puc-rio.br/15760/15760_3.PDF <br>
