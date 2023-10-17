@@ -95,5 +95,5 @@ Nesta tarefa o usuário tem como objetivo procurar uma dúvida da instalação n
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|1.0| 14/10/2023 | Criação da página de analise de tarefas | [Vinícius Mendes](https://github.com/yabamiah) e [Breno](https://github.com/brenob6)| [Breno](https://github.com/brenob6) e [Altino Arthur](https://github.com/arthurrochamoreira)|
+|`1.0`| 14/10/2023 | Criação da página de analise de tarefas | [Vinícius Mendes](https://github.com/yabamiah), [Breno](https://github.com/brenob6) e [Mayara Alves ](https://github.com/Mayara-tech)| [Altino Arthur](https://github.com/arthurrochamoreira)|
 
