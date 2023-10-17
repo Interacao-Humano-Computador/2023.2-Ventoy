@@ -23,6 +23,8 @@ Nome| Função|
 <span style = "color: blue"> Paulo Tibério </span>     |  Usuário
 <span style = "color: blue"> Rolando Severo </span>       |  Usuário
 
+</center>
+
 ## Perguntas
 
 Abaixo segue as perguntas feitas durante a reunião com o grupo de foco, conforme segue na tabela 2.
