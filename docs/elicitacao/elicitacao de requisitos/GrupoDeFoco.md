@@ -18,7 +18,7 @@ A reunião teve um início com o condutor explicando sobre o método utilizado, 
 Nome| Função|
 -----|---------|
 [Luis Miranda](https://github.com/LimirioGuimaraes) |  Condutor
-<span style = "color: blue"> Adriana Cristina</span>      |  Usuário
+<span style = "color: blue"> Adriana Cristina</span>      |  Usuário 
 <span style = "color: blue"> Marcus Aurélio</span>      |  Usuário
 <span style = "color: blue"> Paulo Tibério </span>     |  Usuário
 <span style = "color: blue"> Rolando Severo </span>       |  Usuário
