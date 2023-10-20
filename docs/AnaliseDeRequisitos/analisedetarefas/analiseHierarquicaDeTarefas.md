@@ -118,9 +118,7 @@ Na execução dessa tarefa, o usuário busca contribuir com o projeto Ventoy e a
 
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
-|--------|---------|-----------|--------|---------|
+|--------------|--------------|---------------|-----------|-------------|
 |`1.0`| 14/10/2023 | Criação da página de analise de tarefas | [Vinícius Mendes](https://github.com/yabamiah), [Breno](https://github.com/brenob6) e [Mayara Alves ](https://github.com/Mayara-tech)| [Altino Arthur](https://github.com/arthurrochamoreira)|
-
 |`2.0`| 20/10/2023 | Adicionado diagrama HTA da tarefa doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
-
 |`2.1`| 20/10/2023 | Adicionado representação HTA em tabela da figura 5 | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
