@@ -76,6 +76,23 @@ Nesta tarefa o usuário tem como objetivo procurar uma dúvida da instalação n
 
 <p align="center"><b>Tabela 03</b> - Representação HTA em tabela da figura 4</p>
 
+### Acessar a página de Doações para realizar uma doação
+
+O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 5 e na na tabela 4.
+Na execução dessa tarefa, o usuário busca contribuir com o projeto Ventoy e apoiar os desenvolvedores por meio de uma doação.
+
+<center>
+<b>Figura 5</b> - Diagrama HTA realizar doação na página de doações 
+
+![HTA Procurar dúvida](../../assets/HTA_doacao.jpg)
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
+
+<p align="center"><b>Tabela 03</b> - Representação HTA em tabela da figura 5</p>
+
+
+
+
 |**Objetivos / Operações** | **Problemas e Recomendações** |
 |:----------------------|:-------------------------------|
 |0. Acessar a página de FAQ para consultar dúvida|**Plano:** Acessar a página de FAQ no site Ventoy.<br/> **Feedback:** Garantir que os usuários encontrem facilmente o link para o FAQ.|
@@ -96,4 +113,6 @@ Nesta tarefa o usuário tem como objetivo procurar uma dúvida da instalação n
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 14/10/2023 | Criação da página de analise de tarefas | [Vinícius Mendes](https://github.com/yabamiah), [Breno](https://github.com/brenob6) e [Mayara Alves ](https://github.com/Mayara-tech)| [Altino Arthur](https://github.com/arthurrochamoreira)|
+
+|`2.0`| 20/10/2023 | Adicionado diagrama HTA da tarefa doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
 
