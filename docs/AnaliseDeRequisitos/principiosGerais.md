@@ -36,7 +36,7 @@ O grupo realizou uma análise do site do Ventoy. O objetivo da análise foi iden
 
 ## Bibliografia
 
-> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. <br/>
 > BANCO CENTRAL. Interação Humano Computador. Distrito Federal, 2023. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/>. Acesso em: 21/10/2023.
 
 
@@ -46,7 +46,7 @@ O grupo realizou uma análise do site do Ventoy. O objetivo da análise foi iden
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 ---------- | -----  | ------ | ---------- | ----------
- `1.0` | 15/10/2023 | Introdução, Definição e Metodologia |[Limirio Guimarães](https://github.com/LimirioGuimaraes) e [Vinicius Mendes](https://github.com/yabamiah) | |
+ `1.0` | 15/10/2023 | Introdução, Definição e Metodologia |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
  
 
 
