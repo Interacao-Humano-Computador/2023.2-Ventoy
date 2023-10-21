@@ -24,6 +24,18 @@ O grupo realizou uma análise do site do Ventoy. O objetivo da análise foi iden
 
 ### Correspondência com as expectativas do usuário <!-- Limirio -->
 
+Na Figura 1, é possível perceber a violação da Correspondência com a Expectativa do Usuário, dado que a logo do site não é clicável. Geralmente, em muitos sites, os usuários têm a expectativa de que ao clicar na logo do site, eles serão redirecionados para a página inicial. No entanto, neste site, quando se encontra em outra aba ou página, para retornar à página inicial, é necessário procurar na barra de navegação do site, o que pode ser frustrante e confuso para os usuários que estão habituados a essa convenção de usabilidade comum na maioria dos sites. Portanto, essa falta de correspondência com a expectativa do usuário pode resultar em uma experiência menos intuitiva e satisfatória. <br/>
+
+<center>
+
+<p align="center"> Figura 1. Logo do site não é um elemento clicável</p>
+
+![Logo não é um elemento interativo](../../assets/logo_clicavel.jpeg)
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
+
+</center>
+
 ### Consistência e padronização <!-- Yaba -->
 
 ### Promovendo a eficiência do usuário <!-- Limirio -->
@@ -44,10 +56,8 @@ O grupo realizou uma análise do site do Ventoy. O objetivo da análise foi iden
 
 > <a id=“RP1” href=“#TEC1”>1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
 
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
----------- | -----  | ------ | ---------- | ----------
- `1.0` | 15/10/2023 | Introdução, Definição e Metodologia |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
- 
-
-
+|  Versão  |    Data    | Descrição |  Autor(es) | Revisor(es)|
+|--------- | -----------| --------- | ---------- | ---------- |
+|  `1.0`   | 20/10/2023 | Introdução, Definição e Metodologia |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
+|  `1.1`   | 21/10/2023 | Adicionado correspondência com as expectativas do usuário   |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
 
