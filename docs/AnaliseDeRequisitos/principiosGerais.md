@@ -28,9 +28,9 @@ Na Figura 1, é possível perceber a violação da Correspondência com a Expect
 
 <center>
 
-<p align="center"> Figura 1. Logo do site não é um elemento clicável</p>
+<p align="center"> <b>Figura 1</b>. Logo do site não é um elemento clicável</p>
 
-![Logo não é um elemento interativo](../../assets/logo_clicavel.jpeg)
+![Logo não é um elemento interativo](../assets/logo_clicavel.jpeg)
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
