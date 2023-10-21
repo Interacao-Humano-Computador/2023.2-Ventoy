@@ -54,6 +54,20 @@ Esses problemas podem impactar negativamente a experiência do usuário, dificul
 
 ### Visibilidade e reconhecimento <!-- Limirio -->
 
+Como já citado a a falta de um menu de navegação claro e consistente em todas as páginas, ferem o pricípio de visibilidade e reconhecimento. Isso pode dificultar a localização e o acesso às informações desejadas pelos usuários.<br/>
+No entanto há outros problemas como a ausência de feedback visual ou sonoro para as ações dos usuários. Por exemplo, quando o usuário clica no botão de download, não há nenhuma indicação de que o download está sendo realizado, a não ser que o navegador informe o usuário. Isso pode gerar confusão e frustração nos usuários.<br/>
+Outro fator é a utilização de termos técnicos e siglas sem explicação ou definição, como apresentado na figura 3. Por exemplo, o site usa as siglas ISO, WIM, IMG, VHD, EFI, entre outras, sem explicar o que elas significam ou para que servem. Isso pode dificultar a compreensão e o uso do sistema pelos usuários.<br/>
+
+<center>
+
+<p align="center"> <b>Figura 3</b>. Termos técnicos e siglas sem explicação ou definição</p>
+
+![Termos técnicos e siglas sem explicação ou definição](../assets/siglas.png)
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
+
+</center>
+
 ### Consistência e padronização <!-- Yaba -->
 
 ### Antecipação <!-- Yaba -->
@@ -73,5 +87,7 @@ Esses problemas podem impactar negativamente a experiência do usuário, dificul
 |  Versão  |    Data    | Descrição |  Autor(es) | Revisor(es)|
 |--------- | -----------| --------- | ---------- | ---------- |
 |  `1.0`   | 20/10/2023 | Introdução, Definição e Metodologia |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
-|  `1.1`   | 21/10/2023 | Adicionado correspondência com as expectativas do usuário   |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
-|  `1.2`   | 21/10/2023 | Adicionado promovendo a eficiência do usuário    |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
+|  `1.1`   | 21/10/2023 | Adicionado análise de correspondência com as expectativas do usuário   |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
+|  `1.2`   | 21/10/2023 | Adicionado  análise de eficiência do usuário    |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
+|  `1.3`   | 21/10/2023 | Adicionado análise de visibilidade e reconhecimento    |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
+
