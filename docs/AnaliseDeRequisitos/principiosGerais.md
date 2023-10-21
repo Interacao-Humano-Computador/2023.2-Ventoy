@@ -70,9 +70,40 @@ Outro fator é a utilização de termos técnicos e siglas sem explicação ou d
 
 ### Consistência e padronização <!-- Yaba -->
 
+Como foi citado anteriormente, haver uma consistência e uma boa padronização, facilita o usuário a identificar os padrões de um sistema, ocasionando no rápido aprendizado do uso de um sistema.</br>
+E navegando pelo site do Ventoy, foi possível identificar uma falta segmento acerca deste princípio da Consistência e padronização. As figuras a seguir demonstram falta de padronização em textos destacados, títulos e em elementos de itens, estão presentes nas Figuras 4, 5, 6 e 7. E uma recomendação para essa violação, é simples e de fácil resolução, basta criar um estilo padrão e garantir em que todas as páginas do site estão o seguindo.
+
+<p align="center"> <b>Figura 4</b> - Cores dos textos em destaques, títulos e itens da página inicial.</p>
+![Screenshot_20231021_193839](../assets/Screenshot_20231021_193839.png)
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/yabamiah">Vinícius Mendes Martins</a></p>
+
+<p align="center"> <b>Figura 5</b> - Cores dos textos em destaques e itens da documentação.</p>
+
+![Screenshot_20231021_193839](../assets/Screenshot_20231021_194017.png)
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/yabamiah">Vinícius Mendes Martins</a></p>
+<p align="center"> <b>Figura 6</b> - Cores dos textos em destaques e itens da página inicial.</p>
+
+![Screenshot_20231021_193839](../assets/Screenshot_20231021_194038.png)
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/yabamiah">Vinícius Mendes Martins</a></p>
+<p align="center"> <b>Figura 7</b> - Cor do título da página de Compartilhamento de experiência.</p>
+
+![Screenshot_20231021_193839](../assets/Screenshot_20231021_194219.png)
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/yabamiah">Vinícius Mendes Martins</a></p>
+
 ### Antecipação <!-- Yaba -->
 
+A antecipação é um dos princípios que de acordo com o [Brainstorming](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos%20/Brainstorming/) feito com os usuários do site, é violado, pois os usuários esperam encontrar o que querem logo na página inicial, que é o Download do software Ventoy, o facilitaria ainda mais o usuário que tem como objetivo acessar o site com o mínimo de tempo possível. Na Figura 8 é possível visualizar que não tem essa informação antecipada. E uma recomendação para essa violação, é colocar uma seção falando sobre download e colocar o link para abaixar logo ali da página inicial também.
+
+<p align="center"> <b>Figura 8</b> - Informações da página inicial.</p>
+
+![Página inicial](../assets/Screenshot_20231021_195822.png)
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/yabamiah">Vinícius Mendes Martins</a></p>
+
 ### Conteúdo relevante e expressão adequada <!-- Yaba -->
+
+Este princípio possui extrema importância, uma vez que está diretamente relacionado à experiência do usuário ao utilizar o sistema. O usuário tem a expectativa de que o sistema seja não apenas funcional, mas também agradável, apresentando informações de maneira clara, de fácil leitura e acesso. Analisando as figuras anteriores, como a Figura 8, Figura 3, Figura 5, entre outras, observamos a presença de cores intensas que não contrastam de maneira ideal com o fundo do site, além de uma fonte de tamanho reduzido.
+
+Uma sugestão para abordar essa questão seria adotar uma paleta de cores mais suaves, proporcionando uma experiência visual mais agradável. Além disso, considerar a troca para um modo de fundo escuro pode contribuir significativamente para a legibilidade, especialmente em contraste com a fonte, que também pode ser aumentada para melhorar a experiência de leitura para todos os usuários. Essas medidas não apenas atenderiam às expectativas do usuário quanto à estética e clareza, mas também otimizariam a acessibilidade do sistema.
 
 ## Bibliografia
 
@@ -90,4 +121,8 @@ Outro fator é a utilização de termos técnicos e siglas sem explicação ou d
 |  `1.1`   | 21/10/2023 | Adicionado análise de correspondência com as expectativas do usuário   |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
 |  `1.2`   | 21/10/2023 | Adicionado  análise de eficiência do usuário    |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
 |  `1.3`   | 21/10/2023 | Adicionado análise de visibilidade e reconhecimento    |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
+|  `1.4`   | 21/10/2023 | Adicionando análise de consistência e padrão |[Vinícius Mendes](https://github.com/yabamiah) | |
+|  `1.5`   | 21/10/2023 | Adicionado análise de antecipação  |[Vinícius Mendes](https://github.com/yabamiah) | |
+|  `1.6`   | 21/10/2023 | Adicionado  análise de conteúdo relevante e expressão adequada    |[Vinícius Mendes](https://github.com/yabamiah) | |
+
 
