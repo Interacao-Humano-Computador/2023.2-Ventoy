@@ -28,7 +28,7 @@ Na Figura 1, é possível perceber a violação da Correspondência com a Expect
 
 <center>
 
-<p align="center"> <b>Figura 1</b>. Logo do site não é um elemento clicável</p>
+<p align="center"> <b>Figura 1</b>.  Logo do site não é um elemento clicável</p>
 
 ![Logo não é um elemento interativo](../assets/logo_clicavel.jpeg)
 
@@ -36,13 +36,27 @@ Na Figura 1, é possível perceber a violação da Correspondência com a Expect
 
 </center>
 
-### Consistência e padronização <!-- Yaba -->
-
 ### Promovendo a eficiência do usuário <!-- Limirio -->
 
-### Antecipação <!-- Yaba -->
+Na Figura 2, é possível perceber a violação da promoção da eficiência do usuário, dado que a página onde se encontra o fórum fornece um layout diferente de todas as outras, o que pode confundir o usuário. Além disso, como já citado, a logo não é interativa, tornando impossível ao usuário retornar à página inicial ou a uma página com um layout familiar, a menos que ele utilize recursos do navegador, já que o site não oferece esses recursos.<br/>
+
+Esses problemas podem impactar negativamente a experiência do usuário, dificultando a navegação e a orientação no site. A consistência no design e a presença de elementos interativos, como uma logo que leva de volta à página inicial, são importantes para promover a eficiência e a usabilidade em um site.<br/>
+
+<center>
+
+<p align="center"> <b>Figura 2</b>. Página responsável pelo forum não ofere eficiência ao usuário</p>
+
+![Página responsável pelo forum não ofere eficiência ao usuário](../assets/eficienciaDoUsuario.png)
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
+
+</center>
 
 ### Visibilidade e reconhecimento <!-- Limirio -->
+
+### Consistência e padronização <!-- Yaba -->
+
+### Antecipação <!-- Yaba -->
 
 ### Conteúdo relevante e expressão adequada <!-- Yaba -->
 
@@ -60,4 +74,4 @@ Na Figura 1, é possível perceber a violação da Correspondência com a Expect
 |--------- | -----------| --------- | ---------- | ---------- |
 |  `1.0`   | 20/10/2023 | Introdução, Definição e Metodologia |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
 |  `1.1`   | 21/10/2023 | Adicionado correspondência com as expectativas do usuário   |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
-
+|  `1.2`   | 21/10/2023 | Adicionado promovendo a eficiência do usuário    |[Limirio Guimarães](https://github.com/LimirioGuimaraes) | |
