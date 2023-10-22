@@ -86,7 +86,7 @@ Nesta tarefa o usuário tem como objetivo procurar uma dúvida da instalação n
 
 ### Acessar a página de Doações para realizar uma doação
 
-O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 5 e na na tabela 4.
+O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 5 e na tabela 4.
 Na execução dessa tarefa, o usuário busca contribuir com o projeto Ventoy e apoiar os desenvolvedores por meio de uma doação.
 
 <center>
@@ -107,6 +107,30 @@ Na execução dessa tarefa, o usuário busca contribuir com o projeto Ventoy e a
 |1.3. Doar Bitcoin|**Output:** Gerar endereço de bitcoin, que permita o usuário copiar para realizar a doação.<br/>**Recomendação:** Gerar QrCode para o usuário copiar o endereço por ele.|
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
+
+### Acessar a página de Testes De Iso 
+
+O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 6 e na tabela 5.
+Na execução dessa tarefa, o usuário busca contribuir ou se aproveitar com o projeto Ventoy e apoiar os desenvolvedores por meio de um Teste de Iso.
+
+<center>
+<b>Figura 6</b> - Diagrama HTA realizar Testes de Iso na página Testes de Iso
+
+![HTA Testes De Iso]()
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p>
+
+<p align="center"><b>Tabela 05</b> - Representação HTA em tabela da figura 5</p>
+
+|**Objetivos / Operações** | **Problemas e Recomendações** |
+|:----------------------|:-------------------------------|
+|0. Acessar o site do ventoy|**Plano:** Acessar a página inicial do ventoy.<br/> **Feedback:** Garantir que os usuários acessem a página do ventoy na web.|
+|1. Acessar a página de doações |**Plano:** Acessar a página de Testes de Iso no site do ventoy.<br/> **Feedback:** Garantir que os usuários encontrem facilmente o link para a aba de Testes de Iso.<br/> |
+|1.1. Verificar os Testes de Iso já feitos|**Input:** Visualizar listagem de Testes de Iso da categoria.<br/>**Feedback:** Apresentar uma lista de Testes de Iso relacionados à categoria procurada<br/> |
+|1.2. Criar um Teste de Iso|**Input:** Clicar em criar Teste de Iso <br/> |
+|1.2.1. Anexar arquivo|**Input**: anexar algum arquivo de Teste de Iso <br/> **Recomendação**: permitir ao usuário inserir.| 
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p>
 
 </center>
 
