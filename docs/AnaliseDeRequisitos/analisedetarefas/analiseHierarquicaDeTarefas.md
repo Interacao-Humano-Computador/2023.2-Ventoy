@@ -125,7 +125,7 @@ Na execução dessa tarefa, o usuário busca contribuir ou se aproveitar com o p
 |**Objetivos / Operações** | **Problemas e Recomendações** |
 |:----------------------|:-------------------------------|
 |0. Acessar o site do ventoy|**Plano:** Acessar a página inicial do ventoy.<br/> **Feedback:** Garantir que os usuários acessem a página do ventoy na web.|
-|1. Acessar a página de doações |**Plano:** Acessar a página de Testes de Iso no site do ventoy.<br/> **Feedback:** Garantir que os usuários encontrem facilmente o link para a aba de Testes de Iso.<br/> |
+|1. Acessar a página de Testes de Iso |**Plano:** Acessar a página de Testes de Iso no site do ventoy.<br/> **Feedback:** Garantir que os usuários encontrem facilmente o link para a aba de Testes de Iso.<br/> |
 |1.1. Verificar os Testes de Iso já feitos|**Input:** Visualizar listagem de Testes de Iso da categoria.<br/>**Feedback:** Apresentar uma lista de Testes de Iso relacionados à categoria procurada<br/> |
 |1.2. Criar um Teste de Iso|**Input:** Clicar em criar Teste de Iso <br/> |
 |1.2.1. Anexar arquivo|**Input**: anexar algum arquivo de Teste de Iso <br/> **Recomendação**: permitir ao usuário inserir.| 
