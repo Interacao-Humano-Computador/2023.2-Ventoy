@@ -147,6 +147,8 @@ No entanto, também são identificados ícones menos intuitivos como na figura 8
 
 ## Conclusão
 
+Em resumo, a avaliação das metas de usabilidade no site do Ventoy revelou tanto pontos positivos, quanto áreas que precisam de melhorias. Melhorias na segurança, utilidade, facilidade de aprendizado e memorização podem aprimorar significativamente a experiência do usuário. portanto, essas metas que devem ser priorizados e tratados nas próximas etapas, visando oferecer aos usuários uma experiência mais eficaz, eficiente e segura.
+
 ## Referências Bibliograficas
 
 > 1.  BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
