@@ -41,6 +41,7 @@ nav:
     - Perfil de Usuário: elicitacao/PerfilUsuario.md
     - Persona: elicitacao/Persona.md
     - Cenários: AnaliseDeRequisitos/cenarios.md
+    - Metas de Usabilidade: AnaliseDeRequisitos/metasUsabilidade.md
     - Elicitação:
         - Entrevista: elicitacao/elicitacao de requisitos /entrevista.md
         - Brainstorming: elicitacao/elicitacao de requisitos /Brainstorming.md
