@@ -22,6 +22,7 @@ nav:
   - Home: index.md
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao1.md
+      - Apresentação 2: apresentacao/apresentacao2.md
   - Atas:
       - Ata 1: atas/ata1.md
       - Ata 2: atas/ata2.md
