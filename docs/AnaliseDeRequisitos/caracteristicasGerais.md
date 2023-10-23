@@ -32,11 +32,11 @@ O site [Ventoy](https://www.ventoy.net/en/index.html) não estabelece limites es
 - Compatibilidade limitada: alguns sistemas operacionais podem não ser completamente compatíveis com o Ventoy;
 - Erros de inicialização: Em alguns casos, os usuários podem encontrar erros de inicialização ao usar o Ventoy;
 - Requisitos Técnicos: para a utilização do site é necessário algum nível de conhecimento técnico, como a criação correta de imagens ISO ou a configuração de opções avançadas; 
-- Questões de segurança: o uso do site pode envolver riscis de segurança, especialmente se as imagens ISO não forem obtidas de fontes confiáveis;
+- Questões de segurança: o uso do site pode envolver riscos de segurança, especialmente se as imagens ISO não forem obtidas de fontes confiáveis;
 - Documentação insuficiente: há a falta de uma documentação detalhada ou recursos de suporte;
 - Logo do site não é clicável: em diversos sites, para voltar para a página inicial basta clicar em cima da logo;
 - Há páginas com difentes estéticas: O fórum do Ventoy é em um formato totalmente diferente das outras abas, o que pode ocasionar desentimentos pelo usuário;
-- Apenas há duas línguas disponíveis para a utilização do site: por estarmos falando de umaferramenta de criação de unidades USB inicializáveis, é utilizada em diversos lugares do mundo.
+- Apenas há duas línguas disponíveis para a utilização do site: por estarmos falando de uma ferramenta de criação de unidades USB inicializáveis, é utilizada em diversos lugares do mundo.
 
 É importante observar que, embora o Ventoy seja uma ferramenta útil para criar unidades USB inicializáveis com várias imagens ISO, ele pode não ser isento de problemas ou desafios, e os usuários podem encontrar entraves específicos, especialmente em cenários complexos ou situações específicas. 
 
@@ -51,4 +51,4 @@ O site [Ventoy](https://www.ventoy.net/en/index.html) não estabelece limites es
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 23/10/2023 | Criação da página de características gerais | [Milena Baruc](https://github.com/MilenaBaruc)| [Vinícius Mendes](https://github.com/yabamiah)|
+|`1.0`| 23/10/2023 | Criação da página de características gerais | [Milena Baruc](https://github.com/MilenaBaruc)| [Mayara Alves](https://github.com/Mayara-tech)|
