@@ -14,6 +14,7 @@ Para verificar a eficácia das metas de usabilidade, será conduzida uma simula�
 
 ## Metas
 
+As metas de usabilidade que foram avaliadas no site do Ventoy:
 
 ### Eficácia
 
@@ -23,6 +24,7 @@ usuários.
 O site do ventoy possui as seguinte funcionalidade principais:
 
 - Download da ferramenta Ventoy.
+ 
 - Consulta da documentação da ferramenta Ventoy.
 - Fórum onde a comunidade que utiliza a ferramenta pode interagir.
 - Página de perguntas frequentes(FAQ).
@@ -54,11 +56,41 @@ o fórum, porém só existe um fórum de cada tipo, de modo que a segunda ação
 
 ### Facilidade de aprendizagem
 
+A facildade de aprendizado se refere ao tempo e esforço necessário para que o usuário aprenda a utilizar o sistema com
+determinado nível de competência e desempenho ^1^.
 
+O site do 
 
 
 
 ### Memorização
+
+A memorização diz respeito ao esforço cognitivo do usuário necessário para lembrar como interagir com a interface do sistema interativo ^1^.
+
+A avaliação da memorização no site Ventoy revela uma dualidade de elementos visuais, onde a presença de ícones intuitivos como observado na Figura 1 que facilita significativamente a interação dos usuários, proporcionando uma experiência mais fluente e agradável. Esses ícones, prontamente identificáveis e associados de maneira clara às suas funções, contribuem positivamente para a memorização e a usabilidade global do site.
+
+<center>
+
+<p align="center"> <b>Figura 1</b>. Icones intutivos </p>
+
+![Icones Intuitivos ](../assets/IconesIntuitivo.png)
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
+
+</center>
+
+No entanto, também são identificados ícones menos intuitivos como na figura 2 que podem representar desafios na primeira interação do usuário, dada a falta de associação imediata às funções correspondentes. 
+
+<center>
+
+<p align="center"> <b>Figura 2</b>. Icones intutivos </p>
+
+![Icones Intuitivos ](../assets/IconesNaoIntuitivo.png)
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
+
+</center>
+
 
 ## Conclusão
 
