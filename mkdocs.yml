@@ -36,7 +36,7 @@ nav:
       - Processo design: planejamento/processo_de_design.md
       - Sites avaliados: planejamento/sites-avaliados.md
       - Site escolhido: planejamento/site-escolhido.md
-  - Análise de Requisitos:
+  - Análise de Requisitos I:
     - Aspectos Éticos: AnaliseDeRequisitos/aspectosEticos.md
     - Perfil de Usuário: elicitacao/PerfilUsuario.md
     - Persona: elicitacao/Persona.md
@@ -49,7 +49,8 @@ nav:
     - Análise de Tarefas: 
         - Análise Hierarquica de Tarefas - HTA: AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md
         - ConcurTaskTrees - CTT: AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees.md
-
+    - Análise de requisitos II:
+        - Princípios Gerais: AnaliseDeRequisitos/analisedetarefas/principiosGerais.md
 
 theme:
   name: material
