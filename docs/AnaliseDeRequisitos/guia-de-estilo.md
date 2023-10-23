@@ -116,17 +116,17 @@ A Ventoy é predominantemente utilizada em ambientes de trabalho por meio de dis
 
 ## Propostas de Intervenção
 
-Implementação de aceleradores (teclas de atalho) para agilizar tarefas comuns.
+- Implementação de aceleradores (teclas de atalho) para agilizar tarefas comuns.
 
-Melhorias na disposição espacial e na utilização do grid para facilitar o uso da Ventoy.
+- Melhorias na disposição espacial e na utilização do grid para facilitar o uso da Ventoy.
 
-Padronização de elementos visuais, como cores e tipografia, para manter uma identidade visual coesa.
+- Padronização de elementos visuais, como cores e tipografia, para manter uma identidade visual coesa.
 
-Introdução de elementos de ação mais intuitivos, como botões de preenchimento de campos e ativação de operações.
+- Introdução de elementos de ação mais intuitivos, como botões de preenchimento de campos e ativação de operações.
 
-Manutenção de um vocabulário consistente para garantir a compreensão dos usuários.
+- Manutenção de um vocabulário consistente para garantir a compreensão dos usuários.
 
-Essas intervenções têm como objetivo principal aprimorar a interação entre o usuário e a Ventoy, tornando-a mais amigável e eficaz, seguindo as melhores práticas de usabilidade e design.
+- Essas intervenções têm como objetivo principal aprimorar a interação entre o usuário e a Ventoy, tornando-a mais amigável e eficaz, seguindo as melhores práticas de usabilidade e design.
 
 ## Referências Bibliográficas
 
