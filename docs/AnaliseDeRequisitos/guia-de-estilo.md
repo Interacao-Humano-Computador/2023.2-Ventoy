@@ -14,7 +14,7 @@ Este guia de estilo tem como objetivo fornecer diretrizes e melhores práticas p
 
 ### Organização e Conteúdo do Guia de Estilo
 
-O guia de estilo do Ventoy vai ser seguido na seguinte ordem: Elementos de interface, Elementos de interação, Elementos de ação e Resultados da análise.
+O guia de estilo do Ventoy vai ser seguido na seguinte ordem: Elementos de interface, Elementos de interação, Elementos de ação e Resultados da análise. Com um objetivo para que a experiência do usuário seja a melhor e mais otimizada possível, e assim ficando com uma interação mais efetiva dentro do site.
 
 ### Público-alvo do Guia de Estilo
 
