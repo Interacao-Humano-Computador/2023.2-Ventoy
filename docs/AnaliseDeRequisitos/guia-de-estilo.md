@@ -2,23 +2,28 @@
 
 Segundo Barbosa e Silva (2011, p.282)1, o Guia de Estilo é um registro das principais decisões de design tomadas, garantindo que essas decisões sejam incorporadas efetivamente no produto final. Ele desempenha um papel fundamental como ferramenta de comunicação com os stakeholders da equipe, permitindo fácil consulta e discussão de decisões para projeções futuras e atualizações.
 
-Para atingir esses objetivos, é essencial contar com um Guia de Estilo que oriente a criação de interfaces que atendam às necessidades e expectativas dos usuários, mantendo a consistência visual e de interação em todo o sistema. Neste documento, analisaremos os elementos do Ventoy.
+Para atingir esses objetivos, é essencial contar com um Guia de Estilo que oriente a criação de interfaces que atendam às necessidades e expectativas dos usuários, mantendo a consistência visual e de interação em todo o sistema, além de aprimorar a experiência do usuário. Neste documento, analisaremos os elementos do Ventoy.
 
 ### Objetivo do Guia de Estilo
 
 Este guia de estilo tem como objetivo fornecer diretrizes e melhores práticas para o design e desenvolvimento de interfaces de usuário eficazes e usáveis na disciplina de IHC. Nele iremos analisar os elementos que são:
 
-- Elementos de interface: disposição espacial e _grid_, janelas, tipografia, cores, símbolos, _widgets_, logo e design de telas;
+- Elementos de interface: disposição espacial e _grid_, janelas, tipografia, cores, símbolos, _widgets_, logo, ferramentas e design de telas;
 - Elementos de interação: estilos de interação, seleção de um estilo, aceleradores (teclas de atalho);
 - Elementos de ação: preenchimento de campos, seleção e ativação.
 
 ### Organização e Conteúdo do Guia de Estilo
 
-O guia de estilo do Bilheteria Digital será feito a partir dos elementos analisados que foram citados no parágrafo anterior.
+O guia de estilo do Ventoy vai ser seguido na seguinte ordem: Elementos de interface, Elementos de interação, Elementos de ação e Resultados da análise.
 
 ### Público-alvo do Guia de Estilo
 
-Este Guia de Estilo destina-se a atender às necessidades dos usuários da Ventoy, incluindo desenvolvedores e entusiastas de tecnologia que desejam compreender e contribuir para a evolução do produto. Ele fornecerá diretrizes e melhores práticas para o uso eficaz da Ventoy.
+Este Guia de Estilo destina-se a atender às necessidades dos usuários da Ventoy, incluindo desenvolvedores, entusiastas de tecnologia e designers que desejam compreender e contribuir para a evolução do produto. Ele fornecerá diretrizes e melhores práticas para o uso eficaz da Ventoy. Em que os usuários devem consultar para fornecer feedbacks e atualizações em relação a sua utilização. 
+
+Usuários da Ventoy: Envolvidos na interação com a tecnologia.
+Desenvolvedores: Encarregados de executar o design da interface de acordo com as orientações definidas no guia.
+Entusiastas de tecnologia: Encarregados de contribuir para a melhoria da experiência do usuário e o sucesso da plataforma.
+Designers: Participantes na elaboração e modelagem da interface, assegurando a correta aplicação dos princípios de design.
 
 ### Como utilizar o Guia
 
