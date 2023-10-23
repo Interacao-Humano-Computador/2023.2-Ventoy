@@ -48,9 +48,22 @@ A formatação da fonte inclui negrito e itálico em alguns lugares.
 
 ### Cores
 
-A cor de fundo principal do site é branca (#ffffff).
-As cores de texto variam de preto (#000000) a azul (#007aff) e vermelho (#ff0000).
-Há uso de cores para realçar botões e elementos interativos.
+Cores de Fundo:
+
+- A cor de fundo principal do site é branca (#ffffff).
+- Há uma cor de fundo azul usada para realçar algumas seções (#007aff).
+- A cor de fundo de algumas partes do site pode ser observada como amarelo (#ffff00).
+
+Cores de Texto:
+
+- A cor de texto padrão é preta (#000000).
+- O texto destacado em vermelho tem a cor (#ff0000).
+- O texto em azul claro é usado para links e tem a cor (#007aff).
+
+Cores de Botões:
+
+- Os botões podem ter cores diferentes, incluindo fundos cinza (#ccc) quando não estão ativados e fundos com cores de destaque quando o mouse passa sobre eles.
+- Os botões de anúncio podem ter fundos azuis (#007aff).
 
 ### Widgets
 
