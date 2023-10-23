@@ -59,19 +59,42 @@ o fórum, porém só existe um fórum de cada tipo, de modo que a segunda ação
 A facildade de aprendizado se refere ao tempo e esforço necessário para que o usuário aprenda a utilizar o sistema com
 determinado nível de competência e desempenho ^1^.
 
-O site do 
+A avaliação da facilidade de aprendizado no Ventoy revela que o site apresenta algumas deficiências em termos de facilidade de aprendizado logo que o site apresenta algumas formatações inadequadas como na figura 1 onde podemos ve uma não coerência entre a formação do texto e ausencia de espaçamento adequado. Navegação confusa, ja que algumas páginas não tem botão para retornar ao menu anterior como demonstrado na figura 2, além de inconsistencia de idiomas, já que em alguns trechos do site e possível ver a utilização de mais de um idioma sem a explicação dos mesmos, como podemos observar na figura 3, todos esses aspectos tendem a atrapalhar o desempenho do usuário com o site. 
 
+<center>
+
+<p align="center"> <b>Figura 1</b>. Formatação inadequada</p>
+
+![Formatação Inadequada ](../assets/FormatacaoInadequada.png)
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
+
+
+<p align="center"> <b>Figura 2</b>. Navegação confusa </p>
+
+![Navegação Confusa ](../assets/NavegacaoConfusa.png)
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
+
+
+<p align="center"> <b>Figura 3</b>. Inconsistências de idiomas </p>
+
+![Inconsistências de idiomas ](../assets/InconsistenciaIdiomas.png)
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
+
+</center>
 
 
 ### Memorização
 
 A memorização diz respeito ao esforço cognitivo do usuário necessário para lembrar como interagir com a interface do sistema interativo ^1^.
 
-A avaliação da memorização no site Ventoy revela uma dualidade de elementos visuais, onde a presença de ícones intuitivos como observado na Figura 1 que facilita significativamente a interação dos usuários, proporcionando uma experiência mais fluente e agradável. Esses ícones, prontamente identificáveis e associados de maneira clara às suas funções, contribuem positivamente para a memorização e a usabilidade global do site.
+A avaliação da memorização no site Ventoy revela uma dualidade de elementos visuais, onde a presença de ícones intuitivos como observado na Figura 4 que facilita significativamente a interação dos usuários, proporcionando uma experiência mais fluente e agradável. Esses ícones, prontamente identificáveis e associados de maneira clara às suas funções, contribuem positivamente para a memorização e a usabilidade global do site.
 
 <center>
 
-<p align="center"> <b>Figura 1</b>. Icones intutivos </p>
+<p align="center"> <b>Figura 4</b>. Icones intutivos </p>
 
 ![Icones Intuitivos ](../assets/IconesIntuitivo.png)
 
@@ -79,11 +102,11 @@ A avaliação da memorização no site Ventoy revela uma dualidade de elementos 
 
 </center>
 
-No entanto, também são identificados ícones menos intuitivos como na figura 2 que podem representar desafios na primeira interação do usuário, dada a falta de associação imediata às funções correspondentes. 
+No entanto, também são identificados ícones menos intuitivos como na figura 5 que podem representar desafios na primeira interação do usuário, dada a falta de associação imediata às funções correspondentes. 
 
 <center>
 
-<p align="center"> <b>Figura 2</b>. Icones intutivos </p>
+<p align="center"> <b>Figura 5</b>. Icones intutivos </p>
 
 ![Icones Intuitivos ](../assets/IconesNaoIntuitivo.png)
 
