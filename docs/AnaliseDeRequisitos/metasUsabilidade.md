@@ -48,36 +48,56 @@ ou perigosa.
 
 Um software útil dispõe de ferramentas que são essenciais para um determinada tarefa.
 
-- A documentação presente no site não possui campo de pesquisa.
+- A documentação presente no site não possui campo de pesquisa. Ver figura 1.
 - A página de FAQ não possui mecanismos de pesquisa, sendo nessário ao usuário percorrer toda a 
-lista de maneira manual.
+lista de maneira manual. Ver figura 2
 - No fórum do site existe uma ação desnecessária, é necessário escolher um tipo de fórum e posteriormente
 o fórum, porém só existe um fórum de cada tipo, de modo que a segunda ação não faz sentido.
+
+<center>
+
+**Figura 01**
+
+![Documentação](../../assets/metas-usabilidade/doc-barra.png)
+
+Fonte: Site Ventoy.
+
+</center>
+
+<center>
+
+**Figura 02**
+
+![Documentação](../../assets/metas-usabilidade/faq.png)
+
+Figura: Site Ventoy.
+
+</center>
 
 ### Facilidade de aprendizagem
 
 A facildade de aprendizado se refere ao tempo e esforço necessário para que o usuário aprenda a utilizar o sistema com
 determinado nível de competência e desempenho ^1^.
 
-A avaliação da facilidade de aprendizado no Ventoy revela que o site apresenta algumas deficiências em termos de facilidade de aprendizado logo que o site apresenta algumas formatações inadequadas como na figura 1 onde podemos ve uma não coerência entre a formação do texto e ausencia de espaçamento adequado. Navegação confusa, ja que algumas páginas não tem botão para retornar ao menu anterior como demonstrado na figura 2, além de inconsistencia de idiomas, já que em alguns trechos do site e possível ver a utilização de mais de um idioma sem a explicação dos mesmos, como podemos observar na figura 3, todos esses aspectos tendem a atrapalhar o desempenho do usuário com o site. 
+A avaliação da facilidade de aprendizado no Ventoy revela que o site apresenta algumas deficiências em termos de facilidade de aprendizado logo que o site apresenta algumas formatações inadequadas como na figura 3 onde podemos ve uma não coerência entre a formação do texto e ausencia de espaçamento adequado. Navegação confusa, ja que algumas páginas não tem botão para retornar ao menu anterior como demonstrado na figura 4, além de inconsistencia de idiomas, já que em alguns trechos do site e possível ver a utilização de mais de um idioma sem a explicação dos mesmos, como podemos observar na figura 5, todos esses aspectos tendem a atrapalhar o desempenho do usuário com o site. 
 
 <center>
 
-<p align="center"> <b>Figura 1</b>. Formatação inadequada</p>
+<p align="center"> <b>Figura 3</b>. Formatação inadequada</p>
 
 ![Formatação Inadequada ](../assets/FormatacaoInadequada.PNG)
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
 
 
-<p align="center"> <b>Figura 2</b>. Navegação confusa </p>
+<p align="center"> <b>Figura 4</b>. Navegação confusa </p>
 
 ![Navegação Confusa ](../assets/NavegacaoConfusa.PNG)
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
 
 
-<p align="center"> <b>Figura 3</b>. Inconsistências de idiomas </p>
+<p align="center"> <b>Figura 5</b>. Inconsistências de idiomas </p>
 
 ![Inconsistências de idiomas ](../assets/InconsistenciaIdiomas.png)
 
