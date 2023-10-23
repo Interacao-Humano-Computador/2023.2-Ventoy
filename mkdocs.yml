@@ -1,8 +1,6 @@
 repo_url: https://github.com/Interacao-Humano-Computador/2023.2-Ventoy
 repo_name: 2023.2-Ventoy
 
--
-
 markdown_extensions:
   - admonition
   - attr_list
