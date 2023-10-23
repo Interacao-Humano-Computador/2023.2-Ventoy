@@ -51,7 +51,6 @@ nav:
         - ConcurTaskTrees - CTT: AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees.md
     - Análise de requisitos II:
         - Princípios Gerais: AnaliseDeRequisitos/analisedetarefas/principiosGerais.md
-
 theme:
   name: material
   features:
