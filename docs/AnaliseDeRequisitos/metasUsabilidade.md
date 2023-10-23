@@ -2,10 +2,18 @@
 
 ## Introdução
 
-Neste documento será definido as metas de usabilidade do projeto, utilizando como base
-o perfil de usuário, e na análise de tarefas já elicitados.
+A definição das metas de usabilidade envolve definir os fatores de qualidade de uso que devem ser priorizados no projeto, como serão avaliados ao longo do processo de design, e quais faixas de valores são inaceitáveis, aceitáveis e ideias para cada indicador de interesse ^1^.
+
+Portanto, seriam como o grau em que um produto é usado por usuários específicos para atingir objetivos específicos como eficácia, eficiência e satisfção em um contexto de uso específico. Na análise de requisitos são definidas as metas de usabilidade com base no perfil do usuário e na ánalise de tarefas.
+
+## Metodologia
+
+No âmbito deste projeto, a definição das metas de usabilidade desempenha um papel fundamental na busca pela melhoria da experiência do usuário. Para alcançar esse objetivo, estamos utilizando os critérios estabelecidos Nielsen (1993), que aborda os principais pilares da usabilidade. Estes critérios são eficácia, eficiência, segurança, utilidade, aprendizado e memorização.
+
+Para verificar a eficácia das metas de usabilidade, será conduzida uma simulação do comportamento dos usuários, considerando o perfil de usuário definido, em várias situações de uso identificadas na análise de tarefas. O objetivo é avaliar a implementação de cada meta no sistema, determinando se foram alcançadas, levando em consideração a análise dos criterios mencionados anteriormente.
 
 ## Metas
+
 
 ### Eficácia
 
@@ -54,10 +62,13 @@ o fórum, porém só existe um fórum de cada tipo, de modo que a segunda ação
 
 ## Conclusão
 
+## Referências Bibliograficas
+
+> 1.  BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
 ## Bibliografia
 
-> BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
+
 
 
 
