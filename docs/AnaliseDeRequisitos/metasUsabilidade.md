@@ -65,14 +65,14 @@ A avaliação da facilidade de aprendizado no Ventoy revela que o site apresenta
 
 <p align="center"> <b>Figura 1</b>. Formatação inadequada</p>
 
-![Formatação Inadequada ](../assets/FormatacaoInadequada.png)
+![Formatação Inadequada ](../assets/FormatacaoInadequada.PNG)
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
 
 
 <p align="center"> <b>Figura 2</b>. Navegação confusa </p>
 
-![Navegação Confusa ](../assets/NavegacaoConfusa.png)
+![Navegação Confusa ](../assets/NavegacaoConfusa.PNG)
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
 
