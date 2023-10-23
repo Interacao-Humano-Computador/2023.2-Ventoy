@@ -136,7 +136,7 @@ Na execução dessa tarefa, o usuário busca contribuir ou se aproveitar com o p
 
 ### Acessar a página de Compartilhamento de Experiências 
 
-O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 7 e na tabela 6. Na execução dessa tarefa, o usuário busca acessar o site do Ventoy e explorar experiências. Ele tem a opção de ler experiências compartilhadas, avaliar sua relevância e até mesmo entrar em contato com o autor da experiência para fazer perguntas. Essa interação ajuda a comunidade do Ventoy a trocar informações e insights úteis sobre o projeto.
+O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 7 e na tabela 6. Na execução dessa tarefa, o usuário busca acessar o site do Ventoy e explorar experiências. Ele tem a opção de ler experiências compartilhadas e entrar em contato com o autor da experiência para fazer perguntas. Essa interação ajuda a comunidade do Ventoy a trocar informações e insights úteis sobre o projeto.
 
 <center>
 <b>Figura 7</b> - Diagrama HTA acessar a página de Compartilhamento de Experiências 
