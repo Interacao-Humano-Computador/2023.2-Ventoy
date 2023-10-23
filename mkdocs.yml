@@ -54,7 +54,7 @@ nav:
   - Análise de requisitos II:
         - Princípios Gerais: AnaliseDeRequisitos/principiosGerais.md
         - Características Gerais: AnaliseDeRequisitos\caracteristicasGerais.md
-
+        - Metas de Usabilidade: AnaliseDeRequisitos\metasUsabilidade.md
         
 theme:
   name: material
