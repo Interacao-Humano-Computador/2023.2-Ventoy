@@ -45,6 +45,6 @@ Adicionar funcionalidade a análise de tarefa - HTA | Limirio Guimarães, Luis E
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-`1.0` | 23/10/2023| Criação da página de apresentação 2 | [Mayara Alves](https://github.com/Mayara-tech) |
+`1.0` | 23/10/2023| Criação da página de apresentação 2 | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6)|
 
 
