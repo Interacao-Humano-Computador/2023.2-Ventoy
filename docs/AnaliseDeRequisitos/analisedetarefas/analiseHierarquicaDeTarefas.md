@@ -151,10 +151,8 @@ O diagrama feito para analisar esta tarefa foi representado em um diagrama na fi
 |:----------------------|:-------------------------------|
 |0. Acessar o site do ventoy|**Plano:** Acessar a página inicial do ventoy.<br/> **Feedback:** Garantir que os usuários acessem a página do ventoy na web.|
 |1. Acessar a seção de Compartilhamento de Experiências|**Plano:** Acessar a seção de Compartilhamento de Experiências após entrar no site do ventoy.<br/> **Feedback:** Garantir que os usuários encontrem facilmente a seção de compartilhamento.|
-|1.2. Ler experiências compartilhadas|**Input:** Visualizar as experiências compartilhadas por outros usuários.<br/> **Feedback:** Oferecer uma interface amigável para a leitura das experiências.|
-|1.2 Avaliar se a experiência compartilhada é relevante|**Input:** Avaliar os detalhes e o conteúdo da experiência compartilhada.<br/> **Feedback:** Permitir que os usuários classifiquem ou comentem sobre a relevância das experiências.|
+|1.1. Ler experiências compartilhadas|**Input:** Visualizar as experiências compartilhadas por outros usuários.<br/> **Feedback:** Oferecer uma interface amigável para a leitura das experiências.|
 |2. Contactar o autor para perguntas|**Input:** Utilizar um meio de contato para fazer perguntas ao autor da experiência.<br/> **Feedback:** Garantir uma comunicação eficiente entre os usuários e os autores das experiências.|
-|2.1 Escrever e enviar uma mensagem ao autor|**Input:** Redigir uma mensagem e enviá-la ao autor da experiência.<br/> **Feedback:** Fornecer um sistema de mensagens intuitivo e eficaz.|
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></p>
 
