@@ -27,6 +27,7 @@ nav:
       - Ata 2: atas/ata2.md
       - Ata 3: atas/ata3.md
       - Ata 4: atas/ata4.md
+      - Ata 5: atas/ata5.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/Ferramentas.md
@@ -51,6 +52,8 @@ nav:
         - ConcurTaskTrees - CTT: AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees.md
     - Análise de requisitos II:
         - Princípios Gerais: AnaliseDeRequisitos/analisedetarefas/principiosGerais.md
+
+        
 theme:
   name: material
   features:
