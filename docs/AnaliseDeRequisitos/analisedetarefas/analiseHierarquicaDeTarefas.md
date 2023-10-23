@@ -156,8 +156,6 @@ O diagrama feito para analisar esta tarefa foi representado em um diagrama na fi
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></p>
 
-
-
 ## Bibliografia
 >Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193.
 
