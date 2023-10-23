@@ -22,11 +22,13 @@ nav:
   - Home: index.md
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao1.md
+      - Apresentação 2: apresentacao/apresentacao2.md
   - Atas:
       - Ata 1: atas/ata1.md
       - Ata 2: atas/ata2.md
       - Ata 3: atas/ata3.md
       - Ata 4: atas/ata4.md
+      - Ata 5: atas/ata5.md
   - Planejamento:
       - Cronograma: planejamento/cronograma.md
       - Ferramentas: planejamento/Ferramentas.md
@@ -36,12 +38,11 @@ nav:
       - Processo design: planejamento/processo_de_design.md
       - Sites avaliados: planejamento/sites-avaliados.md
       - Site escolhido: planejamento/site-escolhido.md
-  - Análise de Requisitos:
+  - Análise de Requisitos I:
     - Aspectos Éticos: AnaliseDeRequisitos/aspectosEticos.md
     - Perfil de Usuário: elicitacao/PerfilUsuario.md
     - Persona: elicitacao/Persona.md
     - Cenários: AnaliseDeRequisitos/cenarios.md
-    - Metas de Usabilidade: AnaliseDeRequisitos/metasUsabilidade.md
     - Elicitação:
         - Entrevista: elicitacao/elicitacao de requisitos /entrevista.md
         - Brainstorming: elicitacao/elicitacao de requisitos /Brainstorming.md
@@ -50,6 +51,10 @@ nav:
     - Análise de Tarefas: 
         - Análise Hierarquica de Tarefas - HTA: AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md
         - ConcurTaskTrees - CTT: AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees.md
+  - Análise de requisitos II:
+        - Princípios Gerais: AnaliseDeRequisitos/principiosGerais.md
+        - Características Gerais: AnaliseDeRequisitos\caracteristicasGerais.md
+        - Metas de Usabilidade: AnaliseDeRequisitos\metasUsabilidade.md
 
 
 theme:
