@@ -20,10 +20,10 @@ O guia de estilo do Ventoy vai ser seguido na seguinte ordem: Elementos de inter
 
 Este Guia de Estilo destina-se a atender às necessidades dos usuários da Ventoy, incluindo desenvolvedores, entusiastas de tecnologia e designers que desejam compreender e contribuir para a evolução do produto. Ele fornecerá diretrizes e melhores práticas para o uso eficaz da Ventoy. Em que os usuários devem consultar para fornecer feedbacks e atualizações em relação a sua utilização. 
 
-Usuários da Ventoy: Envolvidos na interação com a tecnologia.
-Desenvolvedores: Encarregados de executar o design da interface de acordo com as orientações definidas no guia.
-Entusiastas de tecnologia: Encarregados de contribuir para a melhoria da experiência do usuário e o sucesso da plataforma.
-Designers: Participantes na elaboração e modelagem da interface, assegurando a correta aplicação dos princípios de design.
+- Usuários da Ventoy: Envolvidos na interação com a tecnologia.
+- Desenvolvedores: Encarregados de executar o design da interface de acordo com as orientações definidas no guia.
+- Entusiastas de tecnologia: Encarregados de contribuir para a melhoria da experiência do usuário e o sucesso da plataforma.
+- Designers: Participantes na elaboração e modelagem da interface, assegurando a correta aplicação dos princípios de design.
 
 ### Como utilizar o Guia
 
