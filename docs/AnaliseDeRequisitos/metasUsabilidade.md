@@ -42,23 +42,33 @@ consegue usufruir delas sem grande dificuldades.
 Um software seguro pressupõe que o usuário não será exposto a nenhuma situação indesejada
 ou perigosa.
 
-- O site do Ventoy possui alguns anúncios de carater duvidoso.
+- O site do Ventoy possui alguns anúncios de carater duvidoso como podemos ver na figura 1.
+
+<center>
+
+<p align="center"> <b>Figura 1</b>. Anúncios </p>
+
+![Anúncios](../assets/metas-usabilidade/anuncios.png)
+
+Fonte: Site Ventoy.
+
+</center>
 
 ### Utilidade
 
 Um software útil dispõe de ferramentas que são essenciais para um determinada tarefa.
 
-- A documentação presente no site não possui campo de pesquisa. Ver figura 1.
+- A documentação presente no site não possui campo de pesquisa. Ver figura 2.
 - A página de FAQ não possui mecanismos de pesquisa, sendo nessário ao usuário percorrer toda a 
-lista de maneira manual. Ver figura 2
+lista de maneira manual. Ver figura 3
 - No fórum do site existe uma ação desnecessária, é necessário escolher um tipo de fórum e posteriormente
 o fórum, porém só existe um fórum de cada tipo, de modo que a segunda ação não faz sentido.
 
 <center>
 
-**Figura 01**
+<p align="center"> <b>Figura 2</b>. Documentação </p>
 
-![Documentação](../../assets/metas-usabilidade/doc-barra.png)
+![Documentação](../assets/metas-usabilidade/doc-barra.png)
 
 Fonte: Site Ventoy.
 
@@ -66,11 +76,11 @@ Fonte: Site Ventoy.
 
 <center>
 
-**Figura 02**
+<p align="center"> <b>Figura 3.</b> Página de FAQ</p>
 
-![Documentação](../../assets/metas-usabilidade/faq.png)
+![Documentação](../assets/metas-usabilidade/faq.png)
 
-Figura: Site Ventoy.
+Fonte: Site Ventoy.
 
 </center>
 
@@ -79,29 +89,29 @@ Figura: Site Ventoy.
 A facildade de aprendizado se refere ao tempo e esforço necessário para que o usuário aprenda a utilizar o sistema com
 determinado nível de competência e desempenho ^1^.
 
-A avaliação da facilidade de aprendizado no Ventoy revela que o site apresenta algumas deficiências em termos de facilidade de aprendizado logo que o site apresenta algumas formatações inadequadas como na figura 3 onde podemos ve uma não coerência entre a formação do texto e ausencia de espaçamento adequado. Navegação confusa, ja que algumas páginas não tem botão para retornar ao menu anterior como demonstrado na figura 4, além de inconsistencia de idiomas, já que em alguns trechos do site e possível ver a utilização de mais de um idioma sem a explicação dos mesmos, como podemos observar na figura 5, todos esses aspectos tendem a atrapalhar o desempenho do usuário com o site. 
+A avaliação da facilidade de aprendizado no Ventoy revela que o site apresenta algumas deficiências em termos de facilidade de aprendizado logo que o site apresenta algumas formatações inadequadas como na figura 4 onde podemos ve uma não coerência entre a formação do texto e ausencia de espaçamento adequado. Navegação confusa, ja que algumas páginas não tem botão para retornar ao menu anterior como demonstrado na figura 5, além de inconsistencia de idiomas, já que em alguns trechos do site e possível ver a utilização de mais de um idioma sem a explicação dos mesmos, como podemos observar na figura 6, todos esses aspectos tendem a atrapalhar o desempenho do usuário com o site. 
 
 <center>
 
-<p align="center"> <b>Figura 3</b>. Formatação inadequada</p>
+<p align="center"> <b>Figura 4</b>. Formatação inadequada</p>
 
 ![Formatação Inadequada ](../assets/FormatacaoInadequada.PNG)
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
+<p align="center"><b>Fonte</b>: Ventoy </p>
 
 
-<p align="center"> <b>Figura 4</b>. Navegação confusa </p>
+<p align="center"> <b>Figura 5</b>. Navegação confusa </p>
 
 ![Navegação Confusa ](../assets/NavegacaoConfusa.PNG)
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
+<p align="center"><b>Fonte</b>: site Ventoy </p>
 
 
-<p align="center"> <b>Figura 5</b>. Inconsistências de idiomas </p>
+<p align="center"> <b>Figura 6</b>. Inconsistências de idiomas </p>
 
 ![Inconsistências de idiomas ](../assets/InconsistenciaIdiomas.png)
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
+<p align="center"><b>Fonte</b>: site Ventoy </p>
 
 </center>
 
@@ -110,27 +120,27 @@ A avaliação da facilidade de aprendizado no Ventoy revela que o site apresenta
 
 A memorização diz respeito ao esforço cognitivo do usuário necessário para lembrar como interagir com a interface do sistema interativo ^1^.
 
-A avaliação da memorização no site Ventoy revela uma dualidade de elementos visuais, onde a presença de ícones intuitivos como observado na Figura 4 que facilita significativamente a interação dos usuários, proporcionando uma experiência mais fluente e agradável. Esses ícones, prontamente identificáveis e associados de maneira clara às suas funções, contribuem positivamente para a memorização e a usabilidade global do site.
+A avaliação da memorização no site Ventoy revela uma dualidade de elementos visuais, onde a presença de ícones intuitivos como observado na Figura 7 que facilita significativamente a interação dos usuários, proporcionando uma experiência mais fluente e agradável. Esses ícones, prontamente identificáveis e associados de maneira clara às suas funções, contribuem positivamente para a memorização e a usabilidade global do site.
 
 <center>
 
-<p align="center"> <b>Figura 4</b>. Icones intutivos </p>
+<p align="center"> <b>Figura 7</b>. Icones intutivos </p>
 
 ![Icones Intuitivos ](../assets/IconesIntuitivo.png)
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
+<p align="center"><b>Fonte</b>: site Ventoy </p>
 
 </center>
 
-No entanto, também são identificados ícones menos intuitivos como na figura 5 que podem representar desafios na primeira interação do usuário, dada a falta de associação imediata às funções correspondentes. 
+No entanto, também são identificados ícones menos intuitivos como na figura 8 que podem representar desafios na primeira interação do usuário, dada a falta de associação imediata às funções correspondentes. 
 
 <center>
 
-<p align="center"> <b>Figura 5</b>. Icones intutivos </p>
+<p align="center"> <b>Figura 8</b>. Icones intutivos </p>
 
 ![Icones Intuitivos ](../assets/IconesNaoIntuitivo.png)
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/Mayara-tech">Mayara Alves</a></p>
+<p align="center"><b>Fonte</b>: Ventoy </p>
 
 </center>
 
@@ -141,15 +151,10 @@ No entanto, também são identificados ícones menos intuitivos como na figura 5
 
 > 1.  BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
-## Bibliografia
-
-
-
-
 
 ## 📑 Histórico de Versões
 
 | Versão | Data       | Descrição   | Autor   | Revisor                                      |
 | ------ | ---------- | ----------- | -------| ------------------------------------------|
-| `1.0`  | 22/10/2023 | Criação do documento | [](https://github.com/) |  [](https://github.com/)
+| `1.0`  | 23/10/2023 | Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) e [Breno Queiroz](https://github.com/brenob6) |  [](https://github.com/)
 
