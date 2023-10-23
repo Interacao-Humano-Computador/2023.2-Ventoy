@@ -158,5 +158,5 @@ Em resumo, a avaliação das metas de usabilidade no site do Ventoy revelou tant
 
 | Versão | Data       | Descrição   | Autor   | Revisor                                      |
 | ------ | ---------- | ----------- | -------| ------------------------------------------|
-| `1.0`  | 23/10/2023 | Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) e [Breno Queiroz](https://github.com/brenob6) |  [](https://github.com/)
+| `1.0`  | 23/10/2023 | Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) e [Breno Queiroz](https://github.com/brenob6) |  [Milena Baruc](https://github.com/MilenaBaruc)
 
