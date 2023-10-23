@@ -86,7 +86,7 @@ Nesta tarefa o usuário tem como objetivo procurar uma dúvida da instalação n
 
 ### Acessar a página de Doações para realizar uma doação
 
-O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 5 e na na tabela 4.
+O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 5 e na tabela 4.
 Na execução dessa tarefa, o usuário busca contribuir com o projeto Ventoy e apoiar os desenvolvedores por meio de uma doação.
 
 <center>
@@ -108,7 +108,53 @@ Na execução dessa tarefa, o usuário busca contribuir com o projeto Ventoy e a
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
+### Acessar a página de Testes De Iso 
+
+O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 6 e na tabela 5.
+Na execução dessa tarefa, o usuário busca contribuir ou se aproveitar com o projeto Ventoy e apoiar os desenvolvedores por meio de um Teste de Iso.
+
+<center>
+<b>Figura 6</b> - Diagrama HTA realizar Testes de Iso na página Testes de Iso
+
+![HTA Testes De Iso](../../assets/Testes_de_Iso.jpg)
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p>
+
+<p align="center"><b>Tabela 05</b> - Representação HTA em tabela da figura 5</p>
+
+|**Objetivos / Operações** | **Problemas e Recomendações** |
+|:----------------------|:-------------------------------|
+|0. Acessar o site do ventoy|**Plano:** Acessar a página inicial do ventoy.<br/> **Feedback:** Garantir que os usuários acessem a página do ventoy na web.|
+|1. Acessar a página de Testes de Iso |**Plano:** Acessar a página de Testes de Iso no site do ventoy.<br/> **Feedback:** Garantir que os usuários encontrem facilmente o link para a aba de Testes de Iso.<br/> |
+|1.1. Verificar os Testes de Iso já feitos|**Input:** Visualizar listagem de Testes de Iso da categoria.<br/>**Feedback:** Apresentar uma lista de Testes de Iso relacionados à categoria procurada<br/> **Recomendação:** Inserir consulta para melhor localização da distribuição desejada .|
+|1.2. Criar um Teste de Iso|**Input:** Clicar em criar Teste de Iso <br/> |
+|1.2.1. Anexar arquivo|**Input**: Solicitar o pull request de Teste de Iso <br/> **Recomendação**: Permitir ao usuário inserir por si próprio na lista de testes de iso.  | 
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p>
+
 </center>
+
+### Acessar a página de Compartilhamento de Experiências 
+
+O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 7 e na tabela 6. Na execução dessa tarefa, o usuário busca acessar o site do Ventoy e explorar experiências. Ele tem a opção de ler experiências compartilhadas e entrar em contato com o autor da experiência para fazer perguntas. Essa interação ajuda a comunidade do Ventoy a trocar informações e insights úteis sobre o projeto.
+
+<center>
+<b>Figura 7</b> - Diagrama HTA acessar a página de Compartilhamento de Experiências 
+
+![HTA Compartilhamento De Experiências](../../assets/compartilhamento_experiencias.png)
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></p>
+
+<p align="center"><b>Tabela 06</b> - Representação HTA em tabela da figura 7</p>
+
+|**Objetivos / Operações** | **Problemas e Recomendações** |
+|:----------------------|:-------------------------------|
+|0. Acessar o site do ventoy|**Plano:** Acessar a página inicial do ventoy.<br/> **Feedback:** Garantir que os usuários acessem a página do ventoy na web.|
+|1. Acessar a seção de Compartilhamento de Experiências|**Plano:** Acessar a seção de Compartilhamento de Experiências após entrar no site do ventoy.<br/> **Feedback:** Garantir que os usuários encontrem facilmente a seção de compartilhamento.|
+|1.1. Ler experiências compartilhadas|**Input:** Visualizar as experiências compartilhadas por outros usuários.<br/> **Feedback:** Oferecer uma interface amigável para a leitura das experiências.|
+|2. Contactar o autor para perguntas|**Input:** Utilizar um meio de contato para fazer perguntas ao autor da experiência.<br/> **Feedback:** Garantir uma comunicação eficiente entre os usuários e os autores das experiências.|
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></p>
 
 ## Bibliografia
 >Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193.
@@ -122,3 +168,4 @@ Na execução dessa tarefa, o usuário busca contribuir com o projeto Ventoy e a
 |`1.0`| 14/10/2023 | Criação da página de analise de tarefas | [Vinícius Mendes](https://github.com/yabamiah), [Breno](https://github.com/brenob6) e [Mayara Alves ](https://github.com/Mayara-tech)| [Altino Arthur](https://github.com/arthurrochamoreira)|
 |`2.0`| 20/10/2023 | Adicionado diagrama HTA da tarefa doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Luis Miranda](https://github.com/LuisMiranda10) |
 |`2.1`| 20/10/2023 | Adicionado representação HTA em tabela da figura 5 | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Luis Miranda](https://github.com/LuisMiranda10) |
+|`2.2`| 23/10/2023 | Adicionado representação HTA da tarefa Compartilhamento de Experiências | [Altino Arthur](https://github.com/arthurrochamoreira)| [](https://github.com/) |

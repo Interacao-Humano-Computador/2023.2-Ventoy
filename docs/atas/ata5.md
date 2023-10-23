@@ -12,8 +12,8 @@ Arthur
 
 |   | Horário Previsto | Horário Realizado |
 |:-:| :-: | :-: |
-|**Início da reunião**| 21:30 | 22:00 |
-|**Fim da reunião**| 21:30 | 22:00 |
+|**Início da reunião**| 21:30 | 21:48 |
+|**Fim da reunião**| 22:00 | 22:18 |
 
 **Fonte:** [Luis Miranda](https://github.com/LuisMiranda10)
 
@@ -102,4 +102,4 @@ A próxima reunião ficou marcada para o dia 26/10/2023, às 21:00.
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
-| `1.0`  |05/10/2023 | Criação da quinta ata |[Luis Miranda](https://github.com/LuisMiranda10)|
+| `1.0`  |05/10/2023 | Criação da quinta ata |[Luis Miranda](https://github.com/LuisMiranda10)|[Mayara Alves](https://github.com/Mayara-tech)
