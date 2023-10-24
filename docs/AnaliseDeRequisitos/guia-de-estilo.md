@@ -46,7 +46,7 @@ Para que se tenha um guia de estilo alinhado com o desenvolvimento/progresso do 
 
 O layout principal da página consiste em uma estrutura de cabeçalho, conteúdo e rodapé.
 O conteúdo é organizado em seções e subseções.
-Os elementos são alinhados e espaçados para proporcionar uma aparência ordenada.
+Os elementos devem estar alinhados e espaçados para proporcionar uma aparência ordenada.
 
 ### Janelas
 
@@ -54,9 +54,7 @@ Não há janelas pop-up,mas a estrutura do site pode ser considerada como seçõ
 
 ### Tipografia
 
-A fonte principal usada é "arial, helvetica, sans-serif".
-Tamanhos de fonte variados são utilizados para cabeçalhos, texto principal e outros elementos.
-A formatação da fonte inclui negrito e itálico em alguns lugares.
+A fonte principal usada no site é "arial, helvetica, sans-serif" . Contendo tamanhos de fonte variados que são utilizados para cabeçalhos, texto principal e outros elementos. Já na parte de formatação da fonte é incluido o negrito e itálico em alguns lugares. Neste guia, dispõe de duas fontes diferentes, sendo elas: , como é representado na figura 3.
 
 ### Cores
 
@@ -77,17 +75,13 @@ Cores de Botões:
 - Os botões podem ter cores diferentes, incluindo fundos cinza (#ccc) quando não estão ativados e fundos com cores de destaque quando o mouse passa sobre eles.
 - Os botões de anúncio podem ter fundos azuis (#007aff).
 
-### Widgets
+As cores a serem utilizadas ( Figura 4 ) na interface, foram selecionadas de acordo com as já presentes no site do Ventoy, apenas deixando mais padronizado e visualmente harmonico.
 
-O site inclui elementos como botões, links, imagens e campos de texto, que podem ser considerados widgets interativos.
+### Simbolos não tiponográficos
 
-### Logo
+Dentro do site do Ventoy não se tem esses simbolos tiponograficos. Eles representam elementos gráficos, como ícones, botões, setas e outros indicadores visuais que transcendem o texto. Esses símbolos não apenas simplificam a documentação e a comunicação entre a equipe de design, desenvolvedores e demais partes interessadas, mas também ajudam os usuários a identificar rapidamente funcionalidades e interações dentro de uma interface, contribuindo para uma experiência mais intuitiva e eficaz. 
 
-O logotipo do site é uma imagem que contém o nome "Ventoy" com uma imagem relacionada.
-
-### Design de Telas
-
-O site contem várias seções, cada uma com seu próprio conteúdo e estilo.
+Os elementos estão representados na figura 5 abaixo. 
 
 
 ## Elementos de Interação
