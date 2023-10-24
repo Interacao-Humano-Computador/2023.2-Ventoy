@@ -107,12 +107,11 @@ Os elementos estão representados na figura 5 abaixo.
 
 ### Estilo de Interação
 
-Os estilos de interação incluem efeitos de hover (quando o mouse passa sobre elementos interativos).
-Os botões podem mudar de cor quando o mouse passa sobre eles.
+Esses elementos do estilo de interação englobam botões de ação, links de navegação e ícones que, juntos, facilitam a navegação intuitiva e eficaz pelos recursos e informações disponíveis. Além disso, elementos de realce, como animações suaves ou mudanças visuais ao passar o mouse sobre itens interativos, fornecem feedback imediato aos usuários, tornando a experiência mais envolvente. 
 
 ### Seleção de Estilos
 
-Não há seleção de estilo.
+Uma série de elementos de interação de seleções de estilo existe dentro do site, projetados para aprimorar a usabilidade e a personalização da experiência do usuário. Isso inclui botões de seleção, listas suspensas e barras de rolagem que permitem aos visitantes escolher opções, configurar preferências e navegar com eficiência. 
 
 ### Aceleradores (Teclas de Atalho)
 
