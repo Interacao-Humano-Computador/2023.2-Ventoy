@@ -126,7 +126,7 @@ Os campos de preenchimento disponíveis na interface do sistema exigem que o usu
 
 ### Seleção
 
-Há alguns elementos de seleção como por exemplo seleção de eventos, seleção de quantidade de ingressos, seleção do menu, idioma de preferência.
+Há elementos de seleção como por exemplo seleção de tópicos, seleção de testes de Iso, seleção de perguntas, seleção de fórum, seleção de versão para download, seleção de ferramenta para doação ( paypal, bitcoin ) e também de idioma. Determinando de maneira clara e intuitiva como o usuário pode efetuar a escolha de elementos ou a seleção de itens.
 
 ### Ativação
 
