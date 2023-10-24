@@ -56,13 +56,18 @@ Não há janelas pop-up,mas a estrutura do site pode ser considerada como seçõ
 
 A fonte principal usada no site é "arial, helvetica, sans-serif" . Contendo tamanhos de fonte variados que são utilizados para cabeçalhos, texto principal e outros elementos. Já na parte de formatação da fonte é incluido o negrito e itálico em alguns lugares. 
 
-&emsp;&emsp; Neste guia, dispõe de uma fonte diferente, sendo ela: Ubuntu, que usada para os textos, como é representado na figura 3.
+&emsp;&emsp; Neste guia, dispõe de uma fonte diferente, sendo ela: Ubuntu, que usada para os textos, como é representado na figura 1.
 
-<img title="titulo" alt="tipografia" src="../assets/tipografia.png" width="100%">
+<center>
 
-<div align="center">
-<p> <b>Figura 3</b>: Tipografia (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
-</div>
+<p align="center"> <b>Figura 1</b>. Tipografia </p>
+
+![Cores](../assets/tipografia.png)
+
+Fonte: Altino Arthur
+
+</center>
+
 
 ### Cores
 
@@ -83,13 +88,18 @@ Cores de Botões:
 - Os botões podem ter cores diferentes, incluindo fundos cinza (#ccc) quando não estão ativados e fundos com cores de destaque quando o mouse passa sobre eles.
 - Os botões de anúncio podem ter fundos azuis (#007aff).
 
-Neste guia, as cores a serem utilizadas ( Figura 4 ) na interface, foram selecionadas de acordo com as já presentes no site do Ventoy, apenas deixando mais padronizado e visualmente harmonico.
+Neste guia, as cores a serem utilizadas ( Figura 2 ) na interface, foram selecionadas de acordo com as já presentes no site do Ventoy, apenas deixando mais padronizado e visualmente harmonico.
 
-<img title="titulo" alt="cores" src="../assets/colorsscale.png" width="100%">
+<center>
 
-<div align="center">
-<p> <b>Figura 4</b>: Cores (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
-</div>
+<p align="center"> <b>Figura 2</b>. Cores </p>
+
+![Cores](../assets/colorsscale.png)
+
+Fonte: Luis Miranda
+
+</center>
+
 
 ### Simbolos não tipográficos
 
@@ -97,11 +107,15 @@ Dentro do site do Ventoy não se tem esses simbolos tiponograficos. Eles represe
 
 Os elementos estão representados na figura 5 abaixo. 
 
-<img title="titulo" alt="simbolos não tipograficos" src="../assets/naotipografico.png" width="100%">
+<center>
 
-<div align="center">
-<p> <b>Figura 5</b>: Simbolos não tipográficos  (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
-</div>
+<p align="center"> <b>Figura 3</b>. Simbolos não tipograficos </p>
+
+![Cores](../assets/naotipografico.png)
+
+Fonte: Altino Arthur
+
+</center>
 
 ## Elementos de Interação
 
@@ -145,7 +159,7 @@ A Ventoy é predominantemente utilizada em ambientes de trabalho por meio de dis
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmRAQJlidsGWJQ5Hn9j1Kcp%2FGuia-De-Estilo---Ventoy%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D6MuVVY3eJSwWOsxK-1" allowfullscreen></iframe>
 
 <div align="center">
-<p> <b>Figma 1</b>: Guia de Estilo (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+<p> <b>Figma 1</b>: Guia de Estilo (Fonte: MOREIRA, Altino; MIRANDA, Luis. 2023). </p>
 </div>
 
 ## Propostas de Intervenção
