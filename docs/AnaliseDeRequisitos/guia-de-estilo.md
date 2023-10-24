@@ -33,7 +33,12 @@ Além de que, o Guia de Estilo do Ventoy pode ser utilizado como referência dur
 
 ### Como manter o Guia
 
-A atualização constante do Guia de Estilo é essencial sempre que ocorrerem mudanças no projeto da Ventoy. Isso garante que todas as decisões estejam alinhadas com as diretrizes estabelecidas, mantendo a consistência visual e de interação em todo o sistema, bem como garantindo a melhor experiência do usuário.
+Para que se tenha um guia de estilo alinhado com o desenvolvimento/progresso do projeto, mantendo as diretrizes estabelecidas, consistência visual e com novidades vindas das interações com os usuários, é necessário que se tenha hábitos para uma manutenção que visa garantir uma melhor experiência do usuário, sendo elas: 
+
+1. **Responsabilidades Designadas** : São atribuidas responsabilidades claras para a manutenção e atualização do guia de estilo, garantindo que alguém seja encarregado de supervisionar esse aspecto do projeto.
+2. **Teste Constante** : Testes são realizados para verificar se o guia de estilo está sendo seguido corretamente em todas as etapas do desenvolvimento do projeto.
+3. **Versionamento e Controle de Mudanças** : É recomendado um sistema de versionamento e um processo de controle de mudanças para rastrear e gerenciar as alterações feitas no guia de estilo ao longo do tempo.
+4. **Feedback Contínuo** : Temos que estar abertos a feedbacks de equipe, usuários e partes interessadas, e usar essas contribuições para o aprimoraramento do guia de estilo.
 
 ## Elementos de Interface
 
