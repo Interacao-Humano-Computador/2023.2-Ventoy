@@ -122,7 +122,7 @@ No site não foram encontradas teclas de atalho.
 
 ### Preenchimento de Campos
 
-Os campos de preenchimento disponíveis na interface do sistema exigem que o usuário insira informações manualmente, de acordo com suas necessidades e objetivos. Esses campos podem incluir a barra de pesquisa e a caixa de texto dentro do perfil, que são exemplos de campos que exigem entrada de texto.
+Campos de entrada, caixas de seleção e botões de envio são disponibilizados para os visitantes fornecerem informações, configurar preferências e realizar ações específicas, como é visto na aba de fórum. 
 
 ### Seleção
 
@@ -130,8 +130,7 @@ Há elementos de seleção como por exemplo seleção de tópicos, seleção de 
 
 ### Ativação
 
-Os botões e links podem ser selecionados e ativados pelos usuários para navegar para diferentes partes do site.
-Os links são usados para direcionar os usuários para diferentes páginas.
+Apresenta uma variedade de elementos de ação de ativação projetados para facilitar a interação do usuário. Isso inclui botões intuitivos que desencadeiam ações, como por exemplo os ícones da figura 5, como também o download do software, navegação pelas páginas, acesso a informações essenciais, hyperlinks ( direcionam os visitantes para áreas específicas do site, facilitando a exploração de informações e recursos ). 
 
 ## Resultados da Análise
 
