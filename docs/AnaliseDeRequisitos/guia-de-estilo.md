@@ -56,6 +56,8 @@ Não há janelas pop-up,mas a estrutura do site pode ser considerada como seçõ
 
 A fonte principal usada no site é "arial, helvetica, sans-serif" . Contendo tamanhos de fonte variados que são utilizados para cabeçalhos, texto principal e outros elementos. Já na parte de formatação da fonte é incluido o negrito e itálico em alguns lugares. Neste guia, dispõe de duas fontes diferentes, sendo elas: , como é representado na figura 3.
 
+<img title="titulo" alt="tipografia" src="" width="100%">
+
 ### Cores
 
 Cores de Fundo:
@@ -77,12 +79,15 @@ Cores de Botões:
 
 As cores a serem utilizadas ( Figura 4 ) na interface, foram selecionadas de acordo com as já presentes no site do Ventoy, apenas deixando mais padronizado e visualmente harmonico.
 
-### Simbolos não tiponográficos
+<img title="titulo" alt="cores" src="" width="100%">
+
+### Simbolos não tipográficos
 
 Dentro do site do Ventoy não se tem esses simbolos tiponograficos. Eles representam elementos gráficos, como ícones, botões, setas e outros indicadores visuais que transcendem o texto. Esses símbolos não apenas simplificam a documentação e a comunicação entre a equipe de design, desenvolvedores e demais partes interessadas, mas também ajudam os usuários a identificar rapidamente funcionalidades e interações dentro de uma interface, contribuindo para uma experiência mais intuitiva e eficaz. 
 
 Os elementos estão representados na figura 5 abaixo. 
 
+<img title="titulo" alt="simbolos não tipograficos" src="" width="100%">
 
 ## Elementos de Interação
 
