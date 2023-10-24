@@ -54,7 +54,9 @@ Não há janelas pop-up,mas a estrutura do site pode ser considerada como seçõ
 
 ### Tipografia
 
-A fonte principal usada no site é "arial, helvetica, sans-serif" . Contendo tamanhos de fonte variados que são utilizados para cabeçalhos, texto principal e outros elementos. Já na parte de formatação da fonte é incluido o negrito e itálico em alguns lugares. Neste guia, dispõe de uma fonte diferente, sendo ela: Ubuntu, que usada para os textos, como é representado na figura 3.
+A fonte principal usada no site é "arial, helvetica, sans-serif" . Contendo tamanhos de fonte variados que são utilizados para cabeçalhos, texto principal e outros elementos. Já na parte de formatação da fonte é incluido o negrito e itálico em alguns lugares. 
+
+&emsp;&emsp; Neste guia, dispõe de uma fonte diferente, sendo ela: Ubuntu, que usada para os textos, como é representado na figura 3.
 
 <img title="titulo" alt="tipografia" src="../assets/tipografia.png" width="100%">
 
@@ -81,7 +83,7 @@ Cores de Botões:
 - Os botões podem ter cores diferentes, incluindo fundos cinza (#ccc) quando não estão ativados e fundos com cores de destaque quando o mouse passa sobre eles.
 - Os botões de anúncio podem ter fundos azuis (#007aff).
 
-As cores a serem utilizadas ( Figura 4 ) na interface, foram selecionadas de acordo com as já presentes no site do Ventoy, apenas deixando mais padronizado e visualmente harmonico.
+Neste guia, as cores a serem utilizadas ( Figura 4 ) na interface, foram selecionadas de acordo com as já presentes no site do Ventoy, apenas deixando mais padronizado e visualmente harmonico.
 
 <img title="titulo" alt="cores" src="../assets/cores_visual.jpg" width="100%">
 
