@@ -44,10 +44,10 @@ nav:
     - Persona: elicitacao/Persona.md
     - Cenários: AnaliseDeRequisitos/cenarios.md
     - Elicitação:
-        - Entrevista: elicitacao/elicitacao de requisitos /entrevista.md
-        - Brainstorming: elicitacao/elicitacao de requisitos /Brainstorming.md
-        - Introspecção: elicitacao/elicitacao de requisitos /introspeccao.md
-        - Grupo de foco: elicitacao/elicitacao de requisitos /GrupoDeFoco.md
+        - Entrevista: elicitacao/elicitacao de requisitos/entrevista.md
+        - Brainstorming: elicitacao/elicitacao de requisitos/Brainstorming.md
+        - Introspecção: elicitacao/elicitacao de requisitos/introspeccao.md
+        - Grupo de foco: elicitacao/elicitacao de requisitos/GrupoDeFoco.md
     - Análise de Tarefas: 
         - Análise Hierarquica de Tarefas - HTA: AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md
         - ConcurTaskTrees - CTT: AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees.md
