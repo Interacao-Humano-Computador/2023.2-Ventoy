@@ -54,7 +54,7 @@ Não há janelas pop-up,mas a estrutura do site pode ser considerada como seçõ
 
 ### Tipografia
 
-A fonte principal usada no site é "arial, helvetica, sans-serif" . Contendo tamanhos de fonte variados que são utilizados para cabeçalhos, texto principal e outros elementos. Já na parte de formatação da fonte é incluido o negrito e itálico em alguns lugares. Neste guia, dispõe de duas fontes diferentes, sendo elas: , como é representado na figura 3.
+A fonte principal usada no site é "arial, helvetica, sans-serif" . Contendo tamanhos de fonte variados que são utilizados para cabeçalhos, texto principal e outros elementos. Já na parte de formatação da fonte é incluido o negrito e itálico em alguns lugares. Neste guia, dispõe de uma fonte diferente, sendo ela: Ubuntu, que usada para os textos, como é representado na figura 3.
 
 <img title="titulo" alt="tipografia" src="../assets/tipografia.png" width="100%">
 
