@@ -103,7 +103,7 @@ Fonte: Luis Miranda
 
 ### Simbolos não tipográficos
 
-Dentro do site do Ventoy não se tem esses simbolos não tiponograficos. Eles representam elementos gráficos, como ícones, botões, setas e outros indicadores visuais que transcendem o texto. Esses símbolos não apenas simplificam a documentação e a comunicação entre a equipe de design, desenvolvedores e demais partes interessadas, mas também ajudam os usuários a identificar rapidamente funcionalidades e interações dentro de uma interface, contribuindo para uma experiência mais intuitiva e eficaz. 
+Dentro do site do Ventoy não se tem esses simbolos não tiponográficos. Eles representam elementos gráficos, como ícones, botões, setas e outros indicadores visuais que transcendem o texto. Esses símbolos não apenas simplificam a documentação e a comunicação entre a equipe de design, desenvolvedores e demais partes interessadas, mas também ajudam os usuários a identificar rapidamente funcionalidades e interações dentro de uma interface, contribuindo para uma experiência mais intuitiva e eficaz. 
 
 Os elementos estão representados na figura 5 abaixo. 
 
@@ -169,8 +169,6 @@ A Ventoy é predominantemente utilizada em ambientes de trabalho por meio de dis
 - Melhorias na disposição espacial e na utilização do grid para facilitar o uso da Ventoy.
 
 - Padronização de elementos visuais, como cores e tipografia, para manter uma identidade visual coesa.
-
-- Introdução de elementos de ação mais intuitivos, como botões de preenchimento de campos e ativação de operações.
 
 - Manutenção de um vocabulário consistente para garantir a compreensão dos usuários.
 
