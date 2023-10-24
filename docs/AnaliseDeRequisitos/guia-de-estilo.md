@@ -145,7 +145,7 @@ A Ventoy é predominantemente utilizada em ambientes de trabalho por meio de dis
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmRAQJlidsGWJQ5Hn9j1Kcp%2FGuia-De-Estilo---Ventoy%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D6MuVVY3eJSwWOsxK-1" allowfullscreen></iframe>
 
 <div align="center">
-<p> <b>Figma 1</b>: Guia de Estilo (Fonte:). </p>
+<p> <b>Figma 1</b>: Guia de Estilo (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
 </div>
 
 ## Propostas de Intervenção
