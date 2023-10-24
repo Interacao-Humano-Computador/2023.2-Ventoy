@@ -14,7 +14,7 @@ Este guia de estilo tem como objetivo fornecer diretrizes e melhores práticas p
 
 ### Organização e Conteúdo do Guia de Estilo
 
-O guia de estilo do Ventoy vai ser seguido na seguinte ordem: Elementos de interface, Elementos de interação, Elementos de ação e Resultados da análise. Com um objetivo para que a experiência do usuário seja a melhor e mais otimizada possível, e assim ficando com uma interação mais efetiva dentro do site.
+O guia de estilo do Ventoy vai ser seguido na seguinte ordem: Elementos de interface, Elementos de interação, Elementos de ação e Resultados da análise. Com um objetivo para que a experiência do usuário seja a melhor e mais otimizada possível, e assim ficando com uma interação e padronização mais efetiva dentro do site.
 
 ### Público-alvo do Guia de Estilo
 
@@ -27,7 +27,9 @@ Este Guia de Estilo destina-se a atender às necessidades dos usuários da Vento
 
 ### Como utilizar o Guia
 
-O Guia de Estilo do Ventoy pode ser utilizado como referência durante todo o ciclo de vida do projeto, desde a produção até a manutenção. As diretrizes e práticas aqui definidas auxiliarão na tomada de decisões de design que garantam uma interação eficaz e satisfatória com o sistema.
+O Guia de Estilo é uma ferramenta valiosa para manter a integridade visual, com consistência e coesão de um site. Seguir suas diretrizes cuidadosamente assegura que a identidade da marca seja mantida e que a experiência do usuário seja consistente e agradável, sendo mais usada para um apoio na sua criatividade. A economia de tempo também ajuda a criar uma experiência visualmente harmoniosa para os usuários.
+
+Além de que, o Guia de Estilo do Ventoy pode ser utilizado como referência durante todo o ciclo de vida do projeto, desde a produção até a manutenção. As diretrizes e práticas aqui definidas auxiliarão na tomada de decisões de design que garantam uma interação eficaz e satisfatória com o sistema.
 
 ### Como manter o Guia
 
