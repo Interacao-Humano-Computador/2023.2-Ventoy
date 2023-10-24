@@ -142,7 +142,7 @@ A Ventoy é predominantemente utilizada em ambientes de trabalho por meio de dis
 &emsp;&emsp;Consulte o Figma 1 para visualizar os elementos de interface, interação e ação definidos no guia de estilo, com exemplos visuais e especificações detalhadas. Qualquer alteração irá ser atualizada imediatamento no Figma 1.
 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/file/mRAQJlidsGWJQ5Hn9j1Kcp/Guia-De-Estilo---Ventoy?type=design&node-id=0%3A1&mode=design&t=0ZEZVm4VK1lF9LLy-1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FmRAQJlidsGWJQ5Hn9j1Kcp%2FGuia-De-Estilo---Ventoy%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3D6MuVVY3eJSwWOsxK-1" allowfullscreen></iframe>
 
 <div align="center">
 <p> <b>Figma 1</b>: Guia de Estilo (Fonte:). </p>
