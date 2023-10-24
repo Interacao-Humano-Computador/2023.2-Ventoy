@@ -85,7 +85,7 @@ Cores de Botões:
 
 Neste guia, as cores a serem utilizadas ( Figura 4 ) na interface, foram selecionadas de acordo com as já presentes no site do Ventoy, apenas deixando mais padronizado e visualmente harmonico.
 
-<img title="titulo" alt="cores" src="../assets/cores_visual.jpg" width="100%">
+<img title="titulo" alt="cores" src="../assets/colorsscale.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 4</b>: Cores (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
@@ -97,7 +97,7 @@ Dentro do site do Ventoy não se tem esses simbolos tiponograficos. Eles represe
 
 Os elementos estão representados na figura 5 abaixo. 
 
-<img title="titulo" alt="simbolos não tipograficos" src="../assets/icones_intervencao.png" width="100%">
+<img title="titulo" alt="simbolos não tipograficos" src="../assets/naotipografico.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 5</b>: Simbolos não tipográficos  (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
