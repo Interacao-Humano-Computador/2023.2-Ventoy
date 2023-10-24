@@ -20,5 +20,5 @@ O propósito desta página consiste em arquivar os elementos pertinentes à terc
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-`1.0` | 23/10/2023| Criação da página de apresentação 3 | [Mayara Alves](https://github.com/Mayara-tech) | |
+`1.0` | 23/10/2023| Criação da página de apresentação 3 | [Mayara Alves](https://github.com/Mayara-tech) |[Luis Miranda](https://github.com/LuisMiranda10) |
 
