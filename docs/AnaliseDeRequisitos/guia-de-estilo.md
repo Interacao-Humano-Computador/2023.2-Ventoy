@@ -145,15 +145,25 @@ Fonte: Altino Arthur
 
 </center>
 
-Campos de entrada, caixas de seleção e botões de envio são disponibilizados para os visitantes fornecerem informações, configurar preferências e realizar ações específicas, como é visto na aba de fórum. 
+Campos de entrada, caixas de seleção e botões de envio são disponibilizados para os visitantes fornecerem informações, configurar preferências e realizar ações específicas, como é visto na aba de fórum (Figura - 4). 
 
 ### Seleção
 
-Há elementos de seleção como por exemplo seleção de tópicos, seleção de testes de Iso, seleção de perguntas, seleção de fórum, seleção de versão para download, seleção de ferramenta para doação ( paypal, bitcoin ) e também de idioma. Determinando de maneira clara e intuitiva como o usuário pode efetuar a escolha de elementos ou a seleção de itens.
+<center>
+
+<p align="center"> <b>Figura 5</b>. Seleção </p>
+
+![Seleção](../assets/seleção.png)
+
+Fonte: Altino Arthur
+
+</center>
+
+Há elementos de seleção como por exemplo seleção de tópicos, seleção de testes de Iso, seleção de perguntas, seleção de fórum, seleção de versão para download, seleção de ferramenta para doação ( paypal, bitcoin ) (Como é visto na figura - 5) e também de idioma. Determinando de maneira clara e intuitiva como o usuário pode efetuar a escolha de elementos ou a seleção de itens.
 
 ### Ativação
 
-Apresenta uma variedade de elementos de ação de ativação projetados para facilitar a interação do usuário. Isso inclui botões intuitivos que desencadeiam ações, como por exemplo os ícones da figura 5, como também o download do software, navegação pelas páginas, acesso a informações essenciais, hyperlinks ( direcionam os visitantes para áreas específicas do site, facilitando a exploração de informações e recursos ). 
+Apresenta pouca variedade de elementos de ação de ativação projetados para facilitar a interação do usuário. Isso inclui botões intuitivos que desencadeiam ações, como por exemplo os ícones da figura 5, como também o download do software, navegação pelas páginas, acesso a informações essenciais, hyperlinks ( direcionam os visitantes para áreas específicas do site, facilitando a exploração de informações e recursos ). 
 
 ## Resultados da Análise
 
