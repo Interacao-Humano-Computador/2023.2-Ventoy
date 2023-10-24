@@ -116,9 +116,17 @@ Os links são usados para direcionar os usuários para diferentes páginas.
 
 ## Resultados da Análise
 
-## Descrição do Ambiente de Trabalho do Usuário
+### Descrição do Ambiente de Trabalho do Usuário
 
 A Ventoy é predominantemente utilizada em ambientes de trabalho por meio de dispositivos como pendrives e discos USB. Portanto, é fundamental considerar as especificidades desses dispositivos ao projetar e desenvolver a interface, garantindo uma experiência satisfatória para os usuários que utilizam a Ventoy nesses contextos. Isso envolve a adaptação da interface para diferentes tamanhos de tela, a escolha de elementos visuais apropriados e a implementação de funcionalidades intuitivas.
+
+## Figma
+
+Consulte o Figma 1 para examinar os elementos de interface, interatividade e ação delineados no guia de estilo, incluindo ilustrações visuais e descrições minuciosas. Qualquer modificação será refletida automaticamente no [Figma 1]().
+
+<div align="center">
+<p> <b>Figma 1</b>: Guia de Estilo (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+</div>
 
 ## Propostas de Intervenção
 
@@ -134,12 +142,20 @@ A Ventoy é predominantemente utilizada em ambientes de trabalho por meio de dis
 
 - Essas intervenções têm como objetivo principal aprimorar a interação entre o usuário e a Ventoy, tornando-a mais amigável e eficaz, seguindo as melhores práticas de usabilidade e design.
 
+## Conclusão
+
+&emsp;&emsp; Dentro do âmbito do projeto do site Ventoy, desenvolvemos um guia de estilo com o propósito de direcionar tanto o design quanto a interação para um projeto de Interação Humano-Computador (IHC).
+
+&emsp;&emsp; Durante a criação do guia de estilo foi utilizado um comportamento flexível e adaptado às necessidades específicas de cada projeto, nos quais fornecerão uma estrutura sólida para o desenvolvimento de um guia de estilo eficaz. 
+
+&emsp;&emsp;
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de Versões
 
-| Versão  | Data       | Descrição                                                                                       | Autor(es)                                                                                   | Revisor(es)                                                                                         |
-| ------- | ---------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| `1.0`   | 23/10/2023 | Criação da página guia de estilo.                                                               | [Altino Arthur](https://github.com/arthurrochamoreira)                                              |  
+| Versão  | Data       | Descrição       | Autor(es)                | Revisor(es)                                                                                         |
+| ------- | ---------- | ------------------------------------ | ------------------------------------------ | ---------------------------- |
+| `1.0`   | 23/10/2023 | Criação da página guia de estilo.              | [Altino Arthur](https://github.com/arthurrochamoreira) e [Luis Miranda](https://github.com/LuisMiranda10 )        |  Vinicius Mendes   |
