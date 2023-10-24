@@ -135,6 +135,16 @@ No site não foram encontradas teclas de atalho.
 
 ### Preenchimento de Campos
 
+<center>
+
+<p align="center"> <b>Figura 4</b>. Preenchimento de Campos </p>
+
+![Preenchimento de Campos](../assets/ventoy_forum.png)
+
+Fonte: Altino Arthur
+
+</center>
+
 Campos de entrada, caixas de seleção e botões de envio são disponibilizados para os visitantes fornecerem informações, configurar preferências e realizar ações específicas, como é visto na aba de fórum. 
 
 ### Seleção
