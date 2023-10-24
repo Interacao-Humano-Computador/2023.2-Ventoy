@@ -58,6 +58,10 @@ A fonte principal usada no site é "arial, helvetica, sans-serif" . Contendo tam
 
 <img title="titulo" alt="tipografia" src="" width="100%">
 
+<div align="center">
+<p> <b>Figura 3</b>: Tipografia (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+</div>
+
 ### Cores
 
 Cores de Fundo:
@@ -81,6 +85,10 @@ As cores a serem utilizadas ( Figura 4 ) na interface, foram selecionadas de aco
 
 <img title="titulo" alt="cores" src="" width="100%">
 
+<div align="center">
+<p> <b>Figura 4</b>: Cores (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+</div>
+
 ### Simbolos não tipográficos
 
 Dentro do site do Ventoy não se tem esses simbolos tiponograficos. Eles representam elementos gráficos, como ícones, botões, setas e outros indicadores visuais que transcendem o texto. Esses símbolos não apenas simplificam a documentação e a comunicação entre a equipe de design, desenvolvedores e demais partes interessadas, mas também ajudam os usuários a identificar rapidamente funcionalidades e interações dentro de uma interface, contribuindo para uma experiência mais intuitiva e eficaz. 
@@ -88,6 +96,10 @@ Dentro do site do Ventoy não se tem esses simbolos tiponograficos. Eles represe
 Os elementos estão representados na figura 5 abaixo. 
 
 <img title="titulo" alt="simbolos não tipograficos" src="" width="100%">
+
+<div align="center">
+<p> <b>Figura 5</b>: Simbolos não tipográficos  (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
+</div>
 
 ## Elementos de Interação
 
