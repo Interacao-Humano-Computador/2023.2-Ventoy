@@ -165,7 +165,7 @@ Consulte o Figma 1 para examinar os elementos de interface, interatividade e aç
 
 &emsp;&emsp; Dentro do âmbito do projeto do site Ventoy, desenvolvemos um guia de estilo com o propósito de direcionar tanto o design quanto a interação para um projeto de Interação Humano-Computador (IHC).
 
-&emsp;&emsp; Durante a criação do guia de estilo foi utilizado um comportamento flexível e adaptado às necessidades específicas de cada projeto, nos quais fornecerão uma estrutura sólida para o desenvolvimento de um guia de estilo eficaz. 
+&emsp;&emsp; Durante a criação do guia de estilo foi utilizado um comportamento flexível e adaptado às necessidades específicas do site, nos quais fornecerão uma estrutura sólida para o desenvolvimento de um guia de estilo eficaz. 
 
 &emsp;&emsp; Aos usuários do Ventoy, Desenvolvedores, Entusiastas de Tecnologia e Designers seguirem o guia de estilo do site do Ventoy, uma série de benefícios é desencadeada. A consistência visual em todo o site é mantida, criando uma experiência mais intuitiva e agradável para os usuários, à medida que os elementos de interface, cores, tipografia e elementos interativos são aplicados de maneira uniforme. Além de uma manutenção recorrente feita pelos mesmos no projeto ( tendo como referencia o protótipo de alta fidelidade ). 
 
