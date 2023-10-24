@@ -56,7 +56,7 @@ Não há janelas pop-up,mas a estrutura do site pode ser considerada como seçõ
 
 As fontes principais atuais usadas no site são "arial, helvetica, sans-serif" . Contendo tamanhos de fonte variados que são utilizados para cabeçalhos, texto principal e outros elementos. Já na parte de formatação da fonte é incluido o negrito e itálico em alguns lugares. 
 
-&emsp;&emsp; Neste guia, dispõe de uma fonte diferente, sendo ela: Ubuntu, que é usada para os textos, como é representado na figura 1.
+&emsp;&emsp; Neste guia, dispõe de uma fonte diferente, sendo ela: Ubuntu, a fonte Ubuntu é uma escolha popular para designers gráficos que desejam criar designs limpos e modernos. Ela pode ser usada em logotipos, cartazes, panfletos e outras peças de design, como é representado na figura 1.
 
 <center>
 
