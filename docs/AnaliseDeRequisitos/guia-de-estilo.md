@@ -154,6 +154,10 @@ Consulte o Figma 1 para examinar os elementos de interface, interatividade e aç
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+## Bibliografia
+
+[1] Ventoy.  Disponível em: https://www.ventoy.net/en/index.html . Acesso em: 22 de Outubro de 2023;
+
 ## Histórico de Versões
 
 | Versão  | Data       | Descrição       | Autor(es)                | Revisor(es)                                                                                         |
