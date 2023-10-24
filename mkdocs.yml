@@ -52,7 +52,8 @@ nav:
         - Análise Hierarquica de Tarefas - HTA: AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md
         - ConcurTaskTrees - CTT: AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees.md
   - Análise de requisitos II:
-        - Princípios Gerais: AnaliseDeRequisitos/principiosGerais.md
+        - Princípios Gerais: AnaliseDeRequisitos/principiosGerais.md- 
+        - Guia de Estilo: AnaliseDeRequisitos/guia-de-estilo.md
 
         
 theme:
