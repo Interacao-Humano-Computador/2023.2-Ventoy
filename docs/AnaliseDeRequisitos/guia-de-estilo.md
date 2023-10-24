@@ -62,7 +62,7 @@ A fonte principal usada no site é "arial, helvetica, sans-serif" . Contendo tam
 
 <p align="center"> <b>Figura 1</b>. Tipografia </p>
 
-![Cores](../assets/tipografia.png)
+![Cores](../assets/tipografico.png)
 
 Fonte: Altino Arthur
 
