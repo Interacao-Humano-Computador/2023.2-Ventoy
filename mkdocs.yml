@@ -23,6 +23,7 @@ nav:
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao1.md
       - Apresentação 2: apresentacao/apresentacao2.md
+      - Apresentação 3: apresentacao/apresentacao3.md
   - Atas:
       - Ata 1: atas/ata1.md
       - Ata 2: atas/ata2.md
@@ -44,15 +45,17 @@ nav:
     - Persona: elicitacao/Persona.md
     - Cenários: AnaliseDeRequisitos/cenarios.md
     - Elicitação:
-        - Entrevista: elicitacao/elicitacao de requisitos /entrevista.md
-        - Brainstorming: elicitacao/elicitacao de requisitos /Brainstorming.md
-        - Introspecção: elicitacao/elicitacao de requisitos /introspeccao.md
-        - Grupo de foco: elicitacao/elicitacao de requisitos /GrupoDeFoco.md
+        - Entrevista: elicitacao/elicitacao de requisitos/entrevista.md
+        - Brainstorming: elicitacao/elicitacao de requisitos/Brainstorming.md
+        - Introspecção: elicitacao/elicitacao de requisitos/introspeccao.md
+        - Grupo de foco: elicitacao/elicitacao de requisitos/GrupoDeFoco.md
     - Análise de Tarefas: 
         - Análise Hierarquica de Tarefas - HTA: AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md
         - ConcurTaskTrees - CTT: AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees.md
   - Análise de requisitos II:
-        - Princípios Gerais: AnaliseDeRequisitos/principiosGerais.md- 
+        - Princípios Gerais: AnaliseDeRequisitos/principiosGerais.md
+        - Características Gerais: AnaliseDeRequisitos/caracteristicasGerais.md
+        - Metas de Usabilidade: AnaliseDeRequisitos/metasUsabilidade.md
         - Guia de Estilo: AnaliseDeRequisitos/guia-de-estilo.md
 
         
@@ -65,7 +68,6 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
-    - navigation.expand
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: claro
