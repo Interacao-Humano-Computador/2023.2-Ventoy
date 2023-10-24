@@ -56,7 +56,7 @@ Não há janelas pop-up,mas a estrutura do site pode ser considerada como seçõ
 
 A fonte principal usada no site é "arial, helvetica, sans-serif" . Contendo tamanhos de fonte variados que são utilizados para cabeçalhos, texto principal e outros elementos. Já na parte de formatação da fonte é incluido o negrito e itálico em alguns lugares. Neste guia, dispõe de duas fontes diferentes, sendo elas: , como é representado na figura 3.
 
-<img title="titulo" alt="tipografia" src="" width="100%">
+<img title="titulo" alt="tipografia" src="../assets/tipografia.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 3</b>: Tipografia (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
@@ -83,7 +83,7 @@ Cores de Botões:
 
 As cores a serem utilizadas ( Figura 4 ) na interface, foram selecionadas de acordo com as já presentes no site do Ventoy, apenas deixando mais padronizado e visualmente harmonico.
 
-<img title="titulo" alt="cores" src="" width="100%">
+<img title="titulo" alt="cores" src="../assets/cores_visual.jpg" width="100%">
 
 <div align="center">
 <p> <b>Figura 4</b>: Cores (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
@@ -95,7 +95,7 @@ Dentro do site do Ventoy não se tem esses simbolos tiponograficos. Eles represe
 
 Os elementos estão representados na figura 5 abaixo. 
 
-<img title="titulo" alt="simbolos não tipograficos" src="" width="100%">
+<img title="titulo" alt="simbolos não tipograficos" src="../assets/icones_intervencao.png" width="100%">
 
 <div align="center">
 <p> <b>Figura 5</b>: Simbolos não tipográficos  (Fonte: ALVISSUS, Giovanni; GOMES, Larissa. 2023). </p>
