@@ -168,4 +168,4 @@ O diagrama feito para analisar esta tarefa foi representado em um diagrama na fi
 |`1.0`| 14/10/2023 | Criação da página de analise de tarefas | [Vinícius Mendes](https://github.com/yabamiah), [Breno](https://github.com/brenob6) e [Mayara Alves ](https://github.com/Mayara-tech)| [Altino Arthur](https://github.com/arthurrochamoreira)|
 |`2.0`| 20/10/2023 | Adicionado diagrama HTA da tarefa doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Luis Miranda](https://github.com/LuisMiranda10) |
 |`2.1`| 20/10/2023 | Adicionado representação HTA em tabela da figura 5 | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Luis Miranda](https://github.com/LuisMiranda10) |
-|`2.2`| 23/10/2023 | Adicionado representação HTA da tarefa Compartilhamento de Experiências | [Altino Arthur](https://github.com/arthurrochamoreira)| [](https://github.com/) |
+|`2.2`| 23/10/2023 | Adicionado representação HTA da tarefa Compartilhamento de Experiências | [Altino Arthur](https://github.com/arthurrochamoreira)| [Milena Baruc](https://github.com/MilenaBaruc) |
