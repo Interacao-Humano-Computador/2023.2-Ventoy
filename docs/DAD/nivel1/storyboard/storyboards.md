@@ -32,7 +32,7 @@ O storyboard visualizado na figura 2 demonstra o uso do FAQ de perguntas do Vent
 
 **Figura 2**: 
 
-![](../../../assets/storyboard/storyboardM1.PNG)
+![](../../../assets/storyboard/storyboardM1.png)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
