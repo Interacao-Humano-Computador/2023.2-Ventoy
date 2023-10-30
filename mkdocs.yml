@@ -54,14 +54,13 @@ nav:
         - ConcurTaskTrees - CTT: AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees.md
   - Análise de requisitos II:
         - Princípios Gerais: AnaliseDeRequisitos/principiosGerais.md
-        - Características Gerais: AnaliseDeRequisitos/caracteristicasGerais.md
-        - Metas de Usabilidade: AnaliseDeRequisitos/metasUsabilidade.md
-        - Guia de Estilo: AnaliseDeRequisitos/guia-de-estilo.md
+        - Características Gerais: AnaliseDeRequisitos\caracteristicasGerais.md
+        - Metas de Usabilidade: AnaliseDeRequisitos\metasUsabilidade.md
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
-        - Storyboard:
+      - Storyboard:
+        - Storyboard: DAD/nivel1/storyboard/storyboards.md
         - Planejamento da Avaliação: Design,AvaliçãoeDesenvolvimento\planejamentoStoryboard.md
-
         
 theme:
   name: material
