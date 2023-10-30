@@ -55,9 +55,7 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 **Figura 4**: 
 
-O storyboard retratado na figura 4 exibe um diálogo entre dois usuários, onde um percebe que o Ventoy ajudou muita em sua busca por uma nova distribuição linux e decidir cooperar com o projeto através de uma 
-doação, então acessa o site em busca de realizar uma doação
-
+O storyboard retratado na figura 4 ilustra um diálogo entre dois usuários, no qual um deles reconhece que o Ventoy facilitou muito sua busca por uma nova distribuição linux e decide colaborar com o projeto fazendo uma doação. Para isso, ele acessa o site do Ventoy e procura a opção de doar.
 ![](../../../assets/storyboard/stoyboard_limirio.png)
 
 Fonte: [](https://github.com/LimirioGuimaraes)
