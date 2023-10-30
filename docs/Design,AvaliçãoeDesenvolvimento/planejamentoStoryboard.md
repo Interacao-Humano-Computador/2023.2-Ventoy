@@ -53,7 +53,7 @@ Essa escolha se justifica pelo fato de que esse método investigativo permite a 
 
 ### I - Identificar
 
-Para conduzir a investigação por meio de entrevistas, é de suma importância seguir uma abordagem metódica na seleção dos participantes. Eles devem ser escolhidos de forma criteriosa, de modo que se encaixem no perfil de usuário previamente identificado e estejam dispostos a concordar com o termo de consentimento. Isso é essencial para garantir a conformidade com os aspectos éticos do processo e para assegurar que os participantes estejam genuinamente dispostos a colaborar.
+Para conduzir a investigação por meio de entrevistas, é de suma importância seguir uma abordagem metódica na seleção dos participantes. Eles devem ser escolhidos de forma criteriosa, de modo que se encaixem no perfil de usuário previamente identificado e estejam dispostos a concordar com o termo de consentimento. Isso é essencial para garantir a conformidade com os aspectos éticos do processo e para assegurar que os participantes estejam genuinamente dispostos a colaborar. Sendo assim, podemos visualizar com mais detalhes na seção abaixo, Planejamento da Avaliação.
 
 ### D - Decididir
 
@@ -88,6 +88,8 @@ A realização das entrevistas não gerará um custo ao entrevistador ou ao usu�
 - Perguntas;
 - Termo de consentimento;
 - Teste Piloto.
+
+Vale ressaltar que, para que possamos utilizar as ferramentas é necessário um dispositivo com acesso à internet.
 
 ### Prazos
 
@@ -151,4 +153,5 @@ A seguir temos a gravação da entrevista, de acordo com os aspectos que foram c
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 30/10/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc)| |
+|`1.0`| 30/10/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc)| [Vinícius Mendes](https://github.com/yabamiah) |
+|`1.1`| 30/10/2023 | Correção do documento | [Milena Baruc](https://github.com/MilenaBaruc)| [Vinícius Mendes](https://github.com/yabamiah) |
