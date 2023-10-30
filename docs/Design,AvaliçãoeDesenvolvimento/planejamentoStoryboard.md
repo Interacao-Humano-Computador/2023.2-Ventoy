@@ -53,7 +53,7 @@ Essa escolha se justifica pelo fato de que esse método investigativo permite a 
 
 ### I - Identificar
 
-Para conduzir a investigação por meio de entrevistas, é de suma importância seguir uma abordagem metódica na seleção dos participantes. Eles devem ser escolhidos de forma criteriosa, de modo que se encaixem no perfil de usuário previamente identificado e estejam dispostos a concordar com o termo de consentimento. Isso é essencial para garantir a conformidade com os aspectos éticos do processo e para assegurar que os participantes estejam genuinamente dispostos a colaborar. Sendo assim, podemos visualizar com mais detalhes na seção abaixo, Planejamento da Avaliação.
+Para conduzir a investigação por meio de entrevistas, é de suma importância seguir uma abordagem metódica na seleção dos participantes. Eles devem ser escolhidos de forma criteriosa, de modo que se encaixem no perfil de usuário previamente identificado e estejam dispostos a concordar com o termo de consentimento. Isso é essencial para garantir a conformidade com os aspectos éticos do processo e para assegurar que os participantes estejam genuinamente dispostos a colaborar. Sendo assim, podemos visualizar com mais detalhes na seção abaixo, [Planejamento da Avaliação](#-Planejamento-da-Avaliação).
 
 ### D - Decididir
 
