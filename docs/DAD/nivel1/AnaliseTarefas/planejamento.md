@@ -6,37 +6,36 @@ Esse documento é um planejamento da atividade de análise de tarefas.
 
 ## Metodologia
 
-As atividades que serão avaliadas nesta análise foram obtidas com os métodos de 
+As atividades que serão avaliadas na análise foram obtidas com os métodos de 
 [análise hierárquica de  tarefas]() (HTA) e [concur task tree]() (CTT).
-A estrutura do planejamento 
-O planejamento foi organizado o utilizando o *framework* DECIDE. 
+A estrutura deste planejamento foi construída utilizando o *framework* DECIDE.
 
 ## Objetivos
 
-O objetivo da avaliação é investigar a qualidade das tarefas obtidas através dos métodos de  Os aspectos das tarefas que serão
-avaliadas, são:
+O objetivo da avaliação é investigar a qualidade das tarefas obtidas através dos métodos HTA e CTT.
+Os aspectos das tarefas que serão avaliados são:
 
-- Analisar a apropriação da tecnologia pelo usuário.
+- Apropriação da tecnologia pelo usuário.
 - Ideias e alternativas de design.
-- Conformidade com um padrão.
+- Conformidade com padrão.
 - Problemas na interação e na interface.
 
 ## Escrever aqui por que e para quem tais objetivos são importantes.
 
 ## Perguntas
 
-Neste tópito é listado um conjunto de perguntas que deverão ser respondidas com a análise de tarefas,
+Neste tópico é listado um conjunto de perguntas que deverão ser respondidas com a análise de tarefas
 de acordo com cada aspecto citado anteriormente.
 
 **Ideias e alternativas de design.**
 
-- Quais soluções de IHC já consolidadas possuem mecanismos de documentação, fórum e/ou FAC?
+- Quais soluções de IHC já consolidadas possuem mecanismos de documentação, fórum e/ou FAQ?
 - Qual das alternativas é mais eficientes?
 - Quais características dessas soluções podem ser incorporadas ao site Ventoy?
 
 **Conformidade com um padrão**
 
-- As páginas de fórum, documentação e FAC estão em conformidade com os padrões comumente utilizados
+- As páginas de fórum, documentação e FAQ estão em conformidade com os padrões comumente utilizados
 nesses domínios?
 
 **Problemas na interação e na interface**
@@ -48,31 +47,45 @@ nesses domínios?
 
 ## Métodos de Avaliação
 
-A conformidade com padrão será avaliada utilizando avaliação heurística. Um método de inspeção,
-no qual o avaliador de forma sistemática procura por problemas que prejudiquem a usabilidade.
+Será utilizado o método de avaliação heurística para avaliar os aspectos de alternativas de design,
+conformidade com padrão e problemas de IHC.
 
-Para realizar a inspeção será adotado um conjunto de diretrizes de usabilidade, que vão descrever
-características dsejáveis na interação com a interface.
+Neste método o avaliador irá inspecionar de maneira sistemática a interface utilizando para tal,
+um conjunto de diretrizes, também chamadas de heurísticas.
 
-Alternativas de design  - prototipação em papel.
+As heurísticas que serão avaliadas na análise serão:
 
-Problemas na interação e na interface, prototipação em papel, avaliação heurística.
+- Visibilidade do estado do sistema.
+- Correspondência entre o sistema e o mundo real.
+- Consistência e padronização.
+- Projeto estético e minimalista.
+
+Para avaliar alternativas de design e problemas de IHC será utilizado prototipação em papel.
+
+Para esse método é criado um protótipo de baixa fidelidade em papel, e então um usuário é
+convocado para simular uma interação com o protótipo. Durante esssa interação o avaliador atuará
+como um "computador" que simula as execuções feitas pelo usuário.
+
+O objetivo principal desse método é encontrar alternativas de design, e avaliar soluções
+parciais da interface.
+
+Adicionar grupos de foco
 
 ## Questões Práticas 
 
 ### Recrutamento
 
-Deve ser feito o recrutamento de pessoas para a realização do método de avaliação por prototipação
-em papel. As pessoas recrutadas devem está de acordo com as [personas](../../../elicitacao/Persona.md)
-e com o [perfil de usuário](../../../elicitacao/PerfilUsuario.md) . Uma pessoa deve ser recrutada
-para cada avaliação por prototipação em papel.
+Deve ser feito o recrutamento de pessoas para a realização do método de avaliação por protopitação
+em papel e para o grupo de foco. As pessoas recrutadas devem está de acordo com as 
+[personas](../../../elicitacao/Persona.md) e com o [perfil de usuário](../../../elicitacao/PerfilUsuario.md).
+
+O usuário recrutado deve concordar com o termo de consentimento.
 
 ### Preparação
 
 
 
-### Das atividades
-
+### Prazo
 
 ### Teste Piloto
 
