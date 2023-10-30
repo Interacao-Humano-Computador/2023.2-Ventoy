@@ -141,11 +141,29 @@ Na Tabela 6, tem-se o cronograma planejado para todas as atividades da terceira 
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
+### Cronograma executado entrega 3.
+
+Na Tabela 7, está explicitado o cronograma executado das atividades da terceira entrega.
+
+<p align="center"><b>Tabela 07</b> - Entrega 3. Análise de requisitos </p>
+
+| Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
+| ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos da entrega 2                              | Início: 18/10<br>Fim: 21/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                   |   22/10   |Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	     |
+| Definir princípios gerais do projeto                             | Início: 18/10<br>Fim: 21/10 | Limírio e Vinícius        |   22/10   | Mayara      |
+| Determinar as metas de usabilidade                               | Início: 18/10<br>Fim: 23/10 | Breno e Mayara            |   23/10   | Milena      |
+| Criar o  guia de estilo                                          | Início: 18/10<br>Fim: 23/10 | Luis e Arthur             |   23/10   | Mayara	     |
+| Determinar as características da plataforma para o projeto       | Início: 18/10<br>Fim: 23/10 | Milena                    |   23/10   | Mayara      |
+| Gravação da apresentação                                         | Início: 23/10<br>Fim: 23/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                    |   23/10   |Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      |
+| Inserir cronograma executado                                     | Início: 22/10<br>Fim: 23/10 | Mayara                  |   23/10   | Limírio    |
+
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
 ### Cronograma planejado entrega 4.
 
-Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
+Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
-<p align="center"><b>Tabela 07</b> - Entrega 4. Storyboard e Análise de tarefas </p>
+<p align="center"><b>Tabela 08</b> - Entrega 4. Storyboard e Análise de tarefas </p>
 
 | Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
 | ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
@@ -161,9 +179,9 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 
 ### Cronograma planejado entrega 5.
 
-Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quinta entrega.
+Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta entrega.
 
-<p align="center"><b>Tabela 08</b> - Entrega 5. Planejamento da Avaliação do Protótipo de Papel </p>
+<p align="center"><b>Tabela 09</b> - Entrega 5. Planejamento da Avaliação do Protótipo de Papel </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -179,9 +197,9 @@ Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quinta en
 
 ### Cronograma planejado entrega 6.1.
 
-Na Tabela 9, tem-se o cronograma planejado para todas as atividades da entrega 6.1.
+Na Tabela 10, tem-se o cronograma planejado para todas as atividades da entrega 6.1.
 
-<p align="center"><b>Tabela 09</b> - Entrega 6.1. Verificação dos artefatos I </p>
+<p align="center"><b>Tabela 10</b> - Entrega 6.1. Verificação dos artefatos I </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -198,9 +216,9 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da entrega 6
 
 ### Cronograma planejado entrega 7.
 
-Na Tabela 10, tem-se o cronograma planejado para todas as atividades da sétima entrega.
+Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
-<p align="center"><b>Tabela 10</b> - Entrega 7.  Planejamento da Avaliação do protótipo de
+<p align="center"><b>Tabela 11</b> - Entrega 7.  Planejamento da Avaliação do protótipo de
 alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
@@ -217,9 +235,9 @@ alta fidelidade </p>
 
 ### Cronograma planejado entrega 8.
 
-Na Tabela 11, tem-se o cronograma planejado para todas as atividades da oitava entrega.
+Na Tabela 12, tem-se o cronograma planejado para todas as atividades da oitava entrega.
 
-<p align="center"><b>Tabela 11</b> - Entrega 8. Relato dos resultados do Protótipo de alta fidelidade </p>
+<p align="center"><b>Tabela 12</b> - Entrega 8. Relato dos resultados do Protótipo de alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -234,9 +252,9 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da oitava e
 
 ### Cronograma planejado entrega 6.2.
 
-Na Tabela 12, tem-se o cronograma planejado para todas as atividades da entrega 6.2.
+Na Tabela 13, tem-se o cronograma planejado para todas as atividades da entrega 6.2.
 
-<p align="center"><b>Tabela 12</b> - Entrega 6.2. Verificação dos artefatos </p>
+<p align="center"><b>Tabela 13</b> - Entrega 6.2. Verificação dos artefatos </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -263,4 +281,5 @@ Na Tabela 12, tem-se o cronograma planejado para todas as atividades da entrega 
 | `1.0`   |26/09/2023 |Criação da primeira versão do cronograma | [Limírio Guimarães](https://github.com/LimirioGuimaraes), [Mayara Alves](https://github.com/Mayara-tech) e [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6)|
 | `1.1`   |06/10/2023 |Adicionando cronograma executado da primeira entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 | `1.2`   |17/10/2023 |Adicionando cronograma executado da segunda entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
+| `1.3`   |23/10/2023 |Adicionando cronograma executado da terceira entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 

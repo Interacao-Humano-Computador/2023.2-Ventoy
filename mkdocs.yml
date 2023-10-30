@@ -23,6 +23,7 @@ nav:
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao1.md
       - Apresentação 2: apresentacao/apresentacao2.md
+      - Apresentação 3: apresentacao/apresentacao3.md
   - Atas:
       - Ata 1: atas/ata1.md
       - Ata 2: atas/ata2.md
@@ -59,6 +60,7 @@ nav:
     - Nível 1:
       - Storyboard:
         - Storyboard: DAD/nivel1/storyboard/storyboards.md
+        - Planejamento da Avaliação: Design,AvaliçãoeDesenvolvimento\planejamentoStoryboard.md
         
 theme:
   name: material
@@ -69,7 +71,6 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
-    - navigation.expand
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: claro
