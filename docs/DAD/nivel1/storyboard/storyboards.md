@@ -26,13 +26,15 @@ Fonte: [Breno Queiroz](https://github.com/brenob6)
 </center>
 
 ## Storyboard 2:
+
+O storyboard visualizado na figura 2 demonstra o uso do FAQ de perguntas do Ventoy por um usúario que está passando por dificuldade para formatar seu computador.
 <center>
 
 **Figura 2**: 
 
-![](../../../assets/storyboard/)
+![](../../../assets/storyboard/storyboardM1.PNG)
 
-Fonte: [](https://github.com/)
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 </center>
 
