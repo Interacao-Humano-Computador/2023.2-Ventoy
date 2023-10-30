@@ -7,10 +7,11 @@ Esse documento é um planejamento da atividade de análise de tarefas.
 ## Metodologia
 
 As atividades que serão avaliadas na análise foram obtidas com os métodos de 
-[análise hierárquica de  tarefas]() (HTA) e [concur task tree]() (CTT).
+[análise hierárquica de  tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md)
+(HTA) e [concur task tree](../../../AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees.md) (CTT).
 A estrutura deste planejamento foi construída utilizando o *framework* DECIDE.
 
-## Objetivos
+## Objetivos (D)
 
 O objetivo da avaliação é investigar a qualidade das tarefas obtidas através dos métodos HTA e CTT.
 Os aspectos das tarefas que serão avaliados são:
@@ -22,7 +23,7 @@ Os aspectos das tarefas que serão avaliados são:
 
 ## Escrever aqui por que e para quem tais objetivos são importantes.
 
-## Perguntas
+## Perguntas (E)
 
 Neste tópico é listado um conjunto de perguntas que deverão ser respondidas com a análise de tarefas
 de acordo com cada aspecto citado anteriormente.
@@ -45,7 +46,7 @@ nesses domínios?
 - Que problemas de iHC dificultam ou impedem o usuário de alcançar seus objetivos?
 - Quais barreiras o usuário encontra para atingir seus objetivos?
 
-## Métodos de Avaliação
+## Métodos de Avaliação (C)
 
 Será utilizado o método de avaliação heurística para avaliar os aspectos de alternativas de design,
 conformidade com padrão e problemas de IHC.
@@ -71,7 +72,7 @@ parciais da interface.
 
 Adicionar grupos de foco
 
-## Questões Práticas 
+## Questões Práticas (I)
 
 ### Recrutamento
 
