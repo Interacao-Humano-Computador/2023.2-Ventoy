@@ -42,10 +42,11 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 <center>
 
 **Figura 3**: 
+O storyboard retratado na figura 3 exibe um usuário navegando pela aba de "Compartilhamento de Experiências" do Ventoy, procurando soluções para desafios enfrentados ao dar boot em seu computador.
 
-![](../../../assets/storyboard/)
+![](../../../assets/storyboard/storyboardA1.png)
 
-Fonte: [](https://github.com/)
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
 
