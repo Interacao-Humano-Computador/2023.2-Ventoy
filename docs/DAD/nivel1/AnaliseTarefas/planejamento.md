@@ -58,14 +58,14 @@ Alternativas de design  - prototipação em papel.
 
 Problemas na interação e na interface, prototipação em papel, avaliação heurística.
 
-## Questões Práticas
+## Questões Práticas 
 
 ### Recrutamento
 
-Deve ser feito o recrutamento de pessoas para a realização do método de avaliação por protopitação
+Deve ser feito o recrutamento de pessoas para a realização do método de avaliação por prototipação
 em papel. As pessoas recrutadas devem está de acordo com as [personas](../../../elicitacao/Persona.md)
 e com o [perfil de usuário](../../../elicitacao/PerfilUsuario.md) . Uma pessoa deve ser recrutada
-para cada avaliação por propotipação em papel.
+para cada avaliação por prototipação em papel.
 
 ### Preparação
 
@@ -77,6 +77,27 @@ para cada avaliação por propotipação em papel.
 ### Teste Piloto
 
 ## Avaliar
+
+## Aspectos Éticos (D)
+
+A pesquisa científica envolvendo seres humanos demanda um respeito fundamental pela dignidade e autonomia dos participantes, juntamente com a consideração de sua vulnerabilidade e liberdade de consentimento. No Brasil, a resolução nº 466/2012 do Conselho Nacional de Saúde^1^ estabelece diretrizes éticas que incluem princípios como a autonomia, beneficência, não maleficência e justiça. Esses princípios são aplicáveis a qualquer tipo de pesquisa, visando assegurar o respeito aos direitos dos participantes, a maximização dos benefícios e a prevenção de danos, bem como a equidade na distribuição de benefícios. Respeitar esses princípios não apenas protege os participantes, mas também fortalece a integridade da pesquisa e a confiança do público na ciência e na comunidade acadêmica.
+
+Neste projeto, utilizaremos essas diretrizes e princípios éticos como alicerces fundamentais para conduzir a pesquisa de forma responsável e respeitosa em relação aos participantes. Essas diretrizes nos guiarão na obtenção de consentimento informado através do [termo de consertimento](../../../../analisedetarefas/aspectosEticos). O cumprimento rigoroso desses princípios garantirá a integridade do nosso trabalho e reforçará a confiabilidade da pesquisa, promovendo, assim, a confiança do público na ciência e na comunidade acadêmica.
+
+## Avaliar, Interpretar e Apresentar os Dados (E)
+
+Após a conclusão da avaliação, os dados serão cuidadosamente documentados e processados, levando em consideração o contexto em que foram gerados, a fim de determinar sua confiabilidade e a possibilidade de aplicação geral para representar a totalidade dos usuários do site do Ventoy.
+
+Este processo de documentação abrangerá a identificação e registro de problemas e desafios encontrados durante a interação, abordando questões relacionadas à usabilidade, funcionalidades ausentes e problemas de desempenho. Faremos anotações detalhadas das descrições dos problemas, e sua classificação. Após a coleta destas anotações, os resultados serão analisados para identificar padrões e tendências nas respostas dos participantes. A análise dos dados fornecerá insights sobre os problemas de usabilidade do site do Ventoy e nos fornecerá uma melhor visão para as sugestões de melhoria.
+
+## Planejamento do teste piloto
+
+
+
+## Referências Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> CONSELHO NACIONAL DE SAÚDE. Resolução nº 466, de 12 de dezembro de 2012. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>. Acesso em: 30/10/2023.
+
 
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.<br/>
