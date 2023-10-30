@@ -57,6 +57,10 @@ nav:
         - Características Gerais: AnaliseDeRequisitos/caracteristicasGerais.md
         - Metas de Usabilidade: AnaliseDeRequisitos/metasUsabilidade.md
         - Guia de Estilo: AnaliseDeRequisitos/guia-de-estilo.md
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+      - Storyboard:
+        - Planejamento da Avaliação: Design,AvaliçãoeDesenvolvimento\planejamentoStoryboard.md
 
         
 theme:
