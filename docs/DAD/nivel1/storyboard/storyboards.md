@@ -69,9 +69,9 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
 **Figura 5**: 
 
-![](../../../assets/storyboard/)
+![](../../../assets/storyboard/storyboardL1.jpg)
 
-Fonte: [](https://github.com/)
+Fonte: [Luis Eduardo](https://github.com/LuisMiranda10)
 
 </center>
 ## Storyboard 6:
