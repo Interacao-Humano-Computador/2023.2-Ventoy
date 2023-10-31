@@ -58,8 +58,14 @@ nav:
         - Metas de Usabilidade: AnaliseDeRequisitos\metasUsabilidade.md
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
-        - Storyboard: DAD/nivel1/storyboard/storyboards.md
-        - Planejamento da Avaliação: Design,AvaliçãoeDesenvolvimento/planejamentoStoryboard.md
+      - Storyboard:
+          - Planejamento da Avaliação do Storyboard: DAD/nivel1/storyboard/planejamentoStoryboard.md
+          - Planejamento do Relato dos Resultados: DAD/nivel1/storyboard/resultadoStory.md
+          - Storyboards: DAD/nivel1/storyboard/storyboards.md
+      - Planejamento da Avaliação:
+        # - Planejamento da Avaliação da Análise de Tarefas:
+          - Planejamento do Relato dos Resultados da Avaliação: DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas.md
+          #          - Relato dos Resustados:
         
 theme:
   name: material
