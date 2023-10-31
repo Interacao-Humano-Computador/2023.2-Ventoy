@@ -101,7 +101,7 @@ As entrevistas serão documentados na tabela 1.
 
 | Entrevistador(es) | Entrevistado | Horário de Início | Horário de Fim | Data | Entrevista         |
 |-------------------| ------------ | ----------------- | -------------- | ---- | -------------------|
-|[Limírio Guimaães](https://github.com/LimirioGuimaraes)     |[Altino Arthur]((https://github.com/arthurrochamoreira))|      21:30        |    21:35       | 30/10|[Entrevista 01](https://youtu.be/lQIkh6QJrKA)|
+|[Limírio Guimaães](https://github.com/LimirioGuimaraes)     |[Altino Arthur]((https://github.com/arthurrochamoreira))|21:30|21:35| 30/10|[Entrevista 01](https://youtu.be/lQIkh6QJrKA)|
 |                   |              |                   |                |      |                    |
 |                   |              |                   |                |      |                    |
 |                   |              |                   |                |      |                    |
