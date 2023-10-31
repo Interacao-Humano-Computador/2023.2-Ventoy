@@ -88,15 +88,16 @@ O storyboard apresentado na Figura 6, ilustra um cenário onde um jovem usuário
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 </center>
+
 ## Storyboard 7:
 
 <center>
 
 **Figura 7**: 
 
-![](../../../assets/storyboard/)
+![](../../../assets/storyboard/storyboardMI1.jpg)
 
-Fonte: [](https://github.com/)
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
 </center>
 
