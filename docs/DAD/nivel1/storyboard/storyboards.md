@@ -65,24 +65,25 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 </center>
 
 ## Storyboard 5:
-<center>
 
 **Figura 5**: 
 
-![](../../../assets/storyboard/storyboardL1.png)
+![](../../../assets/storyboard/storyboardL1.jpg)
 
 Fonte: [Luis Eduardo](https://github.com/LuisMiranda10)
 
 </center>
+
 ## Storyboard 6:
+O storyboard apresentado na Figura 6, ilustra um cenário onde um jovem usuário de um computador com problemas, necessecita formatar seu computador, e em suas pequisas para procurar algo, ele encontrou o Ventoy, a partir disso, ele leu a sua documentação e o instalou para poder utilizar.
 
 <center>
 
 **Figura 6**: 
 
-![](../../../assets/storyboard/)
+![](../../../assets/storyboard/storyboard_1.jpg)
 
-Fonte: [](https://github.com/)
+Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 </center>
 ## Storyboard 7:
