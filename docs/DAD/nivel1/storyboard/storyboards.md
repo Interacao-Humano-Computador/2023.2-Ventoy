@@ -67,7 +67,7 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 ## Storyboard 5:
 
 **Figura 5**: 
-
+<center>
 ![](../../../assets/storyboard/storyboardL1.png)
 
 Fonte: [Luis Eduardo](https://github.com/LuisMiranda10)
