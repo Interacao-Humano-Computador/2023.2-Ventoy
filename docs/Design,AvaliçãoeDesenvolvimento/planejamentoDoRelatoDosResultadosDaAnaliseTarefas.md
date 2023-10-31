@@ -50,5 +50,5 @@ Neste item, os avaliadores irão com ajuda da bagagem de dados coletados, interp
 
 | Versão | Data | Descrição | Autores | Revisor |
 |-----------|--------|---------------|------------|------------|
-| 1.0 | 30/10/2023 | Criação do documento e do seu conteúdo | [Luis Eduardo](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)  |
+| 1.0 | 30/10/2023 | Criação do documento do planejamento do Relato de Resultados da Avaliação da Análise de Tarefas | [Luis Eduardo](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)  |
 
