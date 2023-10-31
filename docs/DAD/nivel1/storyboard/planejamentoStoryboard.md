@@ -75,7 +75,7 @@ A seleção dos usuários será personalizada, levando em consideração as pref
 
 ### Preparação
 
-Os entrevistadores terão a responsabilidade de conduzir as perguntas incluídas no roteiro a seguir e de fazer anotações sobre as respostas dos usuários. A entrevista deve envolver uma das atividades representadas no [storyboard](). É importante observar que o papel de entrevistador pode ser desempenhado por uma única pessoa ou por uma dupla, onde cada um terá uma função específica: um fará as perguntas e o outro registrará as respostas.
+Os entrevistadores terão a responsabilidade de conduzir as perguntas incluídas no roteiro a seguir e de fazer anotações sobre as respostas dos usuários. A entrevista deve envolver uma das atividades representadas no [storyboard](./storyboards.md). É importante observar que o papel de entrevistador pode ser desempenhado por uma única pessoa ou por uma dupla, onde cada um terá uma função específica: um fará as perguntas e o outro registrará as respostas.
 
 Além disso, o entrevistador deverá solicitar que o usuário compartilhe sua tela, a fim de possibilitar a observação do usuário como parte do método de avaliação.
 
