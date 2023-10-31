@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esse documento é um planejamento da atividade de análise de tarefas.
+Durante a etapa da Análise de requisitos, foi realizada a Análise de tarefas com o objetivo de obter mais informações sobre as tarefas realizadas pelos usuários do site do ventoy, levando em consideração o Perfil do usuário obtido. Para uma análise mais detalhada, é necessário avaliar a qualidade de uso da solução de IHC e identificar problemas na interação e na interface que prejudiquem a experiência do usuário. Para isso, será feita uma avaliação da Análise de tarefas, utilizando o método de investigação de entrevistas com usuários reais do produto, baseadas no perfil de usuário. Assim, será possível avaliar sua perspectiva de forma dinâmica e fazer um julgamento de valor sobre a solução de IHC proposta. A avaliação de IHC é um processo essencial para que o desenvolvimento consiga produzir um sistema interativo com alta qualidade, conforme afirmam Simone Barbosa e Bruno Diniz^1^.
 
 ## Metodologia
 
