@@ -187,6 +187,16 @@ do teste-piloto.
 
 </center>
 
+## Resultado do teste piloto 
+
+O teste piloto foi realizado no dia 30/10/2023 às 21:47 e teve a duração de 7 minutos, onde tivemos [Mayara Alves](https://github.com/Mayara-tech) como entrevistadora e [Breno Queiroz](https://github.com/brenob6) como entrevistado, com intuito de testar todas as questões propostas nesta avaliação, de modo a avaliar se somente essas questões seriam suficientes para válida para determinar se as análises de tarefas estão de acordo com as tarefas executadas pelo usuário. No video 1 podemos observar o teste piloto realizado. 
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=etJTsYTvYU&feature=youtu.be" target="blanket">Vídeo - teste piloto </a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/eUFJTstvYU?si=0nzUGyppLLr7AR0y" title="Apresentação 02/10/2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
