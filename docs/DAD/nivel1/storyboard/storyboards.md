@@ -109,7 +109,7 @@ Fonte: [](https://github.com/)
 :-----: | :--------: | :-----------------: | :----------:| :-----------------------------------: 
 |`1.0`  | 28/10/2023 | Criação do documento|[Breno Queiroz](https://github.com/brenob6)|[](https://github.com/) 
 |`1.1`  | 28/10/2023 |Adicionado Storyboard 1|[Breno Queiroz](https://github.com/brenob6)|[](https://github.com/) 
-|`1.1`  | 29/10/2023 |Adicionado Storyboard 2|[](https://github.com/)|[](https://github.com/) 
+|`1.1`  | 29/10/2023 |Adicionado Storyboard 2|[Limírio Guimarães](https://github.com/LimirioGuimaraes)|[](https://github.com/) 
 |`1.1`  | 29/10/2023 |Adicionado Storyboard 3|[](https://github.com/)|[](https://github.com/) 
 |`1.1`  | 29/10/2023 |Adicionado Storyboard 4|[](https://github.com/)|[](https://github.com/) 
 |`1.1`  | 29/10/2023 |Adicionado Storyboard 5|[](https://github.com/)|[](https://github.com/) 
