@@ -33,12 +33,9 @@ A estrutura deste planejamento foi construída utilizando o *framework* DECIDE, 
 O objetivo da avaliação é investigar a qualidade das tarefas obtidas através dos métodos HTA e CTT.
 Os aspectos das tarefas que serão avaliados são:
 
-- Apropriação da tecnologia pelo usuário.
 - Ideias e alternativas de design.
 - Conformidade com padrão.
 - Problemas na interação e na interface.
-
-## Escrever aqui por que e para quem tais objetivos são importantes.
 
 ## Perguntas (E)
 
@@ -60,7 +57,7 @@ nesses domínios?
 
 - O usuário entende o que significa e para que serve cada elemento de interface?
 - O usuário atige seu objetivo? Com quanta eficiência? Em quanto tempo?
-- Que problemas de iHC dificultam ou impedem o usuário de alcançar seus objetivos?
+- Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?
 - Quais barreiras o usuário encontra para atingir seus objetivos?
 
 ## Métodos de Avaliação (C)
@@ -87,7 +84,12 @@ como um "computador" que simula as execuções feitas pelo usuário.
 O objetivo principal desse método é encontrar alternativas de design, e avaliar soluções
 parciais da interface.
 
-Adicionar grupos de foco
+Grupos de foco são uma técnica qualitativa de pesquisa em que um moderador facilita
+uma discussão em grupo com participantes selecionados, com o objetivo de explorar suas
+opiniões, atitudes, percepções e experiências sobre um tópico específico.
+
+Serão utilizados para avaliar alternativas de design e problemas
+de IHC.
 
 ## Questões Práticas (I)
 
@@ -97,35 +99,82 @@ Deve ser feito o recrutamento de pessoas para a realização do método de avali
 em papel e para o grupo de foco. As pessoas recrutadas devem está de acordo com as 
 [personas](../../../elicitacao/Persona.md) e com o [perfil de usuário](../../../elicitacao/PerfilUsuario.md).
 
+Para o grupo de foco deve ser recrutados ao menos 3 pessoas.
+
 O usuário recrutado deve concordar com o termo de consentimento.
 
-### Preparação
+## Roteiro 
+Na Tabela 1, é possível contemplar o roteiro empregado para a condução da entrevista.
 
+<p align="center"><b>Tabela 1.</b> Roteiro da entrevista  </p>
+
+  
+Página  | Pergunta 
+:---------: | :------
+Página principal | 1.  Como você avalia o design da página principal? <br> 2.  O que você acha da barra de navegação do site? <br> 3.  A barra de navegação possui termos claros? <br> 4.  Você se incomoda com a disposição de anúncios do site?
+Página de documentação | 5. Você utiliza a página de documentação do Ventoy quando faz uso da ferramenta? <br> 6. É fácil encontrar tópicos na documentação? Ou seja, você encontra com facilidade o procura na página de documentação? <br> 7. Como você compara a página de documentação do Ventoy com de outras plataformas? 
+Página FAQ | 8. Como você avalia a disposição das perguntas no FAQ? <br> 9. Os simbolos que colapsam as perguntas, são facilmente descritíveis?
+Fórum | 10. Você consegue identificar rapidamente os temas que são tratados em cada fórum? <br> 11. Os ícones mostrados na página de post de um fórum elas são descritíveis? você sabe o que elas significam? <br>
+Página de TestedISO | 12. Você consegue acha rapidamente se uma distribução que você visa instalar foi testada no Ventoy?
+Sobre todo site | 13. Quais são as funcionalidades que acha que são importantes, que foram ou que devem ser implementadas no Ventoy para melhora a usabilidade do mesmo?
 
 
 ### Prazo
 
-### Teste Piloto
-
-## Avaliar
+Responsável| Descrição | Local |  Horário                               |Data    |
+ ---        | ---       | ---  |              --  |  ---            |
+Limírio | Avaliação em protótipo de papel       | Discord| 20:00        |02/11/2023 |
+Breno   | Avaliação em protótipo de papel       | FGA | 12:30           |07/11/2023 |
+Mayara   | Avaliação em protótipo de papel      | FGA | 12:30           |06/11/2023 |
+Altino   | Avaliação em protótipo de papel      | FGA | 12:30           |04/11/2023 |
+Vinícius    | Avaliação em protótipo de papel   | FGA | 12:30           |03/11/2023 |
+Milena   | Avaliação em protótipo de papel      | FGA | 12:30           |07/11/2023 |
+Luis   | Avaliação em protótipo de papel        | FGA | 12:30           |07/11/2023 |
 
 ## Aspectos Éticos (D)
 
-A pesquisa científica envolvendo seres humanos demanda um respeito fundamental pela dignidade e autonomia dos participantes, juntamente com a consideração de sua vulnerabilidade e liberdade de consentimento. No Brasil, a resolução nº 466/2012 do Conselho Nacional de Saúde^2^ estabelece diretrizes éticas que incluem princípios como a autonomia, beneficência, não maleficência e justiça. Esses princípios são aplicáveis a qualquer tipo de pesquisa, visando assegurar o respeito aos direitos dos participantes, a maximização dos benefícios e a prevenção de danos, bem como a equidade na distribuição de benefícios. Respeitar esses princípios não apenas protege os participantes, mas também fortalece a integridade da pesquisa e a confiança do público na ciência e na comunidade acadêmica.
+A pesquisa científica envolvendo seres humanos demanda um respeito fundamental pela
+dignidade e autonomia dos participantes, juntamente com a consideração de sua vulnerabilidade
+e liberdade de consentimento. No Brasil, a resolução nº 466/2012 do Conselho Nacional
+de Saúde^2^ estabelece diretrizes éticas que incluem princípios como a autonomia, beneficência
+, não maleficência e justiça. Esses princípios são aplicáveis a qualquer tipo de pesquisa
+, visando assegurar o respeito aos direitos dos participantes, a maximização dos benefícios
+e a prevenção de danos, bem como a equidade na distribuição de benefícios. Respeitar
+esses princípios não apenas protege os participantes, mas também fortalece a integridade
+da pesquisa e a confiança do público na ciência e na comunidade acadêmica.
 
-Neste projeto, utilizaremos essas diretrizes e princípios éticos como alicerces fundamentais para conduzir a pesquisa de forma responsável e respeitosa em relação aos participantes. Essas diretrizes nos guiarão na obtenção de consentimento informado através do [termo de consertimento](../../../../analisedetarefas/aspectosEticos). O cumprimento rigoroso desses princípios garantirá a integridade do nosso trabalho e reforçará a confiabilidade da pesquisa, promovendo, assim, a confiança do público na ciência e na comunidade acadêmica.
+Neste projeto, utilizaremos essas diretrizes e princípios éticos como alicerces fundamentais
+para conduzir a pesquisa de forma responsável e respeitosa em relação aos participantes
+. Essas diretrizes nos guiarão na obtenção de consentimento informado através do 
+[termo de consertimento](../../../../analisedetarefas/aspectosEticos). O cumprimento rigoroso desses 
+princípios garantirá a integridade do nosso trabalho e reforçará a confiabilidade da pesquisa, promovendo,
+assim, a confiança do público na ciência e na comunidade acadêmica.
 
 ## Avaliar, Interpretar e Apresentar os Dados (E)
 
 Após a conclusão da avaliação, os dados serão cuidadosamente documentados e processados, levando em consideração o contexto em que foram gerados, a fim de determinar sua confiabilidade e a possibilidade de aplicação geral para representar a totalidade dos usuários do site do Ventoy.
 
-Este processo de documentação abrangerá a identificação e registro de problemas e desafios encontrados durante a interação, abordando questões relacionadas à usabilidade, funcionalidades ausentes e problemas de desempenho. Faremos anotações detalhadas das descrições dos problemas, e sua classificação. Após a coleta destas anotações, os resultados serão analisados para identificar padrões e tendências nas respostas dos participantes. A análise dos dados fornecerá insights sobre os problemas de usabilidade do site do Ventoy e nos fornecerá uma melhor visão para as sugestões de melhoria.
+Este processo de documentação abrangerá a identificação e registro de problemas e desafios
+encontrados durante a interação, abordando questões relacionadas à usabilidade, funcionalidades
+ausentes e problemas de desempenho. Faremos anotações detalhadas das descrições dos
+problemas, e sua classificação. Após a coleta destas anotações, os resultados serão
+analisados para identificar padrões e tendências nas respostas dos participantes. A
+análise dos dados fornecerá insights sobre os problemas de usabilidade do site do Ventoy
+e nos fornecerá uma melhor visão para as sugestões de melhoria.
 
 ## Planejamento do teste piloto
 
-O objetivo do teste piloto é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. Dessa forma, ele tem oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
+O objetivo do teste piloto é avaliar o próprio planejamento, e analisar se a avaliação
+, tal como planejada, produz os dados necessários para responder a questões e objetivos
+do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal
+de avaliação. Dessa forma, ele tem oportunidade de verificar se a linguagem nas explicações
+e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações
+adequadas e suficientes para orientar o participante durante a avaliação.
 
-Neste projeto, a realização do teste-piloto será executada de forma a simular entrevistas com os usuários reais do Ventoy, com o objetivo de identificar quaisquer lacunas ou aprimoramentos necessários no processo. Na tabela 2 temos o cronograma para realização do teste-piloto.
+Neste projeto, a realização do teste-piloto será executada de forma a simular entrevistas
+com os usuários reais do Ventoy, com o objetivo de identificar quaisquer lacunas ou
+aprimoramentos necessários no processo. Na tabela 2 temos o cronograma para realização
+do teste-piloto.
 
 <p align="center"><b>Tabela 02</b> - Cronograma Teste Piloto </p>
 <center>
@@ -137,10 +186,6 @@ Neste projeto, a realização do teste-piloto será executada de forma a simular
 **Fonte**: [Mayara Alves](https://github.com/Mayara-tech).
 
 </center>
-
-## Resultado do teste piloto 
-
-
 
 ## Referências Bibliográficas
 
