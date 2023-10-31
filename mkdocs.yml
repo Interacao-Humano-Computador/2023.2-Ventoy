@@ -57,10 +57,17 @@ nav:
         - Características Gerais: AnaliseDeRequisitos/caracteristicasGerais.md
         - Metas de Usabilidade: AnaliseDeRequisitos/metasUsabilidade.md
         - Guia de Estilo: AnaliseDeRequisitos/guia-de-estilo.md
+        
   - Design, Avaliação e Desenvolvimento:
-        - Nível 1:
-            - Análise de Tarefas:
-                  Planejamento da Avaliação da Análise de Tarefas: DAD/nivel1/AnaliseTarefas/planejamento.md
+    - Nível 1:
+      - Storyboard:
+          - Planejamento da Avaliação do Storyboard: DAD/nivel1/storyboard/planejamentoStoryboard.md
+          - Planejamento do Relato dos Resultados: DAD/nivel1/storyboard/resultadoStory.md
+          - Storyboards: DAD/nivel1/storyboard/storyboards.md
+      - Planejamento da Avaliação:
+          - Planejamento da Avaliação da Análise de Tarefas: DAD/nivel1/AnaliseTarefas/planejamento.md
+          - Planejamento do Relato dos Resultados da Avaliação: DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas.md
+          #          - Relato dos Resustados:
 
         
 theme:
