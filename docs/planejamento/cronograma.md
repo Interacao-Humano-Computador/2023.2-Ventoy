@@ -177,11 +177,29 @@ Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quarta en
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
+### Cronograma executado entrega 4.
+
+Na Tabela 9, tem-se o cronograma executado para todas as atividades da quarta entrega.
+
+<p align="center"><b>Tabela 09</b> - Entrega 4. Storyboard e Análise de tarefas </p>
+
+| Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
+| ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos da entrega 3                              | Início: 24/10<br>Fim: 05/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	            |   06/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |
+| Planejamento da avaliação do Storyboard                          | Início: 24/10<br>Fim: 30/10 | Milena e Altino    |   30/10   | Vinícius            |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 24/10<br>Fim: 30/10 | Vinicius e Luis|   30/10   | Mayara	           |
+| Planejamento da Avaliação da Análise de tarefas                  | Início: 27/10<br>Fim: 29/10 | Limírio, Mayara e Breno   	        |   30/10   | Vinícius            |
+| Planejamento do relato da avaliação da análise de tareas         | Início: 27/10<br>Fim: 30/10 | Vinicius e Luis    |   30/10   | Mayara             |
+| Gravação da apresentação                                         | Início: 30/10<br>Fim: 30/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   29/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino              |
+| Cronograma executado                                           	 | Início: 30/10<br>Fim: 30/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   30/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |
+
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
 ### Cronograma planejado entrega 5.
 
-Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta entrega.
+Na Tabela 10, tem-se o cronograma planejado para todas as atividades da quinta entrega.
 
-<p align="center"><b>Tabela 09</b> - Entrega 5. Planejamento da Avaliação do Protótipo de Papel </p>
+<p align="center"><b>Tabela 10</b> - Entrega 5. Planejamento da Avaliação do Protótipo de Papel </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -197,9 +215,9 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta en
 
 ### Cronograma planejado entrega 6.1.
 
-Na Tabela 10, tem-se o cronograma planejado para todas as atividades da entrega 6.1.
+Na Tabela 11, tem-se o cronograma planejado para todas as atividades da entrega 6.1.
 
-<p align="center"><b>Tabela 10</b> - Entrega 6.1. Verificação dos artefatos I </p>
+<p align="center"><b>Tabela 11</b> - Entrega 6.1. Verificação dos artefatos I </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -216,9 +234,9 @@ Na Tabela 10, tem-se o cronograma planejado para todas as atividades da entrega 
 
 ### Cronograma planejado entrega 7.
 
-Na Tabela 11, tem-se o cronograma planejado para todas as atividades da sétima entrega.
+Na Tabela 12, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
-<p align="center"><b>Tabela 11</b> - Entrega 7.  Planejamento da Avaliação do protótipo de
+<p align="center"><b>Tabela 12</b> - Entrega 7.  Planejamento da Avaliação do protótipo de
 alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
@@ -235,9 +253,9 @@ alta fidelidade </p>
 
 ### Cronograma planejado entrega 8.
 
-Na Tabela 12, tem-se o cronograma planejado para todas as atividades da oitava entrega.
+Na Tabela 13, tem-se o cronograma planejado para todas as atividades da oitava entrega.
 
-<p align="center"><b>Tabela 12</b> - Entrega 8. Relato dos resultados do Protótipo de alta fidelidade </p>
+<p align="center"><b>Tabela 13</b> - Entrega 8. Relato dos resultados do Protótipo de alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -252,9 +270,9 @@ Na Tabela 12, tem-se o cronograma planejado para todas as atividades da oitava e
 
 ### Cronograma planejado entrega 6.2.
 
-Na Tabela 13, tem-se o cronograma planejado para todas as atividades da entrega 6.2.
+Na Tabela 14, tem-se o cronograma planejado para todas as atividades da entrega 6.2.
 
-<p align="center"><b>Tabela 13</b> - Entrega 6.2. Verificação dos artefatos </p>
+<p align="center"><b>Tabela 14</b> - Entrega 6.2. Verificação dos artefatos </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -282,4 +300,5 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da entrega 
 | `1.1`   |06/10/2023 |Adicionando cronograma executado da primeira entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 | `1.2`   |17/10/2023 |Adicionando cronograma executado da segunda entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 | `1.3`   |23/10/2023 |Adicionando cronograma executado da terceira entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
+| `1.4`   |30/10/2023 |Adicionando cronograma executado da quarta entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 
