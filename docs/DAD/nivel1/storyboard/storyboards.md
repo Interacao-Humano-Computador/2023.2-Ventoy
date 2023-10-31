@@ -68,7 +68,7 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
 **Figura 5**: 
 
-![](../../../assets/storyboard/storyboardL1.jpg)
+![](../../../assets/storyboard/storyboardL1.png)
 
 Fonte: [Luis Eduardo](https://github.com/LuisMiranda10)
 
