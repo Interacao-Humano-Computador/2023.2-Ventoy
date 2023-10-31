@@ -55,21 +55,21 @@ Na Tabela 3, está explicitado o cronograma executado das atividades da primeira
 
 <p align="center"><b>Tabela 03</b> - Entrega 1. Planejamento do projeto e do Processo de Design </p>
 
-| Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
-| ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
-| Definir horários de reunião - Heatmap                            | Início: 31/08<br>Fim: 02/09 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	                   |   05/09   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	     |
-| Selecionar possíveis sites para o projeto                        | Início: 02/09<br>Fim: 14/09 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	                   |   14/09   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	     |
-| Definir e justificar site utilizado no projeto                   | Início: 14/09<br>Fim: 14/09 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                     |   14/09   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      |
-| Definir ferramentas                                              | Início: 14/09<br>Fim: 27/09 | Limírio                   |   28/09   | Mayara	     |
-| Definir cronograma planejado das etapas do projeto               | Início: 14/09<br>Fim: 27/09 | Mayara, Limírio e Altino  |   28/09   | Breno       |
-| Documentar equipe                                                | Início: 14/09<br>Fim: 20/09 | Mayara                    |   27/09   | Breno       |
-| Definir o processo de Design do projeto                          | Início: 14/09<br>Fim: 27/09 | Breno e Luis              |   28/09   | Vinicius    |
-| Executar o planejamento do projeto                               | Início: 14/09<br>Fim: 27/09 | Vinícius e Milena         |   28/09   | Limírio     |
-| Inserir termo de uso so site                                     | Início: 14/09<br>Fim: 27/09 | Vinícius e Milena         |   28/09   | Luis        |
-| Inserir sites avaliados                                          | Início: 14/09<br>Fim: 27/09 | Mayara                    |   28/09   | Limírio     |
-| Implementar Git Page                                             | Início: 27/09<br>Fim: 28/09 | Breno                     |   28/09   | Mayara      |
-| Gravação da apresentação                                         | Início: 28/09<br>Fim: 02/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                     |   02/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino     |
-| Inserir cronograma executado                                     | Início: 29/09<br>Fim: 02/10 | Mayara                    |   02/10   | Limírio     |
+| Atividade                             |      Data Prevista                 | Período de execução | Responsáveis       | Revisão   | Revisor            |
+| ------------------------------ | ---------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
+| Definir horários de reunião - Heatmap      | Início: 31/08<br>Fim: 02/09 |Início: 31/08<br>Fim: 02/09 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	                   |   05/09   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	     |
+| Selecionar possíveis sites para o projeto     | Início: 02/09<br>Fim: 14/09                     | Início: 02/09<br>Fim: 14/09 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	                   |   14/09   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	     |
+| Definir e justificar site utilizado no projeto    | Início: 14/09<br>Fim: 14/09              | Início: 14/09<br>Fim: 14/09 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                     |   14/09   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      |
+| Definir ferramentas             | Início: 14/09<br>Fim: 27/09                                | Início: 14/09<br>Fim: 27/09 | Limírio                   |   28/09   | Mayara	     |
+| Definir cronograma planejado das etapas do projeto  | Início: 14/09<br>Fim: 27/09               | Início: 14/09<br>Fim: 27/09 | Mayara, Limírio e Altino  |   28/09   | Breno       |
+| Documentar equipe     | Início: 14/09<br>Fim: 20/09                                         | Início: 14/09<br>Fim: 20/09 | Mayara                    |   27/09   | Breno       |
+| Definir o processo de Design do projeto      | Início: 14/09<br>Fim: 27/09                      | Início: 14/09<br>Fim: 27/09 | Breno e Luis              |   28/09   | Vinicius    |
+| Executar o planejamento do projeto     | Início: 14/09<br>Fim: 27/09                           | Início: 14/09<br>Fim: 27/09 | Vinícius e Milena         |   28/09   | Limírio     |
+| Inserir termo de uso so site            | Início: 14/09<br>Fim: 27/09                         | Início: 14/09<br>Fim: 27/09 | Vinícius e Milena         |   28/09   | Luis        |
+| Inserir sites avaliados          | ------                                | Início: 14/09<br>Fim: 27/09 | Mayara                    |   28/09   | Limírio     | 
+| Implementar Git Page  | ------                                            | Início: 27/09<br>Fim: 28/09 | Breno                     |   28/09   | Mayara      |
+| Gravação da apresentação                     | Início: 27/09<br>Fim: 28/09                         | Início: 28/09<br>Fim: 02/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                     |   02/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino     |
+| Inserir cronograma executado            | Início: 29/09<br>Fim: 30/09                             | Início: 29/09<br>Fim: 02/10 | Mayara                    |   02/10   | Limírio     |
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
@@ -103,23 +103,23 @@ Na Tabela 5, está explicitado o cronograma executado das atividades da segunda 
 
 <p align="center"><b>Tabela 05</b> - Entrega 2. Perfil do Usuário </p>
 
-| Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
-| ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
-| Correção dos artefatos da entrega 1                              | Início: 05/10<br>Fim: 15/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                   |   15/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	     |
-| Criar perfil de usuário                                          | Início: 05/10<br>Fim: 14/10 | Mayara	                   |   14/10   | Límirio e Altino      |
-| Criar personas                                                   | Início: 05/10<br>Fim: 14/10 | Mayara	                   |   14/10   | Breno     |
-| Definir aspectos éticos da pesquisa com usuário                  | Início: 05/10<br>Fim: 11/10 | Limírio                  |   11/10   | Mayara        |
-| Criar termo de consertimento para a pesquisa                     | Início: 05/10<br>Fim: 11/10 | Limírio                   |   11/10   | Mayara     |
-| Realiza coleta de dados (Entrevista)                             | Início: 11/10<br>Fim: 15/10 | Mayara                    |   15/10   | Altino e Luis       |
-| Realiza coleta de dados (Brainstorming)                          | Início: 11/10<br>Fim: 15/10 | Limírio e Vinicius        |   15/10   | Mayara   |
-| Realiza coleta de dados (Introspecção)                           | Início: 11/10<br>Fim: 14/10 | Vinícius                  |   15/10   | Luis e Altino     |
-| Realiza coleta de dados (Grupo de Foco)                          | Início: 11/10<br>Fim: 15/10 | Luis                      |   15/10   | Vinicius e Altino     |
-| Decidir técnica para especificar as tarefas                      | Início: 11/10<br>Fim: 12/10 | Breno                     |   08/10   | Mayara      |
-| Análise de cenários                                              | Início: 11/10<br>Fim: 13/10 | Breno                     |   14/10   | Altino        |
-| Análise de tarefas - HTA                                         | Início: 13/10<br>Fim: 14/10 | Vinicius, Breno e Mayara  |   15/10   | Altino      |
-| Análise de tarefas - CTT                                         | Início: 13/10<br>Fim: 16/10 | Milena                    |   16/10   | Altino e Mayara     |
-| Gravação da apresentação                                         | Início: 16/10<br>Fim: 16/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                    |   16/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      |
-| Inserir cronograma executado               | Início: 17/10<br>Fim: 17/10 | Mayara   | 17/10 | Limírio
+| Atividade              |    Data Prevista                                        | Período de Execução | Responsáveis       | Revisão   | Revisor            |
+| --------------------------- | ------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos da entrega 1     | Início: 05/10<br>Fim: 08/10                           | Início: 05/10<br>Fim: 15/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                   |   15/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	     |
+| Criar perfil de usuário        | Início: 05/10<br>Fim: 13/10                                     | Início: 05/10<br>Fim: 14/10 | Mayara	                   |   14/10   | Límirio e Altino      |
+| Criar personas             | Início: 05/10<br>Fim: 13/10                                        | Início: 05/10<br>Fim: 14/10 | Mayara	                   |   14/10   | Breno     |
+| Definir aspectos éticos da pesquisa com usuário   | Início: 05/10<br>Fim: 07/10               | Início: 05/10<br>Fim: 11/10 | Limírio                  |   11/10   | Mayara        |
+| Criar termo de consertimento para a pesquisa   | Início: 05/10<br>Fim: 07/10                  | Início: 05/10<br>Fim: 11/10 | Limírio                   |   11/10   | Mayara     |
+| Realiza coleta de dados (Entrevista)          | Início: 05/10<br>Fim: 13/10                       | Início: 11/10<br>Fim: 15/10 | Mayara                    |   15/10   | Altino e Luis       |
+| Realiza coleta de dados (Brainstorming)   | Início: 05/10<br>Fim: 13/10                        | Início: 11/10<br>Fim: 15/10 | Limírio e Vinicius        |   15/10   | Mayara   |
+| Realiza coleta de dados (Introspecção)    | Início: 05/10<br>Fim: 13/10                         | Início: 11/10<br>Fim: 14/10 | Vinícius                  |   15/10   | Luis e Altino     |
+| Realiza coleta de dados (Grupo de Foco)    | -------                      | Início: 11/10<br>Fim: 15/10 | Luis                      |   15/10   | Vinicius e Altino     |
+| Decidir técnica para especificar as tarefas     | Início: 05/10<br>Fim: 07/10                    | Início: 11/10<br>Fim: 12/10 | Breno                     |   08/10   | Mayara      |
+| Análise de cenários             | Início: 05/10<br>Fim: 13/10                                  | Início: 11/10<br>Fim: 13/10 | Breno                     |   14/10   | Altino        |
+| Análise de tarefas - HTA          | Início: 05/10<br>Fim: 13/10                                | Início: 13/10<br>Fim: 14/10 | Vinicius, Breno e Mayara  |   15/10   | Altino      |
+| Análise de tarefas - CTT           | Início: 05/10<br>Fim: 13/10                               | Início: 13/10<br>Fim: 16/10 | Milena                    |   16/10   | Altino e Mayara     |
+| Gravação da apresentação        | Início: 15/10<br>Fim: 15/10                                  | Início: 16/10<br>Fim: 16/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                    |   16/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      |
+| Inserir cronograma executado     | Início: 15/10<br>Fim: 16/1              | Início: 17/10<br>Fim: 17/10 | Mayara   | 17/10 | Limírio
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
@@ -147,15 +147,15 @@ Na Tabela 7, está explicitado o cronograma executado das atividades da terceira
 
 <p align="center"><b>Tabela 07</b> - Entrega 3. Análise de requisitos </p>
 
-| Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
-| ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
-| Correção dos artefatos da entrega 2                              | Início: 18/10<br>Fim: 21/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                   |   22/10   |Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	     |
-| Definir princípios gerais do projeto                             | Início: 18/10<br>Fim: 21/10 | Limírio e Vinícius        |   22/10   | Mayara      |
-| Determinar as metas de usabilidade                               | Início: 18/10<br>Fim: 23/10 | Breno e Mayara            |   23/10   | Milena      |
-| Criar o  guia de estilo                                          | Início: 18/10<br>Fim: 23/10 | Luis e Arthur             |   23/10   | Mayara	     |
-| Determinar as características da plataforma para o projeto       | Início: 18/10<br>Fim: 23/10 | Milena                    |   23/10   | Mayara      |
-| Gravação da apresentação                                         | Início: 23/10<br>Fim: 23/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                    |   23/10   |Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      |
-| Inserir cronograma executado                                     | Início: 22/10<br>Fim: 23/10 | Mayara                  |   23/10   | Limírio    |
+| Atividade                    |   Data Prevista                                 | Período de execução  | Responsáveis       | Revisão   | Revisor            |
+| -------------------------------- | -------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos da entrega 2  | Início: 18/10<br>Fim: 20/10                              | Início: 18/10<br>Fim: 21/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                   |   22/10   |Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	     |
+| Definir princípios gerais do projeto             | Início: 18/10<br>Fim: 20/10                   | Início: 18/10<br>Fim: 21/10 | Limírio e Vinícius        |   22/10   | Mayara      |
+| Determinar as metas de usabilidade      | Início: 18/10<br>Fim: 20/10                          | Início: 18/10<br>Fim: 23/10 | Breno e Mayara            |   23/10   | Milena      |
+| Criar o  guia de estilo               | Início: 18/10<br>Fim: 20/10                              | Início: 18/10<br>Fim: 23/10 | Luis e Arthur             |   23/10   | Mayara	     |
+| Determinar as características da plataforma para o projeto  | Início: 18/10<br>Fim: 20/10      | Início: 18/10<br>Fim: 23/10 | Milena                    |   23/10   | Mayara      |
+| Gravação da apresentação              | Início: 22/10<br>Fim: 22/10                            | Início: 23/10<br>Fim: 23/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino                    |   23/10   |Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      |
+| Inserir cronograma executado                 | Início: 22/10<br>Fim: 23/10                          | Início: 22/10<br>Fim: 23/10 | Mayara                  |   23/10   | Limírio    |
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
@@ -171,7 +171,7 @@ Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quarta en
 | Planejamento da avaliação do Storyboard                          | Início: 24/10<br>Fim: 27/10 | Luis e Milena      |   28/10   | Limírio            |
 | Planejamento do relato dos resultados da avaliação do Storyboard | Início: 24/10<br>Fim: 27/10 | Vinicius e Altino  |   28/10   | Altino	           |
 | Planejamento da Avaliação da Análise de tarefas                  | Início: 27/10<br>Fim: 29/10 | Limírio   	        |   29/10   | Milena             |
-| Planejamento do relato da avaliação da análise de tareas         | Início: 27/10<br>Fim: 29/10 | Breno e Mayara     |   29/10   | Breno              |
+| Planejamento do relato da avaliação da análise de tarefas         | Início: 27/10<br>Fim: 29/10 | Breno e Mayara     |   29/10   | Breno              |
 | Gravação da apresentação                                         | Início: 29/10<br>Fim: 29/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   29/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino              |
 | Cronograma executado                                           	 | Início: 29/10<br>Fim: 30/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   30/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |
 
@@ -183,15 +183,15 @@ Na Tabela 9, tem-se o cronograma executado para todas as atividades da quarta en
 
 <p align="center"><b>Tabela 09</b> - Entrega 4. Storyboard e Análise de tarefas </p>
 
-| Atividade                                                        | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
-| ---------------------------------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
-| Correção dos artefatos da entrega 3                              | Início: 24/10<br>Fim: 05/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	            |   06/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |
-| Planejamento da avaliação do Storyboard                          | Início: 24/10<br>Fim: 30/10 | Milena e Altino    |   30/10   | Vinícius            |
-| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 24/10<br>Fim: 30/10 | Vinicius e Luis|   30/10   | Mayara	           |
-| Planejamento da Avaliação da Análise de tarefas                  | Início: 27/10<br>Fim: 29/10 | Limírio, Mayara e Breno   	        |   30/10   | Vinícius            |
-| Planejamento do relato da avaliação da análise de tareas         | Início: 27/10<br>Fim: 30/10 | Vinicius e Luis    |   30/10   | Mayara             |
-| Gravação da apresentação                                         | Início: 30/10<br>Fim: 30/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   29/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino              |
-| Cronograma executado                                           	 | Início: 30/10<br>Fim: 30/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   30/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |
+| Atividade           | Data prevista                                             | Período de execução  | Responsáveis       | Revisão   | Revisor            |
+| ------------------------ | ---------------------------------------- | --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos da entrega 3  | Início: 24/10<br>Fim: 25/10                            | Início: 24/10<br>Fim: 05/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino	            |   06/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |
+| Planejamento da avaliação do Storyboard        | Início: 24/10<br>Fim: 27/10                   | Início: 24/10<br>Fim: 30/10 | Milena e Altino    |   30/10   | Vinícius            |
+| Planejamento do relato dos resultados da avaliação do Storyboard  | Início: 24/10<br>Fim: 27/10 | Início: 24/10<br>Fim: 30/10 | Vinicius e Luis|   30/10   | Mayara	           |
+| Planejamento da Avaliação da Análise de tarefas     | Início: 27/10<br>Fim: 29/10              | Início: 27/10<br>Fim: 29/10 | Limírio, Mayara e Breno   	        |   30/10   | Vinícius            |
+| Planejamento do relato da avaliação da análise de tarefas    | Início: 27/10<br>Fim: 29/10       | Início: 27/10<br>Fim: 30/10 | Vinicius e Luis    |   30/10   | Mayara             |
+| Gravação da apresentação           | Início: 29/10<br>Fim: 29/10                                | Início: 30/10<br>Fim: 30/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   29/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino              |
+| Cronograma executado                              	 | Início: 29/10<br>Fim: 30/10                	 | Início: 30/10<br>Fim: 30/10 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   30/10   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
@@ -301,4 +301,5 @@ Na Tabela 14, tem-se o cronograma planejado para todas as atividades da entrega 
 | `1.2`   |17/10/2023 |Adicionando cronograma executado da segunda entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 | `1.3`   |23/10/2023 |Adicionando cronograma executado da terceira entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 | `1.4`   |30/10/2023 |Adicionando cronograma executado da quarta entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
+| `1.5`   |30/10/2023 |Adicionando coluna de data prevista no cronograma executado |[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 
