@@ -157,5 +157,5 @@ Neste projeto, a realização do teste-piloto será executada de forma a simular
 
  Versão  |    Data    |        Descrição|Autor(es)|      Revisor(es)                   
  :-----: | :--------: | :-------------: | :-------------------: | :------: 
-  `1.0`  | 29/10/2023 |Criação do Perfil de Usuário| [Mayara Alves](https://github.com/Mayara-tech) e [Breno Queiroz](https://github.com/brenob6) | [](https://github.com/)  [](https://github.com/)  
+  `1.0`  | 29/10/2023 |Criação do Perfil de Usuário| [Mayara Alves](https://github.com/Mayara-tech), [Limírio Guimarães](https://github.com/LimirioGuimaraes)  e [Breno Queiroz](https://github.com/brenob6) | [](https://github.com/)  [](https://github.com/)  
   
