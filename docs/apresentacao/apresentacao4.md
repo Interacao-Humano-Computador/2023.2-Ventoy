@@ -4,7 +4,7 @@
 
 O propósito desta página consiste em arquivar os elementos pertinentes à quarta apresentação, abrangendo desde o vídeo da própria apresentação (caso não seja possível acessar o vídeo diretamente pela página, gentilmente clique no link correspondente) até os aspectos que foram avaliados durante a exposição, além da segmentação dos aspectos a serem corrigidos.
 
-## Apresentação 3 - 30/10/2023
+## Apresentação 4 - 30/10/2023
 
 <p style="text-align: center"><a href="https://youtu.be/dz-av970OOI" target="blanket">Vídeo apresentação 4</a></p>
 
@@ -14,11 +14,14 @@ O propósito desta página consiste em arquivar os elementos pertinentes à quar
 
 ## Aspectos avaliados na apresentação
 
+
 ## Correções pós-apresentação
+
 
 ## 📑 Histórico de versões 
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-`1.0` | 23/10/2023| Criação da página de apresentação 3 | [Breno Queiroz](https://github.com/brenob6) |[Mayara Alves](https://github.com/mayara-tech) |
+`1.0` | 30/10/2023| Criação da página de apresentação 4 | [Breno Queiroz](https://github.com/brenob6) |[Mayara Alves](https://github.com/mayara-tech) |
+`1.1` | 31/10/2023| Adicionando aspectos avaliados e tabela de correções |  [Mayara Alves](https://github.com/mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
 
