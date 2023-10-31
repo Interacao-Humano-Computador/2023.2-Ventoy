@@ -143,7 +143,7 @@ O teste piloto tem como objetivo avaliar a própria avaliação, assim, vendo se
 
 ### Resultado
 
-A seguir temos a gravação da entrevista, de acordo com os aspectos que foram colocados acima. Os participantes [Altino Arthur](https://github.com/arthurrochamoreira), [Breno Queiroz](https://github.com/brenob6) (Entrevistador), [Limirio Correia](https://github.com/LimirioGuimaraes) (Usuário), [Mayara Alves](https://github.com/Mayara-tech) (Entrevistador), e [Vinicius Mendes](https://github.com/yabamiah). (Clique aqui para ver aa gravações)[Entrevista 1](https://youtu.be/lQIkh6QJrKA)], [Entrevista 02](https://youtu.be/sr9Nynz5x78) .
+A seguir temos a gravação da entrevista, de acordo com os aspectos que foram colocados acima. Os participantes [Altino Arthur](https://github.com/arthurrochamoreira), [Breno Queiroz](https://github.com/brenob6) (Entrevistador), [Limirio Correia](https://github.com/LimirioGuimaraes) (Usuário), [Mayara Alves](https://github.com/Mayara-tech) (Entrevistador), e [Vinicius Mendes](https://github.com/yabamiah). Gravações: [Entrevista 1](https://youtu.be/lQIkh6QJrKA), [Entrevista 02](https://youtu.be/sr9Nynz5x78) .
 
 ## Referências Bicliográficas
 
