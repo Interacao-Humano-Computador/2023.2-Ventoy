@@ -125,9 +125,9 @@ Este processo de documentação abrangerá a identificação e registro de probl
 
 O objetivo do teste piloto é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. Dessa forma, ele tem oportunidade de verificar se a linguagem nas explicações e nos materiais fornecidos é clara e objetiva, e se esses materiais contêm informações adequadas e suficientes para orientar o participante durante a avaliação.
 
-Neste projeto, a realização do teste-piloto será executada de forma a simular entrevistas com os usuários reais do Ventoy, com o objetivo de identificar quaisquer lacunas ou aprimoramentos necessários no processo. Na tabela 1 temos o cronograma para realização do teste-piloto.
+Neste projeto, a realização do teste-piloto será executada de forma a simular entrevistas com os usuários reais do Ventoy, com o objetivo de identificar quaisquer lacunas ou aprimoramentos necessários no processo. Na tabela 2 temos o cronograma para realização do teste-piloto.
 
-<p align="center"><b>Tabela 01</b> - Cronograma Teste Piloto </p>
+<p align="center"><b>Tabela 02</b> - Cronograma Teste Piloto </p>
 <center>
 
 | **Entrevistador** | **Entrevistado** | **Horário de início** | **Horário de término** | **Data** |  **Plataforma** |
