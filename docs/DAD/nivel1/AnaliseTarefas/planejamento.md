@@ -212,5 +212,4 @@ O teste piloto foi realizado no dia 30/10/2023 às 21:47 e teve a duração de 7
 
  Versão  |    Data    |        Descrição|Autor(es)|      Revisor(es)                   
  :-----: | :--------: | :-------------: | :-------------------: | :------: 
-  `1.0`  | 29/10/2023 |Criação do Perfil de Usuário| [Mayara Alves](https://github.com/Mayara-tech), [Limírio Guimarães](https://github.com/LimirioGuimaraes)  e [Breno Queiroz](https://github.com/brenob6) | [](https://github.com/)  [](https://github.com/)  
-  
+  `1.0`  | 29/10/2023 |Criação do Perfil de Usuário| [Mayara Alves](https://github.com/Mayara-tech), [Limírio Guimarães](https://github.com/LimirioGuimaraes)  e [Breno Queiroz](https://github.com/brenob6) | [Vinicius Mendes](https://github.com/yabamiah)  [](https://github.com/) |
