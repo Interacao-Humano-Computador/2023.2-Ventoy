@@ -30,7 +30,7 @@ Fonte: [Breno Queiroz](https://github.com/brenob6)
 O storyboard visualizado na figura 2 demonstra o uso do FAQ de perguntas do Ventoy por um usúario que está passando por dificuldade para formatar seu computador.
 <center>
 
-**Figura 2**: 
+**Figura 2**: Storyboard Utilizando o FAQ
 
 ![](../../../assets/storyboard/storyboardM1.png)
 
@@ -41,9 +41,9 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 ## Storyboard 3:
 <center>
 
-**Figura 3**: 
-
 O storyboard retratado na figura 3 exibe um usuário navegando pela aba de "Compartilhamento de Experiências" do Ventoy, procurando soluções para desafios enfrentados ao dar boot em seu computador.
+
+**Figura 3**: Storyboard Utilizando o Compartilhamento de Experiências
 
 ![](../../../assets/storyboard/storyboardA1.png)
 
@@ -54,10 +54,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 ## Storyboard 4:
 <center>
 
-**Figura 4**: 
-
 O storyboard retratado na figura 4 ilustra um diálogo entre dois usuários, no qual um deles reconhece que o Ventoy facilitou muito sua busca por uma nova distribuição linux e decide colaborar com o projeto fazendo uma doação. Para isso, ele acessa o site do Ventoy e procura a opção de doar.
 
+**Figura 4**: Storyboard Utilizando o Ventoy
 
 ![](../../../assets/storyboard/stoyboard_limirio.png)
 
@@ -69,7 +68,7 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
 O storyboard visualizado na figura 5 demonstra o uso do Testes de Iso  do Ventoy por um usúario que está verificando se uma distribuição já foi testada.
 
-**Figura 5**: 
+**Figura 5**: Storyboard Utilizando o Testes de Iso
 <center>
 ![](../../../assets/storyboard/storyboardL1.png)
 
@@ -113,7 +112,7 @@ Fonte: [](https://github.com/)
 |`1.0`  | 28/10/2023 | Criação do documento|[Breno Queiroz](https://github.com/brenob6)|[](https://github.com/) 
 |`1.1`  | 28/10/2023 |Adicionado Storyboard 1|[Breno Queiroz](https://github.com/brenob6)|[](https://github.com/) 
 |`1.1`  | 29/10/2023 |Adicionado Storyboard 2|[Limírio Guimarães](https://github.com/LimirioGuimaraes)|[](https://github.com/) 
-|`1.1`  | 29/10/2023 |Adicionado Storyboard 3|[](https://github.com/)|[](https://github.com/) 
+|`1.1`  | 29/10/2023 |Adicionado Storyboard 3|[Altino Arthur](https://github.com/arthurrochamoreira)|[](https://github.com/arthurrochamoreira) 
 |`1.1`  | 29/10/2023 |Adicionado Storyboard 4|[](https://github.com/)|[](https://github.com/) 
 |`1.1`  | 29/10/2023 |Adicionado Storyboard 5|[](https://github.com/)|[](https://github.com/) 
 |`1.1`  | 29/10/2023 |Adicionado Storyboard 6|[](https://github.com/)|[](https://github.com/) 
