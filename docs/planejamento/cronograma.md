@@ -301,5 +301,5 @@ Na Tabela 14, tem-se o cronograma planejado para todas as atividades da entrega 
 | `1.2`   |17/10/2023 |Adicionando cronograma executado da segunda entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 | `1.3`   |23/10/2023 |Adicionando cronograma executado da terceira entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 | `1.4`   |30/10/2023 |Adicionando cronograma executado da quarta entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
-| `1.5`   |30/10/2023 |Adicionando coluna de data prevista no cronograma executado |[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
+| `1.5`   |31/10/2023 |Adicionando coluna de data prevista no cronograma executado |[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 
