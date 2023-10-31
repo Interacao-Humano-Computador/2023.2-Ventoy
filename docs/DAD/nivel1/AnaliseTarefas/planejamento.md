@@ -111,7 +111,7 @@ O usuário recrutado deve concordar com o termo de consentimento.
 
 ## Aspectos Éticos (D)
 
-A pesquisa científica envolvendo seres humanos demanda um respeito fundamental pela dignidade e autonomia dos participantes, juntamente com a consideração de sua vulnerabilidade e liberdade de consentimento. No Brasil, a resolução nº 466/2012 do Conselho Nacional de Saúde^1^ estabelece diretrizes éticas que incluem princípios como a autonomia, beneficência, não maleficência e justiça. Esses princípios são aplicáveis a qualquer tipo de pesquisa, visando assegurar o respeito aos direitos dos participantes, a maximização dos benefícios e a prevenção de danos, bem como a equidade na distribuição de benefícios. Respeitar esses princípios não apenas protege os participantes, mas também fortalece a integridade da pesquisa e a confiança do público na ciência e na comunidade acadêmica.
+A pesquisa científica envolvendo seres humanos demanda um respeito fundamental pela dignidade e autonomia dos participantes, juntamente com a consideração de sua vulnerabilidade e liberdade de consentimento. No Brasil, a resolução nº 466/2012 do Conselho Nacional de Saúde^2^ estabelece diretrizes éticas que incluem princípios como a autonomia, beneficência, não maleficência e justiça. Esses princípios são aplicáveis a qualquer tipo de pesquisa, visando assegurar o respeito aos direitos dos participantes, a maximização dos benefícios e a prevenção de danos, bem como a equidade na distribuição de benefícios. Respeitar esses princípios não apenas protege os participantes, mas também fortalece a integridade da pesquisa e a confiança do público na ciência e na comunidade acadêmica.
 
 Neste projeto, utilizaremos essas diretrizes e princípios éticos como alicerces fundamentais para conduzir a pesquisa de forma responsável e respeitosa em relação aos participantes. Essas diretrizes nos guiarão na obtenção de consentimento informado através do [termo de consertimento](../../../../analisedetarefas/aspectosEticos). O cumprimento rigoroso desses princípios garantirá a integridade do nosso trabalho e reforçará a confiabilidade da pesquisa, promovendo, assim, a confiança do público na ciência e na comunidade acadêmica.
 
@@ -144,7 +144,8 @@ Neste projeto, a realização do teste-piloto será executada de forma a simular
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> CONSELHO NACIONAL DE SAÚDE. Resolução nº 466, de 12 de dezembro de 2012. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>. Acesso em: 30/10/2023.
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="REF2" href="#anchor_1">2.</a> CONSELHO NACIONAL DE SAÚDE. Resolução nº 466, de 12 de dezembro de 2012. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>. Acesso em: 30/10/2023.
 
 
 ## Bibliografia
