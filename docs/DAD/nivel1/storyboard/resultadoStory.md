@@ -33,7 +33,7 @@ Neste item, os avaliadores que participaram da avaliação devem apresentar de f
 Após a apresentação dos dados coletados, neste item deve ser apresentado uma resenha da interpretação dos dados, para que assim possamos extrair o máximo de proveito dos dados coletados.
 
 ### Problemas encontrados
-Durante a avaliação, o usuário irá encontrar problemas, seja do sistema ou da análise de tarefas, e será neste tópico onde iremos listar todos esses problemas encontrados.
+Durante a avaliação, o usuário irá encontrar problemas, seja do sistema ou do Storyboard, e será neste tópico onde iremos listar todos esses problemas encontrados.
 
 ### Reprojeto do sistema
 Neste item, os avaliadores irão com ajuda da bagagem de dados coletados, interpretados e problemas encontrados, planejar e propor sugestões para o melhoramento do sistema.
