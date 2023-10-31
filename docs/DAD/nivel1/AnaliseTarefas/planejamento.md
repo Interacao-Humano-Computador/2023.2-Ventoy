@@ -9,7 +9,24 @@ Durante a etapa da Análise de requisitos, foi realizada a Análise de tarefas c
 As atividades que serão avaliadas na análise foram obtidas com os métodos de 
 [análise hierárquica de  tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md)
 (HTA) e [concur task tree](../../../AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees.md) (CTT).
-A estrutura deste planejamento foi construída utilizando o *framework* DECIDE.
+A estrutura deste planejamento foi construída utilizando o *framework* DECIDE, que pode ser descrito como na tabela 1 abaixo.
+
+<p align="center"><b>Tabela 01</b> - Framework DECIDE </p>
+
+<center>
+
+| Letra |                          Definição                           |
+| :---: | :----------------------------------------------------------: |
+|   D   |            Determinar os objetivos da avaliação.             |
+|   E   |   Explorar perguntas a serem respondidas com a avaliação.    |
+|   C   |     Escolher os métodos de avaliação a serem utilizados.     |
+|   I   | Identificar e administrar as questões práticas da avaliação. |
+|   D   |          Decidir como lidar com as questões éticas.          |
+|   E   |          Avaliar, interpretar e apresentar os dados          |
+
+**Fonte**:  BARBOSA e SILVA (2011).
+
+</center>
 
 ## Objetivos (D)
 
@@ -115,7 +132,10 @@ Neste projeto, a realização do teste-piloto será executada de forma a simular
 
 | **Entrevistador** | **Entrevistado** | **Horário de início** | **Horário de término** | **Data** |  **Plataforma** |
 |:---------------:|:------------:|:---------:|:------------------:|:----------------:|:----------------:|
-| [Mayara Alves](https://github.com/Mayara-tech)  | [Breno Queiroz](https://github.com/brenob6) | 21h30min | 21h45min | 30/10/2023  | Teams |     
+| [Mayara Alves](https://github.com/Mayara-tech)  | [Breno Queiroz](https://github.com/brenob6) | 21h30min | 21h45min | 30/10/2023  | Teams |  
+
+**Fonte**: [Mayara Alves](https://github.com/Mayara-tech).
+
 </center>
 
 ## Resultado do teste piloto 
