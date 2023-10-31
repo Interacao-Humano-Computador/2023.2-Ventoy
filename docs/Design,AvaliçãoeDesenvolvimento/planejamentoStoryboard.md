@@ -101,8 +101,8 @@ As entrevistas serão documentados na tabela 1.
 
 | Entrevistador(es) | Entrevistado | Horário de Início | Horário de Fim | Data | Entrevista         |
 |-------------------| ------------ | ----------------- | -------------- | ---- | -------------------|
-|[Limírio Guimaães](https://github.com/LimirioGuimaraes)     |[Altino Arthur]((https://github.com/arthurrochamoreira))|21:30|21:35| 30/10|[Entrevista 01](https://youtu.be/lQIkh6QJrKA)|
-|                   |              |                   |                |      |                    |
+|[Limírio Guimarães](https://github.com/LimirioGuimaraes)   |[Altino Arthur](https://github.com/arthurrochamoreira) |21:30|21:35| 30/10/2023 |[Entrevista 01](https://youtu.be/lQIkh6QJrKA)|
+| [Mayara Alves](https://github.com/Mayara-tech) |   [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | 21:52     |   22:04             | 30/10/2023     | [Entrevista 02](https://youtu.be/lQIkh6QJrKA)                    |
 |                   |              |                   |                |      |                    |
 |                   |              |                   |                |      |                    |
 |                   |              |                   |                |      |                    |
@@ -139,7 +139,7 @@ O entrevistador deve encorajar o usuário a expressar suas opiniões, seja de fo
 
 ## Teste Piloto
 
-O teste piloto tem como objetivo avaliar a própria avaliação, assim, vendo se a mesma produz os dados necessários para responder as questões e objetivos do estudo. Dito isso a execução do teste piloto será feito no dia 30/01 às xx:xx, com a presença dos integrantes (nome)[github] e (nome)[github]. 
+O teste piloto tem como objetivo avaliar a própria avaliação, assim, vendo se a mesma produz os dados necessários para responder as questões e objetivos do estudo. Dito isso a execução do teste piloto será feito no dia 30/01 às 21:30, com a presença dos integrantes [Altino Arthur](https://github.com/arthurrochamoreira), [Breno Queiroz](https://github.com/brenob6), [Limirio Correia](https://github.com/LimirioGuimaraes), [Mayara Alves](https://github.com/Mayara-tech), e [Vinicius Mendes](https://github.com/yabamiah) e (nome)[github]. 
 
 ### Resultado
 
