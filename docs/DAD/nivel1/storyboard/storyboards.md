@@ -42,6 +42,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 <center>
 
 **Figura 3**: 
+
 O storyboard retratado na figura 3 exibe um usuário navegando pela aba de "Compartilhamento de Experiências" do Ventoy, procurando soluções para desafios enfrentados ao dar boot em seu computador.
 
 ![](../../../assets/storyboard/storyboardA1.png)
@@ -65,6 +66,8 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 </center>
 
 ## Storyboard 5:
+
+O storyboard visualizado na figura 5 demonstra o uso do Testes de Iso  do Ventoy por um usúario que está verificando se uma distribuição já foi testada.
 
 **Figura 5**: 
 <center>
