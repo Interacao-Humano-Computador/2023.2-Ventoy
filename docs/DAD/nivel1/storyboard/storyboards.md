@@ -91,6 +91,8 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Storyboard 7:
 
+O storyboard apresentado na Figura 7, ilustra um cenário onde uma jovem usuária precisa instalar o Linux, porém está com algumas dúvidas de como fazer, para isso acessa o FAQ do site [ventoy](https://www.ventoy.net/en/faq.html).
+
 <center>
 
 **Figura 7**: 
@@ -112,9 +114,9 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 :-----: | :--------: | :-----------------: | :----------:| :-----------------------------------: 
 |`1.0`  | 28/10/2023 | Criação do documento|[Breno Queiroz](https://github.com/brenob6)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
 |`1.1`  | 28/10/2023 |Adicionado Storyboard 1|[Breno Queiroz](https://github.com/brenob6)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
-|`1.1`  | 29/10/2023 |Adicionado Storyboard 2|[Mayara Alves](https://github.com/Mayara-tech)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
-|`1.1`  | 29/10/2023 |Adicionado Storyboard 3|[Altino Arthur](https://github.com/arthurrochamoreira)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
-|`1.1`  | 29/10/2023 |Adicionado Storyboard 4|[Limírio Guimarães](https://github.com/LimirioGuimaraes)|[Altino Arthur](https://github.com/arthurrochamoreira) 
-|`1.1`  | 29/10/2023 |Adicionado Storyboard 5|[Luis Eduardo](https://github.com/](https://github.com/LuisMiranda10))|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
-|`1.1`  | 29/10/2023 |Adicionado Storyboard 6|[Vinícius Mendes](https://github.com/yabamiah)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
-|`1.1`  | 29/10/2023 |Adicionado Storyboard 7|[](https://github.com/)|[](https://github.com/) 
+|`1.2`  | 29/10/2023 |Adicionado Storyboard 2|[Mayara Alves](https://github.com/Mayara-tech)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
+|`1.3`  | 29/10/2023 |Adicionado Storyboard 3|[Altino Arthur](https://github.com/arthurrochamoreira)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
+|`1.4`  | 29/10/2023 |Adicionado Storyboard 4|[Limírio Guimarães](https://github.com/LimirioGuimaraes)|[Altino Arthur](https://github.com/arthurrochamoreira) 
+|`1.5`  | 29/10/2023 |Adicionado Storyboard 5|[Luis Eduardo](https://github.com/LuisMiranda10)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
+|`1.6`  | 29/10/2023 |Adicionado Storyboard 6|[Vinícius Mendes](https://github.com/yabamiah)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
+|`1.7`  | 29/10/2023 |Adicionado Storyboard 7|[Milena Baruc](https://github.com/MilenaBaruc)|[Luis Eduardo](https://github.com/LuisMiranda10)
