@@ -1,4 +1,5 @@
 # Análise Hierárquica de Tarefas 
+
 ## Introdução 
 
 A Análise Hierárquica de Tarefas (HTA - Hierarchical Task Analysis) é um método de análise de tarefas que é utilizado para obtermos um maior entendimento das competências e de quais tarefas os usuários realizam em um sistema e como eles realizam e o por quê, para nos ajudar a entender o processo da atividade e a identificar os problemas nesse processo.
@@ -15,7 +16,9 @@ No nível mais baixo, cada subobjetivo será realizado por uma operação. Logo 
 ## Análise Hierárquica de Tarefas (HTA)
 
 Nessa seção iremos apresentar as análises de tarefas utilizando o método HTA do site Ventoy, utilizando representações em diagrama e tabela para um maior compreensão.
+
 ### Iniciar o uso do Ventoy
+
 O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 2 e na tabela 1.  Nesta tarefa o usuário tem como objetivo iniciar o uso do Ventoy.
 
 <p align="center"><b>Figura 02</b> - Diagrama HTA do iniciar uso do Ventoy</p>
@@ -68,6 +71,7 @@ O diagrama feito para analisar esta tarefa foi representado em um diagrama na fi
 Nesta tarefa o usuário tem como objetivo procurar uma dúvida da instalação na página de FAQ (perguntas frequentes) Ventoy.
 
 <center>
+
 <b>Figura 04</b> - Diagrama HTA procurar dúvida na página de FAQ
 
 ![HTA Procurar dúvida](../../assets/diagramaFAQ.png)
@@ -83,6 +87,8 @@ Nesta tarefa o usuário tem como objetivo procurar uma dúvida da instalação n
 |2. Visualizar listagem de FAQs da categoria|**Feedback:** Apresentar uma lista de FAQs relacionados à categoria selecionada.|
 |3. Clicar em uma pergunta|**Input:** Clicar em uma pergunta para expandir a resposta.<br/>**Feedback:** Tornar a expansão e contração de respostas intuitivas.|
 |4.  Ler a resposta|**Feedback:** Garantir uma exibição clara e legível das respostas.<br/>**Recomendação:** Padronizar fonte, tamanho e cor do texto |
+
+</center>
 
 ### Acessar a página de Doações para realizar uma doação
 
@@ -139,6 +145,7 @@ Na execução dessa tarefa, o usuário busca contribuir ou se aproveitar com o p
 O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 7 e na tabela 6. Na execução dessa tarefa, o usuário busca acessar o site do Ventoy e explorar experiências. Ele tem a opção de ler experiências compartilhadas e entrar em contato com o autor da experiência para fazer perguntas. Essa interação ajuda a comunidade do Ventoy a trocar informações e insights úteis sobre o projeto.
 
 <center>
+
 <b>Figura 7</b> - Diagrama HTA acessar a página de Compartilhamento de Experiências 
 
 ![HTA Compartilhamento De Experiências](../../assets/compartilhamento_experiencias.png)
@@ -156,11 +163,14 @@ O diagrama feito para analisar esta tarefa foi representado em um diagrama na fi
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></p>
 
+</center>
+
 ### Acessar a página de Plugin
 
 O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 8 e na tabela 7. Na execução dessa tarefa, o usuário busca acessar a página de plugin do ventoy. Ele tem a opção de visualizar a documentação para personalizar e aprimorar o Ventoy, por meio de um plugin.
 
 <center>
+
 <b>Figura 8</b> - Diagrama HTA acessar a página de Plugin 
 
 ![HTA Plugin](../../assets/acesso_plugin.png)
@@ -177,6 +187,8 @@ O diagrama feito para analisar esta tarefa foi representado em um diagrama na fi
 |3. Acessar a documentação sobre plugin|**Input:** Acessar a documentação sobre plugin por meio de um link fornecido.<br/> **Feedback:** Garantir que o link fornecido está correto e esteja com seus dados atualizados.|
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></p>
+
+</center>
 
 ## Bibliografia
 >Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193.
