@@ -156,6 +156,28 @@ O diagrama feito para analisar esta tarefa foi representado em um diagrama na fi
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></p>
 
+### Acessar a página de Plugin
+
+O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 8 e na tabela 7. Na execução dessa tarefa, o usuário busca acessar a página de plugin do ventoy. Ele tem a opção de visualizar a documentação para personalizar e aprimorar o Ventoy, por meio de um plugin.
+
+<center>
+<b>Figura 8</b> - Diagrama HTA acessar a página de Plugin 
+
+![HTA Plugin](../../assets/acesso_plugin.png)
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/MilenaBaruc">Milena Baruc</a></p>
+
+<p align="center"><b>Tabela 07</b> - Representação HTA em tabela da figura 8</p>
+
+|**Objetivos / Operações** | **Problemas e Recomendações** |
+|:----------------------|:-------------------------------|
+|0. Acessar o site do ventoy|**Plano:** Acessar a página inicial do ventoy.<br/> **Feedback:** Garantir que os usuários acessem a página do ventoy na web.|
+|1. Acessar a página de plugin|**Plano:** Acessar a página de plugin após entrar no site do ventoy.<br/> **Feedback:** Garantir que os usuários encontrem facilmente a página de plugin.|
+|2. Ler a documentação sobre plugin|**Input:** Ler a documentação sobre plugin compartilhada pelos desenvolvedores.<br/> **Feedback:** Oferecer uma interface amigável para a leitura da documentação.|
+|3. Acessar a documentação sobre plugin|**Input:** Acessar a documentação sobre plugin por meio de um link fornecido.<br/> **Feedback:** Garantir que o link fornecido está correto e esteja com seus dados atualizados.|
+
+<p align="center"><b>Fonte</b>:  <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></p>
+
 ## Bibliografia
 >Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193.
 
@@ -169,3 +191,4 @@ O diagrama feito para analisar esta tarefa foi representado em um diagrama na fi
 |`2.0`| 20/10/2023 | Adicionado diagrama HTA da tarefa doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Luis Miranda](https://github.com/LuisMiranda10) |
 |`2.1`| 20/10/2023 | Adicionado representação HTA em tabela da figura 5 | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Luis Miranda](https://github.com/LuisMiranda10) |
 |`2.2`| 23/10/2023 | Adicionado representação HTA da tarefa Compartilhamento de Experiências | [Altino Arthur](https://github.com/arthurrochamoreira)| [Milena Baruc](https://github.com/MilenaBaruc) |
+|`2.3`| 07/11/2023 | Adicionado representação HTA da tarefa Plugin | [Milena Baruc](https://github.com/MilenaBaruc)| [Luis Miranda](https://github.com/LuisMiranda10) |
