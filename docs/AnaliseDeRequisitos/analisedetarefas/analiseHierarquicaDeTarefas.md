@@ -46,6 +46,7 @@ O diagrama feito para analisar esta tarefa foi represento em um diagrama na figu
 Nesta tarefa o usuário tem como objetivo criar um novo post no fórum do Ventoy.
 
 <center>
+  
 <b>Figura 03</b> - Diagrama HTA fazer postagem no fórum
 
 ![HTA postagem no fórum](../../assets/post.drawio.png)
@@ -96,6 +97,7 @@ O diagrama feito para analisar esta tarefa foi representado em um diagrama na fi
 Na execução dessa tarefa, o usuário busca contribuir com o projeto Ventoy e apoiar os desenvolvedores por meio de uma doação.
 
 <center>
+  
 <b>Figura 5</b> - Diagrama HTA realizar doação na página de doações 
 
 ![HTA Procurar dúvida](../../assets/HTA_doacao.jpg)
@@ -114,12 +116,15 @@ Na execução dessa tarefa, o usuário busca contribuir com o projeto Ventoy e a
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></p>
 
+</center>
+
 ### Acessar a página de Testes De Iso 
 
 O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 6 e na tabela 5.
 Na execução dessa tarefa, o usuário busca contribuir ou se aproveitar com o projeto Ventoy e apoiar os desenvolvedores por meio de um Teste de Iso.
 
 <center>
+  
 <b>Figura 6</b> - Diagrama HTA realizar Testes de Iso na página Testes de Iso
 
 ![HTA Testes De Iso](../../assets/Testes_de_Iso.jpg)
