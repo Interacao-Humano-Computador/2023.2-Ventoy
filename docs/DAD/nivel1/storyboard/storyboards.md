@@ -91,13 +91,13 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Storyboard 7:
 
-O storyboard apresentado na Figura 7, ilustra um cenário onde uma jovem usuária precisa instalar o Linux, porém está com algumas dúvidas de como fazer, para isso acessa o FAQ do site [ventoy](https://www.ventoy.net/en/faq.html).
+O storyboard apresentado na Figura 7, ilustra um cenário onde uma jovem usuária quer deixar o menu de inicialização do site Ventoy mais bonito, e para isso é necessário o uso de um [plugin](https://www.ventoy.net/en/plugin.html).
 
 <center>
 
-**Figura 7**: 
+**Figura 7**: Acesso à página de plugin
 
-![](../../../assets/storyboard/storyboardMI1.jpg)
+![Acessar a página de plugin](../../../assets/acessar-a-pagina-de-plugin-highres.png)
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
@@ -120,3 +120,4 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 |`1.5`  | 29/10/2023 |Adicionado Storyboard 5|[Luis Eduardo](https://github.com/LuisMiranda10)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
 |`1.6`  | 29/10/2023 |Adicionado Storyboard 6|[Vinícius Mendes](https://github.com/yabamiah)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
 |`1.7`  | 29/10/2023 |Adicionado Storyboard 7|[Milena Baruc](https://github.com/MilenaBaruc)|[Luis Eduardo](https://github.com/LuisMiranda10)
+|`2.0`  | 29/10/2023 |Atulizando Storyboard 7|[Milena Baruc](https://github.com/MilenaBaruc)|[Luis Eduardo](https://github.com/LuisMiranda10)
