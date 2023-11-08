@@ -10,13 +10,29 @@ Este relato sumariza os resultados obtidos na avaliação da Análise de Tarefas
 
 O objetivo foi avaliar a eficácia, eficiência e satisfação na realização da tarefa [Nome da Tarefa] no site do Ventoy, visando identificar áreas de melhoria.
 
-### Método de avaliação
+## Método de Avaliação (C)
 
-O método de entrevista e observação com usuários reais do produto foi empregado. Detalhes da entrevista serão documentados na **Tabela 1 - Cronograma da entrevista**.
+Para a avaliação da Análise de Tarefas, empregamos um conjunto de métodos, incluindo a avaliação heurística, prototipação em papel e grupos de foco. Esses métodos foram escolhidos para examinar detalhadamente as tarefas obtidas por meio das análises hierárquicas de tarefas (HTA) e das árvores de tarefas concorrentes (CTT) e identificar qualquer problema de interação ou interface que possa afetar a experiência do usuário.
 
-### Seleção de participante
+### Avaliação Heurística
 
-Selecionamos participantes que correspondem ao perfil do usuário do Ventoy, garantindo a relevância dos resultados obtidos.
+Nossa primeira abordagem foi a avaliação heurística, na qual os avaliadores inspecionaram a interface do site Ventoy em busca de problemas de usabilidade. As seguintes heurísticas foram aplicadas:
+
+- **Visibilidade do estado do sistema:** Verificamos se o sistema fornece feedback adequado para informar os usuários sobre seu estado e as ações que estão realizando.
+
+- **Correspondência entre o sistema e o mundo real:** Avaliamos se os elementos da interface estão alinhados com as expectativas dos usuários, de modo que eles se relacionem de forma natural com o sistema.
+
+- **Consistência e padronização:** Analisamos se a interface mantém padrões consistentes em termos de design e interação em todo o site.
+
+- **Projeto estético e minimalista:** Investigamos se o design geral é esteticamente agradável e se evita a inclusão de elementos desnecessários.
+
+### Prototipação em Papel
+
+Além da avaliação heurística, realizamos prototipação em papel para testar alternativas de design e soluções parciais da interface. Criamos protótipos de baixa fidelidade em papel e convidamos usuários a simular interações com esses protótipos. Durante essas interações, o avaliador atuou como um "computador" simulando as ações do usuário. Este método nos ajudou a explorar alternativas de design e avaliar soluções preliminares da interface.
+
+### Grupos de Foco
+
+Realizamos grupos de foco, uma técnica qualitativa de pesquisa, para explorar as opiniões, atitudes, percepções e experiências dos participantes em relação ao site Ventoy. Foram selecionados participantes de acordo com as personas e o perfil de usuário previamente definidos. Durante essas sessões de grupo, um moderador facilitou discussões com o objetivo de coletar informações valiosas sobre a usabilidade do site.
 
 ### Problemas e dificuldades encontradas
 
