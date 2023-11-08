@@ -10,7 +10,7 @@ O objetivo deste documento é apresentar os resultados da avaliação dos [story
 ### Método de avaliação
 
 O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela 1. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 2. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/wkiDJeg2-FQ).
+na tabela 1. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 2. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/wkiDJeg2-FQ). Para que pudessemos começar a avaliação foi assinado um termo de consentimento pelo entrevistado.
 
 O Storyboard em questão pode ser visto aqui [aqui](storyboards.md/#storyboard-7-acesso-à-página-de-plugin).
 
