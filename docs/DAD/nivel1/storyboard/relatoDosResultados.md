@@ -5,6 +5,65 @@
 O objetivo deste documento é apresentar os resultados da avaliação dos [storyboards](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/), que foram criados para ilustrar as propostas de soluções para tarefas que devem ser executadas no sistema. As entrevistas com os potenciais usuários foram realizadas seguindo o 
 [planejamento da avaliação storyboard](./planejamentoStoryboard.md), que contém as informações sobre os participantes, os critérios de avaliação e o roteiro de perguntas e respostas.
 
+## Relato dos resultados Storyboard 5 : Utilizando o Testes de Iso
+
+### Método de avaliação
+
+O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
+na tabela 1. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 2. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/puBGGz80lMc).
+
+O Storyboard em questão pode ser visto aqui [aqui]().
+
+<center>
+
+**Tabela 1** - Cronograma da Avaliação 1.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Luis Eduardo](https://github.com/LuisMiranda10) | [Douglas Alves dos Santos](https://github.com/dougAlvs) | 19:02 | 19:13 | 08/11/2023 | Teams |
+
+**Fonte** - [Luis Eduardo](https://github.com/LuisMiranda10)
+
+</center>
+
+### Seleção de participante
+
+O participante de nome Douglas Alves dos Santos, com 21 anos está fazendo engenharia de software, sexto semestre, na Universidade de Brasília. Se encaixa perfeitamente no perfil de usuário, pois é um usuário do site do Ventoy, já sabendo como se manuseia as ferramentas disponibilizadas dentro do site.  
+
+### Problemas e dificuldades encontradas
+
+Durante a avaliação o usuário não relatou problemas.
+
+### Sugestões de melhoria
+
+O usuário não deu sugetões de melhoria.
+
+### Feedback do usuário
+
+O usuário apresentou que o storyboard está bem feito, como é visto nas [respostas das questões](./relatoDosResultados.md/#sumário-dos-principais-resultados).
+
+### Análise e interpretação dos resultados
+
+Ao ser feita a entrevista, o entrevistador achou bem explicativo e bem adequado a situação mostrada, sempre seguindo uma sequência lógica e bem formada.
+
+### Sumário dos principais resultados
+
+<center>
+
+**Tabela 2** - Respostas 1.
+
+| Perguntas | Respostas |
+| --------- | --------- |
+|1 – A história retratada no Storyboard está alinhada com o título? | Sim |
+|2 – O Storyboard em análise reflete de forma precisa a realidade? | Sim |
+|3 – O Storyboard aborda adequadamente os principais aspectos da realização da tarefa em questão? | Sim |
+|4 – As ações descritas no Storyboard seguem uma sequência lógica e fluida? | Sim |
+|5 – O Storyboard apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim |
+
+**Fonte** - [Luis Eduardo](https://github.com/LuisMiranda10).
+
+</center>
+
 ## Relato dos resultados Storyboard 7 : Acesso à página de plugin
 
 ### Método de avaliação
@@ -16,7 +75,7 @@ O Storyboard em questão pode ser visto aqui [aqui](storyboards.md/#storyboard-7
 
 <center>
 
-**Tabela 1** - Cronograma da Avaliação 1.
+**Tabela 2** - Cronograma da Avaliação 1.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
