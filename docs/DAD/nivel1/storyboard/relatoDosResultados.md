@@ -311,5 +311,6 @@ Interprete o resultado
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
 | `1.0`  | 08/11/2023 | Adicionado Template da Documentação | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Milena Baruc](https://github.com/MilenaBaruc) |
 | `1.1`  | 08/11/2023 | Adicionado resultados plugin | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
-| `1.1`  | 08/11/2023 | Adicionado resultados documentação e donwload | [Vinícius Mendes](https://github.com/yabamiah)|  |
+| `1.2`  | 08/11/2023 | Adicionado resultados documentação e donwload | [Vinícius Mendes](https://github.com/yabamiah)|  |
+| `1.3`  | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
 
