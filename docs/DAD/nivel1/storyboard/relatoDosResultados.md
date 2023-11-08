@@ -64,6 +64,57 @@ De acordo com a entrevista feita, pode-se perceber que o entrevistado achou agra
 
 </center>
 
+<center>
+**Tabela 3** - Cronograma da Avaliação 2.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Vinícius Mendes](https://github.com/yabamiah) |   Rafael Boanch   |       15:07       |     15:40      | 08/11/2023 | Teams |
+
+**Fonte** - [Vinícius Mendes](https://github.com/yabamiah)
+</center>
+
+### Seleção de participante
+
+O participante Rafael Boanch, que é estudante de Engenharia de Software, é um usuário assíduo e que segue os trabalhos das comunidades Open Source. É um usuário ativo do Ventoy e que também utiliza o site com certa frequência, e possui experiência com o site.
+
+### Problemas e dificuldades encontradas
+
+Durante a avaliação o usuário não teve nenhuma dificuldade em acompanhar o storyboard, só tiver que ler para o mesmo, já que por ter sido online dificulta a leitura.
+
+### Sugestões de melhoria
+
+A sugestão de melhoria dada pelo usuário, foi adicionar mais quadros entre um e outro e adicionar mais ações do personagem para compreender melhor a execução de uma ação
+
+### Feedback do usuário
+
+O usuário não concordou em que tal história aconteça na realidade, pois disse que quem está començar a usar o Ventoy, não utiliza a documentação do próprio site do Ventoy como fonte de informação pela dificuldade de uso da documentação e o design desagradável do site.
+
+### Análise e interpretação dos resultados
+
+De acordo com a entrevista feita, o usuário gostou do storyboard e entendeu o propósito, porém não acha que uma das etapas apresentadas no desenho retrate a realidade.
+
+### Sumário dos principais resultados
+
+<center>
+**Tabela 2** - Respostas 1.
+
+| Perguntas | Respostas |
+| --------- | --------- |
+|1 – 	A história retratada no Storyboard está alinhada com o título?? | Sim |
+|2 – O Storyboard em análise reflete de forma precisa a realidade? | Não |
+|3 – O Storyboard aborda adequadamente os principais aspectos da realização da tarefa em questão? | Sim |
+|4 – As ações descritas no Storyboard seguem uma sequência lógica e fluida? | Sim |
+|5 – O Storyboard apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim |
+
+**Fonte** -[Vinícius Mendes](https://github.com/yabamiah)
+
+<p style="text-align: center"><a href="https://youtu.be/xTHNB-6jFOU" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src=" link do video " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+</center>
+
 <!-- 
 
 ## Template (Excluir no fututo)]
@@ -141,3 +192,5 @@ Interprete o resultado
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
 | `1.0`  | 08/11/2023 | Adicionado Template da Documentação | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Milena Baruc](https://github.com/MilenaBaruc) |
 | `1.1`  | 08/11/2023 | Adicionado resultados plugin | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.1`  | 08/11/2023 | Adicionado resultados documentação e donwload | [Vinícius Mendes](https://github.com/yabamiah)|  |
+
