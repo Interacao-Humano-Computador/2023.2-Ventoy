@@ -89,7 +89,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 </center>
 
-## Storyboard 7:
+## Storyboard 7: Acesso à página de plugin
 
 O storyboard apresentado na Figura 7, ilustra um cenário onde uma jovem usuária quer deixar o menu de inicialização do site Ventoy mais bonito, e para isso é necessário o uso de um [plugin](https://www.ventoy.net/en/plugin.html).
 

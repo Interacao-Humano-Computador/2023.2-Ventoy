@@ -103,7 +103,7 @@ As entrevistas serão documentados na tabela 1.
 |-------------------| ------------ | ----------------- | -------------- | ---- | -------------------|
 |[Limírio Guimarães](https://github.com/LimirioGuimaraes)   |[Altino Arthur](https://github.com/arthurrochamoreira) |21:30|21:35| 30/10/2023 |[Entrevista 01](https://youtu.be/lQIkh6QJrKA)|
 | [Mayara Alves](https://github.com/Mayara-tech) |   [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | 21:52     |   22:04             | 30/10/2023     | [Entrevista 02](https://youtu.be/sr9Nynz5x78)                    |
-|                   |              |                   |                |      |                    |
+| [Milena Baruc](https://github.com/MilenaBaruc) | Wanjo Christopher | 14:20 | 14:48 | 08/11/2023 | [Entrevista 03](https://youtu.be/wkiDJeg2-FQ) |
 |                   |              |                   |                |      |                    |
 |                   |              |                   |                |      |                    |
 |                   |              |                   |                |      |                    |
@@ -153,5 +153,6 @@ A seguir temos a gravação da entrevista, de acordo com os aspectos que foram c
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 30/10/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) e [Altino Arthur](https://github.com/arthurrochamoreira)| [Vinícius Mendes](https://github.com/yabamiah) |
-|`1.1`| 30/10/2023 | Correção do documento | [Milena Baruc](https://github.com/MilenaBaruc) e [Altino Arthur](https://github.com/arthurrochamoreira)| [Vinícius Mendes](https://github.com/yabamiah) |
+|`1.0`| 30/10/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Vinícius Mendes](https://github.com/yabamiah) |
+|`1.1`| 30/10/2023 | Correção do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Vinícius Mendes](https://github.com/yabamiah) |
+|`2.0`| 08/11/2023 | Adição entrevista 03 | [Milena Baruc](https://github.com/MilenaBaruc)| [Vinícius Mendes](https://github.com/yabamiah) |
