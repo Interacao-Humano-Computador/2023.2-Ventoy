@@ -116,7 +116,9 @@ Página de documentação | 5. Você utiliza a página de documentação do Vent
 Página FAQ | 8. Como você avalia a disposição das perguntas no FAQ? <br> 9. Os simbolos que colapsam as perguntas, são facilmente descritíveis?
 Fórum | 10. Você consegue identificar rapidamente os temas que são tratados em cada fórum? <br> 11. Os ícones mostrados na página de post de um fórum elas são descritíveis? você sabe o que elas significam? <br>
 Página de TestedISO | 12. Você consegue acha rapidamente se uma distribução que você visa instalar foi testada no Ventoy?
-Sobre todo site | 13. Quais são as funcionalidades que acha que são importantes, que foram ou que devem ser implementadas no Ventoy para melhora a usabilidade do mesmo?
+Página de plugin | 13. As informações na página de plugins são claramente visíveis? <br> 14. A estrutura de navegação na página é intuitiva?<br> 15. Os plugins estão organizados de maneira lógica e categorizados? <br> 16.Os plugins possuem documentação ou instruções de uso para ajudar os usuários?
+Sobre todo site | 17. Quais são as funcionalidades que acha que são importantes, que foram ou que devem ser implementadas no Ventoy para melhora a usabilidade do mesmo?
+
 
 
 ### Prazo
