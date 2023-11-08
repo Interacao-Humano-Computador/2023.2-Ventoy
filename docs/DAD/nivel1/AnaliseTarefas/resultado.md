@@ -4,11 +4,11 @@
 
 Este relatório documenta os resultados obtidos pela avaliação da Análise de Tarefas realizada durante a etapa de Análise de Requisitos do site do Ventoy. Levando em consideração o Perfil do usuário obtido, a avaliação visa aprimorar a solução de Interação Humano-Computador (IHC) identificando problemas na interação e interface que impactam a experiência do usuário.
 
-## Entrevista - [Nome da Tarefa Avaliada]
+## Entrevista - HTA Plugin
 
 ### Objetivo e escopo da avaliação
 
-O objetivo foi avaliar a eficácia, eficiência e satisfação na realização da tarefa [Nome da Tarefa] no site do Ventoy, visando identificar áreas de melhoria.
+O objetivo foi avaliar a eficácia, eficiência e satisfação na realização da tarefa da aba plugin no site do [Ventoy](https://www.ventoy.net/en/plugin.html), visando identificar áreas de melhoria.
 
 ### Método de avaliação
 
@@ -16,49 +16,57 @@ O método de entrevista e observação com usuários reais do produto foi empreg
 
 ### Seleção de participante
 
-Selecionamos participantes que correspondem ao perfil do usuário do Ventoy, garantindo a relevância dos resultados obtidos.
+Selecionamos participantes que correspondem ao perfil do usuário do Ventoy, garantindo a relevância dos resultados obtidos. O participante de nome Wanjo Christopher Paraizo Escobar, com 21 anos está fazendo engenharia de software, terceiro semestre, na Universidade de Brasília. Se encaixa no perfil de usuário, pois apesar de nunca ter precisado utilizar o site Ventoy, o estudante já sabe criar pen-drive bootável pela sua experiência dentro da faculdade, sendo assim, uma pessoa relativamente experiente em realizar ações relacionado a tecnologia.
 
 ### Problemas e dificuldades encontradas
 
-- [Listar problemas e dificuldades identificados durante a avaliação]
+- Documentação não ordenada
+- Design da página não é agradável 
+- Apenas em inglês
 
 ### Sugestões de melhoria
 
-- [Listar melhorias sugeridas com base na avaliação]
+- Organizar a documentação para achar fácil os dados que estão sendo procurados
+- Corrigir o Design 
 
 ### Feedback do usuário
 
-- [Resumir o feedback principal dos usuários]
+O usuário consegue utilizar o site, porém deve abrir diversas páginas para encontrar sua resposta. 
 
 ### Análise e interpretação dos resultados
 
-- [Insira a análise e interpretação dos resultados obtidos]
+De acordo com a [entrevista feita](ttps://youtu.be/wkiDJeg2-FQ), o usuário apenas teve dificuldade em saber onde estão os assuntos que o mesmo quer, devido a falta de organização e de design. O entrevistado achou a [Analise Hierarquica de Tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md/#acessar-a-página-de-plugin) em questão condizente com o site.
 
 ### Sumário dos principais resultados
 
-- [Listar os principais resultados da avaliação]
+- As informações na página de plugins são claramente visíveis? Resposta: Sim, porém o design do site não é agradável
+- A estrutura de navegação na página é intuitiva? Resposta: Sim
+- Os plugins estão organizados de maneira lógica e categorizados? Resposta: Não, para conseguir achar algo teria que "fuçar"
+- Os plugins possuem documentação ou instruções de uso para ajudar os usuários? Resposta: Sim
 
 ## Planejamento de Reprojeto
 
 As mudanças sugeridas serão implementadas conforme o **Tabela 2 - Cronograma de Reprojeto**.
 
-**Fonte: [Nome do Autor](Link para o perfil do autor).**
+<center>
 
 **Tabela 1 - Cronograma da entrevista**
 
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim | Data | Local |
-| ----------------- | --------------- | ----------------- | -------------- | ---- | ------ |
-| [Nome do Entrevistador] | [Nome do Entrevistado] | [Horário de Início] | [Horário de Fim] | [Data] | [Plataforma de realização da entrevista] |
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Milena Baruc](https://github.com/MilenaBaruc) | [Wanjo Christopher](https://github.com/wChrstphr) | 14:20 | 14:48 | 08/11/2023 | Teams |
 
-**Fonte**: [Nome do Entrevistador]
+**Fonte**: [Milena Baruc](https://github.com/MilenaBaruc)
 
 **Tabela 2 - Cronograma de Reprojeto**
 
 | Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
 | ------------------------ | ----------------- | -------------- | ---- |
-| [Nome do Executor]       | [Horário de Início] | [Horário de Fim] | [Data] |
+| [Milena Baruc](https://github.com/MilenaBaruc) | 13:00 | 15:00 | 13/11/2023 |
 
-**Fonte**: [Nome do Autor]
+**Fonte**: [Milena Baruc](https://github.com/MilenaBaruc)
+
+</center>
 
 ## Referências Bibliográficas
 
@@ -72,6 +80,8 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 2 - Cronograma d
 
 ## 📑 Histórico de versões:
 
- Versão  |    Data    |        Descrição|Autor(es)|      Revisor(es)                   
- :-----: | :--------: | :-------------: | :-------------------: | :------: 
-  `1.0`  | 08/11/2023 |Criação da Página| [Altino Arthur](https://github.com/arthurrochamoreira), [Revisor](https://github.com/) 
+| Versão  |    Data    |  Descrição      |Autor(es)              | Revisor(es) |                  
+| :-----: | :--------: | :-------------: | :-------------------: | :---------: |
+| `1.0`  | 08/11/2023 |Criação da Página| [Altino Arthur](https://github.com/arthurrochamoreira) | [Revisor](https://github.com/) |
+| `1.0`  | 08/11/2023 |Adicionado resultados plugin| [Milena Baruc](https://github.com/MilenaBaruc) | [Revisor](https://github.com/) |
+  

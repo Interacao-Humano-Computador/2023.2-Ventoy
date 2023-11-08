@@ -69,7 +69,7 @@ Ao ser feita a entrevista, o entrevistador achou bem explicativo e bem adequado 
 ### Método de avaliação
 
 O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela 1. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 2. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/wkiDJeg2-FQ). Para que pudessemos começar a avaliação foi assinado um termo de consentimento pelo entrevistado.
+na tabela 1. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 2. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/wkiDJeg2-FQ). Para que pudessemos começar a avaliação foi assinado um [termo de consentimento](TermoDeConsentimentoPlugin.pdf) pelo entrevistado.
 
 O Storyboard em questão pode ser visto aqui [aqui](storyboards.md/#storyboard-7-acesso-à-página-de-plugin).
 
@@ -251,5 +251,5 @@ Interprete o resultado
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
 | `1.0`  | 08/11/2023 | Adicionado Template da Documentação | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Milena Baruc](https://github.com/MilenaBaruc) |
 | `1.1`  | 08/11/2023 | Adicionado resultados plugin | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
-| `1.1`  | 08/11/2023 | Adicionado resultados documentação e donwload | [Vinícius Mendes](https://github.com/yabamiah)|  |
+| `1.2`  | 08/11/2023 | Adicionado resultados documentação e donwload | [Vinícius Mendes](https://github.com/yabamiah)|  |
 
