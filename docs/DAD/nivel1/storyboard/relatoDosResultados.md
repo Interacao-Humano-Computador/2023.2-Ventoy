@@ -40,7 +40,7 @@ O usuário não deu sugetões de melhoria.
 
 ### Feedback do usuário
 
-O usuário apresentou que o storyboard está bem feito, como é visto nas [respostas das questões](./relatoDosResultados.md/#sumário-dos-principais-resultados).
+O usuário verificou que o storyboard está bem feito, sendo bem trabalhado e apresentado.
 
 ### Análise e interpretação dos resultados
 
