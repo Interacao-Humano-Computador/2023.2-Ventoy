@@ -82,17 +82,16 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: claro
+    palette: 
+    - scheme: default
       toggle:
-        icon: material/circle-half-full
+        icon: material/brightness-7 
         name: Mudar para o modo escuro
 
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    # Palette toggle for dark mode
+    - scheme: slate
       toggle:
-        icon: material/circle-half-full
+        icon: material/brightness-4
         name: Mudar para o modo claro
 
   language: pt-BR
