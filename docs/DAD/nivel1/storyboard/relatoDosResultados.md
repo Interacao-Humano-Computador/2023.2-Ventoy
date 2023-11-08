@@ -40,7 +40,7 @@ O usuário não deu sugetões de melhoria.
 
 ### Feedback do usuário
 
-O usuário apresentou que o sotyboard está ótimo, como podemos ver nas [respostas das questões](./relatoDosResultados.md/#sumário-dos-principais-resultados).
+O usuário apresentou que o storyboard está ótimo, como podemos ver nas [respostas das questões](./relatoDosResultados.md/#sumário-dos-principais-resultados).
 
 ### Análise e interpretação dos resultados
 
