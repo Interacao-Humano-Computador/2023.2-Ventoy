@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este relatório documenta os resultados obtidos pela avaliação da Análise de Tarefas realizada durante a etapa de Análise de Requisitos do site do Ventoy. Levando em consideração o Perfil do usuário obtido, a avaliação visa aprimorar a solução de Interação Humano-Computador (IHC) identificando problemas na interação e interface que impactam a experiência do usuário.
+Este relato sumariza os resultados obtidos na avaliação da Análise de Tarefas conduzida no site do Ventoy. Com foco no perfil dos usuários adquirido durante a Análise de Requisitos, esta avaliação buscou examinar em profundidade a qualidade de uso da solução de Interação Humano-Computador (IHC). Através de entrevistas com usuários reais, identificamos pontos críticos na interação e na interface que poderiam comprometer a experiência do usuário. Este processo de avaliação dinâmica permitiu um julgamento detalhado da solução de IHC proposta, vital para o desenvolvimento de um sistema interativo de alta qualidade. Os insights aqui apresentados refletem a importância deste processo, conforme destacado por Simone Barbosa e Bruno Diniz na literatura de IHC.
 
 ## Entrevista - [Nome da Tarefa Avaliada]
 
