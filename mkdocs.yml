@@ -92,7 +92,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: material/circle-half-full
+        icon: material/brightness-4
         name: Mudar para o modo claro
 
   language: pt-BR
