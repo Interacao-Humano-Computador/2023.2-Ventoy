@@ -3,65 +3,64 @@
 ## Introdução 
 
 O objetivo deste documento é apresentar os resultados da avaliação dos [storyboards](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/), que foram criados para ilustrar as propostas de soluções para tarefas que devem ser executadas no sistema. As entrevistas com os potenciais usuários foram realizadas seguindo o 
-[planejamento da avaliação storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/), que contém as informações sobre os participantes, os critérios de avaliação e o roteiro de perguntas e respostas.
+[planejamento da avaliação storyboard](./planejamentoStoryboard.md), que contém as informações sobre os participantes, os critérios de avaliação e o roteiro de perguntas e respostas.
 
-## Relato dos resultados Storyboard 1
+## Relato dos resultados Storyboard 7 : Acesso à página de plugin
 
 ### Método de avaliação
 
-O método utilizado foi o método X proposto no [Planejamento da Avaliação Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela X. Além disso, utilizou-se de um questionário de X questões para guiar a entrevista, disponível na Tabela 2.
+O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
+na tabela 1. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 2. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/wkiDJeg2-FQ).
 
-O Storyboard em questão pode ser visto aqui [aqui](link p/ o storyboard).
+O Storyboard em questão pode ser visto aqui [aqui](storyboards.md/#storyboard-7-acesso-à-página-de-plugin).
 
 <center>
+
 **Tabela 1** - Cronograma da Avaliação 1.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Limirio Guimarães](https://github.com/LimirioGuimaraes) |   jãozim   |       19:00       |     19:05      | 08/11/2023 | Discord |
+| [Milena Baruc](https://github.com/MilenaBaruc) | Wanjo Christopher | 14:20 | 14:48 | 08/11/2023 | Teams |
 
-**Fonte** - [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+**Fonte** - [Milena Baruc](https://github.com/MilenaBaruc).
+
 </center>
 
 ### Seleção de participante
 
-O participante se encaixa no perfil de usuário,  pelo motivo X.
+O participante de nome Wanjo Christopher Paraizo Escobar, com 21 anos está fazendo engenharia de software, terceiro semestre, na Universidade de Brasília. Se encaixa no perfil de usuário, pois apesar de nunca ter precisado utilizar o site Ventoy, o estudante já sabe criar pen-drive bootável pela sua experiência dentro da faculdade, sendo assim, uma pessoa relativamente experiente em realizar ações relacionado a tecnologia. 
 
 ### Problemas e dificuldades encontradas
 
-Durante a avaliação o usuário não relatou problemas.
+Durante a avaliação o usuário não relatou problemas, apenas foi preciso explicar o site.
 
 ### Sugestões de melhoria
 
-Foi encontradas as possíveis melhorias: xxx.
+O usuário não deu sugetões de melhoria.
 
 ### Feedback do usuário
 
-O usuário apresentou x.
+O usuário apresentou que o sotyboard está ótimo, como podemos ver nas [respostas das questões](./relatoDosResultados.md/#sumário-dos-principais-resultados).
 
 ### Análise e interpretação dos resultados
 
-Interprete o resultado
+De acordo com a entrevista feita, pode-se perceber que o entrevistado achou agradável o storyboard em questão, apenas indagando que nele não possui um passo a passo de como se deve fazer a tarefa em questão, porém o storyboard realmente não é para ter essa parte. Essa parte fica com a [análise hierarquica de tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md/#acessar-a-página-de-plugin) que foi mostrado posteriormente ao entrevistado. 
 
 ### Sumário dos principais resultados
 
 <center>
+
 **Tabela 2** - Respostas 1.
 
 | Perguntas | Respostas |
 | --------- | --------- |
-|1 – 	A história retratada no Storyboard está alinhada com o título?? | Sim |
+|1 – A história retratada no Storyboard está alinhada com o título? | Sim |
 |2 – O Storyboard em análise reflete de forma precisa a realidade? | Sim |
 |3 – O Storyboard aborda adequadamente os principais aspectos da realização da tarefa em questão? | Sim |
 |4 – As ações descritas no Storyboard seguem uma sequência lógica e fluida? | Sim |
 |5 – O Storyboard apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim |
 
-**Fonte** - [Limirio Guimarães](https://github.com/LimirioGuimaraes).
-
-<p style="text-align: center"><a href="link do video" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src=" link do video " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+**Fonte** - [Milena Baruc](https://github.com/MilenaBaruc).
 
 </center>
 
@@ -140,4 +139,5 @@ Interprete o resultado
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 08/11/2023 | Adicionado Template da Documentação | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | 
+| `1.0`  | 08/11/2023 | Adicionado Template da Documentação | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.1`  | 08/11/2023 | Adicionado resultados plugin | [Milena Baruc](https://github.com/MilenaBaruc) | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |
