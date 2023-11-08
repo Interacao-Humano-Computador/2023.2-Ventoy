@@ -1,8 +1,7 @@
 # Planejamento do Relato dos Resultados - Protótipo de Papel
 
 ## Introdução
-
-Este artefato tem como finalidade registrar um plano destinado a descrever os resultados da avaliação do protótipo em papel. Nele, serão tratados os elementos essenciais para elaborar esse relatório.
+Esse artefato é projetado para documentar de maneira abrangente o planejamento que visa descrever os resultados provenientes da avaliação de um protótipo em papel. Seu propósito é abordar todos os elementos fundamentais necessários para a elaboração completa e detalhada desse relatório. Em outras palavras, é um guia abrangente que visa cobrir todos os aspectos essenciais envolvidos na criação do relatório de avaliação do protótipo em papel.
 
 ## Metodologia 
 
@@ -20,15 +19,18 @@ Agora, vamos disponibilizar um manual que orienta a criação de uma avaliação
 
 ### Preparo
 
+- Definir os objetivos que o grupo pretende alcançar com o protótipo de papel
 - Definir as atividades que os participantes devem realizar.
 - Estabelecer o perfil dos participantes e recrutá-los de acordo com esse perfil.
 - Preparar o material necessário para observar e registrar o uso dos protótipos.
 - Realizar um teste-piloto para verificar o funcionamento do processo.
+- Definir as perguntas que irão verificar se os objetivos foram alcançados.
 
 ### Coleta de dados
 
-- Cada participante deve realizar as atividades propostas interagindo com os protótipos em papel, enquanto o avaliador observa.
-- O avaliador deve documentar os problemas identificados e fazer melhorias nos protótipos de papel para solucionar os problemas mais simples.
+- Durante as atividades propostas, cada participante interagirá com os protótipos em papel, enquanto o avaliador observa atentamente.
+- O avaliador terá a responsabilidade de documentar de maneira minuciosa quaisquer problemas identificados, além de implementar aprimoramentos nos protótipos de papel de acordo com o usuário, priorizando a resolução dos problemas mais simples.
+- O avaliador oferecerá feedback imediato aos participantes, se possível, para obter insights instantâneos sobre suas experiências e percepções.
 
 ### Consolidação dos resultados
 
@@ -36,7 +38,7 @@ Agora, vamos disponibilizar um manual que orienta a criação de uma avaliação
 
 ### Relato dos resultados
 
-- Relatar os problemas identificados e fornecer sugestões para a correção.
+- Registrar de forma sistemática e detalhada os problemas identificados durante a interação, incluindo questões de usabilidade, confusões ou frustrações percebidas.
 
 ## Tópicos
 
@@ -57,7 +59,7 @@ Adicionalmente, é fundamental responder às seguintes questões por meio da an�
 
 ### Método de avaliação
 
-O relato deve incluir uma descrição da abordagem metodológica empregada na obtenção dos dados, tendo em vista o motivo de ter sido utilizado esse método. Além disso, deve conter quais ferramentas e equipamentos foram utilizados. Os entrevistadores devem seguir o cronograma dado na tabela 1. 
+O relato deve incluir uma descrição da abordagem metodológica empregada na obtenção dos dados seguindo o [planejamento da avaliação](./planejamento.md), tendo em vista o motivo de ter sido utilizado esse método. Além disso, deve conter quais ferramentas e equipamentos foram utilizados. Os entrevistadores devem seguir o cronograma dado na tabela 1 para apresentarem os dados da entrevista, desde o cronograma planejado até o cronograma executado. 
 
 <center>
 
@@ -71,11 +73,11 @@ Tabela 1 - Cronograma
 
 ### Seleção dos participantes
 
-A seleção dos usuários será personalizada, levando em consideração as preferências e critérios do entrevistador responsável, sendo que cada escolha será fundamentada no [perfil de usuário](../elicitacao/PerfilUsuario.md) previamente estabelecido por meio do questionário. O local será sempre no Teams, para que seja possível a gravação da reunião. Como foram feitos sete storyboards, serão necessários sete usuários para que seja feita uma avaliação individual.
+A seleção dos usuários será personalizada, levando em consideração as preferências e critérios do entrevistador responsável, sendo que cada escolha será fundamentada no [perfil de usuário](../elicitacao/PerfilUsuario.md) previamente estabelecido por meio do questionário. O local será sempre no Teams, para que seja possível a gravação da reunião. Como foram feitos sete storyboards, serão necessários sete usuários para que seja feita uma avaliação individual de cada storyboards.
 
 ### Custos
 
-A realização das entrevistas não gerará um custo ao entrevistador ou ao usuário, as mesmas serão feitas de modo online, utilizando as seguintes ferramentas:
+A realização das entrevistas não gerará um custo ao entrevistador ou ao usuário, as mesmas serão feitas de modo online e de caracter voluntário, utilizando as seguintes ferramentas:
 
 - Storyboard;
 - Microsofts Teams;
@@ -85,6 +87,20 @@ A realização das entrevistas não gerará um custo ao entrevistador ou ao usu�
 
 Vale ressaltar que, para que possamos utilizar as ferramentas é necessário um dispositivo com acesso à internet.
 
+### Aspectos éticos
+
+É imperativo preservar a privacidade dos participantes, garantindo que no relato suas identidades e opiniões permaneçam confidenciais, sem divulgação pública. Obtendo-se o consentimento explícito dos participantes, é essencial informá-los sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas práticas éticas, mantemos um ambiente de avaliação seguro e respeitoso seguindo todos os critérios estabelecidos no [termo de consertimento](../elicitacao/priorizacao/termoConsertimento.pdf) . No relatório dos resultados da avaliação, é crucial detalhar o processo de solicitação de consentimento, incluindo se os entrevistados concordaram ou não.
+
+### Feedback e sugestões de melhorias
+
+Durante a avaliação, é crucial que o entrevistador documente de maneira abrangente as sugestões e melhorias com base nos problemas identificados. Isso implica um registro claro e objetivo de cada problema, incluindo contexto, ação do usuário, resultado esperado e resultado observado. Além disso, é responsabilidade do entrevistador propor soluções ou sugestões para corrigir os problemas encontrados, oferecendo ideias para ajustes de design, melhorias na interface do usuário ou alterações nas funcionalidades.
+
+O feedback dos usuários também desempenha um papel vital na melhoria contínua. O entrevistador deve captar atentamente as opiniões, sugestões e comentários dos usuários durante a avaliação de tarefas. Registrando de maneira completa e precisa o feedback fornecido pelos usuários, levando em consideração suas percepções, experiências e necessidades, essas informações tornam-se inestimáveis para compreender as expectativas dos usuários, identificar pontos fortes e fracos do sistema, e obter insights essenciais para possíveis melhorias.
+
+### Análise e interpletação dos resultados
+
+Após feito a avaliação com usuário através da entrevista o entrevistador deve realizar uma análise e interpretação dos resultados obtidos.  Isso envolve examinar cuidadosamente os dados coletados durante a avaliação, identificar padrões, tendências e insights relevantes, e extrair conclusões significativas a partir dessas informações. Contextualizar os resultados dentro do objetivo da avaliação e considerar o impacto dos problemas identificados na usabilidade, na experiência do usuário e nos objetivos estabelecidos. Além disso, deve responder as perguntas levantadas inicialmente.
+
 # Referências Bicliográficas
 
 > Preece, J., Rogers, Y., & Sharp, H. (2005). **Design de interação: Além da interação homem-computador**. Bookman, 2005.
@@ -93,4 +109,5 @@ Vale ressaltar que, para que possamos utilizar as ferramentas é necessário um 
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 08/11/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [](https://github.com/) |
+|`1.0`| 08/11/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |
+|`1.1`| 08/11/2023 | Adicionando tópicos pendentes |[Mayara Alves](https://github.com/Mayara-tech)  |  [Milena Baruc](https://github.com/MilenaBaruc) |
