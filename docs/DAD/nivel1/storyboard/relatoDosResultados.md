@@ -20,7 +20,7 @@ O Storyboard em questão pode ser visto aqui [aqui](storyboards.md/#storyboard-7
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Milena Baruc](https://github.com/MilenaBaruc) | Wanjo Christopher | 14:20 | 14:48 | 08/11/2023 | Teams |
+| [Milena Baruc](https://github.com/MilenaBaruc) | [Wanjo Christopher](https://github.com/wChrstphr) | 14:20 | 14:48 | 08/11/2023 | Teams |
 
 **Fonte** - [Milena Baruc](https://github.com/MilenaBaruc).
 
