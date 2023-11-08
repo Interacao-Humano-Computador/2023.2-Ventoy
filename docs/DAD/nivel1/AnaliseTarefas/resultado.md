@@ -10,7 +10,7 @@ Este relato sumariza os resultados obtidos na avaliação da Análise de Tarefas
 
 O objetivo foi avaliar a eficácia, eficiência e satisfação na realização da tarefa [Nome da Tarefa] no site do Ventoy, visando identificar áreas de melhoria.
 
-## Método de Avaliação (C)
+## Método de Avaliação
 
 Para a avaliação da Análise de Tarefas, empregamos um conjunto de métodos, incluindo a avaliação heurística, prototipação em papel e grupos de foco. Esses métodos foram escolhidos para examinar detalhadamente as tarefas obtidas por meio das análises hierárquicas de tarefas (HTA) e das árvores de tarefas concorrentes (CTT) e identificar qualquer problema de interação ou interface que possa afetar a experiência do usuário.
 
