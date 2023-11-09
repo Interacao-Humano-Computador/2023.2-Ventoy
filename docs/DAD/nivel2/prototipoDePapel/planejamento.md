@@ -89,7 +89,7 @@ Fonte: [Breno Queiroz](https://github.com/brenob6)
 
 |Responsáveis| Local | Horário |
 | :--: | :---: | :----: |
-|Maria José e José Maria| FGA | 12:10 |
+||  |  |
 
 Fonte: [](https://github.com/)
 
@@ -99,8 +99,7 @@ Fonte: [](https://github.com/)
 
 Os usuários recrutados devem concordar com o termo de consentimento. Isso 
 é essencial para garantir a conformidade com os aspectos éticos do processo e para assegurar
-que os participantes estejam genuinamente dispostos a colaborar. Sendo assim,
-podemos visualizar com mais detalhes na seção abaixo, [Planejamento da Avaliação](#-Planejamento-da-Avaliação).
+que os participantes estejam genuinamente dispostos a colaborar.
 
 ## E - Avaliar
 
@@ -113,7 +112,6 @@ Após a classificação será discultido propostas e sugestões para a correçã
 
 ## Referências Bibliográficas
 
-> Preece, J., Rogers, Y., & Sharp, H. (2005). **Design de interação: Além da interação homem-computador**. Bookman, 2005.
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
 ## 📑 Histórico de Versões
