@@ -241,7 +241,6 @@ De acordo com a entrevista feita, pode-se perceber que o entrevistado achou agra
 
 </center>
 
-
 ## Relato dos resultados Storyboard 8 : Começar o uso do Ventoy
 
 ### Método de avaliação
