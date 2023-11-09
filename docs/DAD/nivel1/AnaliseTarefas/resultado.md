@@ -415,4 +415,4 @@ As mudanças sugeridas pelo usuário estão logo abaixo. Mudanças essas que ser
 | `1.3`  | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Eduardo](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
 | `1.4`  | 08/11/2023 | Adicionado resultados do Consulta de Duvida na página de FAQ| [Mayara Alves](https://github.com/Mayara-tech) |  |
 | `1.5`  | 08/11/2023 | Adicionado resultados do Compartilhamento de Experiências| [Altino Arthur](https://github.com/arthurrochamoreira) |  |
-| `1.6`  | 08/11/2023 | Adicionado resultados do Começar o uso do Ventoy| [Vinícius Mendes](https://github.com/yabamiah) |  |
+| `1.6`  | 08/11/2023 | Adicionado resultados do Começar o uso do Ventoy| [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)  |
