@@ -350,7 +350,7 @@ O usuário apresentou bastante insatisfação com o site atual, e que, nessas co
 
 ### Análise e interpretação dos resultados
 
-De acordo com o usuário, ele trouxe novamente a observação feita no Storyboard, em que uma pessoa que tem como objetivo começar o uso do ventoy, ela não começar pela documentação do próprio site, pois é difícil de usar e possui um design desagradável.
+De acordo com a [entrevista feita](https://youtu.be/xTHNB-6jFOU), o usuário trouxe novamente a observação feita no Storyboard, em que uma pessoa que tem como objetivo começar o uso do ventoy, ela não começar pela documentação do próprio site, pois é difícil de usar e possui um design desagradável.
 
 ### Sumário dos principais resultados
 
@@ -394,10 +394,6 @@ As mudanças sugeridas pelo usuário estão logo abaixo. Mudanças essas que ser
 **Fonte**: [Vinicius Mendes](https://github.com/yabamiah)
 
 </center>
-
-<p style="text-align: center"><a href="https://youtu.be/xTHNB-6jFOU" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src=" link do video " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 ## Referências Bibliográficas
 
