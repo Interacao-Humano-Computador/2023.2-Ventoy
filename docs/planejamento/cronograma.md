@@ -221,9 +221,9 @@ Na Tabela 11, tem-se o cronograma executado para todas as atividades da quinta e
 
 | Atividade                    | Data prevista                                    	      | Período de execuçaõ  | Responsáveis       | Revisão   | Revisor            |
 | ---------------------------------- | --------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
-| Correção dos artefatos da entrega 4      | Início: 31/10<br>Fim: 01/11                 	            | Início: 31/10<br>Fim: 01/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      	     |   02/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino            |
-| Relato dos resultados do Storyboard           | Início: 01/11<br>Fim: 05/11                    	      | Início: 01/11<br>Fim: 08/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino        |   08/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino            |
-| Relato dos resultados da Análise de tarefas       | Início: 01/11<br>Fim: 05/11                       	      | Início: 01/11<br>Fim: 08/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino    |   08/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino            |
+| Correção dos artefatos da entrega 4      | Início: 31/10<br>Fim: 01/11                 	            | Início: 31/10<br>Fim: 01/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      	     |   02/11   | Mayara, Limírio, Luís, Milena, Vinícius e Altino            |
+| Relato dos resultados do Storyboard           | Início: 01/11<br>Fim: 05/11                    	      | Início: 01/11<br>Fim: 08/11 | Mayara, Limírio, Luís, Milena, Vinícius e Altino        |   08/11   | Mayara, Limírio, Luís, Milena, Vinícius e Altino            |
+| Relato dos resultados da Análise de tarefas       | Início: 01/11<br>Fim: 05/11                       	      | Início: 01/11<br>Fim: 08/11 | Mayara, Limírio, Luís, Milena, Vinícius e Altino    |   08/11   | Mayara, Limírio, Luís, Milena, Vinícius e Altino            |
 | Planejamento do relato de resultados da avaliação do protótipo de papel  | Início: 01/11<br>Fim: 05/11 | Início: 01/11<br>Fim: 08/11 | Milena e Mayara   |   08/11   | Mayara e Milena          |
 | Planejamento da avaliação do protótipo de papel        | Início: 01/11<br>Fim: 05/11  	              | Início: 01/11<br>Fim: 07/11 | Breno    |   07/11   | Milena           |
 | Gravação da apresentação      | Início: 07/11<br>Fim: 07/11            |   Início: 08/11<br>Fim: 08/11                         	   |Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   08/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino           |
@@ -233,9 +233,9 @@ Na Tabela 11, tem-se o cronograma executado para todas as atividades da quinta e
 
 ### Cronograma planejado entrega 6.1.
 
-Na Tabela 11, tem-se o cronograma planejado para todas as atividades da entrega 6.1.
+Na Tabela 12, tem-se o cronograma planejado para todas as atividades da entrega 6.1.
 
-<p align="center"><b>Tabela 11</b> - Entrega 6.1. Verificação dos artefatos I </p>
+<p align="center"><b>Tabela 12</b> - Entrega 6.1. Verificação dos artefatos I </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -252,9 +252,9 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da entrega 
 
 ### Cronograma planejado entrega 7.
 
-Na Tabela 12, tem-se o cronograma planejado para todas as atividades da sétima entrega.
+Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
-<p align="center"><b>Tabela 12</b> - Entrega 7.  Planejamento da Avaliação do protótipo de
+<p align="center"><b>Tabela 13</b> - Entrega 7.  Planejamento da Avaliação do protótipo de
 alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
@@ -271,9 +271,9 @@ alta fidelidade </p>
 
 ### Cronograma planejado entrega 8.
 
-Na Tabela 13, tem-se o cronograma planejado para todas as atividades da oitava entrega.
+Na Tabela 14, tem-se o cronograma planejado para todas as atividades da oitava entrega.
 
-<p align="center"><b>Tabela 13</b> - Entrega 8. Relato dos resultados do Protótipo de alta fidelidade </p>
+<p align="center"><b>Tabela 14</b> - Entrega 8. Relato dos resultados do Protótipo de alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -288,9 +288,9 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da oitava e
 
 ### Cronograma planejado entrega 6.2.
 
-Na Tabela 14, tem-se o cronograma planejado para todas as atividades da entrega 6.2.
+Na Tabela 15, tem-se o cronograma planejado para todas as atividades da entrega 6.2.
 
-<p align="center"><b>Tabela 14</b> - Entrega 6.2. Verificação dos artefatos </p>
+<p align="center"><b>Tabela 15</b> - Entrega 6.2. Verificação dos artefatos </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
