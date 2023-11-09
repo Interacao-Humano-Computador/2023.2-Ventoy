@@ -168,7 +168,7 @@ De acordo com a entrevista feita, pode-se perceber que o entrevistado achou agra
 
 <center>
 
-**Tabela 2** - Respostas 1.
+**Tabela 3** - Respostas 1.
 
 | Perguntas | Respostas |
 | --------- | --------- |
@@ -183,7 +183,8 @@ De acordo com a entrevista feita, pode-se perceber que o entrevistado achou agra
 </center>
 
 <center>
-**Tabela 3** - Cronograma da Avaliação 2.
+ 
+**Tabela 4** - Cronograma da Avaliação 2.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -215,7 +216,8 @@ De acordo com a entrevista feita, o usuário gostou do storyboard e entendeu o p
 ### Sumário dos principais resultados
 
 <center>
-**Tabela 2** - Respostas 1.
+ 
+**Tabela 5** - Respostas 1.
 
 | Perguntas | Respostas |
 | --------- | --------- |
