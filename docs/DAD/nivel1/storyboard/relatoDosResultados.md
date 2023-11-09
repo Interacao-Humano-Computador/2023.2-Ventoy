@@ -95,7 +95,7 @@ Durante a avaliação o usuário não relatou problemas.
 
 ### Sugestões de melhoria
 
-O usuário não deu sugetões de melhoria.
+O usuário não deu nenhuma sugestão de melhoria.
 
 ### Feedback do usuário
 
