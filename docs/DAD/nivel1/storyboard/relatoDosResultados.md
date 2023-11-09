@@ -44,7 +44,7 @@ O usuário verificou que o storyboard está bem feito, sendo bem trabalhado e ap
 
 ### Análise e interpretação dos resultados
 
-Com base na entrevista realizada e na observação dos usuários, podemos concluir que o fluxo da tarefa de fazer uma doação no site do ventoy está alinhada com a realidade e corresponde às necessidades dos usuários do Ventoy.
+Com base na entrevista realizada e na observação dos usuários, podemos concluir que o fluxo do storyboard para fazer uma doação no site do ventoy está alinhada com a realidade e corresponde às necessidades dos usuários do Ventoy.
 
 ### Sumário dos principais resultados
 
