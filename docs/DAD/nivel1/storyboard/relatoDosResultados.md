@@ -10,7 +10,7 @@ O objetivo deste documento é apresentar os resultados da avaliação dos [story
 ### Método de avaliação
 
 O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela 7. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 8. Para acessar a gravação da entrevista [clique aqui]([https://youtu.be/puBGGz80lMc](https://youtu.be/vJ6OgmxM6bo)).
+na tabela 7. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 8. Para acessar a gravação da entrevista [clique aqui]([https://youtu.be/9t2AY5-XPFU](https://youtu.be/9t2AY5-XPFU)).
 
 O Storyboard em questão pode ser visto aqui [Storyboard 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-2).
 
@@ -40,7 +40,7 @@ O usuário não deu sugetões de melhoria.
 
 ### Feedback do usuário
 
-O usuário verificou que o storyboard está bem feito, e com diz bem com a realidade da utilização do site, no entanto reforçou que não é uma tarefa que seja de realiza, logo que voce tem que percorrer toda página de FAQ para tentar encontrar sua pergunta. 
+O usuário verificou que o storyboard está bem feito, e com diz bem com a realidade da utilização do site. 
 
 ### Análise e interpretação dos resultados
 
