@@ -316,6 +316,91 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 5 - Cronograma d
 
 </center>
 
+<center>
+  
+**Tabela 7 - Cronograma da entrevista**
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Vinícius Mendes](https://github.com/yabamiah) |   Rafael Boanch   |       15:07       |     15:40      | 08/11/2023 | Teams |
+
+**Fonte** - [Vinícius Mendes](https://github.com/yabamiah)
+
+**Tabela 8 - Cronograma de Reprojeto**
+
+| Executador(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
+|----------------------------|-------------------|----------------|------|
+| [Vinicius Mendes](https://github.com/yabamiah) | 13:00 | 15:00 | 13/11/2023 |
+
+**Fonte**: [Vinicius Mendes](https://github.com/yabamiah)
+
+</center>
+
+## Entrevista - Diagrama HTA de Começar o uso do Ventoy
+
+### Objetivo e escopo da avaliação 
+
+O objetivo da tarefa foi avaliar o Diagrama HTA (Análise Hierárquica de Tarefas) relacionado ao objetivo de conseguir utilizar a usar o Ventoy. E o diagrama HTA é uma ferramenta que auxília da descrção e compreensão na realização de tarefas para alcançar o objetivo definido.
+
+### Seleção de participante
+
+O participante Rafael Boanch, que é estudante de Engenharia de Software, é um usuário assíduo e que segue os trabalhos das comunidades Open Source. É um usuário ativo do Ventoy e que também utiliza o site com certa frequência, e possui experiência com o site.
+
+### Problemas e dificuldades encontradas
+
+Durante a avaliação o usuário relatou diversos problemsa e dificuldades encontrados. Sendo eles:
+
+- Design do ventoy, não é intuitivo, tem um design bem desagradável, e para um usuário leigo, não iria explorar.
+- Barra de navegação possui alguns termos difíceis.
+- Utiliza a documentação só em último caso, pela dificuldade de procurar com facilidade o que necessita, além do design desagradável de ler.
+- Na página de Downloads, falta uma maior interatividade e trazer uma experiência mais agradável.
+
+### Sugestões de melhoria
+
+Ao mesmo tempo em que usuário citou os problemas e dificuldades citadas, também sugeriu algumas ações e melhorias que poderiam impactar positivamente nos problemas encontrados, que foram:
+
+- Reprojetar o design do site para tonar mais agradável a exploração do site, como a utilização de cores suaves e uma disposição de grid melhor.
+- Substituir os termos difíceis por mais fáceis, ou talvez colocar alguma explição rápida sobre o termo.
+- Adicionar uma barra de pesquisa na página da documentação para tonar a pesquisa de um assunto mais rápida e precisa.
+- Na página de download, colocar botões interativos ou agradáveis para realizar os donwloads, e também colocar instruções de como realizar a instalação.
+
+### Feedback do usuário
+
+O usuário apresentou bastante insatisfação com o site atual, e que, nessas condições não se sente confortável para realizar a atividade que foi apresentada, que é começar o uso do Ventoy, já que no diagrama desta tarefa, o usuário acessa a documentação, porém, que nem foi dito, muitos dos usuário que vão começar a usa o Ventoy utilizam outras fontes de informação sem ser a documentação do próprio site.
+
+### Análise e interpretação dos resultados
+
+De acordo com o usuário, ele trouxe novamente a observação feita no Storyboard, em que uma pessoa que tem como objetivo começar o uso do ventoy, ela não começar pela documentação do próprio site, pois é difícil de usar e possui um design desagradável.
+
+### Sumário dos principais resultados
+
+- Como você avalia o design da página principal? Design do ventoy, não é intuitivo, tem um design bem desagradável,
+e para um usuário leigo, não iria explorar.
+- O que você acha da barra de navegação do site? Ajuda bastante mas pode melhorar e colocar nomes mais fáceis 
+- A barra de navegação possui termos claros? Para pessoas leigas, tem alguns termos que não são claros
+- Você se incomoda com a disposição de anúncios do site? O anúncios não incomodam, o design desagradável do site encomoda mais
+- Você utiliza a página de documentação do Ventoy quando faz uso da ferramenta? Dificilmente, só utiliza em último caso.
+- É fácil encontrar tópicos na documentação? Ou seja, você encontra com facilidade o procura na página de documentação? Não acha fácil, acha baguncado e com muitas informações jogadas. Recomanda a barra de pesquisa
+- Como você compara a página de documentação do Ventoy com de outras plataformas? Diariamente não, mas faz comparação com o site do teams
+- Você acha que a página de download possui as informações necessárias para baixar o ventoy? Não, acha que é necessário ter instruções e/ou links para a documentação com as instruções
+- A página de download uma página de donwload agradável e interativa? Não possui, é bem desagradável e não possui nenhuma instrução ou um botão de donwload bonito
+- A página de download termos claros? Não possui termos claros, o que pode causar dificuldades nas informações que são apresentadas na página
+
+### Planejamento de Reprojeto
+
+As mudanças sugeridas pelo usuário estão logo abaixo. Mudanças essas que serão implementadas conformo a **Tabela 10 - Cronograma de Reprojeto"
+
+- Reprojetar o design do site para tonar mais agradável a exploração do site, como a utilização de cores suaves e uma disposição de grid melhor.
+- Substituir os termos difíceis por mais fáceis, ou talvez colocar alguma explição rápida sobre o termo.
+- Adicionar uma barra de pesquisa na página da documentação para tonar a pesquisa de um assunto mais rápida e precisa.
+- Na página de download, colocar botões interativos ou agradáveis para realizar os donwloads, e também colocar instruções de como realizar a instalação.
+
+**Fonte** - [Vinícius Mendes](https://github.com/yabamiah).
+
+<p style="text-align: center"><a href="https://youtu.be/xTHNB-6jFOU" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src=" link do video " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
 ## Referências Bibliográficas
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
