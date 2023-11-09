@@ -316,26 +316,6 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 5 - Cronograma d
 
 </center>
 
-<center>
-  
-**Tabela 7 - Cronograma da entrevista**
-
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Vinícius Mendes](https://github.com/yabamiah) |   Rafael Boanch   |       15:07       |     15:40      | 08/11/2023 | Teams |
-
-**Fonte** - [Vinícius Mendes](https://github.com/yabamiah)
-
-**Tabela 8 - Cronograma de Reprojeto**
-
-| Executador(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
-|----------------------------|-------------------|----------------|------|
-| [Vinicius Mendes](https://github.com/yabamiah) | 13:00 | 15:00 | 13/11/2023 |
-
-**Fonte**: [Vinicius Mendes](https://github.com/yabamiah)
-
-</center>
-
 ## Entrevista - Diagrama HTA de Começar o uso do Ventoy
 
 ### Objetivo e escopo da avaliação 
@@ -395,7 +375,25 @@ As mudanças sugeridas pelo usuário estão logo abaixo. Mudanças essas que ser
 - Adicionar uma barra de pesquisa na página da documentação para tonar a pesquisa de um assunto mais rápida e precisa.
 - Na página de download, colocar botões interativos ou agradáveis para realizar os donwloads, e também colocar instruções de como realizar a instalação.
 
-**Fonte** - [Vinícius Mendes](https://github.com/yabamiah).
+<center>
+  
+**Tabela 7 - Cronograma da entrevista**
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Vinícius Mendes](https://github.com/yabamiah) |   Rafael Boanch   |       15:07       |     15:40      | 08/11/2023 | Teams |
+
+**Fonte** - [Vinícius Mendes](https://github.com/yabamiah)
+
+**Tabela 8 - Cronograma de Reprojeto**
+
+| Executador(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
+|----------------------------|-------------------|----------------|------|
+| [Vinicius Mendes](https://github.com/yabamiah) | 13:00 | 15:00 | 13/11/2023 |
+
+**Fonte**: [Vinicius Mendes](https://github.com/yabamiah)
+
+</center>
 
 <p style="text-align: center"><a href="https://youtu.be/xTHNB-6jFOU" target="blanket">Clique aqui</a></p>
 
