@@ -201,7 +201,7 @@ Na Tabela 10, tem-se o cronograma planejado para todas as atividades da quinta e
 
 <p align="center"><b>Tabela 10</b> - Entrega 5. Planejamento da Avaliação do Protótipo de Papel </p>
 
-| Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisor            |
+| Atividade                                                   	      | Período de execução | Responsáveis       | Revisão   | Revisor            |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
 | Correção dos artefatos da entrega 4                       	            | Início: 31/10<br>Fim: 01/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      	     |   02/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino            |
 | Relato dos resultados do Storyboard                              	      | Início: 01/11<br>Fim: 05/11 | Altino             |   06/11   | Luis               |
@@ -212,6 +212,24 @@ Na Tabela 10, tem-se o cronograma planejado para todas as atividades da quinta e
 | Cronograma executado                                           	        | Início: 07/11<br>Fim: 08/11 |Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino            |   08/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino            |
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
+
+### Cronograma executado entrega 5.
+
+Na Tabela 11, tem-se o cronograma executado para todas as atividades da quinta entrega.
+
+<p align="center"><b>Tabela 11</b> - Entrega 5. Planejamento da Avaliação do Protótipo de Papel </p>
+
+| Atividade                    | Data prevista                                    	      | Período de execuçaõ  | Responsáveis       | Revisão   | Revisor            |
+| ---------------------------------- | --------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos da entrega 4      | Início: 31/10<br>Fim: 01/11                 	            | Início: 31/10<br>Fim: 01/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      	     |   02/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino            |
+| Relato dos resultados do Storyboard           | Início: 01/11<br>Fim: 05/11                    	      | Início: 01/11<br>Fim: 08/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino        |   08/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino            |
+| Relato dos resultados da Análise de tarefas       | Início: 01/11<br>Fim: 05/11                       	      | Início: 01/11<br>Fim: 08/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino    |   08/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino            |
+| Planejamento do relato de resultados da avaliação do protótipo de papel  | Início: 01/11<br>Fim: 05/11 | Início: 01/11<br>Fim: 08/11 | Milena e Mayara   |   08/11   | Mayara e Milena          |
+| Planejamento da avaliação do protótipo de papel        | Início: 01/11<br>Fim: 05/11  	              | Início: 01/11<br>Fim: 07/11 | Breno    |   07/11   | Milena           |
+| Gravação da apresentação      | Início: 07/11<br>Fim: 07/11            |   Início: 08/11<br>Fim: 08/11                         	   |Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   08/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino           |
+| Cronograma executado                |    Início: 07/11<br>Fim: 08/11                       	        | Início: 08/11<br>Fim: 08/11 |Mayara          |   08/11   |  Vinícius     |
+
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 ### Cronograma planejado entrega 6.1.
 
@@ -302,4 +320,6 @@ Na Tabela 14, tem-se o cronograma planejado para todas as atividades da entrega 
 | `1.3`   |23/10/2023 |Adicionando cronograma executado da terceira entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 | `1.4`   |30/10/2023 |Adicionando cronograma executado da quarta entrega|[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 | `1.5`   |31/10/2023 |Adicionando coluna de data prevista no cronograma executado |[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
+| `1.6`   |08/11/2023| Adicionando cronograma executado da quinta entrega |[Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/LimirioGuimaraes)|
+
 
