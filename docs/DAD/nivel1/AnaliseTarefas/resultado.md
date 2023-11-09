@@ -252,6 +252,70 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 4 - Cronograma d
 
 </center>
 
+## Entrevista - HTA Compartilhamento de Experiências
+
+### Objetivo e escopo da avaliação
+
+O objetivo foi avaliar a eficácia, eficiência e satisfação na realização da tarefa da aba Compartilhamento de Experiências no site do [Ventoy]([https://www.ventoy.net/en/plugin.html](https://www.ventoy.net/en/experience.html)), visando identificar áreas de melhoria.
+
+### Método de avaliação
+
+O método de entrevista e observação com usuários reais do produto foi empregado. Detalhes da entrevista serão documentados na **Tabela 5 - Cronograma da entrevista**.
+
+### Seleção de participante
+
+Selecionamos participantes que atendem às características do usuário típico do Ventoy para assegurar a pertinência dos resultados. Angelo Henrique Oliveira Costa, 27 anos, aluno do sexto semestre de Audiovisual na Universidade de Brasília, exemplifica o perfil desejado. Embora nunca tenha utilizado o Ventoy, Angelo possui conhecimento prático na criação de pen drives bootáveis, adquirido durante sua formação acadêmica, o que o qualifica como alguém com experiência intermediária em tecnologia.
+
+### Problemas e dificuldades encontradas
+
+- Design da página não é agradável 
+- Apenas em inglês
+- Não existe indicação de como entrar em contato com o escritor da "experiência", apesar do site sugerir isso em caso de dúvidas a respeito do conteúdo.
+
+### Sugestões de melhoria
+
+- Acrescentar um botão para entrar em contato com o escritor do conteúdo de experiência.
+- Corrigir o Design 
+
+### Feedback do usuário
+
+O usuário consegue utilizar o site, mas não consegue entrar em contato com quem escreveu o relato de experiência. 
+
+### Análise e interpretação dos resultados
+
+De acordo com a [entrevista feita](ttps://youtu.be/), o usuário não conseguiu entrar em contato com o autor do relato de experiência, devido a falta da opção. O entrevistado achou a [Analise Hierarquica de Tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md/) em questão condizente com o site.
+
+### Sumário dos principais resultados
+
+- As informações na página de experiências são claramente visíveis? Resposta: Sim, porém o design do site não é agradável
+- A estrutura de navegação na página é intuitiva? Resposta: Sim
+- As experiências estão organizados de maneira lógica e categorizados? Resposta: Sim, estão agrupadas por tipos de problema.
+- As experiências possuem documentação ou instruções de uso para ajudar os usuários? Resposta: Sim
+
+## Planejamento de Reprojeto
+
+As mudanças sugeridas serão implementadas conforme o **Tabela 5 - Cronograma de Reprojeto**.
+
+<center>
+
+**Tabela 5 - Cronograma da entrevista**
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Altino Arthur](https://github.com/arthurrochamoreira) | [Angelo Henrique](https://github.com/) | 19:20 | 19:30 | 08/11/2023 | Teams |
+
+**Fonte**: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+**Tabela 6 - Cronograma de Reprojeto**
+
+| Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
+| ------------------------ | ----------------- | -------------- | ---- |
+| [Milena Baruc](https://github.com/arthurrochamoreira) | 13:00 | 15:00 | 13/11/2023 |
+
+**Fonte**: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+</center>
+
 ## Referências Bibliográficas
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
