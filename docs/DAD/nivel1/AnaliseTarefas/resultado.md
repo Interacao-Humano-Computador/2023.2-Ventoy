@@ -132,6 +132,64 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 4 - Cronograma d
 
 </center>
 
+## Entrevista - Diagrama HTA Testes de Iso
+
+### Objetivo e escopo da avaliação
+
+O objetivo da tarefa foi avaliar o Diagrama HTA (Análise Hierárquica de Tarefas) relacionado à realização de Testes de Iso no site do Ventoy. O Diagrama HTA é uma ferramenta de análise que visa descrever e compreender as etapas e a hierarquia de tarefas envolvidas em um processo específico.
+
+### Método de avaliação
+
+O método de entrevista e observação com usuários reais do produto foi empregado. Detalhes da entrevista serão documentados na **Tabela 5 - Cronograma da entrevista**.
+
+### Seleção de participante
+
+O participante de nome Douglas Alves dos Santos, com 20 anos está fazendo engenharia de software, sexto semestre, na Universidade de Brasília. Se encaixa perfeitamente no perfil de usuário, pois é um usuário do site do Ventoy, já sabendo como se manuseia as ferramentas disponibilizadas dentro do site.
+
+
+### Problemas e dificuldades encontradas
+
+Relacionado ao diagrama o usuário não identificou nenhum problema, ou enfrentou qualquer dificuldade perante a tarefa que ele representava.
+
+### Sugestões de melhoria
+
+Referente ao diagrama o usuário não fez nenhuma sugestão de melhoria.
+
+### Feedback do usuário
+
+O usuário consegue compreender o diagrama, e a tarefa proposta por ele, tendo uma boa execução e sendo seguido de maneira correta
+
+### Análise e interpretação dos resultados
+
+De acordo com a [entrevista feita](https://youtu.be/vJ6OgmxM6bo), o usuário não teve nenhuma dificuldade quanto a utilização da tarefa já implementada no site.
+
+### Sumário dos principais resultados
+
+-Você consegue acha rapidamente se uma distribução que você visa instalar foi testada no Ventoy? Sim, o site mostrou perfeitamente as distribuições que visa instalar.
+
+## Planejamento de Reprojeto
+
+As mudanças sugeridas serão implementadas conforme o **Tabela 6 - Cronograma de Reprojeto**.
+
+<center>
+
+**Tabela 5 - Cronograma da entrevista**
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Luis Eduardo](https://github.com/LuisMiranda10) | Douglas Alves dos Santos | 19:02 | 19:13 | 08/11/2023 | Teams |
+
+**Fonte**:[Luis Eduardo](https://github.com/LuisMiranda10)
+
+**Tabela 6 - Cronograma de Reprojeto**
+
+| Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
+| ------------------------ | ----------------- | -------------- | ---- |
+| [Luis Eduardo](https://github.com/LuisMiranda10) | 13:00 | 15:00 | 13/11/2023 |
+
+**Fonte**:[Luis Eduardo](https://github.com/LuisMiranda10)
+</center>
+
 ## Referências Bibliográficas
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -149,4 +207,5 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 4 - Cronograma d
 | `1.0`  | 08/11/2023 |Criação da Página| [Altino Arthur](https://github.com/arthurrochamoreira) | [Revisor](https://github.com/) |
 | `1.1`  | 08/11/2023 |Adicionado resultados plugin| [Milena Baruc](https://github.com/MilenaBaruc) | [Revisor](https://github.com/) |
 | `1.2`  | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
+| `1.3`  | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Eduardo](https://github.com/LuisMiranda10) |  |
   
