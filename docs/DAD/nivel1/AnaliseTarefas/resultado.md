@@ -190,6 +190,68 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 6 - Cronograma d
 **Fonte**:[Luis Eduardo](https://github.com/LuisMiranda10)
 </center>
 
+## Entrevista - Diagrama HTA acessar a página de FAQ para consultar dúvida
+
+### Objetivo e escopo da avaliação
+
+O objetivo da tarefa foi avaliar o Diagrama HTA (Análise Hierárquica de Tarefas) relacionado à consulta de uma dúvida na página de FAQ do site do Ventoy. O Diagrama HTA é uma ferramenta de análise que visa descrever e compreender as etapas e a hierarquia de tarefas envolvidas em um processo específico.
+
+### Método de avaliação
+
+O método de entrevista e observação com usuários reais do produto foi empregado. Detalhes da entrevista serão documentados na **Tabela 3 - Cronograma da entrevista**.
+
+### Seleção de participante
+
+O participante de nome Wycthor da Silva do Nascimento com 21 anos, atualmente residente de Santa Catarina, Trabalha como técnico de informatica em uma rede de varejos e é um usuário frequente do Ventoy, por ser experiente com uso da tecnologia e ser habituado com uso do site do Ventoy, se encaixa perfeitamente no perfil de usuário do Ventoy logo que já sabe como se manuseia as ferramentas disponibilizadas dentro do site.
+
+### Problemas e dificuldades encontradas
+
+Relacionado ao diagrama o usuário não identificou nenhum problema, ou enfrentou qualquer dificuldade perante a tarefa que ele representava.
+
+### Sugestões de melhoria
+
+Referente ao diagrama o usuário não fez nenhuma sugestão de melhoria, no entanto a entrevista foi realizada em conjunto com a observação do sistema atualmente implementado. O usuário cita que a página de FAQ não e muito rapida para achar informação, logo que ele precisa procura em toda a página para tentar achar a dúvida em questão.
+
+### Feedback do usuário
+
+O usuário consegue compreender o diagrama, e a tarefa proposta por ele, no entanto quando utilizando o site atualmente implementado sente uma certa inconveniencia por ter que navegar por todas as perguntas, mas consegue realizar a tarefa com êxito.
+
+### Análise e interpretação dos resultados
+
+De acordo com a [entrevista feita](https://youtu.be/vJ6OgmxM6bo), o usuário apenas teve dificuldade quanto a utilização da tarefa já implementada no site, mas perante ao diagrama o entrevistado achou a [Analise Hierarquica de Tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md) em questão condizente com o site.
+
+### Sumário dos principais resultados
+
+- Você já utilizou a página de FAQ do site do Ventoy? Sim.
+- Observando a tarefa de “acessar a página de FAQ para consultar dúvida”, a sequência de processos é coerente? Se não, poderia descrever o porquê? Sim é coerente a sequencia de processos. 
+- Observando a tarefa, você a julga condizente com a realidade? Sim.
+- Você tem alguma sugestão de melhoria para o diagrama de tarefas? Não.
+- Para a tarefa em si, você tem alguma sugestão de melhoria para o processo? Sim, coloca uma barra de pesquisa para as perguntas.
+
+## Planejamento de Reprojeto
+
+As mudanças sugeridas serão implementadas conforme o **Tabela 4 - Cronograma de Reprojeto**.
+
+<center>
+
+**Tabela 3 - Cronograma da entrevista**
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Mayara Alves](https://github.com/Mayara-tech) | Wycthor da Silva do Nascimento | 22:00 | 22:12 | 08/11/2023 | Meet |
+
+**Fonte**: [Mayara Alves](https://github.com/Mayara-tech)
+
+**Tabela 4 - Cronograma de Reprojeto**
+
+| Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
+| ------------------------ | ----------------- | -------------- | ---- |
+| [Mayara Alves](https://github.com/Mayara-tech) | 19:00 | 21:00 | 13/11/2023 |
+
+**Fonte**: [Mayara Alves](https://github.com/Mayara-tech)
+
+</center>
+
 ## Referências Bibliográficas
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -206,6 +268,7 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 6 - Cronograma d
 | :-----: | :--------: | :-------------: | :-------------------: | :---------: |
 | `1.0`  | 08/11/2023 |Criação da Página| [Altino Arthur](https://github.com/arthurrochamoreira) | [Revisor](https://github.com/) |
 | `1.1`  | 08/11/2023 |Adicionado resultados plugin| [Milena Baruc](https://github.com/MilenaBaruc) | [Revisor](https://github.com/) |
-| `1.2`  | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
-| `1.3`  | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Eduardo](https://github.com/LuisMiranda10) |  |
+| `1.2`  | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)  |
+| `1.3`  | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Eduardo](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
+| `1.4`  | 08/11/2023 | Adicionado resultados do Consulta de Duvida na página de FAQ| [Mayara Alves](https://github.com/Mayara-tech) |  |
   
