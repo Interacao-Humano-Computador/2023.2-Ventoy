@@ -87,7 +87,7 @@ O Storyboard em questão pode ser visto aqui [aqui]().
 
 ### Seleção de participante
 
-O participante de nome Douglas Alves dos Santos, com 21 anos está fazendo engenharia de software, sexto semestre, na Universidade de Brasília. Se encaixa perfeitamente no perfil de usuário, pois é um usuário do site do Ventoy, já sabendo como se manuseia as ferramentas disponibilizadas dentro do site.  
+O participante de nome Douglas Alves dos Santos, com 20 anos está fazendo engenharia de software, sexto semestre, na Universidade de Brasília. Se encaixa perfeitamente no perfil de usuário, pois é um usuário do site do Ventoy, já sabendo como se manuseia as ferramentas disponibilizadas dentro do site.  
 
 ### Problemas e dificuldades encontradas
 
