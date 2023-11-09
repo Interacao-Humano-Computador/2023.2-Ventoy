@@ -104,7 +104,7 @@ As entrevistas serão documentados na tabela 1.
 |[Limírio Guimarães](https://github.com/LimirioGuimaraes)   |[Altino Arthur](https://github.com/arthurrochamoreira) |21:30|21:35| 30/10/2023 |[Entrevista 01](https://youtu.be/lQIkh6QJrKA)|
 | [Mayara Alves](https://github.com/Mayara-tech) |   [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | 21:52     |   22:04             | 30/10/2023     | [Entrevista 02](https://youtu.be/sr9Nynz5x78)                    |
 | [Milena Baruc](https://github.com/MilenaBaruc) | Wanjo Christopher | 14:20 | 14:48 | 08/11/2023 | [Entrevista 03](https://youtu.be/wkiDJeg2-FQ) |
-|                   |              |                   |                |      |                    |
+|  [Mayara Alves](https://github.com/Mayara-tech)                 |   Wycthor da Silva           |         22:07         |         22:11       |  08/11/2023   |       [Entrevista 4](https://www.youtube.com/watch?v=9t2AY5-XPFU)             |
 |                   |              |                   |                |      |                    |
 |                   |              |                   |                |      |                    |
 |                   |              |                   |                |      |                    |
