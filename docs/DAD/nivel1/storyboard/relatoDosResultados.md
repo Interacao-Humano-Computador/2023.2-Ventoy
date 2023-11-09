@@ -5,6 +5,65 @@
 O objetivo deste documento é apresentar os resultados da avaliação dos [storyboards](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/), que foram criados para ilustrar as propostas de soluções para tarefas que devem ser executadas no sistema. As entrevistas com os potenciais usuários foram realizadas seguindo o 
 [planejamento da avaliação storyboard](./planejamentoStoryboard.md), que contém as informações sobre os participantes, os critérios de avaliação e o roteiro de perguntas e respostas.
 
+## Relato dos resultados Storyboard 4 : Utilizando o site do ventoy para fazer uma doação
+
+### Método de avaliação
+
+O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
+na tabela 7. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 8. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/vJ6OgmxM6bo).
+
+O Storyboard em questão pode ser visto aqui [aqui](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-1). É o storyboard de número 4.
+
+<center>
+
+**Tabela 7** - Cronograma da Avaliação 1.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Limirio Guimarães](https://github.com/LimirioGuimaraes) | Breno Alexandre | 20:30 | 20:42 | 08/11/2023 | Discord |
+
+**Fonte** - [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
+
+### Seleção de participante
+
+O participante de nome Breno Alexandre, com 22 anos está fazendo engenharia de software, oitavo semestre, na Universidade de Brasília. Se encaixa perfeitamente no perfil de usuário, pois é um usuário do site do Ventoy, já sabendo como se manuseia as ferramentas disponibilizadas dentro do site.
+
+### Problemas e dificuldades encontradas
+
+Durante a avaliação o usuário não relatou problemas.
+
+### Sugestões de melhoria
+
+O usuário não deu sugetões de melhoria. 
+
+### Feedback do usuário
+
+O usuário verificou que o storyboard está bem feito, sendo bem trabalhado e apresentado, no entanto salientou que está não é uma tarefa que as pessoas costumam efetuar.
+
+### Análise e interpretação dos resultados
+
+Com base na entrevista realizada e na observação dos usuários, podemos concluir que o fluxo do storyboard para fazer uma doação no site do ventoy está alinhada com a realidade e corresponde às necessidades dos usuários do Ventoy.
+
+### Sumário dos principais resultados
+
+<center>
+
+**Tabela 8** - Respostas 1.
+
+| Perguntas | Respostas |
+| --------- | --------- |
+|1 – A história retratada no Storyboard está alinhada com o título? | Sim |
+|2 – O Storyboard em análise reflete de forma precisa a realidade? | Sim |
+|3 – O Storyboard aborda adequadamente os principais aspectos da realização da tarefa em questão? | Sim |
+|4 – As ações descritas no Storyboard seguem uma sequência lógica e fluida? | Sim |
+|5 – O Storyboard apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim |
+
+**Fonte** - [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
+
 ## Relato dos resultados Storyboard 5 : Utilizando o Testes de Iso
 
 ### Método de avaliação
