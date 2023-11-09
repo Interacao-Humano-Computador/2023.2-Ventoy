@@ -102,16 +102,11 @@ De acordo com a [entrevista feita](https://youtu.be/vJ6OgmxM6bo), o usuário ape
 ### Sumário dos principais resultados
 
 - Você já utilizou a página de doações de algum site? Não.
-
-– Como você realizaria a tarefa de doar uma quantia? Provavelmente por PIX ou paypal.
-
-– Observando a tarefa “Doação”, a sequência de processos é coerente? Se não, poderia descrever o porquê? Sim.
-
-– Observando a tarefa, você a julga condizente com a realidade? Sim.
-
+- Como você realizaria a tarefa de doar uma quantia? Provavelmente por PIX ou paypal.
+- Observando a tarefa “Doação”, a sequência de processos é coerente? Se não, poderia descrever o porquê? Sim.
+- Observando a tarefa, você a julga condizente com a realidade? Sim.
 - Você tem alguma sugestão de melhoria para o diagrama de tarefas? Não.
-
-– Para a tarefa em si, você tem alguma sugestão de melhoria para o processo? Não.
+- Para a tarefa em si, você tem alguma sugestão de melhoria para o processo? Não.
 
 ## Planejamento de Reprojeto
 
