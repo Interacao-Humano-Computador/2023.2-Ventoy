@@ -241,6 +241,16 @@ De acordo com a entrevista feita, pode-se perceber que o entrevistado achou agra
 
 </center>
 
+
+## Relato dos resultados Storyboard 8 : Começar o uso do Ventoy
+
+### Método de avaliação
+
+O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
+na tabela 9. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 10. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/xTHNB-6jFOU).
+
+O Storyboard em questão pode ser visto aqui [aqui](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-1). É o storyboard de número 6
+
 <center>
  
 **Tabela 9** - Cronograma da Avaliação 2.
