@@ -68,6 +68,75 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 2 - Cronograma d
 
 </center>
 
+## Entrevista - Diagrama HTA realizar doação na página de doações
+
+### Objetivo e escopo da avaliação
+
+O objetivo da tarefa foi avaliar o Diagrama HTA (Análise Hierárquica de Tarefas) relacionado à realização de uma doação na página de doações do site do Ventoy. O Diagrama HTA é uma ferramenta de análise que visa descrever e compreender as etapas e a hierarquia de tarefas envolvidas em um processo específico.
+
+### Método de avaliação
+
+O método de entrevista e observação com usuários reais do produto foi empregado. Detalhes da entrevista serão documentados na **Tabela 3 - Cronograma da entrevista**.
+
+### Seleção de participante
+
+O participante de nome Breno Alexandre, com 22 anos está fazendo engenharia de software, oitavo semestre, na Universidade de Brasília. Se encaixa perfeitamente no perfil de usuário, pois é um usuário do site do Ventoy, já sabendo como se manuseia as ferramentas disponibilizadas dentro do site.
+
+
+### Problemas e dificuldades encontradas
+
+Relacionado ao diagrama o usuário não identificou nenhum problema, ou enfrentou qualquer dificuldade perante a tarefa que ele representava.
+
+### Sugestões de melhoria
+
+Referente ao diagrama o usuário não fez nenhuma sugestão de melhoria, no entanto a entrevista foi realizada em conjunto com a observação do sistema atualmente implementado. O usuário cita que a página é muito confusa e poderia ser mais clara para melhor entendimento.
+
+### Feedback do usuário
+
+O usuário consegue compreender o diagrama, e a tarefa proposta por ele, no entanto quando utilizando o site atualmente implementado tem uma certa confusão perante as informações apresentadas, mas consegue realizar a tarefa com êxito.
+
+### Análise e interpretação dos resultados
+
+De acordo com a [entrevista feita](https://youtu.be/vJ6OgmxM6bo), o usuário apenas teve dificuldade quanto a utilização da tarefa já implementada no site, mas perante ao diagrama o entrevistado achou a [Analise Hierarquica de Tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md) em questão condizente com o site.
+
+### Sumário dos principais resultados
+
+- Você já utilizou a página de doações de algum site? Não.
+
+– Como você realizaria a tarefa de doar uma quantia? Provavelmente por PIX ou paypal.
+
+– Observando a tarefa “Doação”, a sequência de processos é coerente? Se não, poderia descrever o porquê? Sim.
+
+– Observando a tarefa, você a julga condizente com a realidade? Sim.
+
+- Você tem alguma sugestão de melhoria para o diagrama de tarefas? Não.
+
+– Para a tarefa em si, você tem alguma sugestão de melhoria para o processo? Não.
+
+## Planejamento de Reprojeto
+
+As mudanças sugeridas serão implementadas conforme o **Tabela 4 - Cronograma de Reprojeto**.
+
+<center>
+
+**Tabela 3 - Cronograma da entrevista**
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Limirio Guimarães](https://github.com/LimirioGuimaraes) | Breno Alexandre | 20:30 | 20:42 | 08/11/2023 | Discord |
+
+**Fonte**: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+
+**Tabela 4 - Cronograma de Reprojeto**
+
+| Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
+| ------------------------ | ----------------- | -------------- | ---- |
+| [Limirio Guimarães](https://github.com/LimirioGuimaraes) | 13:00 | 15:00 | 13/11/2023 |
+
+**Fonte**: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
+
 ## Referências Bibliográficas
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -83,5 +152,6 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 2 - Cronograma d
 | Versão  |    Data    |  Descrição      |Autor(es)              | Revisor(es) |                  
 | :-----: | :--------: | :-------------: | :-------------------: | :---------: |
 | `1.0`  | 08/11/2023 |Criação da Página| [Altino Arthur](https://github.com/arthurrochamoreira) | [Revisor](https://github.com/) |
-| `1.0`  | 08/11/2023 |Adicionado resultados plugin| [Milena Baruc](https://github.com/MilenaBaruc) | [Revisor](https://github.com/) |
+| `1.1`  | 08/11/2023 |Adicionado resultados plugin| [Milena Baruc](https://github.com/MilenaBaruc) | [Revisor](https://github.com/) |
+| `1.2`  | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
   
