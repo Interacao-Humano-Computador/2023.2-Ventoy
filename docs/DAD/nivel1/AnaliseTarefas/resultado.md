@@ -310,7 +310,7 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 5 - Cronograma d
 
 | Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
 | ------------------------ | ----------------- | -------------- | ---- |
-| [Milena Baruc](https://github.com/arthurrochamoreira) | 13:00 | 15:00 | 13/11/2023 |
+| [Altino Arthur](https://github.com/arthurrochamoreira) | 13:00 | 15:00 | 13/11/2023 |
 
 **Fonte**: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -335,4 +335,4 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 5 - Cronograma d
 | `1.2`  | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)  |
 | `1.3`  | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Eduardo](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
 | `1.4`  | 08/11/2023 | Adicionado resultados do Consulta de Duvida na página de FAQ| [Mayara Alves](https://github.com/Mayara-tech) |  |
-  
+| `1.5`  | 08/11/2023 | Adicionado resultados do Compartilhamento de Experiências| [Altino Arthur](https://github.com/arthurrochamoreira) |  |
