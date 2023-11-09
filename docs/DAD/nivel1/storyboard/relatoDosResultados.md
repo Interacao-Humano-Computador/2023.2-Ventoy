@@ -299,10 +299,66 @@ De acordo com a entrevista feita, o usuário gostou do storyboard e entendeu o p
 
 <p style="text-align: center"><a href="https://youtu.be/xTHNB-6jFOU" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src=" link do video " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/xTHNB-6jFOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 </center>
 
+## Relato dos resultados Storyboard 1 : Começar o uso do Ventoy
+
+<center>
+ 
+**Tabela 9** - Cronograma da Avaliação 2.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Breno Queiroz](https://github.com/brenob6) | Samuel Gomes|20:40  |     15:44      | 08/11/2023 | Discord |
+
+**Fonte** - [Breno Queiroz](https://github.com/brenob6)
+</center>
+
+### Seleção de participante
+
+O participante Samuel Gomes, que é estudante de Engenharia de Software. É um usuário do Ventoy e utiliza
+o site com certa frequência, e possui experiência com o site.
+
+### Sugestões de melhoria
+
+O usuário sugeriu apenas que o storyboard estivesse com um qualidade gráfica melhor.
+
+### Feedback do usuário
+
+O usuário gostou do storyboard apresentado.
+
+### Análise e interpretação dos resultados
+
+De acordo com a entrevista realizada o storyboard utilizando o storyboard está de acordo com
+a realidade.
+
+### Sumário dos principais resultados
+
+<center>
+ 
+**Tabela 10** - Respostas.
+
+| Perguntas | Respostas |
+| --------- | --------- |
+|1 - A história retratada no Storyboard está alinhada com o título?? | Sim |
+|2 – O Storyboard em análise reflete de forma precisa a realidade? | Sim |
+|3 – O Storyboard aborda adequadamente os principais aspectos da realização da tarefa em questão? | Sim |
+|4 – As ações descritas no Storyboard seguem uma sequência lógica e fluida? | Sim |
+|5 – O Storyboard apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim |
+
+**Fonte** -[Breno Queiroz](https://github.com/brenob6)
+
+<p style="text-align: center"><a href="https://youtu.be/J4DbUkByxeo" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=J4DbUkByxeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+</center>
+
+<p style="text-align: center"><a href="https://youtu.be/4XBtckHRoGg" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/4XBtckHRoGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 ## Bibliografia
 
@@ -320,5 +376,6 @@ De acordo com a entrevista feita, o usuário gostou do storyboard e entendeu o p
 | `1.3`  | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)   |
 | `1.4`  | 08/11/2023 | Adicionado resultados Utilizando o FAQ | [Mayara Alves](https://github.com/Mayara-tech) | [Vinícius Mendes](https://github.com/yabamiah) |
 | `1.5`  | 08/11/2023 | Adicionado resultados documentação e donwload | [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)   |
+| `1.6`  | 08/11/2023 | Adicionado resultados utilizando fórum | [Breno Queiroz](https://github.com/brenob6)| [Vinícius Mendes](https://github.com/yabamiah)   |
 
 

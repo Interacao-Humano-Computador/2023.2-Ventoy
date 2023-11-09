@@ -395,6 +395,41 @@ As mudanças sugeridas pelo usuário estão logo abaixo. Mudanças essas que ser
 
 </center>
 
+## Entrevista - Diagrama HTA de fazer postagem no fórum
+
+### Objetivo e escopo da avaliação 
+
+O objetivo da tarefa foi avaliar o Diagrama HTA relacionado ao objetivo de realizar uma postagem no fórum do Ventoy.
+
+### Seleção de participante
+
+O participante Samuel Gomes, que é estudante de Engenharia de Software. É um usuário do Ventoy e utiliza
+o site com certa frequência, e possui experiência com o site.
+
+### Sugestões de melhoria
+
+- O entrevistado não gostou da escolha de tipo de fórum. Relatando que não é necessário escolher um tema de fórum
+e que apenas deveria existir um único fórum.
+
+### Planejamento de Reprojeto
+
+As mudanças sugeridas pelo usuário serão implementadas em um reprojeto que será realizado de acordo
+com o cronograma disponível na tabela 9.
+
+<center>
+
+**Tabela 9** - Cronograma de Reprojeto
+
+| Executador(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
+|----------------------------|-------------------|----------------|------|
+| [Breno Queiroz](https://github.com/brenob6) | 20:00 | 20:30 | 13/11/2023 |
+
+**Fonte**: [Breno Queiroz](https://github.com/brenob6)
+
+
+
+</center>
+
 ## Referências Bibliográficas
 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -409,10 +444,11 @@ As mudanças sugeridas pelo usuário estão logo abaixo. Mudanças essas que ser
 
 | Versão  |    Data    |  Descrição      |Autor(es)              | Revisor(es) |                  
 | :-----: | :--------: | :-------------: | :-------------------: | :---------: |
-| `1.0`  | 08/11/2023 |Criação da Página| [Altino Arthur](https://github.com/arthurrochamoreira) | [Revisor](https://github.com/) |
-| `1.1`  | 08/11/2023 |Adicionado resultados plugin| [Milena Baruc](https://github.com/MilenaBaruc) | [Revisor](https://github.com/) |
+| `1.0`  | 08/11/2023 |Criação da Página| [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.1`  | 08/11/2023 |Adicionado resultados plugin| [Milena Baruc](https://github.com/MilenaBaruc) | [Breno Queiroz](https://github.com/brenob6) |
 | `1.2`  | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)  |
 | `1.3`  | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Eduardo](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
-| `1.4`  | 08/11/2023 | Adicionado resultados do Consulta de Duvida na página de FAQ| [Mayara Alves](https://github.com/Mayara-tech) |  |
-| `1.5`  | 08/11/2023 | Adicionado resultados do Compartilhamento de Experiências| [Altino Arthur](https://github.com/arthurrochamoreira) |  |
+| `1.4`  | 08/11/2023 | Adicionado resultados do Consulta de Duvida na página de FAQ| [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.5`  | 08/11/2023 | Adicionado resultados do Compartilhamento de Experiências| [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
 | `1.6`  | 08/11/2023 | Adicionado resultados do Começar o uso do Ventoy| [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)  |
+| `1.7`  | 08/11/2023 | Adicionado resultados do realizar postagem no fórum| [Breno Queiroz](https://github.com/brenob6) | [Vinícius Mendes](https://github.com/yabamiah)  |
