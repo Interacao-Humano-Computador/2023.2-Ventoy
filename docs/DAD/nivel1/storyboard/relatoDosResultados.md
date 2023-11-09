@@ -20,7 +20,7 @@ O Storyboard em questão pode ser visto aqui [Storyboard 2](https://interacao-hu
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Mayara Alves](https://github.com/Mayara-tech) | Wycthor da Silva do Nascimento| 21:40 | 21:47| 08/11/2023 | Meet |
+| [Mayara Alves](https://github.com/Mayara-tech) | Wycthor da Silva do Nascimento| 22:07 | 22:11| 08/11/2023 | Meet |
 
 **Fonte** - [Mayara Alves](https://github.com/Mayara-tech)
 
