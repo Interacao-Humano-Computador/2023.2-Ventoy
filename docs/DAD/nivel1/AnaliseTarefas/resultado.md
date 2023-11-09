@@ -218,7 +218,7 @@ O usuário consegue compreender o diagrama, e a tarefa proposta por ele, no enta
 
 ### Análise e interpretação dos resultados
 
-De acordo com a [entrevista feita](https://youtu.be/vJ6OgmxM6bo), o usuário apenas teve dificuldade quanto a utilização da tarefa já implementada no site, mas perante ao diagrama o entrevistado achou a [Analise Hierarquica de Tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md) em questão condizente com o site.
+De acordo com a [entrevista feita](https://youtu.be/6aty_NhATtc), o usuário apenas teve dificuldade quanto a utilização da tarefa já implementada no site, mas perante ao diagrama o entrevistado achou a [Analise Hierarquica de Tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md) em questão condizente com o site.
 
 ### Sumário dos principais resultados
 
@@ -238,7 +238,7 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 4 - Cronograma d
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Mayara Alves](https://github.com/Mayara-tech) | Wycthor da Silva do Nascimento | 22:00 | 22:12 | 08/11/2023 | Meet |
+| [Mayara Alves](https://github.com/Mayara-tech) | Wycthor da Silva do Nascimento | 22:20 | 22:25| 08/11/2023 | Meet |
 
 **Fonte**: [Mayara Alves](https://github.com/Mayara-tech)
 
