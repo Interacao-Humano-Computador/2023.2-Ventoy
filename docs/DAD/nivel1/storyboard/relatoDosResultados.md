@@ -10,13 +10,13 @@ O objetivo deste documento é apresentar os resultados da avaliação dos [story
 ### Método de avaliação
 
 O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela 7. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 8. Para acessar a gravação da entrevista [clique aqui]([https://youtu.be/9t2AY5-XPFU](https://youtu.be/9t2AY5-XPFU)).
+na tabela 1. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 2. Para acessar a gravação da entrevista [clique aqui]([https://youtu.be/9t2AY5-XPFU](https://youtu.be/9t2AY5-XPFU)).
 
 O Storyboard em questão pode ser visto aqui [Storyboard 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-2).
 
 <center>
 
-**Tabela 7** - Cronograma da Avaliação 1.
+**Tabela 1** - Cronograma da Avaliação 1.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -50,7 +50,7 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 
 <center>
 
-**Tabela 8** - Respostas 1.
+**Tabela 2** - Respostas 1.
 
 | Perguntas | Respostas |
 | --------- | --------- |
@@ -69,13 +69,13 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 ### Método de avaliação
 
 O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela 7. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 8. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/vJ6OgmxM6bo).
+na tabela 3. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 4. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/vJ6OgmxM6bo).
 
 O Storyboard em questão pode ser visto aqui [aqui](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-1). É o storyboard de número 4.
 
 <center>
 
-**Tabela 7** - Cronograma da Avaliação 1.
+**Tabela 3** - Cronograma da Avaliação 1.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -109,7 +109,7 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 
 <center>
 
-**Tabela 8** - Respostas 1.
+**Tabela 4** - Respostas 1.
 
 | Perguntas | Respostas |
 | --------- | --------- |
@@ -123,19 +123,18 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 
 </center>
 
-
 ## Relato dos resultados Storyboard 5 : Utilizando o Testes de Iso
 
 ### Método de avaliação
 
 O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela 1. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 2. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/puBGGz80lMc).
+na tabela 5. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 6. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/puBGGz80lMc).
 
 O Storyboard em questão pode ser visto aqui [aqui]().
 
 <center>
 
-**Tabela 1** - Cronograma da Avaliação 1.
+**Tabela 5** - Cronograma da Avaliação 1.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -147,7 +146,7 @@ O Storyboard em questão pode ser visto aqui [aqui]().
 
 ### Seleção de participante
 
-O participante de nome Douglas Alves dos Santos, com 21 anos está fazendo engenharia de software, sexto semestre, na Universidade de Brasília. Se encaixa perfeitamente no perfil de usuário, pois é um usuário do site do Ventoy, já sabendo como se manuseia as ferramentas disponibilizadas dentro do site.  
+O participante de nome Douglas Alves dos Santos, com 20 anos está fazendo engenharia de software, sexto semestre, na Universidade de Brasília. Se encaixa perfeitamente no perfil de usuário, pois é um usuário do site do Ventoy, já sabendo como se manuseia as ferramentas disponibilizadas dentro do site.  
 
 ### Problemas e dificuldades encontradas
 
@@ -155,7 +154,7 @@ Durante a avaliação o usuário não relatou problemas.
 
 ### Sugestões de melhoria
 
-O usuário não deu sugetões de melhoria.
+O usuário não deu nenhuma sugestão de melhoria.
 
 ### Feedback do usuário
 
@@ -169,7 +168,7 @@ Ao ser feita a entrevista, o entrevistador achou bem explicativo e bem adequado 
 
 <center>
 
-**Tabela 2** - Respostas 1.
+**Tabela 6** - Respostas 1.
 
 | Perguntas | Respostas |
 | --------- | --------- |
@@ -188,13 +187,13 @@ Ao ser feita a entrevista, o entrevistador achou bem explicativo e bem adequado 
 ### Método de avaliação
 
 O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela 1. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 2. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/wkiDJeg2-FQ). Para que pudessemos começar a avaliação foi assinado um termo de consentimento pelo entrevistado.
+na tabela 7. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 8. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/wkiDJeg2-FQ). Para que pudessemos começar a avaliação foi assinado um [termo de consentimento](TermoDeConsentimentoPlugin.pdf) pelo entrevistado.
 
 O Storyboard em questão pode ser visto aqui [aqui](storyboards.md/#storyboard-7-acesso-à-página-de-plugin).
 
 <center>
 
-**Tabela 2** - Cronograma da Avaliação 1.
+**Tabela 7** - Cronograma da Avaliação 1.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -228,7 +227,7 @@ De acordo com a entrevista feita, pode-se perceber que o entrevistado achou agra
 
 <center>
 
-**Tabela 2** - Respostas 1.
+**Tabela 8** - Respostas 1.
 
 | Perguntas | Respostas |
 | --------- | --------- |
@@ -243,7 +242,8 @@ De acordo com a entrevista feita, pode-se perceber que o entrevistado achou agra
 </center>
 
 <center>
-**Tabela 3** - Cronograma da Avaliação 2.
+ 
+**Tabela 9** - Cronograma da Avaliação 2.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -275,7 +275,8 @@ De acordo com a entrevista feita, o usuário gostou do storyboard e entendeu o p
 ### Sumário dos principais resultados
 
 <center>
-**Tabela 2** - Respostas 1.
+ 
+**Tabela 10** - Respostas 1.
 
 | Perguntas | Respostas |
 | --------- | --------- |
@@ -293,70 +294,6 @@ De acordo com a entrevista feita, o usuário gostou do storyboard e entendeu o p
 
 </center>
 
-<!-- 
-
-## Template (Excluir no fututo)]
-## Relato dos resultados Storyboard X
-### Método de avaliação
-
-O método utilizado foi o método X proposto no [Planejamento da Avaliação Storyboard](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela X. Além disso, utilizou-se de um questionário de X questões para guiar a entrevista, disponível na Tabela 2.
-
-O Storyboard em questão pode ser visto aqui [aqui](link p/ o storyboard).
-
-<center>
-**Tabela 1** - Cronograma da Avaliação 1.
-
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Limirio Guimarães](https://github.com/LimirioGuimaraes) |   jãozim   |       19:00       |     19:05      | 08/11/2023 | Discord |
-
-**Fonte** - [Limirio Guimarães](https://github.com/LimirioGuimaraes)
-</center>
-
-### Seleção de participante
-
-O participante se encaixa no perfil de usuário,  pelo motivo X.
-
-### Problemas e dificuldades encontradas
-
-Durante a avaliação o usuário não relatou problemas.
-
-### Sugestões de melhoria
-
-Foi encontradas as possíveis melhorias: xxx.
-
-### Feedback do usuário
-
-O usuário apresentou x.
-
-### Análise e interpretação dos resultados
-
-Interprete o resultado
-
-### Sumário dos principais resultados
-
-<center>
-**Tabela 2** - Respostas 1.
-
-| Perguntas | Respostas |
-| --------- | --------- |
-|1 – 	A história retratada no Storyboard está alinhada com o título?? | Sim |
-|2 – O Storyboard em análise reflete de forma precisa a realidade? | Sim |
-|3 – O Storyboard aborda adequadamente os principais aspectos da realização da tarefa em questão? | Sim |
-|4 – As ações descritas no Storyboard seguem uma sequência lógica e fluida? | Sim |
-|5 – O Storyboard apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim |
-
-**Fonte** - [Limirio Guimarães](https://github.com/LimirioGuimaraes).
-
-<p style="text-align: center"><a href="link do video" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src=" link do video " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
-</center>
-
- -->
-
 
 ## Bibliografia
 
@@ -372,5 +309,7 @@ Interprete o resultado
 | `1.1`  | 08/11/2023 | Adicionado resultados plugin | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
 | `1.2`  | 08/11/2023 | Adicionado resultados documentação e donwload | [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)  |
 | `1.3`  | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)   |
-| `1.4`  | 08/11/2023 | Adicionado resultados Utilizando o FAQ | [Mayara Alves](https://github.com/Mayara-tech) | |
+| `1.4`  | 08/11/2023 | Adicionado resultados Utilizando o FAQ | [Mayara Alves](https://github.com/Mayara-tech) | [Vinícius Mendes](https://github.com/yabamiah) |
+| `1.5`  | 08/11/2023 | Adicionado resultados documentação e donwload | [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)   |
+
 

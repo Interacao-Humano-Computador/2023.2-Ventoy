@@ -12,7 +12,7 @@ ainda não definem todos os detalhes da interface do usuário. (BARBOSA, 2010)
 
 ## Metodologia
 
-A estrutura deste planejamento foi construída utilizando o *framewor* DECIDE. 
+A estrutura deste planejamento foi construída utilizando o *framework* DECIDE. 
 
 ## D - Determinar
 
@@ -95,7 +95,6 @@ Fonte: [](https://github.com/)
 
 </center>
 
-
 ## D - Aspectos Éticos
 
 Os usuários recrutados devem concordar com o termo de consentimento. Isso 
@@ -118,6 +117,7 @@ Após a classificação será discultido propostas e sugestões para a correçã
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
 ## 📑 Histórico de Versões
+
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 07/11/2023 | Criação do documento | [Breno Queiroz](https://github.com/brenob6)| [](https://github.com/) |
+|`1.0`| 07/11/2023 | Criação do documento | [Breno Queiroz](https://github.com/brenob6)| [Milena Baruc](https://github.com/MilenaBaruc) |

@@ -64,13 +64,16 @@ nav:
       - Storyboard:
           - Planejamento da Avaliação do Storyboard: DAD/nivel1/storyboard/planejamentoStoryboard.md
           - Planejamento do Relato dos Resultados: DAD/nivel1/storyboard/resultadoStory.md
+          - Relato dos Resultados do Storyboard: DAD/nivel1/storyboard/relatoDosResultados.md
           - Storyboards: DAD/nivel1/storyboard/storyboards.md
-      - Planejamento da Avaliação:
+      - Análise de Tarefas:
           - Planejamento da Avaliação da Análise de Tarefas: DAD/nivel1/AnaliseTarefas/planejamento.md
           - Planejamento do Relato dos Resultados da Avaliação: DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas.md
+          - Relato dos Resultados da Avaliação: DAD/nivel1/AnaliseTarefas/resultado.md
     - Nível 2:
       - Protótipo de Papel:
-        - Planejamento da Avaliação: DAD/nivel2/prototipoDePapel/planejamento.md
+        - Planejamento da Avaliação do protótipo de papel: DAD/nivel2/prototipoDePapel/planejamento.md
+        - Planejamento do Relato dos resultados do protótipo de papel: DAD/nivel2/prototipoDePapel/plan_relato.md
         
 theme:
   name: material
@@ -85,13 +88,13 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: claro
       toggle:
-        icon: material/circle-half-full
+        icon: material/brightness-7
         name: Mudar para o modo escuro
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: material/circle-half-full
+        icon: material/brightness-4
         name: Mudar para o modo claro
 
   language: pt-BR
