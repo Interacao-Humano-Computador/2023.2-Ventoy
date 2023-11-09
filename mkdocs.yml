@@ -72,8 +72,8 @@ nav:
           - Relato dos Resultados da Avaliação: DAD/nivel1/AnaliseTarefas/resultado.md
     - Nível 2:
       - Protótipo de Papel:
-        - Planejamento da Avaliação: DAD/nivel2/prototipoDePapel/planejamento.md
-        - Planejamento do Relato: DAD/nivel2/prototipoDePapel/plan_relato.md
+        - Planejamento da Avaliação do protótipo de papel: DAD/nivel2/prototipoDePapel/planejamento.md
+        - Planejamento do Relato dos resultados do protótipo de papel: DAD/nivel2/prototipoDePapel/plan_relato.md
         
 theme:
   name: material
