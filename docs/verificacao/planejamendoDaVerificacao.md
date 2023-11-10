@@ -46,7 +46,7 @@ parcialmente atendido ou não atendido pelo artefato, conforme o exemplo da tabe
 
 <center>
 
-**Tabela 2** - abela demonstrativa dos resultados da verificação de um artefato
+**Tabela 2** - Tabela demonstrativa dos resultados da verificação de um artefato
 
 | ID  | Descrição     | Avaliação | Observação |
 |-----| --------------------------------------------------------------------------------------------------------------- | --------- | --------- |
