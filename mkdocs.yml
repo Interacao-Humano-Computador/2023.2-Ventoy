@@ -75,6 +75,8 @@ nav:
       - Protótipo de Papel:
         - Planejamento da Avaliação do protótipo de papel: DAD/nivel2/prototipoDePapel/planejamento.md
         - Planejamento do Relato dos resultados do protótipo de papel: DAD/nivel2/prototipoDePapel/plan_relato.md
+  - Verificação:
+    - Planejamento: verificacao/planejamendoDaVerificacao.md 
         
 theme:
   name: material
