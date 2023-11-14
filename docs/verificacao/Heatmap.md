@@ -54,7 +54,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 ## Sugestões de Melhorias
 
-É perceptível que o artefato apresenta uma boa qualidade e formatação, além de ideias que foram documentadas de forma clara e concisa. Entretanto foram encontrados identificados alguns possíveis problemas em relação as especificações do check-list, sendo elas demonstradas na tabela 3. 
+É perceptível que o artefato apresenta uma boa qualidade e formatação, além de ideias que foram documentadas de forma clara e concisa. Entretanto foram identificados alguns possíveis problemas em relação as especificações do check-list, sendo elas demonstradas na tabela 3. 
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
