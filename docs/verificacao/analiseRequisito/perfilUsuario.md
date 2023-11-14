@@ -1,17 +1,17 @@
-# Cronograma
+# Perfil de Usuário
  
 ## Introdução
 
-Este documento é uma verificação do artefato [Cronograma](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/planejamento/cronograma/) na versão 5.0 de data 08/11/2023, autorado por [Miguel de Frias](https://github.com/migueldefrias), que são integrantes do [grupo 03](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/), cujo projeto tem como foco a [Plataforma Lattes](https://www.lattes.cnpq.br/), o propósito desta verificação é identificar possíveis problemas no artefato do cronograma. 
+Este documento é uma verificação do artefato [Cronograma](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/planejamento/cronograma/) na versão 5.0 de data 08/11/2023, autorado por [Doan Filho](https://github.com/FilhoDoan), [Caio Braga](https://github.com/caioalvesbraga) e [Joel Soares](https://github.com/JoelSRangel) que são integrantes do [grupo 03](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/), cujo projeto tem como foco a [Plataforma Lattes](https://www.lattes.cnpq.br/), o propósito desta verificação é identificar possíveis problemas no artefato Perfil de usuário.
 
 
 ## Metodologia 
 
-A verificação do artefato seguirá o [planejamento](https://interacao-humano-computador.github.io/2023.2-Ventoy/verificacao/planejamendoDaVerificacao/) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em específico. Podemos observar o referido checklist referente a verificação do Cronograma na Tabela 1. 
+A verificação do artefato seguirá o [planejamento](https://interacao-humano-computador.github.io/2023.2-Ventoy/verificacao/planejamendoDaVerificacao/) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em específico. Podemos observar o referido checklist referente a verificação do Perfil de usuário na Tabela 1. 
 
 <center>
 
-**Tabela 1** - Checklist - Cronograma 
+**Tabela 1** - Checklist - Perfil de usuário
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
@@ -21,16 +21,6 @@ A verificação do artefato seguirá o [planejamento](https://interacao-humano-c
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         |
 | 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
-|  7  | Os nomes das tarefas planejadas são condizentes?                       |  -	  |       -    |  
-|  8  | O cronograma apresenta todos os artefatos solicitados para cada entrega?   |  -	  |  -  |
-|  9  | Há uma distribuição igualitária de tarefas entre os membros?                                              |  -  |   -  |
-|  10  | Os revisores são sempre diferentes dos autores no mesmo artefato?                   |  -	  |  -  |
-|  11  | Existem atividades repetidas sem necessidade ou redundantes?                         |  -  | - |
-|  12  | O cronograma apresenta um período de revisão após receber um feedback dos artefatos?	                         |  -  | -  |
-|  13  | Há uma sequência lógica nas atividades?                       |  - |  - |
-|  14  | As durações das tarefas são realistas?                       |  -	  |  - |
-|  15  | Cada tarefa possui pelo menos um autor e um revisor?                       |  -  |  -  |
-|  16  | O cronograma estima uma data para gravação das entregas?                       |  -	  |  -  |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
@@ -38,11 +28,11 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ## Desenvolvimento 
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato Cronograma. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
+Na tabela 2 podemos observar o checklist preenchido após verificação do artefato Perfil de usuário. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
 
 <center>
 
-**Tabela 2** - Checklist Preenchido - Cronograma
+**Tabela 2** - Checklist Preenchido - Perfil de usuário
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
@@ -52,17 +42,6 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim        |     |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim        |          |
 | 6  | Todos os textos estão na norma padrão?                                       						      | Sim         |         |
-|  7  | Os nomes das tarefas planejadas são condizentes?                       | Sim	  |          |  
-|  8  | O cronograma apresenta todos os artefatos solicitados para cada entrega?   |  Sim  |    |
-|  9  | Há uma distribuição igualitária de tarefas entre os membros?                                              |  Sim  |     |
-|  10  | Os revisores são sempre diferentes dos autores no mesmo artefato?                   |  Sim	  |    |
-|  11  | Existem atividades repetidas sem necessidade ou redundantes?                         |  Não  |  |
-|  12  | O cronograma apresenta um período de revisão após receber um feedback dos artefatos?	                         |  Sim  |  |
-|  13  | Há uma sequência lógica nas atividades?                       |  Não |  Algumas atividades tem o mesmo período de execução das etapas que eles seriam dependente. |
-|  14  | As durações das tarefas são realistas?                       |  Sim	  |   |
-|  15  | Cada tarefa possui pelo menos um autor e um revisor?                       |  Sim  |    |
-|  16  | O cronograma estima uma data para gravação das entregas?                       |  Sim	  |    |
-
 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
