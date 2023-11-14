@@ -77,10 +77,10 @@ nav:
         - Planejamento do Relato dos resultados do protótipo de papel: DAD/nivel2/prototipoDePapel/plan_relato.md
   - Verificação:
     - Planejamento: verificacao/planejamendoDaVerificacao.md
-    - Planejamento da Avaliação do protótipo de papel: verificacao/DAD/nivel2/protPapel/plan_avaliacao.md
-    - Planejamento do Relato dos resultados do protótipo de papel: verificacao/DAD/nivel2/protPapel/plan_relato.md
-    - Aspectivos Éticos: verificacao/analiseDeReq/aspectos_eticos.md
-    - Padronização do Projeto: verificacao/planejamento/padronizaçãoProjeto.md
+    - Planejamento da Avaliação do protótipo de papel: verificacao/plan_avaliacao.md
+    - Planejamento do Relato dos resultados do protótipo de papel: verificacao/plan_relato.md
+    - Aspectivos Éticos: verificacao/aspectos_eticos.md
+    - Padronização do Projeto: verificacao/padronizacaoProjeto.md
         
 theme:
   name: material
