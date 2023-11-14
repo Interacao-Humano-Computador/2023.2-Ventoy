@@ -62,6 +62,6 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 14/11/2023 | Criação do Documento | [Luis Miranda](https://github.com/LuisMiranda10)   |    |
-| `1.1`  | 14/11/2023 | Adicionando verificação do artefato Cronograma  |  [Luis Miranda](https://github.com/LuisMiranda10)  |  |
+| `1.0`  | 14/11/2023 | Criação do Documento | [Luis Miranda](https://github.com/LuisMiranda10)   | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.1`  | 14/11/2023 | Adicionando verificação do artefato Cronograma  |  [Luis Miranda](https://github.com/LuisMiranda10)  | [Milena Baruc](https://github.com/MilenaBaruc) |
 
