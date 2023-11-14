@@ -25,10 +25,9 @@ A verificação do artefato seguirá o [planejamento](https://interacao-humano-c
 | 8  | As personas possuem status (primária, secundária, antipersona ou outro stakeholder)?           | -   |   -
 | 9  | As personas possuem objetivos?       |       -       |   -
 | 10 | As personas pessuem habilidades/especialidades (educação, treinamento, competências específicas)?    | - |-  
-| 11 | As personas possuem tarefas básicas ou críticas (frequência, duração, importância)?      |     -         | -
-| 12 | As personas pessuem relacionamentos?                          |  -     |  - 
-| 13 | As personas possuem requisitos (citações que ajudam a entender melhor as necessidades daquela persona)   | - |     -
-| 14 | As personas possuem expectativas?                          |   -    |    - |
+| 11 | As personas pessuem relacionamentos?                          |  -     |  - 
+| 12 | As personas possuem requisitos (citações que ajudam a entender melhor as necessidades daquela persona)   | - |     -
+| 13 | As personas possuem expectativas?                          |   -    |    - |
  
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
@@ -45,20 +44,19 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?   |  -   | - |
-| 2  | O artefato possui a metodologia utilizada?  |   -   |   - |
-| 3  | O artefato possui bibliografia/referências bibliográficas? |   - |  - |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -  |   -  |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?            |  -    |    -   |
-| 6  | Todos os textos estão na norma padrão?                                       						      |    -  |     -  |
-| 7  | As personas possuem identidade (nome, sobrenome, idade, foto)?        |    -  |   -
-| 8  | As personas possuem status (primária, secundária, antipersona ou outro stakeholder)?           | -   |   -
-| 9  | As personas possuem objetivos?       |       -       |   -
-| 10 | As personas pessuem habilidades/especialidades (educação, treinamento, competências específicas)?    | - |-  
-| 11 | As personas possuem tarefas básicas ou críticas (frequência, duração, importância)?      |     -         | -
-| 12 | As personas pessuem relacionamentos?                          |  -     |  - 
-| 13 | As personas possuem requisitos (citações que ajudam a entender melhor as necessidades daquela persona)   | - |     -
-| 14 | As personas possuem expectativas?                          |   -    |    - |
+| 1  | O artefato possui Introdução?   |  Sim  | - |
+| 2  | O artefato possui a metodologia utilizada?  |  Não   |   - |
+| 3  | O artefato possui bibliografia/referências bibliográficas? |   Sim |  - |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim  |   -  |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?            | Incompleto  |   Faltou chamar as tabelas no texto |
+| 6  | Todos os textos estão na norma padrão?                                       						      |  Sim |     -  |
+| 7  | As personas possuem identidade (nome, sobrenome, idade, foto)?        |   Sim  |   -
+| 8  | As personas possuem status (primária, secundária, antipersona ou outro stakeholder)?           | Sim   |   -
+| 9  | As personas possuem objetivos?       |      Não      |   -
+| 10 | As personas pessuem habilidades/especialidades (educação, treinamento, competências específicas)?    | Sim |-  
+| 11 | As personas pessuem relacionamentos?                          |  Não   |  - 
+| 12 | As personas possuem requisitos (citações que ajudam a entender melhor as necessidades daquela persona)   | Sim |     -
+| 13 | As personas possuem expectativas?                          |  Sim    |    - |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
