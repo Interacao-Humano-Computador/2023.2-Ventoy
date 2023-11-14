@@ -1,3 +1,5 @@
+# Aspectos Éticos
+
 ## Introdução
 O respeito à dignidade e à autonomia do participante da pesquisa, bem como o reconhecimento de sua vulnerabilidade e de sua liberdade de consentir ou recusar sua participação, são requisitos éticos para uma pesquisa científica. Além disso, o pesquisador deve garantir que seu trabalho seja baseado em princípios éticos e que tenha reconhecimento científico. No Brasil, a resolução nº 466/2012 do Conselho Nacional de Saúde^1^ estabelece as normas éticas para as pesquisas envolvendo seres humanos, seguindo principios éticos como: <br>
 
