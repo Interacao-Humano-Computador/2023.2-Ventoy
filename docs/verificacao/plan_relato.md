@@ -6,7 +6,7 @@ Este documento é uma verificação do artefato [Planejamento do Relato dos Resu
 
 ## Metodologia 
 
-A verificação do artefato seguirá o [planejamento](../planejamendoDaVerificacao.md) desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1. As perguntas de 1 a 6 foram baseadas no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf)[²](./aspectos_eticos#referências-bibliograficas), e as perguntas de 8 a 22 foram baseadas na verificação da [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa5/verificacao-planejamento-prototipo/)[³](./aspectos_eticos#referências-bibliograficas) do ano passado.
+A verificação do artefato seguirá o [planejamento](../planejamendoDaVerificacao.md) desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1. As perguntas de 1 a 6 foram baseadas no [plano de ensino](https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf)[²](./aspectos_eticos#referências-bibliograficas), e as perguntas de 8 a 22 foram baseadas na verificação da [Bilheteria Digital](https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa5/verificacao-planejamento-relato-resultado-pp/)[³](./aspectos_eticos#referências-bibliograficas) do ano passado.
 
 <center>
 
@@ -66,7 +66,7 @@ As ideias foram documentadas de forma clara e concisa o que demonstra um cuidado
 
 [1] DIANA, Daniela. Bibliografia. Toda Matéria, [s.d.]. Disponível em: <https://www.todamateria.com.br/bibliografia/>. Acesso em: 13/11/2023.<br>
 [2] SALES, André. Plano de ensino. Universidade de Brasília, Faculdade Unb Gama. Aprender 3. Disponível em: <https://aprender3.unb.br/pluginfile.php/2692435/mod_resource/content/39/Plano_de_Ensino%20FIHC%20022023%20Turma%202.pdf>. Acesso em: 14/11/2023.<br>
-[3] BILHETERIA DIGITAL. Interacao-Humano_computador. Verificação, Entrega 5, Verificação do Planejamento da Avaliação do Protótipo de Papel. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa5/verificacao-planejamento-prototipo/>. Acesso em: 14/10/2023.<br>
+[3] BILHETERIA DIGITAL. Interacao-Humano_computador. Verificação, Entrega 5, Verificação do Planejamento do relato dos resultados do protótipo de papel. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo/etapa5/verificacao-planejamento-relato-resultado-pp/>. Acesso em: 14/10/2023.<br>
 
 ## Bibliografia
 
