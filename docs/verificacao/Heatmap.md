@@ -58,6 +58,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
+| 01  | Não se tem um título especificando que é uma introdução de fato  |  É sugerido que um título para saber que se trata de uma introdução  |
 | 02  | O artefato tem a ausência de bibliografia   |  É sugerido que coloquem bibliografia ( em caso de mais de uma, colocar em ordem alfabética )   |
 | 05  |  Não se tem a presença da chamadas de texto    | É sugerido que tenha chamadas de texto para a figura do Heatmap          |
 
