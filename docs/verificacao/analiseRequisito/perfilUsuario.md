@@ -2,7 +2,7 @@
  
 ## Introdução
 
-Este documento é uma verificação do artefato [Cronograma](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/planejamento/cronograma/) na versão 5.0 de data 08/11/2023, autorado por [Doan Filho](https://github.com/FilhoDoan), [Caio Braga](https://github.com/caioalvesbraga) e [Joel Soares](https://github.com/JoelSRangel) que são integrantes do [grupo 03](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/), cujo projeto tem como foco a [Plataforma Lattes](https://www.lattes.cnpq.br/), o propósito desta verificação é identificar possíveis problemas no artefato Perfil de usuário.
+Este documento é uma verificação do artefato [Perfil de usuário](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise-de-requisitos/perfil-de-usuario/) na versão 1.4 de data 07/11/2023, autorado por [Doan Filho](https://github.com/FilhoDoan), [Caio Braga](https://github.com/caioalvesbraga) e [Joel Soares](https://github.com/JoelSRangel) que são integrantes do [grupo 03](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/), cujo projeto tem como foco a [Plataforma Lattes](https://www.lattes.cnpq.br/), o propósito desta verificação é identificar possíveis problemas no artefato Perfil de usuário.
 
 
 ## Metodologia 
@@ -15,12 +15,18 @@ A verificação do artefato seguirá o [planejamento](https://interacao-humano-c
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  | -          | -       |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      | -          | -    |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -  |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         |
-| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
+| 1  | O artefato possui Introdução?                                                                                                  |  -   | - |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      |   -   |   - |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     |   - |  - |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         |   -  |   -  |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   |  -    |    -   |
+| 6  | Todos os textos estão na norma padrão?                                       						      |    -  |     -    |
+| 7  | Foram coletados dados para a criação do perfil de usuário?                          |   -   |     -   |
+| 8  | O perfil de usuário é caracterizado por dados sobre o próprio usuário?              |   - |      -      |
+| 9  | O perfil de usuário é caracterizado por dados sobre sua relação com tecnologia?     |  -  |       -     |
+| 10 | O perfil de usuário é caracterizado com seu conhecimento do domínio do produto?     |    -  |     -       |
+| 11 | O perfil de usuário contém as tarefas que deverá ele realizar utilizando o produto? |  -  |        -    |
+| 12 | Os perfis de usuário são agrupados por faixa etária, experiência, atitude e tarefas primárias no sistema? |   -   |  -    |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
@@ -36,13 +42,18 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  | Sim         |        |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Não          | O artefato não possuí descrição da metodologia utilizada para elaboração.    |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Sim          |   |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim        |     |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim        |          |
-| 6  | Todos os textos estão na norma padrão?                                       						      | Sim         |         |
-
+| 1  | O artefato possui Introdução?                                                                                                  | Sim   | - |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      |   Não   |   - |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     |   Incompleto |  - |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         |   Não  |   -  |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   |  Não  |    -   |
+| 6  | Todos os textos estão na norma padrão?                                       						      |  Sim  |     -    |
+| 7  | Foram coletados dados para a criação do perfil de usuário?                          |  Sim  |     -   |
+| 8  | O perfil de usuário é caracterizado por dados sobre o próprio usuário?              |  Sim |      -      |
+| 9  | O perfil de usuário é caracterizado por dados sobre sua relação com tecnologia?     |  Sim  |       -     |
+| 10 | O perfil de usuário é caracterizado com seu conhecimento do domínio do produto?     |  Sim |     -       |
+| 11 | O perfil de usuário contém as tarefas que deverá ele realizar utilizando o produto? |   Incompleto  |        -    |
+| 12 | Os perfis de usuário são agrupados por faixa etária, experiência, atitude e tarefas primárias no sistema? |   Sim   |  -    |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 
@@ -61,7 +72,7 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 | --- | ---------------------| ---------------------- |
 | 02 | O artefato não possui descrição da metodologia utilizada para elaboração. | É sugerido que o grupo faça um pequeno texto demonstrando qual metodologia foi utilizada para criação do artefato Cronograma.
 | 05 | Não há problemas identificados | É sugerido que a identificação da tabela fique na parte superior da tabela e a fonte na parte inferior.
-| 13 | Algumas atividades tem o mesmo período de execução das etapas que eles seriam dependente. | É sugerido que os artefatos que dependem de outros artefatos tenham seu período de desenvolvimento apenas após a entrega do artefatos os qual eles dependam.
+
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
