@@ -21,12 +21,12 @@ A verificação do artefato seguirá o [planejamento](https://interacao-humano-c
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -   |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -   |
 | 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
-| 7  |       Foi escolhida uma ferramenta adequada para comunicação do grupo?      |      -       |    -             |
-| 8  |      Foi escolhida uma ferramenta adequada para elaborar diagramas          |               -           |    -             |
-| 9  |          Foi selecionada uma ferramenta adequada para prototipação?         |           -             |      -           |
-| 10 |    Foi selecionada uma ferramenta adequada para planejamento do grupo?      |             -               |    -             |
-| 11 |     Foi selecionada uma ferramenta adequada para documentação?              |            -             |       -          |
-| 12 |    Foi selecionada uma ferramenta adequada para gravação das reuniões?      |            -            |       -          |
+| 7  | Foi escolhida uma ferramenta adequada para comunicação do grupo?      |      -       |    -             |
+| 8  | Foi escolhida uma ferramenta adequada para elaborar diagramas          |               -           |    -             |
+| 9  | Foi selecionada uma ferramenta adequada para prototipação?         |           -             |      -           |
+| 10 | Foi selecionada uma ferramenta adequada para planejamento do grupo?      |             -               |    -             |
+| 11 | Foi selecionada uma ferramenta adequada para documentação?              |            -             |       -          |
+| 12 | Foi selecionada uma ferramenta adequada para gravação das reuniões?      |            -            |       -          |
 | 13 | Existe alguma ferramenta que não tenha sido utilizada pelo grupo durante o projeto | -     |  -    |
 | 14 | Existe um objetivo para escolha de cada ferramenta |      -      |     -    |
 
@@ -44,20 +44,20 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  | -          | -   |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      | -          | -    |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -  |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -   |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -   |
-| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
-| 7  |       Foi escolhida uma ferramenta adequada para comunicação do grupo?      |      -       |    -             |
-| 8  |      Foi escolhida uma ferramenta adequada para elaborar diagramas          |               -           |    -             |
-| 9  |          Foi selecionada uma ferramenta adequada para prototipação?         |           -             |      -           |
-| 10 |    Foi selecionada uma ferramenta adequada para planejamento do grupo?      |             -               |    -             |
-| 11 |     Foi selecionada uma ferramenta adequada para documentação?              |            -             |       -          |
-| 12 |    Foi selecionada uma ferramenta adequada para gravação das reuniões?      |            -            |       -          |
-| 13 | Existe alguma ferramenta que não tenha sido utilizada pelo grupo durante o projeto | -     |  -    |
-| 14 | Existe um objetivo para escolha de cada ferramenta |      -      |     -    |
+| 1  | O artefato possui Introdução?                                                                                                  | Sim         | -  |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Não         | O artefato não possui descrição da metodologia utilizada para elaboração.   |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Sim        | -  |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim        | -   |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Não       | A tabela das ferramentas que serão utilizadas não tem legenda e fonte, além de não ser citada no texto   |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Sim          | -            |
+| 7  | Foi escolhida uma ferramenta adequada para comunicação do grupo?      |    Sim       |    -             |
+| 8  | Foi escolhida uma ferramenta adequada para elaborar diagramas          |             Não          |   Não foi encontrada uma ferramenta específica que foi utilizada para elaboração dos diagramas.        |
+| 9  | Foi selecionada uma ferramenta adequada para prototipação?         |          Não           |  Não foi encontrada uma ferramenta específica que foi utilizada para elaboração dos prototipos.         |
+| 10 | Foi selecionada uma ferramenta adequada para planejamento do grupo?      |            Sim               |    -             |
+| 11 | Foi selecionada uma ferramenta adequada para documentação?              |           Sim          |       -          |
+| 12 | Foi selecionada uma ferramenta adequada para gravação das reuniões?      |            Sim            |       -          |
+| 13 | Existe alguma ferramenta que não tenha sido utilizada pelo grupo durante o projeto |  Não    |  -    |
+| 14 | Existe um objetivo para escolha de cada ferramenta |     Sim     |     -    |
 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
@@ -71,14 +71,17 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 
 <center>
 
-**Tabela 3** - Sugestões de melhoria - Cronograma
+**Tabela 3** - Sugestões de melhoria - Ferramentas
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
-| 02 | O artefato não possui descrição da metodologia utilizada para elaboração. | É sugerido que o grupo faça um pequeno texto demonstrando qual metodologia foi utilizada para criação do artefato Cronograma.
-| 05 | Não há problemas identificados | É sugerido que a identificação da tabela fique na parte superior da tabela e a fonte na parte inferior.
+| 02 | O artefato não possui descrição da metodologia utilizada para elaboração. | É sugerido que o grupo faça um pequeno texto demonstrando qual metodologia foi utilizada para criação do artefato Ferramentas.
+| 05 | A tabela das ferramentas que serão utilizadas não tem legenda e fonte, além de não ser citada no texto| É sugerido que seja feito um pequeno texto introdutorio para que a tabela seja chamada no texto além de adicionar a fonte e a identificação da tabela, além disso e sugerido que a identificação da tabela fique na parte superior da tabela e a fonte na parte inferior.
+| 08 | Não foi encontrada uma ferramenta específica que foi utilizada para elaboração dos diagramas.| É sugerido que seja acrescentado as ferramentas utilizadas para elaboração dos diagramas utilizados no HTA,CTT ou qualquer outro artefato que necessite da utilização de diagramas.
+| 09 | Não foi encontrada uma ferramenta específica que foi utilizada para elaboração dos prototipos.| É sugerido que seja acrescentado as ferramentas utilizadas para elaboração dos prototipos utilizados na prototipação de papel e no prototipo de alta fidelidade.
 
-Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
+
 </center>
 
 ## Bibliografia
@@ -90,5 +93,5 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 13/11/2023 | Criação do Documento | [Mayara Alves](https://github.com/Mayara-tech)  | [Milena Baruc](https://github.com/MilenaBaruc) |
-| `1.1`  | 13/11/2023 | Adicionando verificação do artefato Cronograma  |  [Mayara Alves](https://github.com/Mayara-tech) | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.0`  | 14/11/2023 | Criação do Documento | [Mayara Alves](https://github.com/Mayara-tech)  |  |
+| `1.1`  | 14/11/2023 | Adicionando verificação do artefato Ferramentas|  [Mayara Alves](https://github.com/Mayara-tech) | |
