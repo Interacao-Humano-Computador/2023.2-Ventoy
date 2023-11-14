@@ -21,7 +21,7 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 | 03  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -    |
 | 04  | Os revisores são pessoas diferentes dos autores?                                    | -        | - |
 | 05  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -         |
-| 06  | Todos os textos estão na norma padrão?                                       						      | -          | -            |
+| 06  | Todos os as tabelas possuem fontes padronizadas?                                       						      | -          | -            |
 | 07  | Possui o horário escolhido pelo grupo para se reunir?            | -     | - |
 
 
