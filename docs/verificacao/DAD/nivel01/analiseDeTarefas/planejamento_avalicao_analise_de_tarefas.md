@@ -78,6 +78,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Sugestão de Melhorias
  Neste artefato houve poucos erros, mas sim algumas observações para melhorar ainda mais, que são nas verificações ID02, ID05, ID14, ID18, ID19 e ID20:
+ 
  - ID02: Criar uma seção de metodologia.
  - ID05: Chamar todas as tabelas no texto.
  - ID14: Detalhar mais os recursos que serão necessários para a realização da avaliação.
