@@ -50,12 +50,12 @@ A tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Sim        | -                                                                      |
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim        | -                                                                      |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Não        | Algumas tabelas não são chamadas no texto e algumas não apresentam os autores. A terceira tabela do documento é chamada no texto como tabela 1.|
-| 6  | Todos os textos estão na norma padrão?                                       						      | Sim        | A chamada de tabelas não respeitam a norma padrão, nem em suas chamadas nem em suas enumerações.|
+| 6  | Todos os textos estão na norma padrão?                                       						      | Não        | A chamada de tabelas não respeitam a norma padrão, nem em suas chamadas nem em suas enumerações.|
 | 7  | O planejamento da avaliação segue o Framework DECIDE?					   				      | Sim        | -                                                                      |
 | 8  | O artefato descreve os objetivos da avaliação?		                                                                      | Sim        | -                                                                      |
 | 9  | O artefato descreve os métodos a serem utilizados?		                                                              | Sim        | -                                                                      |
 | 10  | O artefato descreve os aspectos práticos da avaliação?								              | Sim        | -  								    |
-| 11  | O artefato descreve os aspectos éticos da avaliação?			   			                              | Sim        | -t|
+| 11  | O artefato descreve os aspectos éticos da avaliação?			   			                              | Sim        | -|
 | 12  | O artefato descreve as perguntas a serem feitas na avaliação?					                              | Sim        | -  								    |
 | 13  | O artefato possui um cronograma planejado da avaliação?									      | Incompleto | Existe uma tabela para o cronograma, no entanto, a tabela está quase toda vazia.|
 | 14  | O artefato apresenta o teste piloto do planejamento da avaliação?							      | Não        | Há um planejamento para a execução do teste piloto, no entanto ele não planejado para ser efetuado junto ao planejamento e também não há nenhuma referência no documento que indique que de fato o teste piloto ocorreu.|
