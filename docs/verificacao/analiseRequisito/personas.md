@@ -92,5 +92,5 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 14/11/2023 | Criação do Documento | [Mayara Alves](https://github.com/Mayara-tech)  | |
-| `1.1`  | 14/11/2023 | Adicionando verificação do artefato Personas|  [Mayara Alves](https://github.com/Mayara-tech) |  |
+| `1.0`  | 14/11/2023 | Criação do Documento | [Mayara Alves](https://github.com/Mayara-tech)  | [Vinícius Mendes](https://github.com/yabamiah)|
+| `1.1`  | 14/11/2023 | Adicionando verificação do artefato Personas|  [Mayara Alves](https://github.com/Mayara-tech) |  [Vinícius Mendes](https://github.com/yabamiah)|
