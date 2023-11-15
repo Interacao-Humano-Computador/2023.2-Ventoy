@@ -81,7 +81,11 @@ nav:
     - Planejamento do Relato dos resultados do protótipo de papel: verificacao/plan_relato.md
     - Aspectivos Éticos: verificacao/aspectos_eticos.md
     - Padronização do Projeto: verificacao/padronizacaoProjeto.md
-        
+    - Planejamento:
+      - Processo de Design: verificacao/planejamento/processoDesign.md
+    - Análise de Requisitos:
+      - Metas de Usabilidade: verificacao/AnaliseRequisitos/metasUsabilidade.md
+
 theme:
   name: material
   features:
