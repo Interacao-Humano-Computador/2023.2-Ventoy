@@ -54,6 +54,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Sugestão de Melhorias
 As sugestões aqui serão dadas as seguintes verificações ID02, ID08, ID09, ID10, ID11:
+
 - ID02: Criar uma seção de metodologia para seguir o padrão dos artefatos da equipe.
 - ID08: Descrever na metodologia os motivos dos princípios gerais definidos para o projeto.
 - ID09: Descrever como foi a separação da análise dos princípios gerais no projeto.
