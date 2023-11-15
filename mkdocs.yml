@@ -81,6 +81,11 @@ nav:
     - Planejamento do Relato dos resultados do protótipo de papel: verificacao/plan_relato.md
     - Aspectos Éticos: verificacao/aspectos_eticos.md
     - Padronização do Projeto: verificacao/padronizacaoProjeto.md
+    - Planejamento do Projeto:
+      - Metodologia: verificacao/Metodologia.md
+      - Heatmap: verificacao/Heatmap.md
+      - Sites Avaliados: SitesAvaliados.md
+      - Site Selecionado: Siteselecionado.md
     - Storyboard:
       - Planejamento da Avaliação do Storyboard: verificacao/DAD/nivel01/storyboard/planejamento_avaliacao_storyboar.md
       - Planejamento do Relato dos Resultados: verificacao/DAD/nivel01/storyboard/planejamento_relato_resultados_storyboard.md
