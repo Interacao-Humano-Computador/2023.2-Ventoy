@@ -6,6 +6,8 @@ Este documento é uma verificação do artefato [Planejamento da Avaliação de 
 ## Metodologia
 A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
 
+<center>
+
 **Tabela 1** - Checklist
 
 | **ID** | **Descrição** | **Avaliação** | **Observação** |
@@ -34,8 +36,13 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 | 22 | O teste piloto foi gravado? | - | - |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+ 
+</center>
+
 ## Desenvolvimento
 A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
+
+<center>
 
 **Tabela 2** - Checklist Preenchido
 
@@ -65,6 +72,8 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 22 | O teste piloto foi gravado? | Sim | - |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+ 
+</center>
 
 ## Sugestão de Melhorias
  Neste artefato houve poucos erros, mas sim algumas observações para melhorar ainda mais, que são nas verificações ID02, ID05, ID14, ID18, ID19 e ID20:
@@ -83,6 +92,6 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|------|---------|
-| 1.0 | 14/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah)| | 
-| 1.1 | 15/11/2023 | Adicionando conteúdo no documento |  [Vinícius Mendes](https://github.com/yabamiah)| | 
+| 1.0 | 14/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech) | 
+| 1.1 | 15/11/2023 | Adicionando conteúdo no documento |  [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)| 
 
