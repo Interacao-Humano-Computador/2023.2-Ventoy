@@ -47,11 +47,11 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Sugestão de Melhorias
 As sugestões aqui serão dadas as seguintes verificações ID02, ID08, ID09, ID10, ID11:
-- ID02: O artefato não possui uma seção de metodologia.
-- ID08: Não foi descrito os motivos dos princípios gerais definidos para o projeto.
-- ID09: Não foi descrito quais membros ficaram responsáveis pela análise dos princípios em relação ao projeto.
-- ID10: Não foi feita um análise detalhada contendo violação de cada princípio, imagens da violação e sugestão de melhorias.
-- ID11: Não foi feita uma análise de cada princípio geral, apenas um análise geral e que não é detalhada.
+- ID02: Criar uma seção de metodologia para seguir o padrão dos artefatos da equipe.
+- ID08: Descrever na metodologia os motivos dos princípios gerais definidos para o projeto.
+- ID09: Descrever como foi a separação da análise dos princípios gerais no projeto.
+- ID10: Descrever uma análise detalhada de cada princípio geral, contendoão a violação de cada princípio, imagens da violação e sugestão de melhorias.
+- ID11: Fazer uma análise de cada requisito do projeto.
 
 ## Bibliografia
 
