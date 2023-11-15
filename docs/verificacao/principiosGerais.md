@@ -1,7 +1,7 @@
 # Princípios Gerais
 
 ## Introdução
-Este documento é uma verificação do artefato [Princípios Gerais](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise-de-requisitos/principios-gerais/) na versão 1.1 de data 29/10/2023, autorado por [Caio Lelis]() e [Caio Braga](), que é integrante do  [Grupo 03](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/),  cujo projeto tem como foco o site Plataforma Lattes.
+Este documento é uma verificação do artefato [Princípios Gerais](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise-de-requisitos/principios-gerais/) na versão 1.1 de data 29/10/2023, autorado por [Caio Braga](https://github.com/caioalvesbraga), que é integrante do  [Grupo 03](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/),  cujo projeto tem como foco o site Plataforma Lattes.
 
 ## Metodologia
 A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
