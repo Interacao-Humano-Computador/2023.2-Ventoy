@@ -73,5 +73,5 @@ As ideias foram documentadas de forma clara e concisa o que demonstra um cuidado
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 14/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
+| `1.0`  | 14/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Breno Queiroz](https://github.com/brenob6) |
  
