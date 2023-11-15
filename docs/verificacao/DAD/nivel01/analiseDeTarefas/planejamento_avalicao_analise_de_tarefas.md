@@ -68,12 +68,13 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Sugestão de Melhorias
  Neste artefato houve poucos erros, mas sim algumas observações para melhorar ainda mais, que são nas verificações ID02, ID05, ID14, ID18, ID19 e ID20:
- - ID02: Não possui uma seção de metodologia.
- - ID05: Nem todas as tabelas são chamadas no texto.
- - ID14: Faltou detalhas mais os recursos que serão necessários para a realização da avaliação.
- - ID18: Só um sugestão de colocar o link do termo de consentimento.
+ - ID02: Criar uma seção de metodologia.
+ - ID05: Chamar todas as tabelas no texto.
+ - ID14: Detalhar mais os recursos que serão necessários para a realização da avaliação.
+ - ID18: Só uma sugestão de colocar o link do termo de consentimento.
  - ID19: Adicionar de qual forma será apresentado ou informar que isso será apresentado no planejamento de relatos.
  - ID20: Descrever o planejamento do teste piloto, contendo o nome dos participantes, horários, data e local.
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário
