@@ -1,7 +1,7 @@
 # Planejamento da Avaliação de Análise de Tarefas
 
 ## Introdução
-Este documento é uma verificação do artefato [Planejamento da Avaliação de Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/An%C3%A1lise%20de%20tarefas/planej-hta/) na versão 1.1 de  data 06/11/2023, autorado por [Caio Braga](), que é integrante do [Grupo 03](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/),  projeto tem como foco o site Plataforme Lattes.
+Este documento é uma verificação do artefato [Planejamento da Avaliação de Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/Design%2C%20Avalia%C3%A7%C3%A3o%20e%20Desenvolvimento/N%C3%ADvel%2001/An%C3%A1lise%20de%20tarefas/planej-hta/) na versão 1.1 de  data 06/11/2023, autorado por [Caio Braga](https://github.com/caioalvesbraga), que é integrante do [Grupo 03](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/),  projeto tem como foco o site Plataforme Lattes.
 
 ## Metodologia
 A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
