@@ -75,17 +75,17 @@ nav:
       - Protótipo de Papel:
         - Planejamento da Avaliação do protótipo de papel: DAD/nivel2/prototipoDePapel/planejamento.md
         - Planejamento do Relato dos resultados do protótipo de papel: DAD/nivel2/prototipoDePapel/plan_relato.md
-    - Verificação:
-      - Planejamento: verificacao/planejamendoDaVerificacao.md
-      - Planejamento da Avaliação do protótipo de papel: verificacao/plan_avaliacao.md
-      - Planejamento do Relato dos resultados do protótipo de papel: verificacao/plan_relato.md
-      - Aspectos Éticos: verificacao/aspectos_eticos.md
-      - Padronização do Projeto: verificacao/padronizacaoProjeto.md
-      - Storyboard:
-        - Planejamento da Avaliação do Storyboard: verificacao/DAD/nivel01/storyboard/planejamento_avaliacao_storyboar.md
-        - Planejamento do Relato dos Resultados: verificacao/DAD/nivel01/storyboard/planejamento_relato_resultados_storyboard.md
-        - Relato dos Resultados do Storyboard: verificacao/DAD/nivel01/storyboard/relato_resultados.md
-        - Storyboards: verificacao/DAD/nivel01/storyboard/storyboards.md
+  - Verificação:
+    - Planejamento: verificacao/planejamendoDaVerificacao.md
+    - Planejamento da Avaliação do protótipo de papel: verificacao/plan_avaliacao.md
+    - Planejamento do Relato dos resultados do protótipo de papel: verificacao/plan_relato.md
+    - Aspectos Éticos: verificacao/aspectos_eticos.md
+    - Padronização do Projeto: verificacao/padronizacaoProjeto.md
+    - Storyboard:
+      - Planejamento da Avaliação do Storyboard: verificacao/DAD/nivel01/storyboard/planejamento_avaliacao_storyboar.md
+      - Planejamento do Relato dos Resultados: verificacao/DAD/nivel01/storyboard/planejamento_relato_resultados_storyboard.md
+      - Relato dos Resultados do Storyboard: verificacao/DAD/nivel01/storyboard/relato_resultados.md
+      - Storyboards: verificacao/DAD/nivel01/storyboard/storyboards.md
         
 theme:
   name: material
