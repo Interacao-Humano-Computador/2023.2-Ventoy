@@ -6,6 +6,8 @@ Este documento é uma verificação do artefato [Análise Hierárquica de Tarefa
 ## Metodologia
 A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
 
+<center>
+  
 **Tabela 1** - Checklist
 
 | **ID** | **Descrição** | **Avaliação** | **Observação** |
@@ -27,8 +29,13 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+
+</center>
+
 ## Desenvolvimento
 A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
+
+<center>
 
 **Tabela 2** - Checklist Preenchido
 
@@ -48,6 +55,10 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 12 | Foi descrito no artefato se foi necessário criar tarefas novas, caso não houvessem para todos os membros? | Não | - |
 | 13 | O diagrama está de fácil leitura e visualização? | Sim  | Só um dos diagramas está com uma visualização dificultada  |
 
+Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+ 
+</center>
+
 ## Sugestão de Melhorias
 As sugestões que serão sugeridas aqui, irão abordas as seguintes verificações ID01, ID02, ID05, ID06, ID07, ID08, ID09 e ID12:
 - ID01: Criar uma seção de introdução no artefato para seguir o padrão.
@@ -66,6 +77,6 @@ As sugestões que serão sugeridas aqui, irão abordas as seguintes verificaçõ
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|------|---------|
-| 1.0 | 14/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah)| | 
-| 1.1 | 15/11/2023 | Adicionando conteúdo no documento |  [Vinícius Mendes](https://github.com/yabamiah)| | 
+| 1.0 | 14/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)| 
+| 1.1 | 15/11/2023 | Adicionando conteúdo no documento |  [Vinícius Mendes](https://github.com/yabamiah)|  [Mayara Alves](https://github.com/Mayara-tech)| 
 
