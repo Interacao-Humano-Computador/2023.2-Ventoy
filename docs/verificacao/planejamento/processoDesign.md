@@ -20,12 +20,14 @@ realizar essa verificação. O referido checklist pode ser consultado na Tabela 
 
 | ID | Descrição | Avaliação | Observação |
 |:-: | :-------- | --------- | ---------- |
-| 1  | O artefato possui Introdução?| Sim  | -  |
-| 2  | O artefato possui a metodologia utilizada?| Sim | - |
-| 3  | O artefato possui bibliografia/referências bibliográficas? | Sim | -  |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | - |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não | |
-| 6  | Todos os textos estão na norma padrão? | Sim | |
+| 1  | O artefato possui Introdução?|
+| 2  | O artefato possui a metodologia utilizada?|
+| 3  | O artefato possui bibliografia/referências bibliográficas? |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |
+| 6  | Todos os textos estão na norma padrão? |
+| 7  | Os processos de design citados no documento possuem explicação |
+| 8  | O documento explica a motivação da escolha do precesso de design? |
 
 Fonte: [Breno Queiroz](https://github.com/brenob6)
 
