@@ -70,6 +70,8 @@ Adicionar tabelas de respostas do entrevistado referentes as entrevistas Atualiz
 
 ## Bibliografia
 
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
+
 ## 📑 Histórico de Versões
 
 | Versão | Data     | Descrição | Autor| Revisor|
