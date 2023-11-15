@@ -42,10 +42,10 @@ A tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | ID | Descrição | Avaliação | Observação |
 |:-: | :-------- | --------- | ---------- |
 | 1  | O artefato possui Introdução?| Parcial | O texto possui introdução mas não está titulado como introdução.  |
-| 2  | O artefato possui a metodologia utilizada?| Não se aplica | - |
+| 2  | O artefato possui a metodologia utilizada?| - | - |
 | 3  | O artefato possui bibliografia/referências bibliográficas? | Sim | -  |
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | - |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | parcial | A maioria faz figura não são chamadas no texto.|
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Parcial | A maioria das figuras não são chamadas no texto.|
 | 6  | Todos os textos estão na norma padrão? | Sim | |
 | 7  | Os processos de design citados no documento possuem explicação | Sim | 
 | 8  | O documento explica a motivação da escolha do precesso de design? | Sim |
