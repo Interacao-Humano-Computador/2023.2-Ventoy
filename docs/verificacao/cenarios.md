@@ -70,9 +70,9 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Sugestão de Melhorias
 Algumas sugestões de melhorias serão acerca dos ID07, ID14, ID19 e ID20:
-- ID07: Não foi escrito um enredo contanto o cenário e as ações dos atores no ambiente, foi somente colocado as ações no tópico de espisodios.
-- ID014: Não foi descrito se houve eventos externos, ou seja, ações causadas por um sistema no qual o ator está utilizando ou alguma reação do ambiente.
-- ID19: Não foi feita uma análise ou interpretação de cada cenário.
+- ID07: Escrever um enredo contanto o cenário e as ações dos atores no ambiente.
+- ID014: Descrever se houve eventos externos, ou seja, ações causadas por um sistema no qual o ator está utilizando ou alguma reação do ambiente.
+- ID19: Fazer uma análise ou interpretação de cada cenário.
 - ID20: Aqui é só uma sugestão de melhoria para que todos os atores tenham suas características relevantes para o cenário descrito, como profissão e idade.
   
 ## Bibliografia
