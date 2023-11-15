@@ -1,7 +1,7 @@
 # Análise Hierárquica de Tarefas
 
 ## Introdução
-Este documento é uma verificação do artefato [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise-de-requisitos/hta/) na versão 1.9 de  data 30/10/2023, autorado por [Doan Filho](), que é integrante do  [Grupo 03](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/) , projeto tem como foco o site Plataforme Lattes.
+Este documento é uma verificação do artefato [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise-de-requisitos/hta/) na versão 1.9 de  data 30/10/2023, autorado por [Doan Filho](https://github.com/FilhoDoan), que é integrante do  [Grupo 03](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/) , projeto tem como foco o site Plataforme Lattes.
 
 ## Metodologia
 A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
