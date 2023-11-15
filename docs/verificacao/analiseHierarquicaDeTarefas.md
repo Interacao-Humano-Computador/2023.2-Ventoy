@@ -60,6 +60,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Sugestão de Melhorias
 As sugestões que serão sugeridas aqui, irão abordas as seguintes verificações ID01, ID02, ID05, ID06, ID07, ID08, ID09 e ID12:
+
 - ID01: Criar uma seção de introdução no artefato para seguir o padrão.
 - ID02: Criar uma seção de metodologia no artefato para seguir o padrão.
 - ID05: Chamar as tabelas e imagens no textos.
