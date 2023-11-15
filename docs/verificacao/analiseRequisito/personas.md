@@ -45,16 +45,16 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
 | 1  | O artefato possui Introdução?   |  Sim  | - |
-| 2  | O artefato possui a metodologia utilizada?  |  Não   |   - |
+| 2  | O artefato possui a metodologia utilizada?  |  Não   |  O artefato não possui descrição da metodologia utilizada para elaboração. |
 | 3  | O artefato possui bibliografia/referências bibliográficas? |   Sim |  - |
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim  |   -  |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?            | Incompleto  |   Faltou chamar as tabelas no texto |
 | 6  | Todos os textos estão na norma padrão?                                       						      |  Sim |     -  |
 | 7  | As personas possuem identidade (nome, sobrenome, idade, foto)?        |   Sim  |   -
 | 8  | As personas possuem status (primária, secundária, antipersona ou outro stakeholder)?           | Sim   |   -
-| 9  | As personas possuem objetivos?       |      Não      |   -
+| 9  | As personas possuem objetivos?       |      Não      |   Não foi possivel identificar os objetivos das personas.
 | 10 | As personas pessuem habilidades/especialidades (educação, treinamento, competências específicas)?    | Sim |-  
-| 11 | As personas pessuem relacionamentos?                          |  Não   |  - 
+| 11 | As personas pessuem relacionamentos?                          |  Não   |  Não foi possivel identificar os relacionamento das personas.
 | 12 | As personas possuem requisitos (citações que ajudam a entender melhor as necessidades daquela persona)   | Sim |     -
 | 13 | As personas possuem expectativas?                          |  Sim    |    - |
 
@@ -74,9 +74,9 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
 | 02 | O artefato não possui descrição da metodologia utilizada para elaboração. | É sugerido que o grupo faça um pequeno texto demonstrando qual metodologia foi utilizada para criação do artefato personas.
-| 03 | O artefato não referênciou na bibliografia a plataforma que utilizou para elaboração do questionário | É sugerido ao grupo que o grupo acrescente a referência bibliografica o google forms, que eles citam no texto.
-| 04 | A última versão do artefato não tem revisor| É sugerido que o grupo escolha um integrante para revisar o artefato.
-| 05 | A tabela referente ao personas não possui titulo nem fonte.  | É sugerido que se faça o chamamento da tabela no texto e que seja colocado na tabela a identificação e a fonte, além disso e sugerido que a identificação da tabela fique na parte superior da tabela e a fonte na parte inferior.
+| 05 | Faltou chamar as tabelas no texto | É sugerido que se faça o chamamento da tabela no texto, além disso e sugerido que a identificação da tabela fique na parte superior da tabela e a fonte na parte inferior.
+| 09 | Não foi possivel identificar os objetivos das personas | É sugerido que o grupo faça a análise das personas e adicionem qual e o objetivo da persona a utilizar o site.
+| 11 | Não foi possivel identificar os relacionamento das personas. | É sugerido que o grupo faça a análise das personas e adicionem quais seriam os relacionamentos das personas.
 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
