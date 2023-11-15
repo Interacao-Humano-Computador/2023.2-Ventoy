@@ -81,6 +81,10 @@ nav:
     - Planejamento do Relato dos resultados do protótipo de papel: verificacao/plan_relato.md
     - Aspectivos Éticos: verificacao/aspectos_eticos.md
     - Padronização do Projeto: verificacao/padronizacaoProjeto.md
+    - Design, Avaliação e Desenvolvimento:
+      - nivel01:
+        - analiseDeTarefas:
+          - Planejamento do Relato dos Resultados: verificacao/DAD/nivel01/analiseDeTarefas/planRelatoResultados.md
     - Planejamento:
       - Processo de Design: verificacao/planejamento/processoDesign.md
     - Análise de Requisitos:
