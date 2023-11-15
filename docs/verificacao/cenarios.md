@@ -71,6 +71,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Sugestão de Melhorias
 Algumas sugestões de melhorias serão acerca dos ID07, ID14, ID19 e ID20:
+
 - ID07: Escrever um enredo contanto o cenário e as ações dos atores no ambiente.
 - ID014: Descrever se houve eventos externos, ou seja, ações causadas por um sistema no qual o ator está utilizando ou alguma reação do ambiente.
 - ID19: Fazer uma análise ou interpretação de cada cenário.
