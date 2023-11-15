@@ -6,6 +6,8 @@ Este documento é uma verificação do artefato [Princípios Gerais](https://int
 ## Metodologia
 A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
 
+<center>
+  
 **Tabela 1** - Checklist
 
 | ID  | Descrição     | Avaliação | Observação |
@@ -23,10 +25,13 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 | 11 | As análises dos princípios gerais, fazem sentido para o projeto? (Se os princípios fazem sentido dentro do projeto) | - | - |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+</center>
 
 ## Desenvolvimento
 A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 
+<center>
+  
 **Tabela 2** - Checklist Preenchido
 
 | ID  | Descrição     | Avaliação | Observação |
@@ -44,6 +49,7 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 11 | As análises dos princípios gerais, fazem sentido para o projeto? (Se os princípios fazem sentido dentro do projeto) | Não | Não foi descrita uma análise detalhada da definição dos princípios gerais para o projeto |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+</center>
 
 ## Sugestão de Melhorias
 As sugestões aqui serão dadas as seguintes verificações ID02, ID08, ID09, ID10, ID11:
@@ -61,5 +67,5 @@ As sugestões aqui serão dadas as seguintes verificações ID02, ID08, ID09, ID
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|------|---------|
-| 1.0 | 14/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah)| | 
-| 1.1 | 15/11/2023 | Adicionando conteúdo no documento |  [Vinícius Mendes](https://github.com/yabamiah)| | 
+| 1.0 | 14/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech) | 
+| 1.1 | 15/11/2023 | Adicionando conteúdo no documento |  [Vinícius Mendes](https://github.com/yabamiah)|  [Mayara Alves](https://github.com/Mayara-tech)| 
