@@ -58,9 +58,8 @@ nav:
         - Princípios Gerais: AnaliseDeRequisitos/principiosGerais.md
         - Características Gerais: AnaliseDeRequisitos/caracteristicasGerais.md
         - Metas de Usabilidade: AnaliseDeRequisitos/metasUsabilidade.md
-        - Guia de Estilo: AnaliseDeRequisitos/guia-de-estilo.md
-        
-  - Design, Avaliação e Desenvolvimento:
+        - Guia de Estilo: AnaliseDeRequisitos/guia-de-estilo.md       
+  - Design, Avaliação e Desenvolvimento: 
     - Nível 1:
       - Storyboard:
           - Planejamento da Avaliação do Storyboard: DAD/nivel1/storyboard/planejamentoStoryboard.md
@@ -76,20 +75,45 @@ nav:
         - Planejamento da Avaliação do protótipo de papel: DAD/nivel2/prototipoDePapel/planejamento.md
         - Planejamento do Relato dos resultados do protótipo de papel: DAD/nivel2/prototipoDePapel/plan_relato.md
   - Verificação:
-    - Planejamento: verificacao/planejamendoDaVerificacao.md
-    - Planejamento da Avaliação do protótipo de papel: verificacao/plan_avaliacao.md
-    - Planejamento do Relato dos resultados do protótipo de papel: verificacao/plan_relato.md
-    - Aspectivos Éticos: verificacao/aspectos_eticos.md
-    - Padronização do Projeto: verificacao/padronizacaoProjeto.md
-    - Design, Avaliação e Desenvolvimento:
-      - nivel01:
-        - analiseDeTarefas:
-          - Planejamento do Relato dos Resultados: verificacao/DAD/nivel01/analiseDeTarefas/planRelatoResultados.md
+    - Planejamento da verificação: verificacao/planejamendoDaVerificacao.md
     - Planejamento:
-      - Processo de Design: verificacao/planejamento/processoDesign.md
-    - Análise de Requisitos:
-      - Metas de Usabilidade: verificacao/AnaliseRequisitos/metasUsabilidade.md
-
+      - Metodologia: verificacao/Metodologia.md
+      - Heatmap: verificacao/Heatmap.md
+      - Sites Avaliados: verificacao/SitesAvaliados.md
+      - Site Selecionado: verificacao/SiteSelecionado.md
+      - Ferramentas: verificacao/planejamento/ferramentas.md
+      - Cronograma: verificacao/planejamento/cronograma.md
+      - Padronização do Projeto: verificacao/padronizacaoProjeto.md
+      - Processos de design: verificacao/planejamento/processoDesign.md
+    - Análise de requisitos I:
+      - Aspectos Éticos: verificacao/aspectos_eticos.md
+      - Perfil de usuário: verificacao/analiseRequisito/perfilUsuario.md
+      - Personas: verificacao/analiseRequisito/personas.md
+      - Cenários: verificacao/cenarios.md
+      - Elicitação:
+        - Introspecção: verificacao/analiseRequisito/introspeccao.md
+        - Observação: verificacao/adicionar.md
+      - Análise de Tarefas:
+        - Análise Hierárquica de Tarefas: verificacao/analiseHierarquicaDeTarefas.md
+        - Árvore de Tarefas Concorrentes: verificacao/adicionar.md
+    - Análise de requisitos II:
+      - Princípios Gerais: verificacao/principiosGerais.md
+      - Caracteristicas Gerais: verificacao/adicionar.md
+      - Metas de usabilidade: verificacao/AnaliseRequisitos/metasUsabilidade.md
+      - Guia de estilo: verificacao/adicionar.md
+    - Design, avaliação e desenvolvimento:
+      - Análise de Tarefas:
+        - Planejamento da Avaliação da Análise de Tarefas: verificacao/DAD/nivel01/analiseDeTarefas/planejamento_avalicao_analise_de_tarefas.md
+        - Planejamento do Relato dos Resultados da Avaliação: verificacao/DAD/nivel01/analiseDeTarefas/planRelatoResultados.md
+        - Relato dos Resultados: verificacao/DAD?nivel01/analiseDeTarefas/relatoResultados.md
+      - Storyboard:
+        - Planejamento da Avaliação do Storyboard: verificacao/DAD/nivel01/storyboard/planejamento_avaliacao_storyboar.md
+        - Planejamento do Relato dos Resultados: verificacao/DAD/nivel01/storyboard/planejamento_relato_resultados_storyboard.md
+        - Relato dos Resultados do Storyboard: verificacao/DAD/nivel01/storyboard/relato_resultados.md
+        - Storyboards: verificacao/DAD/nivel01/storyboard/storyboards.md
+      - Protótipo de papel:
+        - Planejamento da Avaliação do protótipo de papel: verificacao/plan_avaliacao.md
+        - Planejamento do Relato dos resultados do protótipo de papel: verificacao/plan_relato.md
 theme:
   name: material
   features:
