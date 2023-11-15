@@ -84,8 +84,8 @@ nav:
     - Planejamento do Projeto:
       - Metodologia: verificacao/Metodologia.md
       - Heatmap: verificacao/Heatmap.md
-      - Sites Avaliados: SitesAvaliados.md
-      - Site Selecionado: Siteselecionado.md
+      - Sites Avaliados: verificacao/SitesAvaliados.md
+      - Site Selecionado: verificacao/SiteSelecionado.md
     - Storyboard:
       - Planejamento da Avaliação do Storyboard: verificacao/DAD/nivel01/storyboard/planejamento_avaliacao_storyboar.md
       - Planejamento do Relato dos Resultados: verificacao/DAD/nivel01/storyboard/planejamento_relato_resultados_storyboard.md
