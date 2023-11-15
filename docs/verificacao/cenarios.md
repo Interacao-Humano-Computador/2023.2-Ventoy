@@ -4,6 +4,8 @@ Este documento é uma verificação do artefato [Cenários](https://interacao-hu
 ## Metodologia
 A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
 
+ <center></center>
+ 
 **Tabela 1** - Checklist
 
 | ID  | Descrição     | Avaliação | Observação |
@@ -31,9 +33,13 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+</center>
+
 ## Desenvolvimento
 A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 
+<center>
+  
 **Tabela 2** - Checklist Preenchido
 
 | ID  | Descrição     | Avaliação | Observação |
@@ -60,6 +66,7 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 21 | Foi utilizado as personas para definir os atores do cenário? | Sim | - |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+</center>
 
 ## Sugestão de Melhorias
 Algumas sugestões de melhorias serão acerca dos ID07, ID14, ID19 e ID20:
@@ -67,13 +74,13 @@ Algumas sugestões de melhorias serão acerca dos ID07, ID14, ID19 e ID20:
 - ID014: Não foi descrito se houve eventos externos, ou seja, ações causadas por um sistema no qual o ator está utilizando ou alguma reação do ambiente.
 - ID19: Não foi feita uma análise ou interpretação de cada cenário.
 - ID20: Aqui é só uma sugestão de melhoria para que todos os atores tenham suas características relevantes para o cenário descrito, como profissão e idade.
+  
 ## Bibliografia
-
 > BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário
 
 ## 📑 Histórico de Versões
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|------|---------|
-| 1.0 | 14/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah)| | 
-| 1.1 | 15/11/2023 | Adicionando conteúdo no documento |  [Vinícius Mendes](https://github.com/yabamiah)| | 
+| 1.0 | 14/11/2023 | Criação do documento e do seu conteúdo |  [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech) | 
+| 1.1 | 15/11/2023 | Adicionando conteúdo no documento |  [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)  | 
