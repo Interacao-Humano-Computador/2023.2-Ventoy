@@ -4,7 +4,7 @@
 Este documento é uma verificação do artefato [Análise Hierárquica de Tarefas](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/analise-de-requisitos/hta/) na versão 1.9 de  data 30/10/2023, autorado por [Doan Filho](https://github.com/FilhoDoan), que é integrante do  [Grupo 03](https://interacao-humano-computador.github.io/2023.2-PlataformaLattes/) , projeto tem como foco o site Plataforme Lattes.
 
 ## Metodologia
-A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1.
+A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metologia neste documento, onde será apresentada a tabela contendo os checklists utilizados para realizar essa verificação. O referido checklist pode ser consultado na Tabela 1. Como base para as verificações dos ID's 6 a 13, utilizei o Livro Humano Interação-Computador, de Simone Barbosa e Bruno Silva, Capítulo 6, páginas 192-196.
 
 <center>
   
@@ -17,15 +17,14 @@ A verificação do artefato seguirá o planejamento desenvolvido pelo nosso grup
 | 3 | O artefato possui bibliografia/referências bibliográficas? | - | - |
 | 4 | O artefato possui um histórico de versões com o id e descrições das versões, data, autores e revisores? | - | - |
 | 5 | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?|-|-|
-| 6 | Todos os textos estão na norma padrão? | - | - |
-| 7 | Todas as analises feitas, possuem um diagrama HTA? | - | - |
-| 8 | Os diagramas HTA's, possuem todos os elementos? (Subobjetivos, relações entre os subobjetivos e operações) | - | - |
-| 9 | O elemento operações, é sempre utilizado como uma ação para alcançar os objetivos? | - | - |
-| 10 | Os subobjetivos nos diagramas, fazem sentido para alcançar o objetivo definido? | - | - |
-| 11 | Além dos diagramas, as tarefas da HTA também foram representadas em tabela? | - | - |
-| 12 | As tabelas possuem elementos de descrição dos objetivos/operações? (input, feedback, plano, ação, problema e recomendação) | - | - |
-| 13 | Foi descrito no artefato se foi necessário criar tarefas novas, caso não houvessem para todos os membros? | - | - |
-| 14 | O diagrama está de fácil leitura e visualização? | -  | - |
+| 6 | Todas as analises feitas, possuem um diagrama HTA? | - | - |
+| 7 | Os diagramas HTA's, possuem todos os elementos? (Subobjetivos, relações entre os subobjetivos e operações) | - | - |
+| 8 | O elemento operações, é sempre utilizado como uma ação para alcançar os objetivos? | - | - |
+| 9 | Os subobjetivos nos diagramas, fazem sentido para alcançar o objetivo definido? | - | - |
+| 10 | Além dos diagramas, as tarefas da HTA também foram representadas em tabela? | - | - |
+| 11 | As tabelas possuem elementos de descrição dos objetivos/operações? (input, feedback, plano, ação, problema e recomendação) | - | - |
+| 12 | Foi descrito no artefato se foi necessário criar tarefas novas, caso não houvessem para todos os membros? | - | - |
+| 13 | O diagrama está de fácil leitura e visualização? | -  | - |
 
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
