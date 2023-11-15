@@ -7,7 +7,7 @@ Este documento é uma verificação do artefato [Perfil de usuário](https://int
 
 ## Metodologia 
 
-A verificação do artefato seguirá o [planejamento](https://interacao-humano-computador.github.io/2023.2-Ventoy/verificacao/planejamendoDaVerificacao/) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em específico. Podemos observar o referido checklist referente a verificação do Perfil de usuário na Tabela 1. 
+A verificação do artefato seguirá o [planejamento](https://interacao-humano-computador.github.io/2023.2-Ventoy/verificacao/planejamendoDaVerificacao/) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em específico, as perguntas utilizadas no checklist tiveram como referência o projeto do semestre passado da bilheteria digital^1^ . Podemos observar o referido checklist referente a verificação do Perfil de usuário na Tabela 1. 
 
 <center>
 
@@ -80,10 +80,12 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
 
+## Referência Bibliografica 
+> 1. BILHETERIA DIGITAL. Interacao-Humano_computador. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>. Acesso em: 10/11/2023.<br>
+
 ## Bibliografia
 
 > BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
-> BILHETERIA DIGITAL. Interacao-Humano_computador. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>. Acesso em: 10/11/2023.<br>
 > SIMPLENOTE. Requisitos de Software. Distrito Federal, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-Simplenote/analise/verificacao/verificacao-Grupo5/planejamento/>. Acesso em: 14/11/2023
 
 ## 📑 Histórico de Versões
