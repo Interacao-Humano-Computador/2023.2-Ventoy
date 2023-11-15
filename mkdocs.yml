@@ -59,7 +59,7 @@ nav:
         - Características Gerais: AnaliseDeRequisitos/caracteristicasGerais.md
         - Metas de Usabilidade: AnaliseDeRequisitos/metasUsabilidade.md
         - Guia de Estilo: AnaliseDeRequisitos/guia-de-estilo.md       
-  - Design, Avaliação e Desenvolvimento:
+  - Design, Avaliação e Desenvolvimento: 
     - Nível 1:
       - Storyboard:
           - Planejamento da Avaliação do Storyboard: DAD/nivel1/storyboard/planejamentoStoryboard.md
@@ -84,7 +84,7 @@ nav:
       - Ferramentas: verificacao/planejamento/ferramentas.md
       - Cronograma: verificacao/planejamento/cronograma.md
       - Padronização do Projeto: verificacao/padronizacaoProjeto.md
-      - Processos de design:
+      - Processos de design: verificacao/adicionar.md
     - Análise de requisitos I:
       - Aspectos Éticos: verificacao/aspectos_eticos.md
       - Perfil de usuário: verificacao/analiseRequisito/perfilUsuario.md
@@ -92,20 +92,20 @@ nav:
       - Cenários: verificacao/cenarios.md
       - Elicitação:
         - Introspecção: verificacao/analiseRequisito/introspeccao.md
-        - Observação: 
+        - Observação: verificacao/adicionar.md
       - Análise de Tarefas:
         - Análise Hierárquica de Tarefas: verificacao/analiseHierarquicaDeTarefas.md
-        - Árvore de Tarefas Concorrentes:
+        - Árvore de Tarefas Concorrentes: verificacao/adicionar.md
     - Análise de requisitos II:
       - Princípios Gerais: verificacao/principiosGerais.md
-      - Caracteristicas Gerais:
-      - Metas de usabilidade:
-      - Guia de estilo:
+      - Caracteristicas Gerais: verificacao/adicionar.md
+      - Metas de usabilidade: verificacao/adicionar.md
+      - Guia de estilo: verificacao/adicionar.md
     - Design, avaliação e desenvolvimento:
       - Análise de Tarefas:
         - Planejamento da Avaliação da Análise de Tarefas: verificacao/DAD/nivel01/analiseDeTarefas/planejamento_avalicao_analise_de_tarefas.md
-        - Planejamento do Relato dos Resultados da Avaliação:
-        - Relato dos Resultados:     
+        - Planejamento do Relato dos Resultados da Avaliação: verificacao/adicionar.md
+        - Relato dos Resultados: verificacao/adicionar.md      
       - Storyboard:
         - Planejamento da Avaliação do Storyboard: verificacao/DAD/nivel01/storyboard/planejamento_avaliacao_storyboar.md
         - Planejamento do Relato dos Resultados: verificacao/DAD/nivel01/storyboard/planejamento_relato_resultados_storyboard.md
