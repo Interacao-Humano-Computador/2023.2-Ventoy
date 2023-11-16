@@ -65,4 +65,4 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|------|---------|
-| 1.0 | 14/11/2023 | Criação do documento e do seu conteúdo |  [Altino Arthur](https://github.com/arthurrochamoreira)| [Mayara Alves](https://github.com/Mayara-tech) | 
+| `1.0` | 14/11/2023 | Criação do documento e do seu conteúdo |  [Altino Arthur](https://github.com/arthurrochamoreira)| [Mayara Alves](https://github.com/Mayara-tech) | 
