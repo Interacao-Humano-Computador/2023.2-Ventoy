@@ -16,11 +16,11 @@ Para a verificação do artefato, será feito uma checklist com base na literatu
 | 4   | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores?| -         | -          |
 | 5   | Os revisores são pessoas diferentes dos autores?                                                      | -         | -          |
 | 6   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fonte?                           | -         | -          |
-| 7   | São identificadas as características da plataforma para o projeto?                                    | -         |            |
-| 8   | São identificados os navegadores ou dispositivos que podem acessar a plataforma?                      | -         |            |
-| 9   | São identificadas as limitações da plataforma?                                                        | -         |            |
-| 10   | São identificadas as funcionalidades da plataforma?                                                  | -         |            |
-| 11   | São identificadas as tecnologias que foram utilizadas?                                               | -         |            |
+| 7   | São identificadas as características da plataforma para o projeto?                                    | -         | -          |
+| 8   | São identificados os navegadores ou dispositivos que podem acessar a plataforma?                      | -         | -          |
+| 9   | São identificadas as limitações da plataforma?                                                        | -         | -          |
+| 10   | São identificadas as funcionalidades da plataforma?                                                  | -         | -          |
+| 11   | São identificadas as tecnologias que foram utilizadas?                                               | -         | -          |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
