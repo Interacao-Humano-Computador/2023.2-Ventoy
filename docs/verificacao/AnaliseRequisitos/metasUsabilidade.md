@@ -1,4 +1,4 @@
-# Vericação - Metas de Usabilidade
+# Verificação - Metas de Usabilidade
 
 ## Introdução
 
