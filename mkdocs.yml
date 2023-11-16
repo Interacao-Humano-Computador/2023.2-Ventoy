@@ -98,7 +98,7 @@ nav:
         - Árvore de Tarefas Concorrentes: verificacao/CTT.md
     - Análise de requisitos II:
       - Princípios Gerais: verificacao/principiosGerais.md
-      - Caracteristicas Gerais: verificacao/CaracteristicasDaPlataforma.md
+      - Caracteristicas da Plataforma: verificacao/CaracteristicasDaPlataforma.md
       - Metas de usabilidade: verificacao/AnaliseRequisitos/metasUsabilidade.md
       - Guia de estilo: verificacao/GuiaDeEstilo.md
     - Design, avaliação e desenvolvimento:
