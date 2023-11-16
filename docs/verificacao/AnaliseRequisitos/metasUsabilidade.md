@@ -31,6 +31,7 @@ realizar essa verificação. O referido checklist pode ser consultado na Tabela 
 | 7  | O texto define os fatores de qualidade que serão priorizados no projeto? |
 | 8  | O texto especifica por que esses fatores são importantes | 
 | 9  | O documento possui explicação para cada meta de usabilidade selecionada? | 
+| 10 | O texto relaciona as metas de usabilidade definidas com problemas no site? |
 
 Fonte: [Breno Queiroz](https://github.com/brenob6)
 
@@ -42,7 +43,7 @@ A tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 
 <center>
 
-**Tabela 2** - checklist preenchido
+**Tabela 2** - Checklist Preenchido
 
 | ID | Descrição | Avaliação | Observação |
 |:-: | :-------- | --------- | ---------- |

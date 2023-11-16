@@ -39,7 +39,7 @@ A tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 
 <center>
 
-**Tabela 2** - 
+**Tabela 2** - Checklist Preenchido
 
 | ID | Descrição | Avaliação | Observação |
 |:-: | :-------- | --------- | ---------- |

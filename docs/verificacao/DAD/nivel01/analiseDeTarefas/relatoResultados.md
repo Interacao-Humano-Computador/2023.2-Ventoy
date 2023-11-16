@@ -26,10 +26,12 @@ realizar essa verificação. O referido checklist pode ser consultado na Tabela 
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? |
 | 6  | Todos os textos estão na norma padrão? |
-| 7  | A entrevista da avaliação foi gravada? |
-| 8  | O documento apresenta as respostas do entrevistado? |
-| 9  | O documento apresenta resultados da análise? |
-|10  | No documento é citado possíveis melhorias? |
+| 7  | As entrevistas das avaliaçoes foram gravadas? |
+| 8  | Como está a qualidade das gravações? |
+| 9  | Para a entrevista foram apresentados apenas os modelos conceituais? |
+| 10  | O documento apresenta as respostas do entrevistado? |
+| 11  | O documento apresenta resultados da análise e problemas identificados? |
+|12  | No documento é citado possíveis melhorias? |
 
 Fonte: [Breno Queiroz](https://github.com/brenob6)
 
@@ -50,14 +52,14 @@ A tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 2  | O artefato possui a metodologia utilizada?| Sim | 
 | 3  | O artefato possui bibliografia/referências bibliográficas? | Sim |
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não | As tabelas não são chamadas no texto |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Não | As tabelas não são chamadas no texto. |
 | 6  | Todos os textos estão na norma padrão? | Sim | |
 | 7  | As entrevistas das avaliaçoes foram gravadas? | Sim |
-| 8  | Como está a qualidade das gravações? | | As entrevistas: Atualizar Curriculo e Acessar Painel Lattes não possuem gravação de tela, apenas áudio |
-| 8  | Para a entrevista foram apresentados apenas os modelos conceituais? | Parcial | Na entrevista Buscar currículo o entrevista abre o navegador e utiliza o site |
-| 8  | O documento apresenta as respostas do entrevistado? | Parcial | Apenas a tabela 2 referente a entrevista 01 - Buscar currículo possuí as respostas do entrevistado. |
-| 9  | O documento apresenta resultados da análise e problemas identificados? | Sim |
-|10  | No documento é citado possíveis melhorias? | Sim |
+| 8  | Como está a qualidade das gravações? | | As entrevistas: Atualizar Curriculo e Acessar Painel Lattes não possuem gravação de tela, apenas áudio. |
+| 9  | Para a entrevista foram apresentados apenas os modelos conceituais? | Parcial | Na entrevista Buscar currículo o entrevista abre o navegador e utiliza o site. |
+| 10  | O documento apresenta as respostas do entrevistado? | Parcial | Apenas a tabela 2 referente a entrevista 01 - Buscar currículo possuí as respostas do entrevistado. |
+| 11  | O documento apresenta resultados da análise e problemas identificados? | Sim |
+|12  | No documento é citado possíveis melhorias? | Sim |
 
 Fonte: [Breno Queiroz](https:github.com/brenob6)
 
