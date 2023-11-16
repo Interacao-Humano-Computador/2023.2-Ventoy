@@ -1,4 +1,4 @@
-# Vericação - Escolha do Processo de Design
+# Verificação - Escolha do Processo de Design
 
 ## Introdução
 
