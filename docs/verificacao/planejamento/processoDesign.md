@@ -44,9 +44,9 @@ A tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | ID | Descrição | Avaliação | Observação |
 |:-: | :-------- | --------- | ---------- |
 | 1  | O artefato possui Introdução?| Parcial | O texto possui introdução mas não está titulado como introdução.  |
-| 2  | O artefato possui a metodologia utilizada?| - | - |
-| 3  | O artefato possui bibliografia/referências bibliográficas? | Sim | -  |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim | - |
+| 2  | O artefato possui a metodologia utilizada?| Sim | |
+| 3  | O artefato possui bibliografia/referências bibliográficas? | Sim |   |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim |  |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes? | Parcial | A maioria das figuras não são chamadas no texto.|
 | 6  | Todos os textos estão na norma padrão? | Sim | |
 | 7  | Os processos de design citados no documento possuem explicação | Sim | 
@@ -68,4 +68,4 @@ Todas as figuras devem ser chamadas no texto. Adicionar marcação de introduç�
 
 | Versão | Data     | Descrição | Autor| Revisor|
 | ------ | -------- | --------- | ---- | -----|
-| `1.0`  | 15/11/2023 | Criação do Documento | [Breno Queiroz](https://github.com/brenob6) | [](https://github.com/) |
+| `1.0`  | 15/11/2023 | Criação do Documento | [Breno Queiroz](https://github.com/brenob6) | [Mayara Alves](https://github.com/Mayara-tech) |
