@@ -84,7 +84,7 @@ nav:
       - Ferramentas: verificacao/planejamento/ferramentas.md
       - Cronograma: verificacao/planejamento/cronograma.md
       - Padronização do Projeto: verificacao/padronizacaoProjeto.md
-      - Processos de design: verificacao/adicionar.md
+      - Processos de design: verificacao/planejamento/processoDesign.md
     - Análise de requisitos I:
       - Aspectos Éticos: verificacao/aspectos_eticos.md
       - Perfil de usuário: verificacao/analiseRequisito/perfilUsuario.md
@@ -99,13 +99,13 @@ nav:
     - Análise de requisitos II:
       - Princípios Gerais: verificacao/principiosGerais.md
       - Caracteristicas Gerais: verificacao/adicionar.md
-      - Metas de usabilidade: verificacao/adicionar.md
+      - Metas de usabilidade: verificacao/AnaliseRequisitos/metasUsabilidade.md
       - Guia de estilo: verificacao/adicionar.md
     - Design, avaliação e desenvolvimento:
       - Análise de Tarefas:
         - Planejamento da Avaliação da Análise de Tarefas: verificacao/DAD/nivel01/analiseDeTarefas/planejamento_avalicao_analise_de_tarefas.md
-        - Planejamento do Relato dos Resultados da Avaliação: verificacao/adicionar.md
-        - Relato dos Resultados: verificacao/adicionar.md      
+        - Planejamento do Relato dos Resultados da Avaliação: verificacao/DAD/nivel01/analiseDeTarefas/planRelatoResultados.md
+        - Relato dos Resultados: verificacao/DAD/nivel01/analiseDeTarefas/relatoResultados.md
       - Storyboard:
         - Planejamento da Avaliação do Storyboard: verificacao/DAD/nivel01/storyboard/planejamento_avaliacao_storyboar.md
         - Planejamento do Relato dos Resultados: verificacao/DAD/nivel01/storyboard/planejamento_relato_resultados_storyboard.md
@@ -113,8 +113,7 @@ nav:
         - Storyboards: verificacao/DAD/nivel01/storyboard/storyboards.md
       - Protótipo de papel:
         - Planejamento da Avaliação do protótipo de papel: verificacao/plan_avaliacao.md
-        - Planejamento do Relato dos resultados do protótipo de papel: verificacao/plan_relato.md     
-        
+        - Planejamento do Relato dos resultados do protótipo de papel: verificacao/plan_relato.md
 theme:
   name: material
   features:
