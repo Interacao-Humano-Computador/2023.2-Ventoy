@@ -1,4 +1,4 @@
-# Vericação - Planejamento do Relatodo dos Resultados da Avaliação
+# Verificação - Planejamento do Relatodo dos Resultados da Avaliação
 
 ## Introdução
 
