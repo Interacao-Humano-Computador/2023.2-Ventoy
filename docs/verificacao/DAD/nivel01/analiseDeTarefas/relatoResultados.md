@@ -1,4 +1,4 @@
-# Vericação - Relato dos Resultados
+# Verificação - Relato dos Resultados
 
 ## Introdução
 
@@ -78,4 +78,4 @@ Adicionar tabelas de respostas do entrevistado referentes as entrevistas Atualiz
 
 | Versão | Data     | Descrição | Autor| Revisor|
 | ------ | -------- | --------- | ---- | -----|
-| `1.0`  | 15/11/2023 | Criação do Documento | [Breno Queiroz](https://github.com/brenob6) | [](https://github.com/) |
+| `1.0`  | 15/11/2023 | Criação do Documento | [Breno Queiroz](https://github.com/brenob6) | [Mayara Alves](https://github.com/Mayara-tech) |
