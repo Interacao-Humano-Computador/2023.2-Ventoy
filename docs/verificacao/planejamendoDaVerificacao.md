@@ -46,11 +46,10 @@ Para verificar cada artefato de forma adequada, elaboramos um checklist específ
 
 | ID  | Descrição     | Avaliação | Observação |
 |-----| --------------------------------------------------------------------------------------------------------------- | --------- | --------- |
-| 1   | O artefato possui Introdução?                                                                          | -        | - |
-| 2   | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                  | -        | - |
-| 3   | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? | -        | - |
-| 4   | Os revisores são pessoas diferentes dos autores?                                    | -        | -  |
-
+| 1   | O artefato possui Introdução?                                                                          | Sim        | - |
+| 2   | O artefato artefato possui uma Bibliografia/Referência Bibliográfica?                                  | Não        |  |
+| 3   | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? | Não        | O artefato possui apenas uma versão na qual foi adicionada a introdução, no entanto há mais itens no artefato porém seus versionamentos não costam no historico de versão. |
+| 4   | Os revisores são pessoas diferentes dos autores?                                    | Não        | A única versão do artefato que é a versão que adiciona a introdução do artefato nem sequer possui um revisor  |
 **Fonte** - [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
