@@ -1,4 +1,4 @@
-# Planejamento da Verificação dos Artefafos do Grupo 03
+# Planejamento da Verificação dos Artefatos do Grupo 03
 
 ## Introdução
 
@@ -114,7 +114,52 @@ Conforme mencionado anteriormente, não existe uma atribuição prévia para det
 
 ## Cronograma
 
-As verificações serão realizadas no período do dia 10 de novembro de 2023 até o dia 14 de novembro de 2023.
+As verificações serão realizadas no período do dia 10 de novembro de 2023 até o dia 14 de novembro de 2023. 
+
+### Divisão da verificação
+
+Na tabela 3, podemos observar como ficou dividido a verificação do projeto e quem foi o responsável por cada verificação.
+
+<center>
+
+**Tabela 3** - Divisão da verificação
+
+| Artefato  | Responsável  |
+|-----| --------------------------------------------------------------------------------------------------------------- |
+| Cronogramas   |    [Mayara Alves](https://github.com/Mayara-tech)  |  
+| Ferramentas  |    [Mayara Alves](https://github.com/Mayara-tech)  |  
+| HeatMap  |    [Luis Eduardo](https://github.com/LuisMiranda10)  |  
+| Metodologia |    [Luis Eduardo](https://github.com/LuisMiranda10) |  
+| Padronização do projeto |    [Milena Baruc](https://github.com/MilenaBaruc)  |  
+|  Processos de Design |    [Breno Queiroz](https://github.com/brenob6) |  
+|  Site Selecionado |   [Luis Eduardo](https://github.com/LuisMiranda10)  |  
+|  Sites Avaliados |    [Luis Eduardo](https://github.com/LuisMiranda10)  |
+|  Aspectos Éticos |      [Milena Baruc](https://github.com/MilenaBaruc)|
+|  Características da plataforma |   [Altino Arthur](https://github.com/arthurrochamoreira)|
+| Cenários   | [Vinicius Mendes](https://github.com/yabamiah) |  
+| Árvore de Tarefas Concorrentes  |   [Altino Arthur](https://github.com/arthurrochamoreira) |  
+| Guia de Estilo  |   [Altino Arthur](https://github.com/arthurrochamoreira) |  
+| Análise Hierárquica de Tarefas | [Vinicius Mendes](https://github.com/yabamiah)  |  
+| Introspecção |     [Mayara Alves](https://github.com/Mayara-tech)  |  
+|  Metas de Usabilidade |   [Breno Queiroz](https://github.com/brenob6)|  
+| Observação |     [Altino Arthur](https://github.com/arthurrochamoreira)  |  
+| Perfil de Usuário |    [Mayara Alves](https://github.com/Mayara-tech) |
+| Personas |    [Mayara Alves](https://github.com/Mayara-tech) |
+| Princípios Gerais do Projeto |   [Vinicius Mendes](https://github.com/yabamiah)  |
+| Planejamento da Avaliação da Análise de Tarefas |     [Vinicius Mendes](https://github.com/yabamiah)  |  
+| Planejamento do Relato dos Resultados da Avaliação  |   [Breno Queiroz](https://github.com/brenob6)|  
+| Relato dos Resultados |     [Breno Queiroz](https://github.com/brenob6))  |  
+| Planejamento da Avaliação do Storyboard |  [Limirio Correia](https://github.com/LimirioGuimaraes) |  
+| Planejamento do Relato dos Resultados da avaliação do Storyboard | [Limirio Correia](https://github.com/LimirioGuimaraes)  |  
+| Relato do Resultado - Storyboard|[Limirio Correia](https://github.com/LimirioGuimaraes) |  
+| Storyboards | [Limirio Correia](https://github.com/LimirioGuimaraes)  |
+| Planejamento da Avaliação do Protótipo de Papel |   [Milena Baruc](https://github.com/MilenaBaruc)|
+| Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel |    [Milena Baruc](https://github.com/MilenaBaruc)  |
+
+**Fonte** - [Mayara Alves](https://github.com/Mayara-tech)
+
+</center>
+
 
 ## Bibliografia
 
@@ -130,3 +175,5 @@ As verificações serão realizadas no período do dia 10 de novembro de 2023 at
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
 | `1.0`  | 10/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.1`  | 16/11/2023 | Adicionando lista da divisão da verificação | [Mayara Alves](https://github.com/Mayara-tech) |  [Limirio Guimarães](https://github.com/LimirioGuimaraes)|
+
