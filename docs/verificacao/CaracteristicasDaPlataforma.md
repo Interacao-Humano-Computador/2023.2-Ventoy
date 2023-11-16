@@ -40,7 +40,7 @@ A Tabela 2 apresenta o checklist preenchido após a verificação do artefato.
 | 3   | O artefato possui uma Bibliografia/Referência Bibliográfica?                                           | Sim       |                                     |
 | 4   | O artefato possui um Histórico de Versões com id e descrição das versões, data, autores e revisores?   | Sim       |                                     |
 | 5   | Os revisores são pessoas diferentes dos autores?                                                       | Sim       |                                     |
-| 6   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fonte?                            |           | Não se Aplica                       |
+| 6   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fonte?                            | N/A       | Não se Aplica                       |
 | 7   | São identificadas as características da plataforma para o projeto?                                     | Sim       |                                     |
 | 8   | São identificados os navegadores ou dispositivos que podem acessar a plataforma?                       | Sim       |                                     |
 | 9   | São identificadas as limitações da plataforma?                                                         | Sim       |                                     |
