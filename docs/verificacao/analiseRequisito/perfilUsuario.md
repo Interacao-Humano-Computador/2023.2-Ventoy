@@ -52,7 +52,7 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 | 8  | O perfil de usuário é caracterizado por dados sobre o próprio usuário?              |  Sim |      -      |
 | 9  | O perfil de usuário é caracterizado por dados sobre sua relação com tecnologia?     |  Sim  |       -     |
 | 10 | O perfil de usuário é caracterizado com seu conhecimento do domínio do produto?     |  Sim |     -       |
-| 11 | O perfil de usuário contém as tarefas que deverá ele realizar utilizando o produto? |   Incompleto  |  Apesar de estar expresso no perfil de usuário a tarefa primária da plataforma, não encontrei nenhum local que falasse dessa informação dentro do documento.  |
+| 11 | O perfil de usuário contém as tarefas que deverá ele realizar utilizando o produto? |  Sim  |   |
 | 12 | Os perfis de usuário são agrupados por faixa etária, experiência, atitude e tarefas primárias no sistema? |   Sim   |  -    |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
@@ -74,7 +74,6 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 | 03 | O artefato não referênciou na bibliografia a plataforma que utilizou para elaboração do questionário | É sugerido ao grupo que o grupo acrescente a referência bibliografica o google forms, que eles citam no texto.
 | 04 | A última versão do artefato não tem revisor| É sugerido que o grupo escolha um integrante para revisar o artefato.
 | 05 | A tabela referente ao perfil de usuario não possui titulo nem fonte.  | É sugerido que se faça o chamamento da tabela no texto e que seja colocado na tabela a identificação e a fonte, além disso e sugerido que a identificação da tabela fique na parte superior da tabela e a fonte na parte inferior.
-| 11 | Apesar de estar expresso no perfil de usuário a tarefa primária da plataforma, não encontrei nenhum local que falasse dessa informação dentro do documento.  | É sugerido ao grupo que seja especificado de onde veio essa informação.
 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
