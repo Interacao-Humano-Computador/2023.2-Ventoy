@@ -92,15 +92,15 @@ nav:
       - Cenários: verificacao/cenarios.md
       - Elicitação:
         - Introspecção: verificacao/analiseRequisito/introspeccao.md
-        - Observação: verificacao/adicionar.md
+        - Observação: verificacao/Observacao.md
       - Análise de Tarefas:
         - Análise Hierárquica de Tarefas: verificacao/analiseHierarquicaDeTarefas.md
-        - Árvore de Tarefas Concorrentes: verificacao/adicionar.md
+        - Árvore de Tarefas Concorrentes: verificacao/CTT.md
     - Análise de requisitos II:
       - Princípios Gerais: verificacao/principiosGerais.md
-      - Caracteristicas Gerais: verificacao/adicionar.md
+      - Caracteristicas Gerais: docs/verificacao/CaracteristicasDaPlataforma.md
       - Metas de usabilidade: verificacao/AnaliseRequisitos/metasUsabilidade.md
-      - Guia de estilo: verificacao/adicionar.md
+      - Guia de estilo: verificacao/GuiaDeEstilo.md
     - Design, avaliação e desenvolvimento:
       - Análise de Tarefas:
         - Planejamento da Avaliação da Análise de Tarefas: verificacao/DAD/nivel01/analiseDeTarefas/planejamento_avalicao_analise_de_tarefas.md
