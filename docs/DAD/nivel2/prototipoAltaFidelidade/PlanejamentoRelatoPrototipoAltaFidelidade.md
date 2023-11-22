@@ -18,6 +18,18 @@ A utilização do framework DECIDE pode contribuir para um planejamento mais est
 
 ### Objetivos e escopo da avaliação
 
+Nessa fase, o redator do documento precisa esclarecer o propósito da avaliação e o motivo por trás de sua realização. Isso implica em justificar a relevância da avaliação, definir as expectativas, estabelecer metas e oferecer uma visão abrangente do contexto e do propósito da avaliação. No caso em questão, os objetivos incluem:
+
+- Avaliar a conformidade com um determinado padrão
+- Identificar problemas na interação e na interface.
+
+Adicionalmente, é fundamental responder às seguintes questões por meio da análise da avaliação, a fim de avaliar se os objetivos foram atingidos:
+
+1. O protótipo de alta fidelidade permitiu a exploração de conceitos de design?
+2. Foram identificadas sugestões de melhoria para o protótipo proposto?
+3. Foi possível identificar problemas de usabilidade preliminares?
+4. Foi possível identificar ideias-chave de design?
+
 ### Método da avaliação 
 
 ### Seleção de participantes
