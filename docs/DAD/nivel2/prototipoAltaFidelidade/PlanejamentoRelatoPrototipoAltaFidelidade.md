@@ -30,4 +30,5 @@ Esse artefato é projetado para documentar de maneira abrangente o planejamento 
 ## 📑 Histórico de Versões
 
 | **Versão** | **Data** | **Descrição** | **Autor**| **Revisor** |
+|------------|----------|---------------|----------|-------------|
 |`1.0`| 22/11/2023 | Criação do documento e adicionado o resultado da avaliação | [Vinícius Mendes](https://github.com/yabamiah), [Luis Miranda]() | | 
