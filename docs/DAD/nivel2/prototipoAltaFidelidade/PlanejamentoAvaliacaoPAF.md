@@ -1,4 +1,4 @@
-# Planejamento da Avaliação do Protótipo de Alta fidelidade
+# Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
 ## Introdução
 
