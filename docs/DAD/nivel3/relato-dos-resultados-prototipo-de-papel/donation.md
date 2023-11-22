@@ -26,11 +26,11 @@ O Método seguiu o [planejamento](https://interacao-humano-computador.github.io/
 
 <center>
 
-Tabela 1 - Cronograma Executado
+**Tabela 1** - Cronograma Executado
 
 | **Entrevistador(a)** | **Entrevistado** | **Data** | **Horario de início/fim** | **Entrevista** |
 | -------------------- | ---------------- | -------- | ------------------------- | -------------- |
-| [Limirio Guimaraes](https://github.com/LimirioGuimaraes) e [Breno Queiroz](https://github.com/brenob6) | Lucas De Moraes | 21/11/2023 | 12:00/12:15 | [Link para Entrevista](youtube) |
+| [Limirio Guimaraes](https://github.com/LimirioGuimaraes) e [Breno Queiroz](https://github.com/brenob6) | Lucas De Moraes | 21/11/2023 | 12:00/12:15 |[Link para Entrevista](https://www.youtube.com/watch?v=1X009ybhvwc) Minutagem 2:54|
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
@@ -38,7 +38,8 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 ### Seleção dos participantes
 
--
+O participante da entrevista, Lucas De Moraes é estudante de Engenharia Aeroespacial na FGA.
+Já utilizaou a ferramenta algumas vezes e possui característica de tecnofilia.
 
 ### Custos
 
@@ -47,16 +48,17 @@ A realização das entrevistas não gerou custo aos entrevistadores ou ao entrev
 ### Aspectos éticos
 
 Para preservar a privacidade dos participantes, garantindo que no relato suas identidades e opiniões permaneçam confidenciais, sem divulgação pública. Obteve-se o consentimento explícito do participante, o supracitado foi informado
-sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas práticas éticas, mantemos um ambiente de avaliação seguro e respeitoso seguindo todos os critérios estabelecidos no [termo de consertimento](../elicitacao/priorizacao/termoConsertimento.pdf).
+sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas práticas éticas, mantemos um ambiente de avaliação seguro e respeitoso seguindo todos os critérios estabelecidos no [termo de consertimento](../../../elicitacao/termoConsertimento.pdf).
 Após a apresentação do termo de consentimento o usuário aceitou os termos e consentiu com a gravação da entrevista.
 
 ### Feedback e sugestões de melhorias
 
-<center>
 
 Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha autonomia para sugerir melhorias e alterar características da interface em que estava trabalhando. No entanto, durante o uso, o usuário não apontou nenhuma 
 característica que deveria ser introduzida, alterada ou removida. Para estimular melhores resultados e de acordo com o [planejamento da avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/#introducao), 
 algumas perguntas foram realizadas ao usuário. As respostas a essas perguntas podem ser visualizadas na tabela 02.
+
+<center>
 
 **Tabela 02**: Tabela de resultados das perguntas feitas ao usuário 
 
@@ -86,12 +88,12 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 3. Foi possível identificar problemas de usabilidade preliminares?
     - Sim a partir da analíse da gravação foi possível identificar um problema já apresentado no texto acima.
 
-# Referências Bicliográficas
+## Referências Bibliográficas
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 08/11/2023 | Criação do documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  |
+|`1.0`| 08/11/2023 | Criação do documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |[Breno Queiroz](https:github.com/brenob6)|
 
