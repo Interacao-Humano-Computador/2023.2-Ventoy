@@ -6,7 +6,7 @@ Este relatório destaca a análise de usabilidade conduzida no protótipo em pap
 
 ### Objetivo e escopo da avaliação
 
-O propósito principal desta avaliação é identificar potenciais problemas na interação do usuário com a interface e destacar oportunidades de aprimoramento na usabilidade do protótipo. Nosso foco está direcionado para a eficiência, eficácia, satisfação do usuário e acessibilidade na seção de doações dentro do protótipo de papel.
+O propósito principal desta avaliação é identificar potenciais problemas na interação do usuário com a interface e destacar oportunidades de aprimoramento na usabilidade do protótipo. Nosso foco está direcionado para a eficiência, eficácia, satisfação do usuário e acessibilidade na seção de plugin dentro do protótipo de papel.
 
 Além disso, para garantir uma avaliação abrangente e informada, procuramos responder às seguintes questões por meio da análise criteriosa dos resultados:
 
@@ -21,7 +21,7 @@ O Método seguiu o [planejamento](../prototipoDePapel/planejamento.md) confeccio
 
 <center>
 
-Tabela 1 - Cronograma Executado
+**Tabela 1** - Cronograma Executado
 
 | **Entrevistador(a)** | **Entrevistado** | **Data** | **Horario de início/fim** | **Entrevista** |
 | -------------------- | ---------------- | -------- | ------------------------- | -------------- |
@@ -37,7 +37,7 @@ O participante [Pedro dos Santos](https://github.com/pedro-hsf) foi selecionado 
 
 <center>
 
-Tabela 2 - Informações do Usuário
+**Tabela 2** - Informações do Usuário
 
 | **Entrevistado**        | [Pedro dos Santos](https://github.com/pedro-hsf) |
 | ----------------------- | ------------------------------------------------ |
@@ -64,7 +64,7 @@ sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas
 
 Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha autonomia para sugerir melhorias e alterar características da interface em que estava trabalhando. No entanto, durante o uso, o usuário não apontou nenhuma característica que deveria ser introduzida, alterada ou removida. Para estimular melhores resultados e de acordo com o [planejamento da avaliação do protótipo de papel](../prototipoDePapel/planejamento.md), algumas perguntas foram realizadas ao usuário. As respostas a essas perguntas podem ser visualizadas na tabela 03.
 
-**Tabela 02**: Tabela de resultados das perguntas feitas ao usuário.
+**Tabela 03**: Tabela de resultados das perguntas feitas ao usuário.
 
 | **Pergunta**                                                              | **Resposta**                         |
 | ------------------------------------------------------------------------- | ------------------------------------ |
@@ -98,4 +98,4 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 22/11/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [](https://github.com/) |
+|`1.0`| 22/11/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |
