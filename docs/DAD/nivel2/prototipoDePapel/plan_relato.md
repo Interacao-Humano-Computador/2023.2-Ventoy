@@ -101,7 +101,7 @@ O feedback dos usuários também desempenha um papel vital na melhoria contínua
 
 Após feito a avaliação com usuário através da entrevista o entrevistador deve realizar uma análise e interpretação dos resultados obtidos.  Isso envolve examinar cuidadosamente os dados coletados durante a avaliação, identificar padrões, tendências e insights relevantes, e extrair conclusões significativas a partir dessas informações. Contextualizar os resultados dentro do objetivo da avaliação e considerar o impacto dos problemas identificados na usabilidade, na experiência do usuário e nos objetivos estabelecidos. Além disso, deve responder as perguntas levantadas inicialmente.
 
-# Referências Bicliográficas
+# Referências Bibliográficas
 
 > Preece, J., Rogers, Y., & Sharp, H. (2005). **Design de interação: Além da interação homem-computador**. Bookman, 2005.
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
