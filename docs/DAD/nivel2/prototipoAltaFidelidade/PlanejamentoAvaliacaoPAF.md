@@ -95,8 +95,8 @@ O roteiro de perguntas para a entrevista está disposto na tabela 01.
 
 | Pergunta | Resposta |
 |:----| :---:|
-| O layout das interfaces estão claros e organizados? |()Sim ()Não   |
-| Os elementos de navegação são claros e intuitivos | ()Sim ()Não |
+| O layout das interfaces estão claros e organizados? |(  )Sim (  )Não   |
+| Os elementos de navegação são claros e intuitivos | (  )Sim (  )Não |
 | Você (usuário) possui alguma sugestão de melhoria?                        | Aberta |
 | Existem funcionalidade adicionais que  você gostaria de ver implementas?  | Aberta |
 
