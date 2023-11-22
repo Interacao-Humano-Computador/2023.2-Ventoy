@@ -46,8 +46,7 @@ Agora, vamos disponibilizar um manual que orienta a criação de uma avaliação
 
 Nessa fase, o redator do documento precisa esclarecer o propósito da avaliação e o motivo por trás de sua realização. Isso implica em justificar a relevância da avaliação, definir as expectativas, estabelecer metas e oferecer uma visão abrangente do contexto e do propósito da avaliação. No caso em questão, os objetivos incluem:
 
-- Avaliar a conformidade com um determinado padrão.
-- Comparar diversas ideias e alternativas de design.
+- Avaliar a conformidade com um determinado padrão
 - Identificar problemas na interação e na interface.
 
 Adicionalmente, é fundamental responder às seguintes questões por meio da análise da avaliação, a fim de avaliar se os objetivos foram atingidos:
@@ -77,9 +76,8 @@ A seleção dos usuários será personalizada, levando em consideração as pref
 
 ### Custos
 
-A realização das entrevistas não gerará um custo ao entrevistador ou ao usuário, as mesmas serão feitas de modo online e de caracter voluntário, utilizando as seguintes ferramentas:
+A realização das entrevistas não gerará um custo ao entrevistador ou ao usuário, as mesmas serão feitas de modo presencial ou online e de caracter voluntário, utilizando as seguintes ferramentas:
 
-- Storyboard;
 - Microsofts Teams;
 - Perguntas;
 - Termo de consentimento;
