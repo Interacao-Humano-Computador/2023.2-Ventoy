@@ -1,4 +1,4 @@
-# Acessar a página de Compartilhamento de Experiências para conusltar relato
+# Acessar a página de Compartilhamento de Experiências para consultar relato
 
 ## Introdução
 
@@ -17,7 +17,7 @@ Ao responder a essas perguntas, buscamos garantir que os objetivos estabelecidos
 
 ### Método de avaliação
 
-O Método seguiu o [planejamento](../prototipoDePapel/planejamento.md) confeccionado pela equipe. Para está pesquisa foi avaliada a implementação no protótipo de papel da tarefa "Acessar a página de Compartilhamento de Experiências para conusltar relato". Para realizar está avaliação os métodos utilizados foram os métodos de observação e à investigação, uma vez que ambas envolvem a interação com os usuários. O cronograma executado está disponível na tabela 1.
+O Método seguiu o [planejamento](../prototipoDePapel/planejamento.md) confeccionado pela equipe. Para está pesquisa foi avaliada a implementação no protótipo de papel da tarefa "Acessar a página de Compartilhamento de Experiências para consultar relato". Para realizar está avaliação os métodos utilizados foram os métodos de observação e à investigação, uma vez que ambas envolvem a interação com os usuários. O cronograma executado está disponível na tabela 1.
 
 <center>
 
