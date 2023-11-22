@@ -20,12 +20,26 @@ O protótipo de papel apresentado na figura 3, ilustra uma das páginas do site 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
+</center>
 
 ### Teste Piloto
 
 A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](https://youtube.com/shorts/_lG3-rFcJ08), foi gravada em 22/11 às 08:42. Foi feita de acordo com o [planejamento do relato](../prototipoDePapel/plan_relato.md/#preparo) feito pelo grupo.
 
-## Protótipo 4 - 
+## Protótipo 4 - Acessar a página de Doações para realizar uma doação
+
+O protótipo de papel apresentado na figura 4, ilustra uma das páginas do site do ventoy, referente a página de [doação](https://www.ventoy.net/en/donation.html)
+
+<center>
+
+**Figura 4**: Acessar a página de Doações para realizar uma doação
+
+![Acessar a página de Doações para realizar uma doação](../../../assets/prototipos/PrototipoPapelLimirio.jpeg)
+
+Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
+
 
 ## Protótipo 5 - Acessar a página de Testes de ISO para verificar os testes
 O prótotipo de papel apresentado na figura 5, ilustra uma das páginas do site Ventoy, referente a página de [testes de ISO](https://www.ventoy.net/en/isolist.html).
@@ -68,10 +82,11 @@ A partir disso, foi feito um testo piloto para verificar o funcionamento do proc
 
 > PREECE, Rogers Sharp **Design de Interação - Além da interação homem-computador** Bookman <br/>
 
-## 📑 Histórico de Versões
+## 📑 Histórico de Versões 
 
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 22/11/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |
 |`1.1`| 22/11/2023 | Adicionando protótipo 5 | [Luis Miranda](https://github.com/LuisMiranda10) | [Vinicius Mendes](https://github.com/yabamiah)  |
-|`1.2`| 22/11/2023 | Adicionando protótipo 3 | [Mayara Alves](https://github.com/LuisMiranda10) | [Vinicius Mendes](https://github.com/yabamiah)  |
+|`1.2`| 22/11/2023 | Adicionando protótipo 3 | [Mayara Alves](https://github.com/Mayara-tech) | [Vinicius Mendes](https://github.com/yabamiah)  |
+|`1.3`| 22/11/2023 | Adicionando protótipo 4 | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)  |
