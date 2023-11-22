@@ -31,7 +31,7 @@ Fonte: [Breno Queiroz](https://github.com/brenob6)
 
 ### Seleção do participante
 
-O participante da entrevista, Lucas De Moraes é estudante de Engenharia Aero Espacial na FGA.
+O participante da entrevista, Lucas De Moraes é estudante de Engenharia Aeroespacial na FGA.
 Já utilizaou a ferramenta algumas vezes e possui característica de tecnofilia.
 
 ### Custos
