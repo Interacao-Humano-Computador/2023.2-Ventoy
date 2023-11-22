@@ -24,6 +24,7 @@ usuários.
 
 A avaliação vai explorarar a seguinte questão
 
+- Avaliar a conformidade com um determinado padrão
 - Problemas na interação e na interface.
 
 ## C - Escolher
