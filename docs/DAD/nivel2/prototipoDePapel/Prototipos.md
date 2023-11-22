@@ -16,7 +16,7 @@ O protótipo de papel apresentado na figura 3, ilustra uma das páginas do site 
 
 **Figura 3**: Acessar a página de FAQ para consultar dúvida
 
-![Acessar a página de FAQ para consultar dúvida](../../../assets/prototipos/PrototipoPapelMayara.jpg)
+![Acessar a página de FAQ para consultar dúvida](../../../assets/prototipos/PrototipoPapelMayara.jpeg)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
