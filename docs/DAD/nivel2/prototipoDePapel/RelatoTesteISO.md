@@ -1,10 +1,10 @@
 # Acessar a página de Testes de ISO para verificar os testes
 
 ## Introdução
-Este relatório destaca a análise de usabilidade conduzida no protótipo em papel da funcionalidade "Acessar a página de Testes de ISO para verificar os testes" para o projeto em questão, relacionado ao site do [Ventoy](https://www.ventoy.net/en/plugin.html). O principal propósito é reconhecer eventuais obstáculos e aperfeiçoar a interação dos usuários ao consultarem a página de FAQ em busca de esclarecimentos. A análise tem como foco compreender a experiência do usuário, priorizando eficiência, eficácia, satisfação e acessibilidade no cenário específico do protótipo em papel.
+Este relatório destaca a análise de usabilidade conduzida no protótipo em papel da funcionalidade "Acessar a página de Testes de ISO para verificar os testes" para o projeto em questão, relacionado ao site do [Ventoy](https://www.ventoy.net/en/plugin.html). O principal propósito é reconhecer eventuais obstáculos e aperfeiçoar a interação dos usuários ao consultarem a a página de Testes de ISO. A análise tem como foco compreender a experiência do usuário, priorizando eficiência, eficácia, satisfação e acessibilidade no cenário específico do protótipo em papel.
 
 ### Objetivo e escopo da avaliação
-O propósito principal desta avaliação é identificar potenciais problemas na interação do usuário com a interface e destacar oportunidades de aprimoramento na usabilidade do protótipo. Nosso foco está direcionado para a eficiência, eficácia, satisfação do usuário e acessibilidade na seção de FAQ dentro do protótipo de papel.
+O propósito principal desta avaliação é identificar potenciais problemas na interação do usuário com a interface e destacar oportunidades de aprimoramento na usabilidade do protótipo. Nosso foco está direcionado para a eficiência, eficácia, satisfação do usuário e acessibilidade na seção de Testes de ISO dentro do protótipo de papel.
 
 Além disso, para garantir uma avaliação abrangente e informada, procuramos responder às seguintes questões por meio da análise criteriosa dos resultados:
 
@@ -73,8 +73,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 Ao longo do procedimento, o usuário continuou a comunicar claramente suas ações e suas intenções subsequentes. Em nenhum momento, ele demonstrou estar perdido ou confuso em relação ao próximo passo a ser tomado.
 
 ### Análise e interpretação dos resultados
-De acordo com a fluidez com que o usuário realizava as tarefas, foi possível observar que o usuário conseguiu sem dificuldades acessar a página de testes de ISO para verificar os testes
-, não foram identificados problemas na interação do usuário com a interface. Durante o processo foi observado que não há a necessidade de ajustes no protótipo.
+De acordo com a fluidez com que o usuário realizava as tarefas, foi possível observar que o usuário conseguiu sem dificuldades acessar a página de testes de ISO para verificar os testes, não foram identificados problemas na interação do usuário com a interface. Durante o processo foi observado que não há a necessidade de ajustes no protótipo.
 
 Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 
@@ -91,4 +90,4 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 22/11/2023 | Criação do documento | [Luis Miranda](https://github.com/LuisMiranda10)  |  |
+|`1.0`| 22/11/2023 | Criação do documento | [Luis Miranda](https://github.com/LuisMiranda10)  | [Mayara Alves](https://github.com/Mayara-tech) |
