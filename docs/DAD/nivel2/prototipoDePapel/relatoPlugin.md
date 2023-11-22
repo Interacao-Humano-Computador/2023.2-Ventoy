@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este relatório destaca a análise de usabilidade conduzida no protótipo em papel da funcionalidade "acessar a aba de plugin" para o projeto em questão, relacionado ao site do [Ventoy](https://www.ventoy.net/en/plugin.html). O objetivo primordial é identificar possíveis desafios e aprimorar a interação dos usuários ao consultar realizarem a aba de plugin. A avaliação visa compreender a experiência do usuário, enfocando eficiência, eficácia, satisfação e acessibilidade no contexto específico do protótipo em papel.
+Este relatório destaca a análise de usabilidade conduzida no protótipo em papel da funcionalidade "acessar a aba de plugin" para o projeto em questão, relacionado ao site do [Ventoy](https://www.ventoy.net/en/plugin.html). O objetivo primordial é identificar possíveis desafios e aprimorar a interação dos usuários ao consultar a aba de plugin. A avaliação visa compreender a experiência do usuário, enfocando na eficiência, na eficácia, na satisfação e na acessibilidade no contexto específico do protótipo em papel.
 
 ### Objetivo e escopo da avaliação
 
@@ -99,3 +99,4 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 22/11/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |
+|`1.1`| 22/11/2023 | Alterações no documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |
