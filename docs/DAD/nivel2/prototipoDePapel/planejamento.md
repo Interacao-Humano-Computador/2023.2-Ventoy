@@ -22,9 +22,9 @@ usuários.
 
 ## E - Explorar
 
-A avaliação vai explorarar as seguintes questões
+A avaliação vai explorarar a seguinte questão
 
-- Ideias e alternativas de design.
+- Avaliar a conformidade com um determinado padrão
 - Problemas na interação e na interface.
 
 ## C - Escolher
