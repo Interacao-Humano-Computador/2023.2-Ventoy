@@ -77,7 +77,8 @@ Fonte: [Luis Eduardo](https://github.com/LuisMiranda10)
 </center>
 
 ## Storyboard 6:
-O storyboard apresentado na Figura 6, ilustra um cenário onde um jovem usuário de um computador com problemas, necessecita formatar seu computador, e em suas pequisas para procurar algo, ele encontrou o Ventoy, a partir disso, ele leu a sua documentação e o instalou para poder utilizar.
+
+O storyboard apresentado na Figura 6, ilustra um cenário onde um jovem usuário de um computador com problemas, necessita formatar seu computador, e em suas pequisas para procurar algo, ele encontrou o Ventoy, a partir disso, ele leu a sua documentação e o instalou para poder utilizar.
 
 <center>
 
@@ -103,10 +104,9 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
 </center>
 
-
-
 ## Bibliografia
-> PREECE, Rogers Sharp **Design de Interação - Além da interação homem-computador** Bookman<br/>
+
+> PREECE, Rogers Sharp **Design de Interação - Além da interação homem-computador** Bookman <br/>
 
 ## 📑 Histórico de versões:
 
