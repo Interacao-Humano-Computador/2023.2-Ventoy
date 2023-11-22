@@ -8,7 +8,22 @@ Um protótipo é um esboço de produto ou serviço que busca visualizar uma idei
 
 ## Protótipo 2 - 
 
-## Protótipo 3 - 
+## Protótipo 3 - Acessar a página de FAQ para consultar dúvida
+
+O protótipo de papel apresentado na figura 3, ilustra uma das páginas do site do ventoy, referente a página de [FAQ](https://www.ventoy.net/en/faq.html)
+
+<center>
+
+**Figura 3**: Acessar a página de FAQ para consultar dúvida
+
+![Acessar a página de FAQ para consultar dúvida](../../../assets/prototipos/PrototipoPapelMayara.jpg)
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
+
+
+### Teste Piloto
+
+A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](https://youtube.com/shorts/_lG3-rFcJ08), foi gravada em 22/11 às 08:42. Foi feita de acordo com o [planejamento do relato](../prototipoDePapel/plan_relato.md/#preparo) feito pelo grupo.
 
 ## Protótipo 4 - 
 
