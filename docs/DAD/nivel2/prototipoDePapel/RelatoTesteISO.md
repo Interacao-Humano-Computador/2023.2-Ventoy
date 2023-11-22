@@ -50,7 +50,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 A realização das entrevistas não gerou custo aos entrevistadores ou ao entrevistado, as mesmas foram realizadas de forma presencial dentro do auditório da UNB-FGA ( localizado no campus gama ) e de caracter voluntário.
 
 ### Aspectos éticos
-Para preservar a privacidade dos participantes, garantindo que no relato suas identidades e opiniões permaneçam confidenciais, sem divulgação pública. Obteve-se o consentimento explícito do participante, o supracitado foi informado sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas práticas éticas, mantemos um ambiente de avaliação seguro e respeitoso seguindo todos os critérios estabelecidos no [termo de consertimento](../../../assets/termoConsertimentoPluginAss.pdf) assinado pelo participante previamente e lido de forma geral durante a entrevista.
+Para preservar a privacidade dos participantes, garantindo que no relato suas identidades e opiniões permaneçam confidenciais, sem divulgação pública. Obteve-se o consentimento explícito do participante, o supracitado foi informado sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas práticas éticas, mantemos um ambiente de avaliação seguro e respeitoso seguindo todos os critérios estabelecidos no termo de consertimento que foi aceito pelo participante previamente e lido de forma geral durante a entrevista presencial.
 
 ### Feedback e sugestões de melhorias
 Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha autonomia para sugerir melhorias e alterar características da interface em que estava trabalhando. No entanto, durante o uso, o usuário não apontou nenhuma característica que deveria ser introduzida, alterada ou removida. Para estimular melhores resultados e de acordo com o [planejamento da avaliação do protótipo de papel](../prototipoDePapel/planejamento.md), algumas perguntas foram realizadas ao usuário. As respostas a essas perguntas podem ser visualizadas na tabela 03.
@@ -75,7 +75,7 @@ Ao longo do procedimento, o usuário continuou a comunicar claramente suas açõ
 ### Análise e interpretação dos resultados
 De acordo com a fluidez com que o usuário realizava as tarefas, foi possível observar que o usuário conseguiu sem dificuldades acessar a página de testes de ISO para verificar os testes, não foram identificados problemas na interação do usuário com a interface. Durante o processo foi observado que não há a necessidade de ajustes no protótipo.
 
-Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
+[Respostas as perguntas]() apresentadas no tópico de objetivos da avaliação:
 
 1. Foram identificadas sugestões de melhoria para o protótipo proposto?
      - Não foram identificadas sugestões de melhoria.
