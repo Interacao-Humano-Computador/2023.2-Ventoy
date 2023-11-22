@@ -22,7 +22,7 @@ O Método seguiu o [planejamento](../prototipoDePapel/planejamento.md) confeccio
 
 | **Entrevistador(a)** | **Entrevistado** | **Data** | **Horario de início/fim** | **Entrevista** |
 | -------------------- | ---------------- | -------- | ------------------------- | -------------- |
-| [Luis Miranda](https://github.com/LuisMiranda10) | Luiz Amaral | 22/11/2023 | 14:17/14:19 | [Link para Entrevista]() |
+| [Luis Miranda](https://github.com/LuisMiranda10) | Luiz Amaral | 22/11/2023 | 14:17/14:21 | [Link para Entrevista]() |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
