@@ -141,4 +141,4 @@ Após a classificação será discultido propostas e sugestões para a correçã
 
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 22/11/2023 | Criação do documento | [Mayara Alves](https://github.com/Mayara-tech)||
+|`1.0`| 22/11/2023 | Criação do documento | [Mayara Alves](https://github.com/Mayara-tech)| [Luis Miranda](https://github.com/LuisMiranda10)|
