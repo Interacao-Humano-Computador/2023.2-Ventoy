@@ -6,6 +6,14 @@ Esse artefato é projetado para documentar de maneira abrangente o planejamento 
 
 ## Metodologia 
 
+A seleção da metodologia a ser empregada no planejamento do relatório do protótipo de papel é influenciada pelos objetivos da análise. Conforme discutido na literatura sobre Interação Humano-Computador, existem três abordagens principais: investigação, inspeção e observação, cada uma com suas metodologias distintas. No contexto deste artefato em particular, as opções viáveis restringem-se à observação e à investigação, uma vez que ambas envolvem a interação com os usuários.
+
+A metodologia escolhida para este projeto será a observação, onde um usuário será convidado a realizar uma simulação com o protótipo de alta fidelidade. Isso implica conduzir simulações individuais, com o propósito de obter informações detalhadas sobre suas percepções, experiências e desafios ao executar as tarefas relacionadas ao protótipo.
+
+Para a organização e planejamento das atividades a serem realizadas, será utilizado o framework DECIDE, como já descrito no [planejamento](). Este framework pode fornecer uma estrutura valiosa para orientar o processo de tomada de decisão e a gestão das atividades. Ele é conhecido por auxiliar na definição de critérios, na análise de alternativas, na identificação de riscos e na escolha da melhor abordagem para determinada situação.
+
+A utilização do framework DECIDE pode contribuir para um planejamento mais estruturado e eficaz, garantindo que as etapas necessárias sejam devidamente consideradas e que as decisões sejam embasadas em critérios relevantes.
+
 ## Relato dos Resultados 
 
 ### Objetivos e escopo da avaliação
