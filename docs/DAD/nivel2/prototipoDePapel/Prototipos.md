@@ -43,3 +43,4 @@ A partir disso, foi feito um testo piloto para verificar o funcionamento do proc
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 22/11/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |
+|`1.1`| 22/11/2023 | Adicionando protótipo 5 | [Luis Miranda](https://github.com/LuisMiranda10) | [Vinicius Mendes](https://github.com/yabamiah)  |
