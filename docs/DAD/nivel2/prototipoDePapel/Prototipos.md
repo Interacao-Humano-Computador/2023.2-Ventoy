@@ -4,7 +4,29 @@
 
 Um protótipo é um esboço de produto ou serviço que busca visualizar uma ideia, entender comportamentos ou testar soluções. Ele é resultado de descobertas feitas em fases anteriores, sendo sustentado por hipóteses a serem testadas antes da construção do produto final. No caso do prótotipo de papel é de baixa a média fidelidade.
 
-## Protótipo 1 - 
+## Protótipo 1 - Iniciar o uso do Ventoy
+
+O protótipo de papel apresentado na Figura 1 e 2, ilustram páginas do site do Ventoy, sendo respectivamente a página de [Downloads](https://www.ventoy.net/en/download.html) e de [Document](https://www.ventoy.net/en/doc_news.html).
+
+<center>
+  
+  **Figura 1** - Acesso a página de Downloads
+
+  ![Acesso a página de Donwloads](../../../assets/prototipos/donwloadProto.jpeg)
+
+  Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+
+  **Figura 2** - Acesso a página de Documento
+
+  ![Acesso a página de Document](../../../assets/prototipos/documentoProto.jpeg)
+
+  Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+  
+</center>
+
+### Teste Piloto
+
+A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](), foi gravada em 22/11 às 14:30. Foi feita de acordo com o [planejamento do relato](../prototipoDePapel/plan_relato.md/#preparo) feito pelo grupo.
 
 ## Protótipo 2 - 
 
