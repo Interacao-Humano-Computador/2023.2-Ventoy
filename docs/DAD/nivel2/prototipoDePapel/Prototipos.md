@@ -19,7 +19,7 @@ O prótotipo de papel apresentado na figura 5, ilustra uma das páginas do site 
 
 **Figura 5**: Acesso a página de Testes de ISO
 
-![Acessar a página de Testes de ISO](../../../assets/prototipos/PrototipoTesteISO_.jpg)
+![Acessar a página de Testes de ISO](../../../assets/prototipos/PrototipoLuis.jpg)
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
