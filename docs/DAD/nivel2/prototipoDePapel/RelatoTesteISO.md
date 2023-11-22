@@ -47,7 +47,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
 
 ### Custos
-A realização das entrevistas não gerou custo aos entrevistadores ou ao entrevistado, as mesmas foram realizadas de forma presencial dentro da UNB-FGA e de caracter voluntário.
+A realização das entrevistas não gerou custo aos entrevistadores ou ao entrevistado, as mesmas foram realizadas de forma presencial dentro do auditório da UNB-FGA ( localizado no campus gama ) e de caracter voluntário.
 
 ### Aspectos éticos
 Para preservar a privacidade dos participantes, garantindo que no relato suas identidades e opiniões permaneçam confidenciais, sem divulgação pública. Obteve-se o consentimento explícito do participante, o supracitado foi informado sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas práticas éticas, mantemos um ambiente de avaliação seguro e respeitoso seguindo todos os critérios estabelecidos no [termo de consertimento](../../../assets/termoConsertimentoPluginAss.pdf) assinado pelo participante previamente e lido de forma geral durante a entrevista.
