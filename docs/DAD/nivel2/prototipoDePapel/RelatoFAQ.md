@@ -25,7 +25,7 @@ O Método seguiu o [planejamento](../prototipoDePapel/planejamento.md) confeccio
 
 | **Entrevistador(a)** | **Entrevistado** | **Data** | **Horario de início/fim** | **Entrevista** |
 | -------------------- | ---------------- | -------- | ------------------------- | -------------- |
-| [Mayara Alves](https://github.com/Mayara-tech) | Igor Luna | 22/11/2023 | 09:40/09:45 | [Link para Entrevista](https://youtu.be/pxGimN7Rc7E) |
+| [Mayara Alves](https://github.com/Mayara-tech) | Igor Luna | 22/11/2023 | 09:40/09:45 | [Link para Entrevista](https://youtu.be/sd6CPuITmTY) |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
@@ -99,4 +99,4 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 22/11/2023 | Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) |  |
+|`1.0`| 22/11/2023 | Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) | [Luis Eduardo](https://github.com/LuisMiranda10) |
