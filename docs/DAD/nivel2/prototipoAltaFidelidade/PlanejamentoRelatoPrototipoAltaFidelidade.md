@@ -41,12 +41,28 @@ Esta seção aborda a identificação dos participantes da avaliação, justific
 
 ### Custos 
 
+A realização das entrevistas não gerará um custo ao entrevistador ou ao usuário, as mesmas serão feitas de modo presencial ou online e de caracter voluntário, utilizando as seguintes ferramentas:
+
+- Microsofts Teams;
+- Perguntas;
+- Termo de consentimento;
+- Teste Piloto.
+
+Vale ressaltar que, para que possamos utilizar as ferramentas é necessário um dispositivo com acesso à internet.
+
 ### Aspectos éticos 
+
+É imperativo preservar a privacidade dos participantes, garantindo que no relato suas identidades e opiniões permaneçam confidenciais, sem divulgação pública. Obtendo-se o consentimento explícito dos participantes, é essencial informá-los sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas práticas éticas, mantemos um ambiente de avaliação seguro e respeitoso seguindo todos os critérios estabelecidos no [termo de consertimento](../../../../elicitacao/termoConsertimento.pdf) . No relatório dos resultados da avaliação, é crucial detalhar o processo de solicitação de consentimento, incluindo se os entrevistados concordaram ou não.
 
 ### Feedbacks e sugestões de melhorias
 
+Durante a avaliação, é crucial que o entrevistador documente de maneira abrangente as sugestões e melhorias com base nos problemas identificados. Isso implica um registro claro e objetivo de cada problema, incluindo contexto, ação do usuário, resultado esperado e resultado observado. Além disso, é responsabilidade do entrevistador propor soluções ou sugestões para corrigir os problemas encontrados, oferecendo ideias para ajustes de design, melhorias na interface do usuário ou alterações nas funcionalidades.
+
+O feedback dos usuários também desempenha um papel vital na melhoria contínua. O entrevistador deve captar atentamente as opiniões, sugestões e comentários dos usuários durante a avaliação de tarefas. Registrando de maneira completa e precisa o feedback fornecido pelos usuários, levando em consideração suas percepções, experiências e necessidades, essas informações tornam-se inestimáveis para compreender as expectativas dos usuários, identificar pontos fortes e fracos do sistema, e obter insights essenciais para possíveis melhorias.
+
 ### Análise e interpretação dos resultados
 
+Após feito a avaliação com usuário através da entrevista o entrevistador deve realizar uma análise e interpretação dos resultados obtidos.  Isso envolve examinar cuidadosamente os dados coletados durante a avaliação, identificar padrões, tendências e insights relevantes, e extrair conclusões significativas a partir dessas informações. Contextualizar os resultados dentro do objetivo da avaliação e considerar o impacto dos problemas identificados na usabilidade, na experiência do usuário e nos objetivos estabelecidos. Além disso, deve responder as perguntas levantadas inicialmente.
 
 # Referências Bibliográficas
 
