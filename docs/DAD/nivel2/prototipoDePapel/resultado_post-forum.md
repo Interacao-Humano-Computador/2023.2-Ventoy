@@ -85,7 +85,7 @@ Fonte: [Breno Queiroz](https://github.com/brenob6)
 - A tarefa foi realizada em período de tempo curto.
 - O usuário não teve dificuldade em interpretar os elementos cada interface.
 
-# Referências Bicliográficas
+# Referências Bibliográficas
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
