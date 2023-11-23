@@ -12,7 +12,20 @@ ainda não definem todos os detalhes da interface do usuário. (BARBOSA, 2010)
 
 ## Metodologia
 
-A estrutura deste planejamento foi construída utilizando o *framework* DECIDE. 
+A metodologia adotada na concepção da estrutura deste planejamento para o protótipo de alta fidelidade foi desenvolvida com base no framework DECIDE, conforme proposto por Sharp, Rogers e Preece. A descrição das atividades do framewok serão descritas na tabela 1.
+
+<p align="center"><b>Tabela 01 - Atividade do <i>framework</i> DECIDE</b></p>
+
+| **Letra da atividade** | **Descrição da atividade**                                  |
+| ---------------------- | ----------------------------------------------------------- |
+| D                      | Determinar os objetivos da avaliação de IHC                 |
+| E                      | Explorar perguntas a serem respondidas com a avaliação      |
+| C                      | Escolher os métodos de avaliação a serem utilizados         |
+| I                      | Identificar e administrar as questões práticas da avaliação |
+| D                      | Decidir como lidar com as questões éticas                   |
+| E                      | Avaliar, interpretar e apresentar os dados colhidos         |
+
+<p align="center">Fonte: Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.</p>
 
 ## D - Determinar
 
@@ -64,11 +77,11 @@ qualidade da iluminação, etc.
 Após a simulação será realizado uma pequena entrevista para colher algumas opiniões
 do usuário.
 
-O roteiro de perguntas para a entrevista está disposto na tabela 01.
+O roteiro de perguntas para a entrevista está disposto na tabela 02.
 
 <center>
 
-**Tabela 01**: Roteiro de Perguntas
+**Tabela 02**: Roteiro de Perguntas
 
 | Pergunta | Resposta |
 |:----| :---:|
@@ -83,9 +96,10 @@ Fonte: [Breno Queiroz](https://github.com/brenob6)
 
 ### Cronograma
 
+O cronograma previsto para a avaliação está detalhado na Tabela 3, na qual cada sessão de avaliação é identificada pelo nome do entrevistador (membro da equipe), além da data e do local previsto para avaliação do protótipo de papel.
 <center>
 
-**Tabela 02**: Cronograma
+**Tabela 03**: Cronograma
 
 |Responsáveis   | Local                |   Data |
 |:----| :---:|:---:|
@@ -103,7 +117,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ## D - Aspectos Éticos
 
-Os usuários recrutados devem concordar com o termo de consentimento. Isso 
+Os usuários recrutados devem concordar com o [termo de consentimento]((../../../elicitacao/termoConsertimento.pdf). Isso 
 é essencial para garantir a conformidade com os aspectos éticos do processo e para assegurar
 que os participantes estejam genuinamente dispostos a colaborar.
 
