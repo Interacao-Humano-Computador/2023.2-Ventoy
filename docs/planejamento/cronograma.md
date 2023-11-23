@@ -274,10 +274,9 @@ Na Tabela 13, tem-se o cronograma executado para todas as atividades da entrega 
 
 ### Cronograma planejado entrega 7.
 
-Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sétima entrega.
+Na Tabela 14, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
-<p align="center"><b>Tabela 13</b> - Entrega 7.  Planejamento da Avaliação do protótipo de
-alta fidelidade </p>
+<p align="center"><b>Tabela 14</b> - Entrega 7.  Planejamento da Avaliação do protótipo de alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -290,6 +289,23 @@ alta fidelidade </p>
 
 
 <font size="3"><p style="text-align: center">Fonte:[Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
+
+### Cronograma executado entrega 7.
+
+Na Tabela 15, tem-se o cronograma executado para todas as atividades da sétima entrega.
+
+<p align="center"><b>Tabela 15</b> - Entrega 7.  Planejamento da Avaliação do protótipo de alta fidelidade </p>
+
+| Atividade                    | Data prevista                                    	      | Período de execuçaõ  | Responsáveis       | Revisão   | Revisor            |
+| ---------------------------------- | --------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos da entrega 6.1     | Início: 14/11<br>Fim: 15/11                 	            | Início: 15/11<br>Fim: 16/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      	     |   16/11   | Mayara, Limírio, Luís, Milena, Vinícius e Altino            |
+|Relato dos resultados do Protótipo de Papel            | Início: 14/11<br>Fim: 15/11                    	      | Início: 17/11<br>Fim: 22/11 | Mayara, Limírio, Luís, Milena, Vinícius, Breno e Altino        |   22/11   | Mayara, Limírio, Luís, Milena, Vinícius, Breno e Altino            |
+| Planejamento da Avaliação do protótipo de alta fidelidade    | Início: 14/11<br>Fim: 15/11                       	      | Início: 17/11<br>Fim: 22/11 | Mayara  |   22/11   | Luis         |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade  | Início: 14/11<br>Fim: 15/11 | Início: 17/11<br>Fim: 22/11 | Altino, Vinícius e Luis   |   22/11   | Breno         |
+| Gravação da apresentação      | Início: 21/11<br>Fim: 21/11            |   Início: 22/11<br>Fim: 22/11                         	   |Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   22/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino           |
+| Cronograma executado                |    Início: 21/11<br>Fim: 21/11                       	        | Início: 23/11<br>Fim: 23/11 |Mayara          |   23/11   |  Vinícius     |
+
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 ### Cronograma planejado entrega 8.
 
@@ -344,6 +360,7 @@ Na Tabela 15, tem-se o cronograma planejado para todas as atividades da entrega 
 | `1.5`   |31/10/2023 |Adicionando coluna de data prevista no cronograma executado |[Mayara Alves](https://github.com/Mayara-tech)| [Limírio Guimarães](https://github.com/LimirioGuimaraes)|
 | `1.6`   |08/11/2023| Adicionando cronograma executado da quinta entrega |[Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/LimirioGuimaraes)|
 | `1.7`   |23/11/2023| Adicionando cronograma executado da entrega 6.1|[Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/LimirioGuimaraes)|
+| `1.8`   |23/11/2023| Adicionando cronograma executado da sétima entrega |[Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/LimirioGuimaraes)|
 
 
 
