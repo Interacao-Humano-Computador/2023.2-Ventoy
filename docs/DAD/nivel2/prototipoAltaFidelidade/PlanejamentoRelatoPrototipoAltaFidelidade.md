@@ -12,6 +12,8 @@ A metodologia escolhida para este projeto será a observação, onde um usuário
 
 Para a organização e planejamento das atividades a serem realizadas, será utilizado o framework DECIDE, como já descrito no [planejamento](). Este framework pode fornecer uma estrutura valiosa para orientar o processo de tomada de decisão e a gestão das atividades. Ele é conhecido por auxiliar na definição de critérios, na análise de alternativas, na identificação de riscos e na escolha da melhor abordagem para determinada situação.
 
+A escolha da observação como metodologia de avaliação do protótipo de alta fidelidade foi deliberada, fundamentada na necessidade de capturar interações autênticas e comportamentos não-verbais dos usuários que são frequentemente omitidos em auto-relatos. Esta abordagem permite uma análise direta e rica em contexto da usabilidade e da experiência do usuário, fornecendo uma compreensão mais profunda e detalhada de como o design do protótipo atende às necessidades reais dos usuários. Ademais, essa metodologia facilita a identificação imediata de problemas de interação, o que é crucial para iterar rapidamente o design e aprimorar a solução proposta.
+
 A utilização do framework DECIDE pode contribuir para um planejamento mais estruturado e eficaz, garantindo que as etapas necessárias sejam devidamente consideradas e que as decisões sejam embasadas em critérios relevantes.
 
 ## Relato dos Resultados 
