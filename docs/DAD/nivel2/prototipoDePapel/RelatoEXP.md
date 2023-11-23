@@ -1,12 +1,12 @@
-# Acessar a aba de plugin
+# Acessar a página de Compartilhamento de Experiências para consultar relato
 
 ## Introdução
 
-Este relatório destaca a análise de usabilidade conduzida no protótipo em papel da funcionalidade "acessar a aba de plugin" para o projeto em questão, relacionado ao site do [Ventoy](https://www.ventoy.net/en/plugin.html). O objetivo primordial é identificar possíveis desafios e aprimorar a interação dos usuários ao consultar realizarem a aba de plugin. A avaliação visa compreender a experiência do usuário, enfocando eficiência, eficácia, satisfação e acessibilidade no contexto específico do protótipo em papel.
+Este relatório destaca a análise de usabilidade conduzida no protótipo em papel da funcionalidade "acessar a página de Compartilhamento de Experiências" para o projeto em questão, relacionado ao site do [Ventoy](https://www.ventoy.net/en/experience.html). O objetivo primordial é identificar possíveis desafios e aprimorar a interação dos usuários ao acessarem a página de Compartilhamento de Experiências. A avaliação visa compreender a experiência do usuário, enfocando eficiência, eficácia, satisfação e acessibilidade no contexto específico do protótipo em papel.
 
 ### Objetivo e escopo da avaliação
 
-O propósito principal desta avaliação é identificar potenciais problemas na interação do usuário com a interface e destacar oportunidades de aprimoramento na usabilidade do protótipo. Nosso foco está direcionado para a eficiência, eficácia, satisfação do usuário e acessibilidade na seção de plugin dentro do protótipo de papel.
+O propósito principal desta avaliação é identificar potenciais problemas na interação do usuário com a interface e destacar oportunidades de aprimoramento na usabilidade do protótipo. Nosso foco está direcionado para a eficiência, eficácia, satisfação do usuário e acessibilidade na seção de Compartilhamento de Experiências dentro do protótipo de papel.
 
 Além disso, para garantir uma avaliação abrangente e informada, procuramos responder às seguintes questões por meio da análise criteriosa dos resultados:
 
@@ -17,7 +17,7 @@ Ao responder a essas perguntas, buscamos garantir que os objetivos estabelecidos
 
 ### Método de avaliação
 
-O Método seguiu o [planejamento](../prototipoDePapel/planejamento.md) confeccionado pela equipe. Para está pesquisa foi avaliada a implementação no protótipo de papel da tarefa "acessar a aba de plugin". Para realizar está avaliação os métodos utilizados foram os métodos de observação e à investigação, uma vez que ambas envolvem a interação com os usuários. O cronograma executado está disponível na tabela 1.
+O Método seguiu o [planejamento](../prototipoDePapel/planejamento.md) confeccionado pela equipe. Para está pesquisa foi avaliada a implementação no protótipo de papel da tarefa "Acessar a página de Compartilhamento de Experiências para consultar relato". Para realizar está avaliação os métodos utilizados foram os métodos de observação e à investigação, uma vez que ambas envolvem a interação com os usuários. O cronograma executado está disponível na tabela 1.
 
 <center>
 
@@ -25,33 +25,34 @@ O Método seguiu o [planejamento](../prototipoDePapel/planejamento.md) confeccio
 
 | **Entrevistador(a)** | **Entrevistado** | **Data** | **Horario de início/fim** | **Entrevista** |
 | -------------------- | ---------------- | -------- | ------------------------- | -------------- |
-| [Milena Baruc](https://github.com/MilenaBaruc) | [Pedro dos Santos](https://github.com/pedro-hsf) | 22/11/2023 | 14:00/14:15 | [Link para Entrevista](https://youtu.be/pxGimN7Rc7E) |
+| [Altino Arthur](https://github.com/arthurrochamoreira) | Matheus José da Silva | 22/11/2023 | 16:40/16:43 | [Link para Entrevista](https://youtu.be/qum9gbsxzFs) |
 
-Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
 
 ### Seleção dos participantes
 
-O participante [Pedro dos Santos](https://github.com/pedro-hsf) foi selecionado de acordo com o [perfil de usuário](../../../elicitacao/PerfilUsuario.md) previamente estabelecido pelo grupo. Segue as informações do participante na tabela 2.
+O participante Matheus José foi selecionado de acordo com o [perfil de usuário](../../../elicitacao/PerfilUsuario.md) previamente estabelecido pelo grupo. Segue as informações do participante na tabela 2.
 
 <center>
 
 **Tabela 2** - Informações do Usuário
 
-| **Entrevistado**        | [Pedro dos Santos](https://github.com/pedro-hsf) |
+| **Entrevistado**        |Igor Luna Almeida |
 | ----------------------- | ------------------------------------------------ |
+| **Gênero**              | Masculino                                        |
 | **Idade**               | 20 anos                                          |
-| **Profissão**           | Estudante de Engenharia de Software na Unb-FGA   |
+| **Profissão**           | Estudante                                        |
 | **Já utilizou o Site?** | (x)Sim ()Não                                     |
 
-Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
 
 ### Custos
 
-A realização das entrevistas não gerou custo aos entrevistadores ou ao entrevistado, as mesmas foram realizadas de forma online no aplicativo Teams e de caracter voluntário.
+A realização das entrevistas não gerou custo aos entrevistadores ou ao entrevistado, as mesmas foram realizadas de forma presencial dentro da UNB-DARCY e de caracter voluntário.
 
 ### Aspectos éticos
 
@@ -73,15 +74,15 @@ Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha
 | Você (usuário) possui alguma sugestão de melhoria?                        | Não foi apresentada nenhuma sugestão |
 | Existem funcionalidade adicionais que  você gostaria de ver implementas?  | Não foi apresentada nenhuma sugestão |
 
-Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
 
-Durante o processo o usuário permaneceu sempre explicitando o que estava fazendo e o que gostaria de fazer em seguida, em nenhum momento o usuário pareceu perdido ou confuso com seu próximo passo.
+Durante o processo em nenhum momento o usuário pareceu perdido ou confuso com seu próximo passo.
 
 ### Análise e interpretação dos resultados
 
-De acordo com a fluidez com que o usuário realizava as tarefas, foi possível observar que ao chegar à tela de plugin, não foram identificados problemas na interação do usuário com a interface. Durante o processo foi observado que não há a necessidade de ajustes no protótipo.
+De acordo com a fluidez com que o usuário realizava as tarefas, foi possível observar que o usuário conseguiu sem dificuldades acessar o Compartilhamento de Experiências para consultar os relatos, não foram identificados problemas na interação do usuário com a interface. Durante o processo foi observado que não há a necessidade de ajustes no protótipo.
 
 Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 
@@ -98,4 +99,4 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 22/11/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |
+|`1.0`| 22/11/2023 | Criação do documento | [Altino Arthur](https://github.com/arthurrochamoreira) | [Revisor](https://github.com/) |

@@ -1,6 +1,7 @@
 # Planejamento do Relato dos Resultados - Protótipo de Papel
 
 ## Introdução
+
 Esse artefato é projetado para documentar de maneira abrangente o planejamento que visa descrever os resultados provenientes da avaliação de um protótipo em papel. Seu propósito é abordar todos os elementos fundamentais necessários para a elaboração completa e detalhada desse relatório. Em outras palavras, é um guia abrangente que visa cobrir todos os aspectos essenciais envolvidos na criação do relatório de avaliação do protótipo em papel.
 
 ## Metodologia 
@@ -105,6 +106,7 @@ Após feito a avaliação com usuário através da entrevista o entrevistador de
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
 ## 📑 Histórico de Versões
+
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 08/11/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |

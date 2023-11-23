@@ -72,10 +72,19 @@ nav:
           - Relato dos Resultados da Avaliação: DAD/nivel1/AnaliseTarefas/resultado.md
     - Nível 2:
       - Protótipo de Papel:
-        - Planejamento da Avaliação do protótipo de papel: DAD/nivel2/prototipoDePapel/planejamento.md
-        - Planejamento do Relato dos resultados do protótipo de papel: DAD/nivel2/prototipoDePapel/plan_relato.md
+        - Planejamento da Avaliação do protótipo de papel: DAD/nivel2/prototipoDePapel/planejamento_avaliacao.md
+        - Planejamento do Relato dos resultados do protótipo de papel: DAD/nivel2/prototipoDePapel/planejamento_relato.md
+        - Protótipos de papel: DAD/nivel2/prototipoDePapel/Prototipos.md
         - Relato dos Resultados:
+          - Criar post no fórum: DAD/nivel2/prototipoDePapel/resultado_post-forum.md
+          - Acessar a aba de plugin: DAD/nivel2/prototipoDePapel/relatoPlugin.md
+          - Acessar a página de FAQ para consultar dúvida: DAD/nivel2/prototipoDePapel/RelatoFAQ.md
+          - Acessar a página de Testes de ISO para verificar os testes: DAD/nivel2/prototipoDePapel/RelatoTesteISO.md
           - Realizar doação: DAD/nivel3/relato-dos-resultados-prototipo-de-papel/donation.md
+          - Acessar a página de Compartilhamento de Experiências para consultar relatos: DAD/nivel2/prototipoDePapel/RelatoEXP.md
+      - Protótipo de alta fidelidade:
+        - Planejamento da Avaliação do protótipo de alta fidelidade: DAD/nivel2/prototipoAltaFidelidade/PlanejamentoAvaliacaoPAF.md
+        - Planejamento do Relato dos resultados do protótipo de alta fidelidade: DAD/nivel2/prototipoAltaFidelidade/PlanejamentoRelatoPrototipoAltaFidelidade.md
   - Verificação:
     - Planejamento da verificação: verificacao/planejamendoDaVerificacao.md
     - Planejamento:
@@ -87,35 +96,6 @@ nav:
       - Cronograma: verificacao/planejamento/cronograma.md
       - Padronização do Projeto: verificacao/padronizacaoProjeto.md
       - Processos de design: verificacao/planejamento/processoDesign.md
-    - Análise de requisitos I:
-      - Aspectos Éticos: verificacao/aspectos_eticos.md
-      - Perfil de usuário: verificacao/analiseRequisito/perfilUsuario.md
-      - Personas: verificacao/analiseRequisito/personas.md
-      - Cenários: verificacao/cenarios.md
-      - Elicitação:
-        - Introspecção: verificacao/analiseRequisito/introspeccao.md
-        - Observação: verificacao/Observacao.md
-      - Análise de Tarefas:
-        - Análise Hierárquica de Tarefas: verificacao/analiseHierarquicaDeTarefas.md
-        - Árvore de Tarefas Concorrentes: verificacao/CTT.md
-    - Análise de requisitos II:
-      - Princípios Gerais: verificacao/principiosGerais.md
-      - Caracteristicas da Plataforma: verificacao/CaracteristicasDaPlataforma.md
-      - Metas de usabilidade: verificacao/AnaliseRequisitos/metasUsabilidade.md
-      - Guia de estilo: verificacao/GuiaDeEstilo.md
-    - Design, avaliação e desenvolvimento:
-      - Análise de Tarefas:
-        - Planejamento da Avaliação da Análise de Tarefas: verificacao/DAD/nivel01/analiseDeTarefas/planejamento_avalicao_analise_de_tarefas.md
-        - Planejamento do Relato dos Resultados da Avaliação: verificacao/DAD/nivel01/analiseDeTarefas/planRelatoResultados.md
-        - Relato dos Resultados: verificacao/DAD/nivel01/analiseDeTarefas/relatoResultados.md
-      - Storyboard:
-        - Planejamento da Avaliação do Storyboard: verificacao/DAD/nivel01/storyboard/planejamento_avaliacao_storyboar.md
-        - Planejamento do Relato dos Resultados: verificacao/DAD/nivel01/storyboard/planejamento_relato_resultados_storyboard.md
-        - Relato dos Resultados do Storyboard: verificacao/DAD/nivel01/storyboard/relato_resultados.md
-        - Storyboards: verificacao/DAD/nivel01/storyboard/storyboards.md
-      - Protótipo de papel:
-        - Planejamento da Avaliação do protótipo de papel: verificacao/plan_avaliacao.md
-        - Planejamento do Relato dos resultados do protótipo de papel: verificacao/plan_relato.md
 theme:
   name: material
   features:
