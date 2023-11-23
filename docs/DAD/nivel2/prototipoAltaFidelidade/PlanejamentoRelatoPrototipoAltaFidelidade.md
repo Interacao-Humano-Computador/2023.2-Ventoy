@@ -58,6 +58,23 @@ O método de avaliação adotado será a **observação**. Durante a avaliação
 
 O relatório incluirá a caracterização do ambiente de observação, especificando as ferramentas e equipamentos utilizados, para oferecer um contexto completo da configuração experimental. O observador deve aderir a um cronograma estabelecido, mantendo um padrão uniforme nas anotações para assegurar a consistência do relatório. Cada observação será documentada em uma tabela dedicada, que se concentra estritamente nas observações pertinentes à análise proposta. Este procedimento detalhado visa garantir que o relatório final seja um documento coeso, conciso e informativo, refletindo as descobertas e insights obtidos durante a observação.
 
+###  Template do Relato dos Resultados
+
+Será utilizada uma tabela estruturada para documentar de maneira sistemática os resultados da avaliação do protótipo. Esta tabela permite a categorização clara das observações, a identificação dos problemas, a avaliação do impacto desses problemas na experiência do usuário e a proposição de melhorias. A tabela a seguir deve ser preenchida por cada avaliador após a conclusão das sessões de observação:
+
+<br>
+
+| **Área de Observação** | **Descrição da Observação** | **Problema Identificado** | **Impacto no Usuário** | **Sugestão de Melhoria** |
+|------------------------|-----------------------------|---------------------------|------------------------|--------------------------|
+| Interface de Usuário   | Descrição detalhada de como o usuário interage com o elemento de interface em questão. | Descrição do problema ou da dificuldade encontrada pelo usuário. | Explicação de como o problema afeta a experiência do usuário. | Recomendações concretas para melhorar a interação do usuário com o elemento de interface. |
+| Fluxo de Navegação     | Observações relacionadas à sequência de ações do usuário e à facilidade de navegação. | Identificação de pontos onde os usuários parecem confusos ou perdidos. | Avaliação do impacto desses problemas na capacidade do usuário de completar tarefas. | Propostas para tornar a navegação mais intuitiva e menos propensa a erros. |
+| Desempenho do Protótipo | Notas sobre a velocidade de resposta e a estabilidade do protótipo durante a interação. | Detalhamento de atrasos, travamentos ou bugs encontrados. | Consideração do nível de frustração ou satisfação do usuário decorrente do desempenho. | Ideias para otimização do código, melhorias na infraestrutura ou ajustes de design para aprimorar a resposta. |
+| Feedback do Usuário    | Comentários diretos dos usuários sobre o protótipo, coletados durante a avaliação. | Resumo das principais críticas ou pontos de elogio mencionados pelos usuários. | Perspectiva sobre o quanto o feedback afeta a percepção geral do produto. | Estratégias para incorporar o feedback do usuário no desenvolvimento do protótipo. |
+
+<br>
+
+Os avaliadores devem assegurar que todas as observações sejam documentadas com a maior fidelidade possível, seguindo o formato apresentado para manter a consistência e a precisão dos dados. Isso auxiliará na análise subsequente e na tomada de decisões informadas para as futuras iterações de design do protótipo.
+
 ### Seleção de participantes
 
 Para assegurar a eficácia da avaliação do protótipo de alta fidelidade, a seleção de participantes será realizada de forma deliberada e estratégica. Os participantes escolhidos devem espelhar o perfil do usuário final do produto, conforme detalhado na documentação disponível em [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/PerfilUsuario/#questao-2-caso-a-resposta-da-questao-1-seja-nao-por-que-voce-nao-utiliza-o-site-do-ventoy), para garantir que o feedback coletado seja relevante e representativo. O processo de identificação e recrutamento dos participantes levará em consideração a diversidade e a adequação ao contexto de uso do protótipo.
