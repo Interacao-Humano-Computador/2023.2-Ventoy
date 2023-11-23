@@ -2,7 +2,7 @@
 
 ## Introdução 
 
-Esse artefato é projetado para documentar de maneira abrangente o planejamento que visa descrever os resultados provenientes da avaliação de um protótipo de alta fidelidade. Seu propósito é abordar todos os elementos fundamentais necessários para a elaboração completa e detalhada desse relatório. Em outras palavras, é um guia abrangente que visa cobrir todos os aspectos essenciais envolvidos na criação do relatório de avaliação de alta fidelidade.
+Este artefato destina-se a orientar a coleta e a análise dos resultados advindos da avaliação de um protótipo de alta fidelidade, com o objetivo de fornecer uma base metodológica sólida para a interpretação das interações entre usuários e o protótipo. Ele foi concebido para abarcar os aspectos críticos do processo avaliativo, enfatizando a importância de uma documentação precisa e sistemática que permita a identificação de padrões de uso, desafios enfrentados pelos usuários e oportunidades de melhoria. Através deste artefato, busca-se não apenas relatar os achados, mas também proporcionar insights valiosos para o refinamento contínuo do design do protótipo.
 
 ## Metodologia 
 
@@ -14,7 +14,7 @@ Para a organização e planejamento das atividades a serem realizadas, será uti
 
 A escolha da observação como metodologia de avaliação do protótipo de alta fidelidade foi deliberada, fundamentada na necessidade de capturar interações autênticas e comportamentos não-verbais dos usuários que são frequentemente omitidos em auto-relatos. Esta abordagem permite uma análise direta e rica em contexto da usabilidade e da experiência do usuário, fornecendo uma compreensão mais profunda e detalhada de como o design do protótipo atende às necessidades reais dos usuários. Ademais, essa metodologia facilita a identificação imediata de problemas de interação, o que é crucial para iterar rapidamente o design e aprimorar a solução proposta.
 
-A utilização do framework DECIDE pode contribuir para um planejamento mais estruturado e eficaz, garantindo que as etapas necessárias sejam devidamente consideradas e que as decisões sejam embasadas em critérios relevantes.
+A integração do framework DECIDE com a abordagem de observação amplia a capacidade de conduzir avaliações sistemáticas e orientadas, fomentando uma tomada de decisão bem fundamentada e apoiada por dados concretos de uso. Este processo não somente solidifica a validade dos resultados, mas também facilita uma evolução ágil e efetiva do design do protótipo, assegurando que este esteja em sintonia com as necessidades e expectativas dos usuários finais.
 
 ## Relato dos Resultados 
 
@@ -78,5 +78,4 @@ Após a realização da avaliação com o usuário através da observação, o o
 
 | **Versão** | **Data** | **Descrição** | **Autor**| **Revisor** |
 |------------|----------|---------------|----------|-------------|
-|`1.0`| 22/11/2023 | Criação do documento e adicionado o resultado da avaliação | [Vinícius Mendes](https://github.com/yabamiah), [Luis Miranda]() | | 
-|`1.1`| 22/11/2023 | Adicionados os demais tópicos | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinícius Mendes](https://github.com/yabamiah) | 
+|`1.0`| 22/11/2023 | Criação do documento|[Altino Arthur](https://github.com/arthurrochamoreira), [Vinícius Mendes](https://github.com/yabamiah), [Luis Miranda]() | | 
