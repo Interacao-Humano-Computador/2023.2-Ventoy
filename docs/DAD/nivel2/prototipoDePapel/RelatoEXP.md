@@ -39,7 +39,7 @@ O participante Matheus José foi selecionado de acordo com o [perfil de usuário
 
 **Tabela 2** - Informações do Usuário
 
-| **Entrevistado**        |Igor Luna Almeida |
+| **Entrevistado**        |Matheus José da Silva|
 | ----------------------- | ------------------------------------------------ |
 | **Gênero**              | Masculino                                        |
 | **Idade**               | 20 anos                                          |
