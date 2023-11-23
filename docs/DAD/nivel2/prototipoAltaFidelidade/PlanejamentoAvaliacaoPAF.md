@@ -106,7 +106,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ### Cronograma
 
-O cronograma da avaliação está detalhado na Tabela 4, na qual cada sessão de avaliação é identificada pelo nome do entrevistador (membro da equipe), além da data e do local previsto para avaliação do protótipo de papel.
+O cronograma da avaliação está detalhado na Tabela 4, na qual cada sessão de avaliação é identificada pelo nome do entrevistador (membro da equipe), além da data e do local previsto para avaliação do protótipo de alta fidelidade.
 
 <center>
 
