@@ -12,7 +12,7 @@ Este artefato se posiciona como uma peça chave no processo de design e desenvol
 
 ## Metodologia 
 
-A seleção da metodologia a ser empregada no planejamento do relatório do protótipo de alta fidelidade é influenciada pelos objetivos da análise. Conforme discutido na literatura sobre Interação Humano-Computador, existem três abordagens principais: investigação, inspeção e observação, cada uma com suas metodologias distintas. No contexto deste artefato em particular, as opções viáveis restringem-se à observação e à investigação, uma vez que ambas envolvem a interação com os usuários.
+A seleção da metodologia a ser empregada no planejamento do relatório do protótipo de alta fidelidade é influenciada pelos objetivos da análise. Conforme discutido na literatura sobre Interação Humano-Computador, existem três abordagens principais: investigação, inspeção e observação, cada uma com suas metodologias distintas. No contexto deste artefato em particular, as opções viáveis restringem-se à observação.
 
 A metodologia escolhida para este projeto será a observação, onde um usuário será convidado a realizar uma simulação com o protótipo de alta fidelidade. Isso implica conduzir simulações individuais, com o propósito de obter informações detalhadas sobre suas percepções, experiências e desafios ao executar as tarefas relacionadas ao protótipo.
 
