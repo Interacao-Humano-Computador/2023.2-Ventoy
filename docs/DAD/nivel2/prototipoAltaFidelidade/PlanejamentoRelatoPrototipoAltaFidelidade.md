@@ -58,9 +58,9 @@ O relatório incluirá a caracterização do ambiente de observação, especific
 
 ###  Template do Relato dos Resultados
 
-O template de relato dos resultados é uma extensão direta dos objetivos e escopo da avaliação. Este instrumento é meticulosamente projetado para capturar e organizar as observações feitas durante o processo de avaliação. O template deve ser estruturado de forma que as observações registradas estejam alinhadas com os objetivos pré-definidos, garantindo que os dados coletados sejam relevantes e úteis para o processo de design.
+O template de relato dos resultados é uma extensão direta dos objetivos e escopo da avaliação. Este artefato é cuidadosamente elaborado para capturar e organizar as observações feitas durante o processo de avaliação. O template deve ser estruturado de forma que as observações registradas estejam alinhadas com os objetivos pré-definidos, garantindo que os dados coletados sejam relevantes e úteis para o processo de design.
 
-A estrutura tabular do template sistematiza a documentação das observações e facilita a identificação de problemas, avaliação do impacto no usuário e geração de sugestões de melhoria. Cada coluna do template é uma resposta direta aos objetivos da avaliação, permitindo uma análise focada e uma interpretação clara dos resultados. Isso ajuda a equipe de avaliação a determinar se os objetivos foram ou não atingidos e direciona o desenvolvimento de iterações futuras do protótipo.
+A estrutura tabular da Tabela 1 (Template do Relato dos Resultados) sistematiza a documentação das observações e facilita a identificação de problemas, avaliação do impacto no usuário e geração de sugestões de melhoria. Cada coluna do template é uma resposta direta aos objetivos da avaliação, permitindo uma análise focada e uma interpretação clara dos resultados. Isso ajuda a equipe de avaliação a determinar se os objetivos foram ou não atingidos e direciona o desenvolvimento de iterações futuras do protótipo.
 
 O uso do template é fundamental para:
 
@@ -70,7 +70,11 @@ O uso do template é fundamental para:
 - Criar um registro detalhado que serve como uma referência valiosa para o processo contínuo de design.
 - Segue-se o template estruturado que deve ser preenchido durante e após as sessões de avaliação:
 
+Segue-se o template estruturado que deve ser preenchido durante e após as sessões de avaliação:
+
 <br>
+
+<p align="center"><b>Tabela 01</b> - Template do Relato dos Resultados </p>
 
 | **Área de Observação** | **Descrição da Observação** | **Problema Identificado** | **Impacto no Usuário** | **Sugestão de Melhoria** |
 |------------------------|-----------------------------|---------------------------|------------------------|--------------------------|
@@ -78,6 +82,8 @@ O uso do template é fundamental para:
 | Fluxo de Navegação     | Observações relacionadas à sequência de ações do usuário e à facilidade de navegação. | Identificação de pontos onde os usuários parecem confusos ou perdidos. | Avaliação do impacto desses problemas na capacidade do usuário de completar tarefas. | Propostas para tornar a navegação mais intuitiva e menos propensa a erros. |
 | Desempenho do Protótipo | Notas sobre a velocidade de resposta e a estabilidade do protótipo durante a interação. | Detalhamento de atrasos, travamentos ou bugs encontrados. | Consideração do nível de frustração ou satisfação do usuário decorrente do desempenho. | Ideias para otimização do código, melhorias na infraestrutura ou ajustes de design para aprimorar a resposta. |
 | Feedback do Usuário    | Comentários diretos dos usuários sobre o protótipo, coletados durante a avaliação. | Resumo das principais críticas ou pontos de elogio mencionados pelos usuários. | Perspectiva sobre o quanto o feedback afeta a percepção geral do produto. | Estratégias para incorporar o feedback do usuário no desenvolvimento do protótipo. |
+
+<b>Fonte</b>:  <a href="https://github.com/arthurrochamoreira">Altino Arthur</a>
 
 <br>
 
