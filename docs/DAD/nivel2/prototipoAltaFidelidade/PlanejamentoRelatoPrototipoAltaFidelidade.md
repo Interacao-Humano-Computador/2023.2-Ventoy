@@ -123,3 +123,4 @@ Após a realização da avaliação com o usuário através da observação, o a
 | **Versão** | **Data** | **Descrição** | **Autor**| **Revisor** |
 |------------|----------|---------------|----------|-------------|
 |`1.0`| 22/11/2023 | Criação do documento|[Altino Arthur](https://github.com/arthurrochamoreira), [Vinícius Mendes](https://github.com/yabamiah), [Luis Miranda]() |[Breno Queiroz](https://github.com/brenob6) | 
+|`1.1`| 23/11/2023 | Adição do Template do Relato dos Resultados |[Altino Arthur](https://github.com/arthurrochamoreira) |[Vinícius Mendes](https://github.com/yabamiah) | 
