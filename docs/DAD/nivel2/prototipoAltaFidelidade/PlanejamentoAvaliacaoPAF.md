@@ -70,7 +70,7 @@ Deve ser feito o recrutamento de pessoas para a realização do método de avali
 em alta fidelidade. As pessoas recrutadas devem está de acordo com as 
 [personas](../../../elicitacao/Persona.md) e com o [perfil de usuário](../../../elicitacao/PerfilUsuario.md).
 
-O usuário recrutado deve concordar com o termo de consentimento.
+O usuário recrutado deve concordar com o [termo de consentimento](../../../elicitacao/termoConsertimento.pdf).
 
 ### Espaço Físico
 
@@ -86,7 +86,6 @@ qualidade da iluminação, etc.
 
 Após a simulação será realizado uma pequena entrevista para colher algumas opiniões
 do usuário.
-
 O roteiro de perguntas para a entrevista está disposto na tabela 03.
 
 <center>
@@ -112,9 +111,15 @@ O cronograma da avaliação está detalhado na Tabela 4, na qual cada sessão de
 
 **Tabela 04**: Cronograma
 
-|Responsáveis| Local | Data |
-|---| :---: | :----: |
-|   |       |        |
+|Responsáveis   | Local                |   Data |
+|:----| :---:|:---:|
+| [Altino Arthur](https://github.com/arthurrochamoreira)  | Presencial  | 26/11/2023 |
+| [Breno Queiroz](https://github.com/brenob6) | Presencial   | 26/11/2023 |
+| [Limirio Correia](https://github.com/LimirioGuimaraes) | Presencial  | 26/11/2023  |
+| [Luis Eduardo](https://github.com/LuisMiranda10)  | Presencial   | 26/11/2023  |
+|  [Mayara Alves](https://github.com/Mayara-tech)   | Presencial  | 26/11/2023 |
+| [Milena Baruc](https://github.com/MilenaBaruc)  |  Presencial  |  26/11/2023  |
+| [Vinicius Mendes](https://github.com/yabamiah)   |  Presencial |  26/11/2023  |    
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
