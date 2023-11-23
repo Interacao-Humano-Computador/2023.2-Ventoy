@@ -250,6 +250,25 @@ Na Tabela 12, tem-se o cronograma planejado para todas as atividades da entrega 
 
 <font size="3"><p style="text-align: center">Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes).</p></font>
 
+### Cronograma executado entrega 6.1
+
+Na Tabela 13, tem-se o cronograma executado para todas as atividades da entrega 6.1.
+
+<p align="center"><b>Tabela 13</b> - Entrega 6.1. Verificação dos artefatos I </p>
+
+| Atividade                    | Data prevista                                    	      | Período de execuçaõ  | Responsáveis       | Revisão   | Revisor            |
+| ---------------------------------- | --------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos da entrega 4      | Início: 09/11<br>Fim: 10/11                 	            | Início: 09/11<br>Fim: 10/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      	     |   11/11   | Mayara, Limírio, Luís, Milena, Vinícius e Altino            |
+| Verificação dos artefatos - Cronograma, Ferramentas, Introspecção, Perfil de Usuário e Personas           | Início: 10/11<br>Fim: 12/11                    	      | Início: 10/11<br>Fim: 14/11 | Mayara        |   14/11   | Vinícius
+| Verificação dos artefatos     | Início: 01/11<br>Fim: 05/11                       	      | Início: 01/11<br>Fim: 08/11 | Mayara, Limírio, Luís, Milena, Vinícius e Altino    |   08/11   | Mayara, Limírio, Luís, Milena, Vinícius e Altino            |
+| Planejamento do relato de resultados da avaliação do protótipo de papel  | Início: 01/11<br>Fim: 05/11 | Início: 01/11<br>Fim: 08/11 | Milena e Mayara   |   08/11   | Mayara e Milena          |
+| Planejamento da avaliação do protótipo de papel        | Início: 01/11<br>Fim: 05/11  	              | Início: 01/11<br>Fim: 07/11 | Breno    |   07/11   | Milena           |
+| Gravação da apresentação      | Início: 13/11<br>Fim: 13/11            |   Início: 15/11<br>Fim: 15/11                         	   |Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   15/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino           |
+| Cronograma executado                |    Início: 13/11<br>Fim: 14/11                       	        | Início: 23/11<br>Fim: 23/11 |Mayara          |   23/11   |  Vinícius     |
+
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
+
 ### Cronograma planejado entrega 7.
 
 Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sétima entrega.
