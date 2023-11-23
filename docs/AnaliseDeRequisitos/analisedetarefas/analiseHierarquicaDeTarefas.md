@@ -127,7 +127,7 @@ Na execução dessa tarefa, o usuário busca contribuir ou se aproveitar com o p
   
 <b>Figura 6</b> - Diagrama HTA realizar Testes de Iso na página Testes de Iso
 
-![HTA Testes De Iso](../../assets/Testes_de_Iso.jpg)
+![HTA Testes De Iso](../../assets/HTA_TesteISO.jpg)
 
 <p align="center"><b>Fonte</b>:  <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p>
 
