@@ -29,18 +29,23 @@ Adicionalmente, é fundamental responder às seguintes questões por meio da an�
 2. Foram identificadas sugestões de melhoria para o protótipo proposto?
 3. Foi possível identificar problemas de usabilidade preliminares?
 4. Foi possível identificar ideias-chave de design?
+   
 
-### Método da avaliação 
+### Método da avaliação
 
-O relato deve incluir uma descrição detalhada da abordagem metodológica adotada para a coleta de dados, que será realizada por meio de entrevista presencial ou online e de caracter voluntário com observação. Essa descrição deve destacar os fundamentos que orientaram a escolha dessa metodologia, se houve adaptação de algum método previamente estabelecido na literatura, se está alinhada com o delineamento descrito no planejamento e como foi conduzida a avaliação. Deve também abranger a caracterização do ambiente de avaliação, indicando as ferramentas e equipamentos empregados. O método selecionado envolve observação e entrevistas com os usuários, seguindo o modelo proposto. O entrevistador deve aderir ao cronograma estabelecido para as entrevistas, mantendo um padrão uniforme no relato para garantir coesão e concisão. Cada entrevista deve ser documentada em uma tabela específica, restrita às entrevistas relacionadas à análise realizada.
+O método de avaliação adotado será a **observação**. Durante a avaliação o participante realizará tarefas específicas enquanto observadores atentos coletam dados detalhados sobre suas percepções, experiências e os desafios encontrados. A metodologia para esta coleta de dados será rigorosamente descrita no relatório final, destacando as bases teóricas que guiaram a escolha desta abordagem, se houve adaptação de métodos previamente estabelecidos e como a observação foi conduzida em alinhamento com o planejamento do projeto.
+
+O relatório incluirá a caracterização do ambiente de observação, especificando as ferramentas e equipamentos utilizados, para oferecer um contexto completo da configuração experimental. O observador deve aderir a um cronograma estabelecido, mantendo um padrão uniforme nas anotações para assegurar a consistência do relatório. Cada observação será documentada em uma tabela dedicada, que se concentra estritamente nas observações pertinentes à análise proposta. Este procedimento detalhado visa garantir que o relatório final seja um documento coeso, conciso e informativo, refletindo as descobertas e insights obtidos durante a observação.
 
 ### Seleção de participantes
 
-Esta seção aborda a identificação dos participantes da avaliação, justificando a seleção do número de participantes e delineando os papéis desempenhados por cada um deles. É importante ressaltar que os perfis dos participantes devem estar alinhados com o perfil de usuário.
+Para garantir a eficácia da avaliação do protótipo de alta fidelidade, a seleção de participantes deverá ser intencional e estratégica. Os indivíduos escolhidos precisarão refletir o perfil do usuário final do produto, com o intuito de obter feedback relevante e representativo. A identificação e recrutamento dos participantes se darão por meio de um processo que considera tanto a diversidade quanto a relevância em relação ao contexto de uso do protótipo.
+
+Os participantes serão recrutados com base em critérios pré-definidos, que podem incluir, mas não se limitam a, experiência com tecnologias similares, demografia, proficiência técnica e frequência de uso de soluções parecidas. Cada participante será informado sobre os objetivos da avaliação, o que se espera de sua participação, e como suas informações serão utilizadas, respeitando-se os aspectos éticos e de privacidade.
 
 ### Custos 
 
-A realização das entrevistas não gerará um custo ao entrevistador ou ao usuário, as mesmas serão feitas de modo presencial ou online e de caracter voluntário, utilizando as seguintes ferramentas:
+A realização das observações não gerará um custo ao observador ou ao participante, as mesmas serão de caracter voluntário, utilizando as seguintes ferramentas:
 
 - Microsofts Teams;
 - Perguntas;
@@ -55,13 +60,13 @@ Vale ressaltar que, para que possamos utilizar as ferramentas é necessário um 
 
 ### Feedbacks e sugestões de melhorias
 
-Durante a avaliação, é crucial que o entrevistador documente de maneira abrangente as sugestões e melhorias com base nos problemas identificados. Isso implica um registro claro e objetivo de cada problema, incluindo contexto, ação do usuário, resultado esperado e resultado observado. Além disso, é responsabilidade do entrevistador propor soluções ou sugestões para corrigir os problemas encontrados, oferecendo ideias para ajustes de design, melhorias na interface do usuário ou alterações nas funcionalidades.
+Durante a avaliação, é essencial que o observador documente de forma completa as sugestões e melhorias baseadas nos problemas identificados. Isso envolve um registro claro e objetivo de cada problema, detalhando o contexto, as ações do usuário, o resultado esperado e o resultado observado. Além disso, cabe ao observador propor soluções ou recomendações para resolver os problemas encontrados, fornecendo ideias para ajustes de design, aprimoramentos na interface do usuário ou mudanças nas funcionalidades.
 
-O feedback dos usuários também desempenha um papel vital na melhoria contínua. O entrevistador deve captar atentamente as opiniões, sugestões e comentários dos usuários durante a avaliação de tarefas. Registrando de maneira completa e precisa o feedback fornecido pelos usuários, levando em consideração suas percepções, experiências e necessidades, essas informações tornam-se inestimáveis para compreender as expectativas dos usuários, identificar pontos fortes e fracos do sistema, e obter insights essenciais para possíveis melhorias.
+O feedback dos usuários é igualmente crucial para o processo de melhoria contínua. O observador deve captar cuidadosamente as opiniões, sugestões e comentários dos usuários durante a execução das tarefas avaliativas. Ao documentar de maneira completa e precisa o feedback dos usuários e considerar suas percepções, experiências e necessidades, essas informações tornam-se fundamentais para entender as expectativas dos usuários, identificar forças e fraquezas do sistema e adquirir insights valiosos para potenciais aprimoramentos.
 
 ### Análise e interpretação dos resultados
 
-Após feito a avaliação com usuário através da entrevista o entrevistador deve realizar uma análise e interpretação dos resultados obtidos.  Isso envolve examinar cuidadosamente os dados coletados durante a avaliação, identificar padrões, tendências e insights relevantes, e extrair conclusões significativas a partir dessas informações. Contextualizar os resultados dentro do objetivo da avaliação e considerar o impacto dos problemas identificados na usabilidade, na experiência do usuário e nos objetivos estabelecidos. Além disso, deve responder as perguntas levantadas inicialmente.
+Após a realização da avaliação com o usuário através da observação, o observador deve proceder com uma análise e interpretação cuidadosa dos resultados obtidos. Isso inclui uma revisão minuciosa dos dados coletados, a identificação de padrões, tendências e insights relevantes, além da extração de conclusões significativas destas informações. É essencial contextualizar os resultados à luz dos objetivos da avaliação e considerar o impacto dos problemas identificados na usabilidade e na experiência do usuário, bem como na consecução dos objetivos previamente estabelecidos. Além disso, o observador deve garantir que as questões inicialmente propostas sejam adequadamente respondidas.
 
 # Referências Bibliográficas
 
