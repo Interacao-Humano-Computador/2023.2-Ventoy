@@ -75,7 +75,7 @@ Ao longo do procedimento, o usuário continuou a comunicar claramente suas açõ
 ### Análise e interpretação dos resultados
 De acordo com a fluidez com que o usuário realizava as tarefas, foi possível observar que o usuário conseguiu sem dificuldades acessar a página de testes de ISO para verificar os testes, não foram identificados problemas na interação do usuário com a interface. Durante o processo foi observado que não há a necessidade de ajustes no protótipo.
 
-[Respostas as perguntas]() apresentadas no tópico de objetivos da avaliação:
+[Respostas as perguntas](https://youtu.be/NQdwb7WBXrY) apresentadas ao final da entrevista no tópico de objetivos da avaliação:
 
 1. Foram identificadas sugestões de melhoria para o protótipo proposto?
      - Não foram identificadas sugestões de melhoria.
