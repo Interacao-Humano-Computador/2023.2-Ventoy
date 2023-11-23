@@ -82,4 +82,5 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 ## 📑 Histórico de Versões
 
 | **Versão** | **Data** | **Descrição** | **Autor**| **Revisor** |
-    |`1.0`| 22/11/2023 | Criação do documento e adicionado o resultado da avaliação | Fonte: [Vinícius Mendes](https://github.com/yabamiah) | | 
+| ---------- | ---------- | ---------- | --------- | ---------- |
+|`1.0`| 22/11/2023 | Criação do documento e adicionado o resultado da avaliação | [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)| 
