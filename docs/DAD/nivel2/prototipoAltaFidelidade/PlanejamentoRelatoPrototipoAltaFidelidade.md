@@ -74,7 +74,9 @@ Segue-se o template estruturado que deve ser preenchido durante e após as sess�
 
 <br>
 
-<p align="center"><b>Tabela 01</b> - Template do Relato dos Resultados </p>
+<center>
+
+**Tabela 1** - Checklist
 
 | **Área de Observação** | **Descrição da Observação** | **Problema Identificado** | **Impacto no Usuário** | **Sugestão de Melhoria** |
 |------------------------|-----------------------------|---------------------------|------------------------|--------------------------|
@@ -83,7 +85,9 @@ Segue-se o template estruturado que deve ser preenchido durante e após as sess�
 | Desempenho do Protótipo | Notas sobre a velocidade de resposta e a estabilidade do protótipo durante a interação. | Detalhamento de atrasos, travamentos ou bugs encontrados. | Consideração do nível de frustração ou satisfação do usuário decorrente do desempenho. | Ideias para otimização do código, melhorias na infraestrutura ou ajustes de design para aprimorar a resposta. |
 | Feedback do Usuário    | Comentários diretos dos usuários sobre o protótipo, coletados durante a avaliação. | Resumo das principais críticas ou pontos de elogio mencionados pelos usuários. | Perspectiva sobre o quanto o feedback afeta a percepção geral do produto. | Estratégias para incorporar o feedback do usuário no desenvolvimento do protótipo. |
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/arthurrochamoreira">Altino Arthur</a>
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
+
+</center>
 
 <br>
 
