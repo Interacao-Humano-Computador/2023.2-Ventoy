@@ -54,9 +54,9 @@ Adicionalmente, é fundamental responder às seguintes questões por meio da an�
 
 ### Método da avaliação
 
-O método de avaliação adotado será a **observação**. Durante a avaliação o participante realizará tarefas específicas enquanto observadores atentos coletam dados detalhados sobre suas percepções, experiências e os desafios encontrados. A metodologia para esta coleta de dados será rigorosamente descrita no relatório final, destacando as bases teóricas que guiaram a escolha desta abordagem, se houve adaptação de métodos previamente estabelecidos e como a observação foi conduzida em alinhamento com o planejamento do projeto.
+O método de avaliação adotado será a **observação**. Durante a avaliação o participante realizará tarefas específicas enquanto avaliadores atentos coletam dados detalhados sobre suas percepções, experiências e os desafios encontrados. A metodologia para esta coleta de dados será rigorosamente descrita no relatório final, destacando as bases teóricas que guiaram a escolha desta abordagem, se houve adaptação de métodos previamente estabelecidos e como a observação foi conduzida em alinhamento com o planejamento do projeto.
 
-O relatório incluirá a caracterização do ambiente de observação, especificando as ferramentas e equipamentos utilizados, para oferecer um contexto completo da configuração experimental. O observador deve aderir a um cronograma estabelecido, mantendo um padrão uniforme nas anotações para assegurar a consistência do relatório. Cada observação será documentada em uma tabela dedicada, que se concentra estritamente nas observações pertinentes à análise proposta. Este procedimento detalhado visa garantir que o relatório final seja um documento coeso, conciso e informativo, refletindo as descobertas e insights obtidos durante a observação.
+O relatório incluirá a caracterização do ambiente de observação, especificando as ferramentas e equipamentos utilizados, para oferecer um contexto completo da configuração experimental. O avaliador deve aderir a um cronograma estabelecido, mantendo um padrão uniforme nas anotações para assegurar a consistência do relatório. Cada observação será documentada em uma tabela dedicada, que se concentra estritamente nas observações pertinentes à análise proposta. Este procedimento detalhado visa garantir que o relatório final seja um documento coeso, conciso e informativo, refletindo as descobertas e insights obtidos durante a observação.
 
 ###  Template do Relato dos Resultados
 
@@ -83,7 +83,7 @@ Os critérios para seleção dos participantes incluirão, entre outros, a exper
 
 ### Custos 
 
-A realização das observações não gerará um custo ao observador ou ao participante, as mesmas serão de caracter voluntário, utilizando as seguintes ferramentas:
+A realização das observações não gerará um custo ao avaliador ou ao participante, as mesmas serão de caracter voluntário, utilizando as seguintes ferramentas:
 
 - Microsofts Teams;
 - Perguntas;
@@ -98,13 +98,13 @@ Vale ressaltar que, para que possamos utilizar as ferramentas é necessário um 
 
 ### Feedbacks e sugestões de melhorias
 
-Durante a avaliação, é essencial que o observador documente de forma completa as sugestões e melhorias baseadas nos problemas identificados. Isso envolve um registro claro e objetivo de cada problema, detalhando o contexto, as ações do usuário, o resultado esperado e o resultado observado. Além disso, cabe ao observador propor soluções ou recomendações para resolver os problemas encontrados, fornecendo ideias para ajustes de design, aprimoramentos na interface do usuário ou mudanças nas funcionalidades.
+Durante a avaliação, é essencial que o avaliador documente de forma completa as sugestões e melhorias baseadas nos problemas identificados. Isso envolve um registro claro e objetivo de cada problema, detalhando o contexto, as ações do usuário, o resultado esperado e o resultado observado. Além disso, cabe ao observador propor soluções ou recomendações para resolver os problemas encontrados, fornecendo ideias para ajustes de design, aprimoramentos na interface do usuário ou mudanças nas funcionalidades.
 
-O feedback dos usuários é igualmente crucial para o processo de melhoria contínua. O observador deve captar cuidadosamente as opiniões, sugestões e comentários dos usuários durante a execução das tarefas avaliativas. Ao documentar de maneira completa e precisa o feedback dos usuários e considerar suas percepções, experiências e necessidades, essas informações tornam-se fundamentais para entender as expectativas dos usuários, identificar forças e fraquezas do sistema e adquirir insights valiosos para potenciais aprimoramentos.
+O feedback dos usuários é igualmente crucial para o processo de melhoria contínua. O avaliador deve captar cuidadosamente as opiniões, sugestões e comentários dos usuários durante a execução das tarefas avaliativas. Ao documentar de maneira completa e precisa o feedback dos usuários e considerar suas percepções, experiências e necessidades, essas informações tornam-se fundamentais para entender as expectativas dos usuários, identificar forças e fraquezas do sistema e adquirir insights valiosos para potenciais aprimoramentos.
 
 ### Análise e interpretação dos resultados
 
-Após a realização da avaliação com o usuário através da observação, o observador deve proceder com uma análise e interpretação cuidadosa dos resultados obtidos. Isso inclui uma revisão minuciosa dos dados coletados, a identificação de padrões, tendências e insights relevantes, além da extração de conclusões significativas destas informações. É essencial contextualizar os resultados à luz dos objetivos da avaliação e considerar o impacto dos problemas identificados na usabilidade e na experiência do usuário, bem como na consecução dos objetivos previamente estabelecidos. Além disso, o observador deve garantir que as questões inicialmente propostas sejam adequadamente respondidas.
+Após a realização da avaliação com o usuário através da observação, o avaliador deve proceder com uma análise e interpretação cuidadosa dos resultados obtidos. Isso inclui uma revisão minuciosa dos dados coletados, a identificação de padrões, tendências e insights relevantes, além da extração de conclusões significativas destas informações. É essencial contextualizar os resultados à luz dos objetivos da avaliação e considerar o impacto dos problemas identificados na usabilidade e na experiência do usuário, bem como na consecução dos objetivos previamente estabelecidos. Além disso, o avaliador deve garantir que as questões inicialmente propostas sejam adequadamente respondidas.
 
 # Referências Bibliográficas
 
