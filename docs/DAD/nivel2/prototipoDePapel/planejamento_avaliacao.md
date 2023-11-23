@@ -117,7 +117,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ## D - Aspectos Éticos
 
-Os usuários recrutados devem concordar com o [termo de consentimento]((../../../elicitacao/termoConsertimento.pdf). Isso 
+Os usuários recrutados devem concordar com o [termo de consentimento](../../../elicitacao/termoConsertimento.pdf). Isso 
 é essencial para garantir a conformidade com os aspectos éticos do processo e para assegurar
 que os participantes estejam genuinamente dispostos a colaborar.
 
