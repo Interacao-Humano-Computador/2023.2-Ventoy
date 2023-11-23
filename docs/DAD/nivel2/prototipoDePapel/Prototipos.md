@@ -141,6 +141,6 @@ A partir disso, foi feito um testo piloto para verificar o funcionamento do proc
 |`1.1`| 22/11/2023 | Adicionando protótipo 7 | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |
 |`1.2`| 22/11/2023 | Adicionando protótipo 5 | [Luis Miranda](https://github.com/LuisMiranda10) | [Vinicius Mendes](https://github.com/yabamiah)  |
 |`1.3`| 22/11/2023 | Adicionando protótipo 3 | [Mayara Alves](https://github.com/Mayara-tech) | [Vinicius Mendes](https://github.com/yabamiah)  |
-|`1.4`| 22/11/2023 | Adicionando protótipo 4 | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)  |
+|`1.4`| 22/11/2023 | Adicionando protótipo 4 | [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  [Luis Miranda](https://github.com/LuisMiranda10)  |
 |`1.5`| 22/11/2023 | Adicionando protótipo 2 | [Breno Queiroz](https://github.com/brenob6)      | [Mayara Alves](https://github.com/Mayara-tech)   |
 |`1.6`| 22/11/2023 | Adicionando protótipo 6 | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinicius Mendes](https://github.com/yabamiah)  |
