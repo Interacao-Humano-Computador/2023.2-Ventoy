@@ -2,7 +2,15 @@
 
 ## Introdução 
 
-Este artefato destina-se a orientar a coleta e a análise dos resultados advindos da avaliação de um protótipo de alta fidelidade, com o objetivo de fornecer uma base metodológica sólida para a interpretação das interações entre usuários e o protótipo. Ele foi concebido para abarcar os aspectos críticos do processo avaliativo, enfatizando a importância de uma documentação precisa e sistemática que permita a identificação de padrões de uso, desafios enfrentados pelos usuários e oportunidades de melhoria. Através deste artefato, busca-se não apenas relatar os achados, mas também proporcionar insights valiosos para o refinamento contínuo do design do protótipo.
+Este artefato guia a coleta e análise de dados da avaliação de um protótipo de alta fidelidade. Aqui, 'protótipo de alta fidelidade' é entendido como uma representação avançada do produto final que emula interações do usuário e design de interface de forma detalhada, propiciando uma avaliação que espelha a experiência real do usuário.
+
+O propósito deste artefato é estabelecer uma metodologia robusta que ilumine as interações entre os usuários e o protótipo, sublinhando a necessidade de uma documentação meticulosa e sistemática. Esta estratégia é fundamental para capturar padrões de uso, identificar desafios enfrentados pelos usuários e revelar oportunidades para refinamento. A intenção é não somente relatar os resultados encontrados, mas também gerar insights que orientem o aperfeiçoamento contínuo do design do protótipo.
+
+Por exemplo, ao avaliar a usabilidade de um sistema de e-commerce, este artefato orientará a análise de como os usuários interagem com componentes cruciais, como o carrinho de compras e o processo de finalização de compra. O objetivo é detectar pontos de fricção que possam obstaculizar uma experiência fluida de compra e propor soluções baseadas em observações diretas das interações dos usuários.
+
+A importância de uma documentação sistemática reside em sua capacidade de fornecer um registro consistente de feedback ao longo do tempo. A falta de uma documentação aprofundada pode resultar em revisões de design que não endereçam adequadamente os problemas de usabilidade e em um entendimento incompleto das necessidades do usuário. Por exemplo, a ausência de relatórios detalhados em avaliações anteriores de protótipos já conduziu a iterações de design que não mitigaram questões críticas de usabilidade.
+
+Este artefato se posiciona como uma peça chave no processo de design e desenvolvimento do produto, funcionando como um elo crítico que informa as decisões de design futuras. Afirmamos aqui que os resultados não serão apenas coletados; eles serão meticulosamente analisados, discutidos e traduzidos em ações concretas. As partes interessadas podem antecipar insights detalhados e recomendações pragmáticas que visam otimizar tanto a interação do usuário quanto a funcionalidade do produto.
 
 ## Metodologia 
 
