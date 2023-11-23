@@ -22,7 +22,7 @@ O Método seguiu o [planejamento](https://github.com/Interacao-Humano-Computado
 
 | Entrevistador(a) | Entrevistado | Data | Horário de início/fim | Entrevista|
 |------------------|--------------|------|----------------------|----------|
-| [Vinícius Mendes](https://github.com/yabamiah) | Igor Luna | 22/11/2023 | 09:47 / 9:54 | |
+| [Vinícius Mendes](https://github.com/yabamiah) | Igor Luna | 22/11/2023 | 09:47 / 9:54 | [Link para a entrevista](https://youtu.be/6PR9nO--088) |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
