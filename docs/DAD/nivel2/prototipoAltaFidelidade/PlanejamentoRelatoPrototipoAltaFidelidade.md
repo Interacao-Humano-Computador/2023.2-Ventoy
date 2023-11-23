@@ -16,6 +16,17 @@ A escolha da observação como metodologia de avaliação do protótipo de alta 
 
 A integração do framework DECIDE com a abordagem de observação amplia a capacidade de conduzir avaliações sistemáticas e orientadas, fomentando uma tomada de decisão bem fundamentada e apoiada por dados concretos de uso. Este processo não somente solidifica a validade dos resultados, mas também facilita uma evolução ágil e efetiva do design do protótipo, assegurando que este esteja em sintonia com as necessidades e expectativas dos usuários finais.
 
+## Framework DECIDE
+
+O Framework DECIDE é um conjunto estruturado de etapas projetadas para orientar avaliadores na coleta sistemática de informações dos usuários, apoiando assim o processo completo de avaliação — desde o planejamento até a execução e a análise crítica dos resultados. Cada letra do acrônimo DECIDE estabelece uma fase distinta no ciclo de avaliação:
+
+- **D**: Determinar as metas da avaliação, definindo claramente o que se espera alcançar e a prioridade de cada objetivo.
+- **E**: Explorar as questões específicas que a avaliação precisa responder para atingir esses objetivos.
+- **C**: Escolher os métodos de avaliação mais apropriados que irão fornecer dados relevantes para responder as perguntas estabelecidas.
+- **I**: Identificar as questões logísticas e administrativas que precisam ser resolvidas para realizar a avaliação de forma eficiente.
+- **D**: Decidir sobre as abordagens éticas a serem adotadas, garantindo a integridade e a ética do processo de avaliação.
+- **E**: Executar a avaliação, e depois avaliar e interpretar os dados coletados, comunicando os resultados de maneira clara e eficaz.
+
 ## Relato dos Resultados 
 
 ### Objetivos e escopo da avaliação
