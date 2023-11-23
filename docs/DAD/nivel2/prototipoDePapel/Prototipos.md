@@ -95,7 +95,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 ### Teste Piloto
 
-A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Para acessa-lá basta [clicar aqui](), foi gravada em 22/11 às 13:00. Foi feita de acordo com o [planejamento do relato](./planejamento_relato.md/#preparo) feito pelo grupo.
+A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Para acessa-lá basta [clicar aqui](https://youtu.be/pKw4u7akbbI), foi gravada em 22/11 às 13:00. Foi feita de acordo com o [planejamento do relato](./planejamento_relato.md/#preparo) feito pelo grupo.
 
 ## Protótipo 6 - Acesso à página de Compartilhamento de Experiências
 
