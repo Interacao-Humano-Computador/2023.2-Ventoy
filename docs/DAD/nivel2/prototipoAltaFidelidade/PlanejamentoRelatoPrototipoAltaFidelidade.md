@@ -32,7 +32,12 @@ Adicionalmente, é fundamental responder às seguintes questões por meio da an�
 
 ### Método da avaliação 
 
+
+O relato deve incluir uma descrição detalhada da abordagem metodológica adotada para a coleta de dados, que será realizada por meio de entrevistas presenciais com observação. Essa descrição deve destacar os fundamentos que orientaram a escolha dessa metodologia, se houve adaptação de algum método previamente estabelecido na literatura, se está alinhada com o delineamento descrito no planejamento e como foi conduzida a avaliação. Deve também abranger a caracterização do ambiente de avaliação, indicando as ferramentas e equipamentos empregados. O método selecionado envolveu observação e entrevistas com os usuários, seguindo o modelo proposto. O entrevistador deve aderir ao cronograma estabelecido para as entrevistas, mantendo um padrão uniforme no relato para garantir coesão e concisão. Cada entrevista deve ser documentada em uma tabela específica, restrita às entrevistas relacionadas à análise realizada.
+
 ### Seleção de participantes
+
+Esta seção aborda a identificação dos participantes da avaliação, justificando a seleção do número de participantes e delineando os papéis desempenhados por cada um deles. É importante ressaltar que os perfis dos participantes devem estar alinhados com o perfil de usuário. A Tabela X fornece informações detalhadas sobre os membros do grupo que se disponibilizaram para desempenhar funções específicas, conforme especificado.
 
 ### Custos 
 
