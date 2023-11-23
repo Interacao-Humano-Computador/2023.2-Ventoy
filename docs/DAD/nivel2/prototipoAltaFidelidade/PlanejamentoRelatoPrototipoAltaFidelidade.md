@@ -73,3 +73,4 @@ Após feito a avaliação com usuário através da entrevista o entrevistador de
 | **Versão** | **Data** | **Descrição** | **Autor**| **Revisor** |
 |------------|----------|---------------|----------|-------------|
 |`1.0`| 22/11/2023 | Criação do documento e adicionado o resultado da avaliação | [Vinícius Mendes](https://github.com/yabamiah), [Luis Miranda]() | | 
+|`1.1`| 22/11/2023 | Adicionados os demais tópicos | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinícius Mendes](https://github.com/yabamiah) | 
