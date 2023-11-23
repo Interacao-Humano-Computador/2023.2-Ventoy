@@ -6,7 +6,7 @@ Esse artefato é projetado para documentar de maneira abrangente o planejamento 
 
 ## Metodologia 
 
-A seleção da metodologia a ser empregada no planejamento do relatório do protótipo de papel é influenciada pelos objetivos da análise. Conforme discutido na literatura sobre Interação Humano-Computador, existem três abordagens principais: investigação, inspeção e observação, cada uma com suas metodologias distintas. No contexto deste artefato em particular, as opções viáveis restringem-se à observação e à investigação, uma vez que ambas envolvem a interação com os usuários.
+A seleção da metodologia a ser empregada no planejamento do relatório do protótipo de alta fidelidade é influenciada pelos objetivos da análise. Conforme discutido na literatura sobre Interação Humano-Computador, existem três abordagens principais: investigação, inspeção e observação, cada uma com suas metodologias distintas. No contexto deste artefato em particular, as opções viáveis restringem-se à observação e à investigação, uma vez que ambas envolvem a interação com os usuários.
 
 A metodologia escolhida para este projeto será a observação, onde um usuário será convidado a realizar uma simulação com o protótipo de alta fidelidade. Isso implica conduzir simulações individuais, com o propósito de obter informações detalhadas sobre suas percepções, experiências e desafios ao executar as tarefas relacionadas ao protótipo.
 
@@ -32,12 +32,11 @@ Adicionalmente, é fundamental responder às seguintes questões por meio da an�
 
 ### Método da avaliação 
 
-
 O relato deve incluir uma descrição detalhada da abordagem metodológica adotada para a coleta de dados, que será realizada por meio de entrevistas presenciais com observação. Essa descrição deve destacar os fundamentos que orientaram a escolha dessa metodologia, se houve adaptação de algum método previamente estabelecido na literatura, se está alinhada com o delineamento descrito no planejamento e como foi conduzida a avaliação. Deve também abranger a caracterização do ambiente de avaliação, indicando as ferramentas e equipamentos empregados. O método selecionado envolveu observação e entrevistas com os usuários, seguindo o modelo proposto. O entrevistador deve aderir ao cronograma estabelecido para as entrevistas, mantendo um padrão uniforme no relato para garantir coesão e concisão. Cada entrevista deve ser documentada em uma tabela específica, restrita às entrevistas relacionadas à análise realizada.
 
 ### Seleção de participantes
 
-Esta seção aborda a identificação dos participantes da avaliação, justificando a seleção do número de participantes e delineando os papéis desempenhados por cada um deles. É importante ressaltar que os perfis dos participantes devem estar alinhados com o perfil de usuário. A Tabela X fornece informações detalhadas sobre os membros do grupo que se disponibilizaram para desempenhar funções específicas, conforme especificado.
+Esta seção aborda a identificação dos participantes da avaliação, justificando a seleção do número de participantes e delineando os papéis desempenhados por cada um deles. É importante ressaltar que os perfis dos participantes devem estar alinhados com o perfil de usuário.
 
 ### Custos 
 
