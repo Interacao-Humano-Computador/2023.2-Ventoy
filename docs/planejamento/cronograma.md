@@ -309,9 +309,9 @@ Na Tabela 15, tem-se o cronograma executado para todas as atividades da sétima 
 
 ### Cronograma planejado entrega 8.
 
-Na Tabela 14, tem-se o cronograma planejado para todas as atividades da oitava entrega.
+Na Tabela 16, tem-se o cronograma planejado para todas as atividades da oitava entrega.
 
-<p align="center"><b>Tabela 14</b> - Entrega 8. Relato dos resultados do Protótipo de alta fidelidade </p>
+<p align="center"><b>Tabela 16</b> - Entrega 8. Relato dos resultados do Protótipo de alta fidelidade </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -326,9 +326,9 @@ Na Tabela 14, tem-se o cronograma planejado para todas as atividades da oitava e
 
 ### Cronograma planejado entrega 6.2.
 
-Na Tabela 15, tem-se o cronograma planejado para todas as atividades da entrega 6.2.
+Na Tabela 17, tem-se o cronograma planejado para todas as atividades da entrega 6.2.
 
-<p align="center"><b>Tabela 15</b> - Entrega 6.2. Verificação dos artefatos </p>
+<p align="center"><b>Tabela 17</b> - Entrega 6.2. Verificação dos artefatos </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
