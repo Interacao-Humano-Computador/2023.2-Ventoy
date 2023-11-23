@@ -26,7 +26,7 @@ O protótipo de papel apresentado na Figura 1 e 2, ilustram páginas do site do 
 
 ### Teste Piloto
 
-A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](), foi gravada em 22/11 às 14:30. Foi feita de acordo com o [planejamento do relato](../prototipoDePapel/plan_relato.md/#preparo) feito pelo grupo.
+A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](), foi gravada em 22/11 às 14:30. Foi feita de acordo com o [planejamento do relato](./planejamento_relato.md/#preparo) feito pelo grupo.
 
 ## Protótipo 2 - 
 
@@ -63,7 +63,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ### Teste Piloto
 
-A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](https://youtube.com/shorts/_lG3-rFcJ08), foi gravada em 22/11 às 08:42. Foi feita de acordo com o [planejamento do relato](/DAD/nivel2/prototipoDePapel/planejamento_relato/#preparo) feito pelo grupo.
+A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](https://youtube.com/shorts/_lG3-rFcJ08), foi gravada em 22/11 às 08:42. Foi feita de acordo com o [planejamento do relato](./planejamento_relato.md/#preparo) feito pelo grupo.
 
 ## Protótipo 4 - Acessar a página de Doações para realizar uma doação
 
@@ -95,7 +95,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 ### Teste Piloto
 
-A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Para acessa-lá basta [clicar aqui](), foi gravada em 22/11 às 13:00. Foi feita de acordo com o [planejamento do relato](/DAD/nivel2/prototipoDePapel/planejamento_relato/#preparo) feito pelo grupo.
+A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Para acessa-lá basta [clicar aqui](), foi gravada em 22/11 às 13:00. Foi feita de acordo com o [planejamento do relato](./planejamento_relato.md/#preparo) feito pelo grupo.
 
 ## Protótipo 6 - 
 
@@ -115,7 +115,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
 ### Teste Piloto
 
-A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](https://youtu.be/rH3lhLAYO7I), foi gravada em 22/11 às 10:00. Foi feita de acordo com o [planejamento do relato](/DAD/nivel2/prototipoDePapel/planejamento_relato/#preparo) feito pelo grupo.
+A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](https://youtu.be/rH3lhLAYO7I), foi gravada em 22/11 às 10:00. Foi feita de acordo com o [planejamento do relato](./planejamento_relato.md/#preparo) feito pelo grupo.
 
 ## Bibliografia
 
