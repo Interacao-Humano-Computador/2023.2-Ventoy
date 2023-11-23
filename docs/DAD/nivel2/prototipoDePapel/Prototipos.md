@@ -12,7 +12,7 @@ O protótipo de papel apresentado na Figura 1 e 2, ilustram páginas do site do 
   
   **Figura 1** - Acesso a página de Downloads
 
-  ![Acesso a página de Donwloads](../../../assets/prototipos/donwloadProto.jpeg)
+  ![Acesso a página de Donwloads](../../../assets/prototipos/viniciusdDonwloadProto.jpeg)
 
   Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
