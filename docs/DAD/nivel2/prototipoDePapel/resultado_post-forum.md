@@ -85,3 +85,4 @@ Fonte: [Breno Queiroz](https://github.com/brenob6)
 |Versão|  Data    |  Descrição |Autor(es)              | Revisor(es) |            
 |:----:|:-------: | :-------------: | :-------------------: | :---------: |
 |`1.0` |22/11/2023| Criação da página | [Breno Queiroz](https://github.com/brenob6) | [Mayara Alves](https://github.com/Mayara-tech)
+
