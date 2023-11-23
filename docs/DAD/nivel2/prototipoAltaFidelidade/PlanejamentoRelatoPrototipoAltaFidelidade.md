@@ -52,9 +52,9 @@ O relatório incluirá a caracterização do ambiente de observação, especific
 
 ### Seleção de participantes
 
-Para garantir a eficácia da avaliação do protótipo de alta fidelidade, a seleção de participantes deverá ser intencional e estratégica. Os indivíduos escolhidos precisarão refletir o perfil do usuário final do produto, com o intuito de obter feedback relevante e representativo. A identificação e recrutamento dos participantes se darão por meio de um processo que considera tanto a diversidade quanto a relevância em relação ao contexto de uso do protótipo.
+Para assegurar a eficácia da avaliação do protótipo de alta fidelidade, a seleção de participantes será realizada de forma deliberada e estratégica. Os participantes escolhidos devem espelhar o perfil do usuário final do produto, conforme detalhado na documentação disponível em [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/PerfilUsuario/#questao-2-caso-a-resposta-da-questao-1-seja-nao-por-que-voce-nao-utiliza-o-site-do-ventoy), para garantir que o feedback coletado seja relevante e representativo. O processo de identificação e recrutamento dos participantes levará em consideração a diversidade e a adequação ao contexto de uso do protótipo.
 
-Os participantes serão recrutados com base em critérios pré-definidos, que podem incluir, mas não se limitam a, experiência com tecnologias similares, demografia, proficiência técnica e frequência de uso de soluções parecidas. Cada participante será informado sobre os objetivos da avaliação, o que se espera de sua participação, e como suas informações serão utilizadas, respeitando-se os aspectos éticos e de privacidade.
+Os critérios para seleção dos participantes incluirão, entre outros, a experiência com tecnologias análogas, competência técnica e frequência de uso de soluções similares. Cada participante receberá informações claras sobre os objetivos da avaliação, as expectativas em relação à sua contribuição e o uso que será dado às informações coletadas, com total observância aos princípios éticos e de privacidade.
 
 ### Custos 
 
