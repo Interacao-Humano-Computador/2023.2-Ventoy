@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O Storyboard é um exemplo de prototipação de baixa-fidelidade, geralmente utilizado em conjunto com [cenários](../AnaliseDeRequisitos/cenarios.md). Essa abordagem envolve a criação de uma sequência de ilustrações que acompanham o avanço do usuário em uma tarefa específica do produto em desenvolvimento. Este documento tem como objetivo o planejamento da análise do storyboard gerado conforme a metodologia utilizada e as ações executadas nele. Isso proporcionará aos interessados e aos desenvolvedores uma compreensão mais nítida das potenciais aprimorações no design do projeto.
+O Storyboard é um exemplo de prototipação de baixa-fidelidade, geralmente utilizado em conjunto com [cenários](../../../AnaliseDeRequisitos/cenarios.md). Essa abordagem envolve a criação de uma sequência de ilustrações que acompanham o avanço do usuário em uma tarefa específica do produto em desenvolvimento. Este documento tem como objetivo o planejamento da análise do storyboard gerado conforme a metodologia utilizada e as ações executadas nele. Isso proporcionará aos interessados e aos desenvolvedores uma compreensão mais nítida das potenciais aprimorações no design do projeto.
 
 ## Objetivo
 
@@ -57,7 +57,7 @@ Para conduzir a investigação por meio de entrevistas, é de suma importância 
 
 ### D - Decididir
 
-As questões éticas serão baseadas no modelo de termo de consentimento produzido na seção [aspectos éticos](../AnaliseDeRequisitos/aspectosEticos.md) em análise de requisitos I.
+As questões éticas serão baseadas no modelo de termo de consentimento produzido na seção [aspectos éticos](./TermoDeConsentimentoPlugin.pdf) em análise de requisitos I.
 
 ### E - Avaliar
 
@@ -71,7 +71,7 @@ Uma vez concluída essa etapa, os dados serão compartilhados com a equipe de de
 
 ### Seleção 
 
-A seleção dos usuários será personalizada, levando em consideração as preferências e critérios do entrevistador responsável, sendo que cada escolha será fundamentada no [perfil de usuário](../elicitacao/PerfilUsuario.md) previamente estabelecido por meio do questionário. O local será sempre no Teams, para que seja possível a gravação da reunião. Como foram feitos sete storyboards, serão necessários sete usuários para que seja feita uma avaliação individual.
+A seleção dos usuários será personalizada, levando em consideração as preferências e critérios do entrevistador responsável, sendo que cada escolha será fundamentada no [perfil de usuário](../../../../../elicitacao/PerfilUsuario) previamente estabelecido por meio do questionário. O local será sempre no Teams, para que seja possível a gravação da reunião. Como foram feitos sete storyboards, serão necessários sete usuários para que seja feita uma avaliação individual.
 
 ### Preparação
 
