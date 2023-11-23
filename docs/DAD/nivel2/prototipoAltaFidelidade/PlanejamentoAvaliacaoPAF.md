@@ -87,11 +87,11 @@ qualidade da iluminação, etc.
 Após a simulação será realizado uma pequena entrevista para colher algumas opiniões
 do usuário.
 
-O roteiro de perguntas para a entrevista está disposto na tabela 01.
+O roteiro de perguntas para a entrevista está disposto na tabela 03.
 
 <center>
 
-**Tabela 01**: Roteiro de Perguntas
+**Tabela 03**: Roteiro de Perguntas
 
 | Pergunta | Resposta |
 |:----| :---:|
@@ -106,15 +106,23 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ### Cronograma
 
+O cronograma da avaliação está detalhado na Tabela 4, na qual cada sessão de avaliação é identificada pelo nome do entrevistador (membro da equipe), além da data e do local previsto para avaliação do protótipo de papel.
+
 <center>
 
-**Tabela 02**: Cronograma
+**Tabela 04**: Cronograma
 
-|Responsáveis| Local | Horário |
-| :--: | :---: | :----: |
-||  |  |
+|Responsáveis| Local | Data |
+|---| :---: | :----: |
+| [Altino Arthur](https://github.com/arthurrochamoreira)  | Presencial  | 20/11/2023 |
+| [Breno Queiroz](https://github.com/brenob6) | Presencial   | 20/11/2023 |
+| [Limirio Correia](https://github.com/LimirioGuimaraes) | Presencial  | 20/11/2023  |
+| [Luis Eduardo](https://github.com/LuisMiranda10)  | Presencial   | 20/11/2023  |
+|  [Mayara Alves](https://github.com/Mayara-tech)   | Presencial  | 20/11/2023 |
+| [Milena Baruc](https://github.com/MilenaBaruc)  |  Online  |  20/11/2023  |
+| [Vinicius Mendes](https://github.com/yabamiah)   |  Presencial |  20/11/2023  |
 
-Fonte: [](https://github.com/)
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 </center>
 
