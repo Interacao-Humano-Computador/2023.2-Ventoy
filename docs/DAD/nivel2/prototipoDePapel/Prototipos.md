@@ -97,15 +97,25 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Para acessa-lá basta [clicar aqui](), foi gravada em 22/11 às 13:00. Foi feita de acordo com o [planejamento do relato](./planejamento_relato.md/#preparo) feito pelo grupo.
 
-## Protótipo 6 - 
+## Protótipo 6 - Acesso à página de Compartilhamento de Experiências
+
+O prótotipo de papel apresentado na figura 7, ilustra uma das páginas do site Ventoy, referente a aba [Experience Sharing](https://www.ventoy.net/en/experience.html).
+
+**Figura 7**: Acesso à página de Compartilhamento de Experiências
+
+![página de Compartilhamento de Experiências](../../../assets/prototipos/prototipoArthur.jpg)
+
+Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).
+
+</center>
 
 ## Protótipo 7 - Acesso à página de plugin
 
-O prótotipo de papel apresentado na figura 7, ilustra uma das páginas do site Ventoy, referente a aba [plugin](https://www.ventoy.net/en/plugin.html).
+O prótotipo de papel apresentado na figura 8, ilustra uma das páginas do site Ventoy, referente a aba [plugin](https://www.ventoy.net/en/plugin.html).
 
 <center>
 
-**Figura 7**: Acesso à página de plugin
+**Figura 8**: Acesso à página de plugin
 
 ![Acessar a página de plugin](../../../assets/prototipos/prototipoMilena.jpg)
 
@@ -117,13 +127,6 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
 A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](https://youtu.be/rH3lhLAYO7I), foi gravada em 22/11 às 10:00. Foi feita de acordo com o [planejamento do relato](./planejamento_relato.md/#preparo) feito pelo grupo.
 
-**Figura 8**: Acesso à página de Compartilhamento de Experiências
-
-![Acessar a página de plugin](../../../assets/prototipos/prototipoArthur.jpg)
-
-Fonte: [Milena Baruc](https://github.com/arthurrochamoreira).
-
-</center>
 
 
 ## Bibliografia
@@ -140,4 +143,4 @@ Fonte: [Milena Baruc](https://github.com/arthurrochamoreira).
 |`1.3`| 22/11/2023 | Adicionando protótipo 3 | [Mayara Alves](https://github.com/Mayara-tech) | [Vinicius Mendes](https://github.com/yabamiah)  |
 |`1.4`| 22/11/2023 | Adicionando protótipo 4 | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)  |
 |`1.5`| 22/11/2023 | Adicionando protótipo 2 | [Breno Queiroz](https://github.com/brenob6)      | [Mayara Alves](https://github.com/Mayara-tech)   |
-|`1.6`| 22/11/2023 | Adicionando protótipo 8 | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinicius Mendes](https://github.com/yabamiah)  |
+|`1.6`| 22/11/2023 | Adicionando protótipo 6 | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinicius Mendes](https://github.com/yabamiah)  |
