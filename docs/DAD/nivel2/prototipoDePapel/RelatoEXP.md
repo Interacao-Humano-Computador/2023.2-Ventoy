@@ -17,7 +17,7 @@ Ao responder a essas perguntas, buscamos garantir que os objetivos estabelecidos
 
 ### Método de avaliação
 
-O Método seguiu o [planejamento](../prototipoDePapel/planejamento.md) confeccionado pela equipe. Para está pesquisa foi avaliada a implementação no protótipo de papel da tarefa "Acessar a página de Compartilhamento de Experiências para consultar relato". Para realizar está avaliação os métodos utilizados foram os métodos de observação e à investigação, uma vez que ambas envolvem a interação com os usuários. O cronograma executado está disponível na tabela 1.
+O Método seguiu o [planejamento](./planejamento_relato.md) confeccionado pela equipe. Para está pesquisa foi avaliada a implementação no protótipo de papel da tarefa "Acessar a página de Compartilhamento de Experiências para consultar relato". Para realizar está avaliação os métodos utilizados foram os métodos de observação e à investigação, uma vez que ambas envolvem a interação com os usuários. O cronograma executado está disponível na tabela 1.
 
 <center>
 
@@ -63,7 +63,7 @@ sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas
 
 <center>
 
-Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha autonomia para sugerir melhorias e alterar características da interface em que estava trabalhando. No entanto, durante o uso, o usuário não apontou nenhuma característica que deveria ser introduzida, alterada ou removida. Para estimular melhores resultados e de acordo com o [planejamento da avaliação do protótipo de papel](../prototipoDePapel/planejamento.md), algumas perguntas foram realizadas ao usuário. As respostas a essas perguntas podem ser visualizadas na tabela 03.
+Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha autonomia para sugerir melhorias e alterar características da interface em que estava trabalhando. No entanto, durante o uso, o usuário não apontou nenhuma característica que deveria ser introduzida, alterada ou removida. Para estimular melhores resultados e de acordo com o [planejamento da avaliação do protótipo de papel](./planejamento_avaliacao.md), algumas perguntas foram realizadas ao usuário. As respostas a essas perguntas podem ser visualizadas na tabela 03.
 
 **Tabela 03**: Tabela de resultados das perguntas feitas ao usuário.
 

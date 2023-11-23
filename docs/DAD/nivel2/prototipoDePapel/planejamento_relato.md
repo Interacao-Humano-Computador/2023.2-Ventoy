@@ -10,7 +10,7 @@ A seleção da metodologia a ser empregada no planejamento do relatório do prot
 
 A metodologia escolhida para este projeto será a realização de entrevistas. Isso implica conduzir entrevistas individuais ou em grupo com os usuários, com o propósito de obter informações detalhadas sobre suas percepções, experiências e desafios ao executar as tarefas relacionadas ao protótipo. As entrevistas podem ser estruturadas, semiestruturadas ou não estruturadas, e a escolha dependerá das necessidades específicas do estudo.
 
-Para a organização e planejamento das atividades a serem realizadas, será utilizado o framework DECIDE, como já descrito no [planejamento](./planejamento.md). Este framework pode fornecer uma estrutura valiosa para orientar o processo de tomada de decisão e a gestão das atividades. Ele é conhecido por auxiliar na definição de critérios, na análise de alternativas, na identificação de riscos e na escolha da melhor abordagem para determinada situação.
+Para a organização e planejamento das atividades a serem realizadas, será utilizado o framework DECIDE, como já descrito no [planejamento](./planejamento_avaliacao.md). Este framework pode fornecer uma estrutura valiosa para orientar o processo de tomada de decisão e a gestão das atividades. Ele é conhecido por auxiliar na definição de critérios, na análise de alternativas, na identificação de riscos e na escolha da melhor abordagem para determinada situação.
 
 A utilização do framework DECIDE pode contribuir para um planejamento mais estruturado e eficaz, garantindo que as etapas necessárias sejam devidamente consideradas e que as decisões sejam embasadas em critérios relevantes.
 
@@ -59,7 +59,7 @@ Adicionalmente, é fundamental responder às seguintes questões por meio da an�
 
 ### Método de avaliação
 
-O relato deve incluir uma descrição da abordagem metodológica empregada na obtenção dos dados seguindo o [planejamento da avaliação](./planejamento.md), tendo em vista o motivo de ter sido utilizado esse método. Além disso, deve conter quais ferramentas e equipamentos foram utilizados. Os entrevistadores devem seguir o cronograma dado na tabela 1 para apresentarem os dados da entrevista, desde o cronograma planejado até o cronograma executado. 
+O relato deve incluir uma descrição da abordagem metodológica empregada na obtenção dos dados seguindo o [planejamento da avaliação](./planejamento_avaliacao.md), tendo em vista o motivo de ter sido utilizado esse método. Além disso, deve conter quais ferramentas e equipamentos foram utilizados. Os entrevistadores devem seguir o cronograma dado na tabela 1 para apresentarem os dados da entrevista, desde o cronograma planejado até o cronograma executado. 
 
 <center>
 
@@ -73,7 +73,7 @@ Tabela 1 - Cronograma
 
 ### Seleção dos participantes
 
-A seleção dos usuários será personalizada, levando em consideração as preferências e critérios do entrevistador responsável, sendo que cada escolha será fundamentada no [perfil de usuário](../elicitacao/PerfilUsuario.md) previamente estabelecido por meio do questionário. O local será sempre no Teams, para que seja possível a gravação da reunião. Como foram feitos sete storyboards, serão necessários sete usuários para que seja feita uma avaliação individual de cada storyboards.
+A seleção dos usuários será personalizada, levando em consideração as preferências e critérios do entrevistador responsável, sendo que cada escolha será fundamentada no [perfil de usuário](../../../elicitacao/PerfilUsuario.md) previamente estabelecido por meio do questionário. O local será sempre no Teams, para que seja possível a gravação da reunião. Como foram feitos sete storyboards, serão necessários sete usuários para que seja feita uma avaliação individual de cada storyboards.
 
 ### Custos
 
@@ -88,7 +88,7 @@ Vale ressaltar que, para que possamos utilizar as ferramentas é necessário um 
 
 ### Aspectos éticos
 
-É imperativo preservar a privacidade dos participantes, garantindo que no relato suas identidades e opiniões permaneçam confidenciais, sem divulgação pública. Obtendo-se o consentimento explícito dos participantes, é essencial informá-los sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas práticas éticas, mantemos um ambiente de avaliação seguro e respeitoso seguindo todos os critérios estabelecidos no [termo de consertimento](../elicitacao/priorizacao/termoConsertimento.pdf) . No relatório dos resultados da avaliação, é crucial detalhar o processo de solicitação de consentimento, incluindo se os entrevistados concordaram ou não.
+É imperativo preservar a privacidade dos participantes, garantindo que no relato suas identidades e opiniões permaneçam confidenciais, sem divulgação pública. Obtendo-se o consentimento explícito dos participantes, é essencial informá-los sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas práticas éticas, mantemos um ambiente de avaliação seguro e respeitoso seguindo todos os critérios estabelecidos no [termo de consertimento](../../../../elicitacao/termoConsertimento.pdf) . No relatório dos resultados da avaliação, é crucial detalhar o processo de solicitação de consentimento, incluindo se os entrevistados concordaram ou não.
 
 ### Feedback e sugestões de melhorias
 

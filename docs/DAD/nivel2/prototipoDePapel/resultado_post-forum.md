@@ -12,7 +12,7 @@ eficácia, satisfação e acessibilidade no contexto específico do protótipo e
 
 ## Método de Avaliação
 
-O Método seguiu o [planejamento](./planejamento.md) confeccionado pela equipe. Para está pesquisa foi avaliada
+O Método seguiu o [planejamento](./planejamento_relato.md) confeccionado pela equipe. Para está pesquisa foi avaliada
 a implementação no protótipo de papel da tarefa "realizar postagem no fórum". Para realizar está
 avaliação os métodos utilizados foram os métodos de observação e à investigação, uma vez que ambas envolvem
 a interação com os usuários.
