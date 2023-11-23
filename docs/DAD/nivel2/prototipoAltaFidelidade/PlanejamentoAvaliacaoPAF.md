@@ -114,13 +114,7 @@ O cronograma da avaliação está detalhado na Tabela 4, na qual cada sessão de
 
 |Responsáveis| Local | Data |
 |---| :---: | :----: |
-| [Altino Arthur](https://github.com/arthurrochamoreira)  | Presencial  | 20/11/2023 |
-| [Breno Queiroz](https://github.com/brenob6) | Presencial   | 20/11/2023 |
-| [Limirio Correia](https://github.com/LimirioGuimaraes) | Presencial  | 20/11/2023  |
-| [Luis Eduardo](https://github.com/LuisMiranda10)  | Presencial   | 20/11/2023  |
-|  [Mayara Alves](https://github.com/Mayara-tech)   | Presencial  | 20/11/2023 |
-| [Milena Baruc](https://github.com/MilenaBaruc)  |  Online  |  20/11/2023  |
-| [Vinicius Mendes](https://github.com/yabamiah)   |  Presencial |  20/11/2023  |
+|   |       |        |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
