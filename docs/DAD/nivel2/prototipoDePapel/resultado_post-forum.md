@@ -10,6 +10,15 @@ eficácia, satisfação e acessibilidade no contexto específico do protótipo e
 
 ## Objetivo e escopo da avaliação
 
+O propósito principal desta avaliação é identificar potenciais problemas na interação do usuário com a interface e destacar oportunidades de aprimoramento na usabilidade do protótipo. Nosso foco está direcionado para a eficiência, eficácia, satisfação do usuário e acessibilidade na seção de FAQ dentro do protótipo de papel.
+
+Além disso, para garantir uma avaliação abrangente e informada, procuramos responder às seguintes questões por meio da análise criteriosa dos resultados:
+
+1. Foram identificadas sugestões de melhoria para o protótipo proposto?
+2. Foi possível identificar problemas de usabilidade preliminares?
+
+Ao responder a essas perguntas, buscamos garantir que os objetivos estabelecidos para a avaliação sejam plenamente atingidos, proporcionando insights valiosos para a evolução e refinamento do protótipo de papel.
+
 ## Método de Avaliação
 
 O Método seguiu o [planejamento](./planejamento_relato.md) confeccionado pela equipe. Para está pesquisa foi avaliada
