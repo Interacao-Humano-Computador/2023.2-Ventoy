@@ -87,12 +87,17 @@ Fonte: [Breno Queiroz](https://github.com/brenob6)
 
 **Tabela 02**: Cronograma
 
-|Responsáveis   | Local                |       Horário |
+|Responsáveis   | Local                |   Data |
 |:----| :---:|:---:|
-| Altino Arthur | Campus Darcy Ribeiro | 16:40 -  16:45|
-|               |                      |               |                       
+| [Altino Arthur](https://github.com/arthurrochamoreira)  | Presencial  | 20/11/2023 |
+| [Breno Queiroz](https://github.com/brenob6) | Presencial   | 20/11/2023 |
+| [Limirio Correia](https://github.com/LimirioGuimaraes) | Presencial  | 20/11/2023  |
+| [Luis Eduardo](https://github.com/LuisMiranda10)  | Presencial   | 20/11/2023  |
+|  [Mayara Alves](https://github.com/Mayara-tech)   | Presencial  | 20/11/2023 |
+| [Milena Baruc](https://github.com/MilenaBaruc)  |  Online  |  20/11/2023  |
+| [Vinicius Mendes](https://github.com/yabamiah)   |  Presencial |  20/11/2023  |                   
 
-Fonte: [](https://github.com/)
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 </center>
 
