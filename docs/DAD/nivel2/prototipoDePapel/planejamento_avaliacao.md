@@ -88,7 +88,7 @@ Fonte: [Breno Queiroz](https://github.com/brenob6)
 **Tabela 02**: Cronograma
 
 |Responsáveis| Local | Horário |
-| :--: | :---: | :----: |
+| Altino Arthur | Campus Darcy Ribeiro | 16:40 -  16:45|
 ||  |  |
 
 Fonte: [](https://github.com/)
