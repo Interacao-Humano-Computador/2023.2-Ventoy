@@ -30,11 +30,11 @@ A partir disso, foi feito um testo piloto para verificar o funcionamento do proc
 
 ## Protótipo 2 - 
 
-O protótipo de papel apresentado na figura 2, ilustra as páginas que serão acessadas para realizar uma postagem no fórum Ventoy.
+O protótipo de papel apresentado na figura 3, ilustra as páginas que serão acessadas para realizar uma postagem no fórum Ventoy.
 
 <center>
 
-**Figura 2**: Realizar postagem no fórum
+**Figura 3**: Realizar postagem no fórum
 
 ![](../../../assets/prototipos/PrototipoBreno.jpg)
 
@@ -49,11 +49,11 @@ Para acessar o vídeo basta [clicar aqui](https://youtu.be/bfJcuGFK1ko).
 
 ## Protótipo 3 - Acessar a página de FAQ para consultar dúvida
 
-O protótipo de papel apresentado na figura 3, ilustra uma das páginas do site do ventoy, referente a página de [FAQ](https://www.ventoy.net/en/faq.html)
+O protótipo de papel apresentado na figura 4, ilustra uma das páginas do site do ventoy, referente a página de [FAQ](https://www.ventoy.net/en/faq.html)
 
 <center>
 
-**Figura 3**: Acessar a página de FAQ para consultar dúvida
+**Figura 4**: Acessar a página de FAQ para consultar dúvida
 
 ![Acessar a página de FAQ para consultar dúvida](../../../assets/prototipos/PrototipoPapelMayara.jpeg)
 
@@ -67,11 +67,11 @@ A partir disso, foi feito um testo piloto para verificar o funcionamento do proc
 
 ## Protótipo 4 - Acessar a página de Doações para realizar uma doação
 
-O protótipo de papel apresentado na figura 4, ilustra uma das páginas do site do ventoy, referente a página de [doação](https://www.ventoy.net/en/donation.html)
+O protótipo de papel apresentado na figura 5, ilustra uma das páginas do site do ventoy, referente a página de [doação](https://www.ventoy.net/en/donation.html)
 
 <center>
 
-**Figura 4**: Acessar a página de Doações para realizar uma doação
+**Figura 5**: Acessar a página de Doações para realizar uma doação
 
 ![Acessar a página de Doações para realizar uma doação](../../../assets/prototipos/PrototipoPapelLimirio.jpeg)
 
@@ -81,11 +81,11 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 
 ## Protótipo 5 - Acessar a página de Testes de ISO para verificar os testes
-O prótotipo de papel apresentado na figura 5, ilustra uma das páginas do site Ventoy, referente a página de [testes de ISO](https://www.ventoy.net/en/isolist.html).
+O prótotipo de papel apresentado na figura 6, ilustra uma das páginas do site Ventoy, referente a página de [testes de ISO](https://www.ventoy.net/en/isolist.html).
 
 <center>
 
-**Figura 5**: Acesso a página de Testes de ISO
+**Figura 6**: Acesso a página de Testes de ISO
 
 ![Acessar a página de Testes de ISO](../../../assets/prototipos/PrototipoLuis.jpg)
 
@@ -130,4 +130,4 @@ A partir disso, foi feito um testo piloto para verificar o funcionamento do proc
 |`1.2`| 22/11/2023 | Adicionando protótipo 5 | [Luis Miranda](https://github.com/LuisMiranda10) | [Vinicius Mendes](https://github.com/yabamiah)  |
 |`1.3`| 22/11/2023 | Adicionando protótipo 3 | [Mayara Alves](https://github.com/Mayara-tech) | [Vinicius Mendes](https://github.com/yabamiah)  |
 |`1.4`| 22/11/2023 | Adicionando protótipo 4 | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)  |
-|`1.5`| 22/11/2023 | Adicionando protótipo 2 | [Breno Queiroz](https://github.com/brenob6)      | [](https://github.com/) 
+|`1.5`| 22/11/2023 | Adicionando protótipo 2 | [Breno Queiroz](https://github.com/brenob6)      | [Mayara Alves](https://github.com/Mayara-tech)  
