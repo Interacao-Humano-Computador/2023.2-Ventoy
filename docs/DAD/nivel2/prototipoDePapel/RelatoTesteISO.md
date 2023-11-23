@@ -22,7 +22,7 @@ O Método seguiu o [planejamento](./planejamento_relato.md) confeccionado pela e
 
 | **Entrevistador(a)** | **Entrevistado** | **Data** | **Horario de início/fim** | **Entrevista** |
 | -------------------- | ---------------- | -------- | ------------------------- | -------------- |
-| [Luis Miranda](https://github.com/LuisMiranda10) | Luiz Amaral | 22/11/2023 | 14:17/14:21 | [Link para Entrevista]() |
+| [Luis Miranda](https://github.com/LuisMiranda10) | Luiz Amaral | 22/11/2023 | 14:17/14:21 | [Link para Entrevista](https://youtu.be/NQdwb7WBXrY) |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
