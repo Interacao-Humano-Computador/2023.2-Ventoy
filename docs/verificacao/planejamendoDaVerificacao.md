@@ -56,7 +56,7 @@ Para verificar cada artefato de forma adequada, elaboramos um checklist específ
 
 ## Participantes 
 
-Os responsáveis pelas verificações dos artefatos do grupo 03, seram todos os atuais integrantes do grupo 02, que são estes em ordem alfabética: [Altino Arthur](https://github.com/arthurrochamoreira), [Breno Queiroz](https://github.com/brenob6), [Limirio Correia](https://github.com/LimirioGuimaraes), [Luis Eduardo](https://github.com/LuisMiranda10), [Mayara Alves](https://github.com/Mayara-tech), [Milena Baruc](https://github.com/MilenaBaruc) e [Vinicius Mendes](https://github.com/yabamiah). </br> 
+Os responsáveis pelas verificações dos artefatos do grupo 03, seram todos os atuais integrantes do grupo 02, que são estes em ordem alfabética: [Altino Arthur](https://github.com/arthurrochamoreira), [Breno Queiroz](https://github.com/brenob6), [Limirio Guimarães](https://github.com/LimirioGuimaraes), [Luis Eduardo](https://github.com/LuisMiranda10), [Mayara Alves](https://github.com/Mayara-tech), [Milena Baruc](https://github.com/MilenaBaruc) e [Vinicius Mendes](https://github.com/yabamiah). </br> 
 Conforme mencionado anteriormente, não existe uma atribuição prévia para determinar quem será encarregado pela verificação de cada artefato. Entretanto, a verificação de cada artefato deve ser registrada em um documento específico para aprimorar a organização. Um critério previamente estabelecido é que cada documento deve ter um revisor designado, sendo essa pessoa distinta daquela responsável pela autoria do documento.
 
 ## Objetos de verificação
@@ -148,10 +148,10 @@ Na tabela 3, podemos observar como ficou dividido a verificação do projeto e q
 | Planejamento da Avaliação da Análise de Tarefas |     [Vinicius Mendes](https://github.com/yabamiah)  |  
 | Planejamento do Relato dos Resultados da Avaliação  |   [Breno Queiroz](https://github.com/brenob6)|  
 | Relato dos Resultados |     [Breno Queiroz](https://github.com/brenob6))  |  
-| Planejamento da Avaliação do Storyboard |  [Limirio Correia](https://github.com/LimirioGuimaraes) |  
-| Planejamento do Relato dos Resultados da avaliação do Storyboard | [Limirio Correia](https://github.com/LimirioGuimaraes)  |  
-| Relato do Resultado - Storyboard|[Limirio Correia](https://github.com/LimirioGuimaraes) |  
-| Storyboards | [Limirio Correia](https://github.com/LimirioGuimaraes)  |
+| Planejamento da Avaliação do Storyboard |  [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  
+| Planejamento do Relato dos Resultados da avaliação do Storyboard | [Limirio Guimarães](https://github.com/LimirioGuimaraes)  |  
+| Relato do Resultado - Storyboard|[Limirio Guimarães](https://github.com/LimirioGuimaraes) |  
+| Storyboards | [Limirio Guimarães](https://github.com/LimirioGuimaraes)  |
 | Planejamento da Avaliação do Protótipo de Papel |   [Milena Baruc](https://github.com/MilenaBaruc)|
 | Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel |    [Milena Baruc](https://github.com/MilenaBaruc)  |
 
