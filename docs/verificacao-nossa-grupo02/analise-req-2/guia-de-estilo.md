@@ -1,0 +1,1 @@
+# Verificação Guia de Estilo
