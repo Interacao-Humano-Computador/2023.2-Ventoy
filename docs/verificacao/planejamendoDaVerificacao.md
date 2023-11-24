@@ -147,7 +147,7 @@ Na tabela 3, podemos observar como ficou dividido a verificação do projeto e q
 | Princípios Gerais do Projeto |   [Vinicius Mendes](https://github.com/yabamiah)  |
 | Planejamento da Avaliação da Análise de Tarefas |     [Vinicius Mendes](https://github.com/yabamiah)  |  
 | Planejamento do Relato dos Resultados da Avaliação  |   [Breno Queiroz](https://github.com/brenob6)|  
-| Relato dos Resultados |     [Breno Queiroz](https://github.com/brenob6))  |  
+| Relato dos Resultados |     [Breno Queiroz](https://github.com/brenob6)  |  
 | Planejamento da Avaliação do Storyboard |  [Limirio Guimarães](https://github.com/LimirioGuimaraes) |  
 | Planejamento do Relato dos Resultados da avaliação do Storyboard | [Limirio Guimarães](https://github.com/LimirioGuimaraes)  |  
 | Relato do Resultado - Storyboard|[Limirio Guimarães](https://github.com/LimirioGuimaraes) |  
