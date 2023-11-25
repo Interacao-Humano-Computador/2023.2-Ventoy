@@ -44,6 +44,22 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 **Tabela 2** - Checklist Preenchido 
 
+| ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
+|----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
+| 1  | O artefato possui Introdução?                                                                                                  | Sim        | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Sim        | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Sim        | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim        | -                                                                      |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim        | -                                                                      |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Não        | Há duas tabelas 01 no texto, há uma tabela que não é chamada e também não possui enumeração. Há também tabelas que não possuem fontes.|
+| 7  | O planejamento da avaliação segue o Framework DECIDE?					   				      | Sim        | -                                                                      |
+| 8  | O artefato descreve os objetivos da avaliação?		                                                                      | Sim        | -                                                                      |
+| 9  | O artefato descreve os métodos a serem utilizados?		                                                              | Sim        | -                                                                      |
+| 10  | O artefato descreve os aspectos práticos da avaliação?								              | Sim        | -  								    |
+| 11  | O artefato descreve os aspectos éticos da avaliação?			   			                              | Sim        | -  								    |
+| 12  | O artefato descreve as perguntas a serem feitas na avaliação?					                              | Sim        | -  								    |
+| 13  | O artefato possui um cronograma planejado da avaliação?									      | Sim        | -  								    |
+| 14  | O artefato apresenta o teste piloto do planejamento da avaliação?							      | Sim        | -  								    |
 
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
@@ -52,6 +68,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 ## Sugestões de Melhorias
 
+Revisar as chamadas e enumeração de tabelas no texto, assim como as fontes.
 
 </center>
 
