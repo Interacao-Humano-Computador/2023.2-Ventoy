@@ -1,108 +1,93 @@
-# Perfil de usuário 
+# Perfil de Usuário
 
-## Introdução 
-Com o propósito de aprofundar a compreensão dos utilizadores do aplicativo, torna-se imperativo a elaboração de um perfil genérico, conhecido como perfil de usuário. 
-O perfil de usuário é, fundamentalmente, uma representação detalhada das características, preferências, comportamentos e necessidades dos indivíduos que utilizam um determinado sistema, aplicativo ou serviço.
-Essa representação não apenas ajuda a identificar quem são os usuários, mas também fornece insights valiosos sobre como eles interagem com a tecnologia e quais são seus objetivos ao utilizarem.
+## Introdução
+A criação de um perfil de usuário genérico é essencial para entender profundamente os usuários de um aplicativo. Este perfil é uma representação abrangente das características, preferências, comportamentos e necessidades dos usuários de um sistema, aplicativo ou serviço. Além de identificar os usuários, ele fornece insights sobre como eles interagem com a tecnologia e quais são seus objetivos.
 
-A utilização de questionários como parte do processo de criação de perfis de usuário oferece uma série de vantagens notáveis. Eles permitem a coleta de informações de maneira 
-estruturada e quantificável, o que facilita a análise e a interpretação dos dados obtidos. Além disso, questionários podem ser administrados a um grande número de respondentes
-de forma eficiente, tornando possível a criação de perfis de usuário representativos de uma base diversificada de usuários potenciais. 
+Os questionários são extremamente úteis neste contexto, pois permitem a coleta de dados de forma estruturada e mensurável, facilitando a análise dos dados. Eles podem ser aplicados a uma ampla gama de respondentes de maneira eficiente, possibilitando a formação de perfis de usuário que refletem uma base diversificada de usuários potenciais.
 
-## Metodologia 
-Pensando nisso a equipe realizou um questionário com intuito de conhecer o perfil de usuário do site do Ventoy. O questionário engloba um total um total de 8 perguntas sobre aspectos gerais do 
-usuário do site e 2 perguntas para os usuários que nunca utilizaram o Ventoy. Foram distribuídos os questionários em fóruns das comunidades do Ventoy no Reddit^1^ e no próprio site do Ventoy^2^ para garantir uma maior diversidade de usuários potenciais, no período de 11 a 13 de outubro de 2023. 
+## Metodologia
+Para determinar o perfil do usuário do site do Ventoy, nossa equipe criou e distribuiu um questionário. Este incluiu 8 perguntas gerais sobre os usuários e 2 adicionais para aqueles que nunca usaram o Ventoy. Os questionários foram distribuídos em fóruns da comunidade do Ventoy no Reddit e no site oficial do Ventoy, de 11 a 13 de outubro de 2023, assegurando uma amostra diversificada.
 
-## Resultado do questionário 
-O resultado no questionário teve o total de 74 respostas todas de acordo com o [Termo de consentimento](termoConsertimento.pdf). O resultado das respostas são apresentados nas figuras de 1 a 9.
+## Resultado do Questionário
+Recebemos 74 respostas em conformidade com o [Termo de Consentimento](termoConsertimento.pdf). Os resultados estão ilustrados nas figuras de 1 a 9.
 
-#### Questão 1 - Você e usuário do site do Ventoy?
-De acordo com o gráfico apresentado na figura 1 em relação a utilização do aplicativo, 60 participantes (81,1%) são usuários do site do Ventoy.
+### Questão 1 - Você é usuário do site do Ventoy?
+60 participantes (81,1%) confirmaram ser usuários do site do Ventoy, conforme mostrado no gráfico da Figura 1.
 
+#### Figura 1 - Questão 1
+![Gráfico da Utilização do Ventoy](../assets/Grafico-1.PNG)
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
-<font size="3"><p style="text-align: center">**Figura 1** - Questão 1.</p></font>
-![Figura 1. Questão 1](../assets/Grafico-1.PNG)
-<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+### Questão 2 - (Caso seja usuário) Qual seu gênero?
+A Figura 2 mostra que a maioria dos participantes é do gênero masculino, representando 93,3% das respostas, enquanto o gênero feminino representa 6,7%.
 
-#### Questão 2 - (Caso a resposta da questão 1 seja sim) Qual seu sexo?
-De acordo com a figura 2, o gênero dos participantes em sua maioria é masculino representando 93,3% das respostas sendo que o gênero feminino representa os outros 6,7%.
+#### Figura 2 - Questão 2
+![Gráfico de Gênero dos Usuários](../assets/Grafico-2.PNG)
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
+### Questão 3 - (Caso seja usuário) Qual seu estado civil?
+Conforme a Figura 3, a maioria dos participantes é solteira, com 65% das respostas, e os divorciados representam 25%.
 
-<font size="3"><p style="text-align: center">**Figura 2** - Questão 2.</p></font>
-![Figura 2. Questão 2](../assets/Grafico-2.PNG)
-<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+#### Figura 3 - Questão 3
+![Gráfico de Estado Civil dos Usuários](../assets/Grafico-3.PNG)
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
-#### Questão 3 - (Caso a resposta da questão 1 seja sim) Qual seu estado civil?
-De acordo com a figura 3, o estado civil dos participantes em sua maioria é solteiro representando 65% das respostas, onde divorciado representa os outros 25%.
+### Questão 4 - (Caso seja usuário) Qual sua faixa etária?
+A Figura 4 indica que 46,7% dos participantes têm entre 25 a 34 anos, seguidos por 38,3% na faixa de 18 a 24 anos.
 
+#### Figura 4 - Questão 4
+![Gráfico de Faixa Etária dos Usuários](../assets/Grafico-4.PNG)
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
-<font size="3"><p style="text-align: center">**Figura 3** - Questão 3.</p></font>
-![Figura 3. Questão 3](../assets/Grafico-3.PNG)
-<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+### Questão 5 - (Caso seja usuário) Qual seu grau de afinidade com dispositivos tecnológicos?
+Segundo a Figura 5, 70% dos participantes têm muita experiência com dispositivos tecnológicos e 26,7% têm experiência média.
 
-#### Questão 4 - (Caso a resposta da questão 1 seja sim) Qual a sua faixa etária?
-De acordo com a figura 4 em relação a faixa etária dos participantes, a maioria representando 46,7% dos participantes estão na faixa etária de 25 a 34 anos, seguido de 38,3% que estão na faixa etária de 18 a 24 anos.
+#### Figura 5 - Questão 5
+![Gráfico de Afinidade Tecnológica dos Usuários](../assets/Grafico-5.PNG)
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
-<font size="3"><p style="text-align: center">**Figura 4** - Questão 4.</p></font>
-![Figura 4. Questão 4](../assets/Grafico-4.PNG)
-<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+### Questão 6 - (Caso seja usuário) Com qual frequência você utiliza o site do Ventoy?
+A Figura 6 mostra que 76,7% dos usuários acessam o site esporadicamente e os demais 21,6% semanalmente ou diariamente.
 
-#### Questão 5 - (Caso a resposta da questão 1 seja sim) Qual seu grau de afinidade com dispositivos tecnológicos? (Computadores, tablets, smartphones e etc.)?
-De acordo com a figura 5 em relação ao grau de afinidade com os dispositivos eletrônicos, o gráfico apresentou que os participantes possuem muita experiência em manusear dispositivos eletrônicos com 70% e os outros 26,7% com média experiencia.
+#### Figura 6 - Questão 6
+![Gráfico de Frequência de Uso do Ventoy](../assets/Grafico-6.PNG)
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
-<font size="3"><p style="text-align: center">**Figura 5** - Questão 5.</p></font>
-![Figura 5. Questão 5](../assets/Grafico-5.PNG)
-<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+### Questão 7 - (Caso seja usuário) Qual seu principal objetivo ao utilizar o site do Ventoy?
+Na questão aberta número 7, 98,2% dos usuários mencionaram o objetivo de criar um USB bootável e 1,8% mencionaram aprendizado ou criação de inicializadores de arquivos, como ilustrado na Figura 7.
 
-#### Questão 6 - (Caso a resposta da questão 1 seja sim) Com qual frequência você utiliza o site do Ventoy? 
-De acordo com a figura 6 sobre a frequência que o participante utiliza o aplicativo 76,7% selecionaram a opção esporadicamente e os outros 21,6% semanalmente e diariamente.
+#### Figura 7 - Questão 7
+![Gráfico de Objetivos de Uso do Ventoy](../assets/Grafico-7.PNG)
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
-<font size="3"><p style="text-align: center">**Figura 6** - Questão 6.</p></font>
-![Figura 6. Questão 6](../assets/Grafico-6.PNG)
-<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+### Questão 8 - (Caso seja usuário) Qual seu grau de satisfação com o site do Ventoy?
+A Figura 8 revela que os usuários estão satisfeitos com o uso do site do Ventoy.
 
-#### Questão 7 - (Caso a resposta da questão 1 seja sim) Qual seu principal objetivo ao utilizar o site do Ventoy?
-A questão de numero 7, era uma questão aberta onde os usuários poderiam escrever o seu objetivo ao Utilizar o ventoy, nesta questão 98,2% dos usuários relacionaram sua resposta a funcionalidade de criar USB bootável, e os outros 1,8% relacionaram a aprendizagem ou criação de um inicializador de arquivos, como podemos observar na figura 7.
+#### Figura 8 - Questão 8
+![Gráfico de Satisfação com o Ventoy](../assets/Grafico-8.PNG)
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
-<font size="3"><p style="text-align: center">**Figura 7** - Questão 7.</p></font>
-![Figura 7. Questão 7](../assets/Grafico-7.PNG)
-<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+### Questão 9 - (Caso não seja usuário) Por que você não utiliza o site do Ventoy?
+A Figura 9 mostra que 71,4% dos não usuários não conhecem o site e 21,4% não o utilizam devido à interface.
 
-#### Questão 8 - (Caso a resposta da questão 1 seja sim) Qual seu grau de satisfação ao utilizar o site do Ventoy?
-De acordo com a figura 8 em relação ao grau de satisfação dos usuários com ao utilizarem o site do Ventoy, o gráfico apresentou que os participantes possuem uma boa satisfação ao utilizarem o site. 
-
-<font size="3"><p style="text-align: center">**Figura 8** - Questão 8.</p></font>
-![Figura 8. Questão 8](../assets/Grafico-8.PNG)
-<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
-
-#### Questão 2 - (Caso a resposta da questão 1 seja não) Por que você não utiliza o site do ventoy?
-De acordo com a figura 9 em relação ao porque dos usuários não utilizarem o site do ventoy, 71,4% dos usuários afirmaram não conhecer o site, e outros 21,4% não utilizam por não gosta da sua interface.
-
-<font size="3"><p style="text-align: center">**Figura 9** - Questão 2.</p></font>
-![Figura 9. Questão 2](../assets/Grafico-9.PNG)
-<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+#### Figura 9 - Questão 9
+![Gráfico de Razões para Não Uso do Ventoy](../assets/Grafico-9.PNG)
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ## Definição do Perfil de Usuário
-
-Vale ressaltar que a análise das resposta foi feita com base em uma pequena amostra de pessoas que responderam o questionário nos foruns de comunidade do Ventoy.
-Após uma análise das respostas, foi traçado um Perfil de Usuário para o aplicativo com as seguintes descrições:
-
-- **Gênero:** Em sua maioria Masculino.
+A análise das respostas sugere o seguinte perfil para o usuário do aplicativo:
+- **Gênero:** Predominantemente masculino.
 - **Idade:** Entre 25 e 34 anos.
-- **Experiência:** Experiente.
-- **Atitudes:** Tecnófilos.
-- **Tarefas primárias:** Criar pen-drive bootável
+- **Experiência:** Elevada com dispositivos tecnológicos.
+- **Atitudes:** Inclinados à tecnologia.
+- **Tarefas primárias:** Criação de pen-drives bootáveis.
 
+## Referências
+- BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.
+- HENRIQUE, Matheus; FERREIRA, Rafael. *Perfil do Usuário*. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 1/2023. Disponível em: [Perfil de Usuário](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/). Acesso em: 29 de setembro de 2023.
 
-## Bibliografia
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-
-> HENRIQUE, Matheus. FERREIRA, Rafael. Perfil do Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 1/2023. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/). Acesso em: 29 setembro de 2023.
-
-## 📑 Histórico de versões:
-
- Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   
- :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: 
-  `1.0`  | 14/10/2023 |            Criação do Perfil de Usuário           | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Correia](https://github.com/LimirioGuimaraes) e [Altino Arthur](https://github.com/arthurrochamoreira)  
-  
-  
+## Histórico de Versões
+| Versão |    Data    | Descrição                         | Autor(es)                                           | Revisor(es)                                             |
+|--------|------------|-----------------------------------|-----------------------------------------------------|---------------------------------------------------------|
+| `1.0`  | 14/10/2023 | Criação do documento de perfil de usuário. | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Correia](https://github.com/LimirioGuimaraes), [Altino Arthur](https://github.com/arthurrochamoreira) |
+| `1.1`  | 25/11/2023 | Melhoria da clareza e a concisão do texto. | [Altino Arthur](https://github.com/arthurrochamoreira) |
