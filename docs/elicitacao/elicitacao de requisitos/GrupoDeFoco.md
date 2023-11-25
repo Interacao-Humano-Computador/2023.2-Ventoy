@@ -1,15 +1,12 @@
 # Grupo de Foco
 
 ## Introdução
-Os grupos de foco  proporcionam um meio estruturado e eficaz para coletar informações qualitativas, opiniões e insights de um grupo de participantes, geralmente representativos dos futuros usuários ou partes interessadas do sistema em desenvolvimento.
-
-Os grupos de foco têm sido amplamente usados para a obtenção de informações valiosas e para explorar questões complexas. Essa técnica oferece uma plataforma onde os participantes podem discutir abertamente suas perspectivas, expectativas e preocupações, criando assim um ambiente propício para a identificação de requisitos-chave, maximizando a satisfação do cliente e a eficiência do processo de desenvolvimento.
+Grupos de foco são metodologias interativas que reúnem um conjunto de participantes selecionados para discutir e opinar sobre um tópico específico. Esses grupos são particularmente valiosos no contexto de desenvolvimento de sistemas, pois permitem a coleta de informações qualitativas profundas diretamente de usuários representativos ou stakeholders. A dinâmica de grupo estimula um diálogo rico e multifacetado, proporcionando insights que podem definir requisitos essenciais, aprimorar a experiência do usuário e otimizar o processo de desenvolvimento.
 
 ## Metodologia
-A técnica de grupo de foco ocorreu no dia 16/10/2023 às 14:32, durando aproximadamente 29 minutos, sendo conduzido por Luis Eduardo Carneiro Miranda e contou com a participação de 4 usuários ( conforme mostrado na tabela 1 ), é recomendável que essa reunião aconteça com um grupo que envolva entre 6 e 10 usuários finais, entretanto, pela falta de disponibilidade de alguns usuários, somente foi possível com presença 
-de 4 usuários.
+A sessão de grupo de foco foi realizada em 16 de outubro de 2023, às 14:32, com duração de aproximadamente 29 minutos. Conduzida por Luis Eduardo Carneiro Miranda, a reunião contou com a presença de quatro usuários, como detalhado na Tabela 1. Idealmente, grupos de foco são mais produtivos com 6 a 10 participantes; no entanto, devido a restrições de disponibilidade, a sessão prosseguiu com quatro.
 
-A reunião teve um início com o condutor explicando sobre o método utilizado, além de uma ordem de perguntas a serem seguidas durante essa reunião que aconteceu via plataforma do Microsoft Teams e com uma gravação autorizada pelos próprios usuários, que pode ser acessada [aqui](https://youtu.be/LGxVsSkCRGY).
+O facilitador iniciou a sessão esclarecendo os objetivos do grupo de foco e o formato das discussões. Um roteiro estruturado de perguntas foi seguido para garantir a cobertura de todos os tópicos relevantes. A reunião foi hospedada na plataforma Microsoft Teams e foi gravada com o consentimento dos participantes. A gravação está disponível para consulta [aqui](https://youtu.be/LGxVsSkCRGY).
 
 <p align="center"><b>Tabela 01</b> - Participantes. </p>
 
@@ -73,5 +70,5 @@ Após a realização da reunião de grupo de foco com os usuários, foi possivel
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 15/10/2023 | Criação da página de Grupo de Foco | [Luis Miranda](https://github.com/LuisMiranda10)| [Vinícius Mendes](https://github.com/yabamiah) e [Altino Arthur](https://github.com/arthurrochamoreira)|
-
+|`2.0`| 25/11/2023 | Melhoria na clareza dos textos | [Altino Arthur](https://github.com/arthurrochamoreira)| |
 
