@@ -1,17 +1,20 @@
 # Entrevista
-## Introdução 
-A entrevista é uma das técnicas mais utilizadas de coleta de dados e levantamento de requisitos. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado (Seidman^1^, 1998). A entrevista permite uma interação direta com os usuários para compreender suas necessidades e expectativas em relação ao sistema.
+
+## Introdução
+A técnica de entrevista é fundamental na coleta de dados e no processo de elicitação de requisitos. Esta metodologia consiste em uma discussão estruturada, onde o entrevistador utiliza um conjunto de perguntas pré-definidas para extrair informações valiosas de um entrevistado, como identificado por Seidman em 1998. A interação direta nas entrevistas fornece insights profundos sobre as necessidades e expectativas dos usuários em relação ao sistema proposto.
 
 ## Metodologia
-A entrevista foi realizada no dia 15/10/2023 e contou com a participação de um usuário do Ventoy - Wycthor da Silva do Nascimento, tendo como entrevistadora Mayara Alves de Oliveira que fez ao início da entrevista a leitura do Termo de consentimento ao participante, e uma breve explicação sobre o intuito do projeto. Foi preparado um roteiro de perguntas a serem seguidas logo que o modelo de entrevista escolhido foi o de entrevista semiestruturada (o roteiro é composto por perguntas abertas que devem ser endereçados na entrevista, em uma ordem lógica) utilizando a plataforma Teams para gravação e condução da entrevista.
+Realizamos uma entrevista semiestruturada no dia 15 de outubro de 2023 com Wycthor da Silva do Nascimento, um usuário do software Ventoy. A entrevistadora, Mayara Alves de Oliveira, iniciou com a apresentação do Termo de Consentimento, seguida de uma explanação sobre os objetivos do projeto. Utilizando o Microsoft Teams como plataforma, a entrevista seguiu um roteiro meticulosamente preparado de perguntas abertas, permitindo a coleta de dados ricos em um formato flexível e responsivo.
 
-A estrutura de entrevista utilizada foi a de:
+A entrevista foi estruturada em várias fases para maximizar o conforto do entrevistado e a eficácia da sessão:
 
-- Apresentação, na qual a entrevistadora se apresenta e explica o objetivo da entrevista
-- Período de aquecimento, no qual são feitas perguntas de fácil resposta, como dados demográficos é perfil do usuário;
-- Parte principal da entrevista, na qual o roteiro é explorado;
-- Um período de desaquecimento, para desfazer alguma tensão que tenha surgido;
-- Conclusão, na qual a entrevistadora agradece ao participante pelo seu tempo, desliga o gravação indicando que a entrevista terminou.
+- **Apresentação**: O entrevistador se apresenta e delineia os objetivos da entrevista.
+- **Período de aquecimento**: Perguntas iniciais são feitas para coletar informações demográficas e estabelecer um perfil do usuário.
+- **Parte principal**: As questões centrais do roteiro são abordadas, explorando profundamente as necessidades do usuário em relação ao sistema.
+- **Período de desaquecimento**: Uma sequência de perguntas mais leves é utilizada para aliviar qualquer tensão remanescente.
+- **Conclusão**: A entrevista é encerrada com agradecimentos ao participante, e a gravação é finalizada.
+
+Este método permite um diálogo orgânico, ao mesmo tempo que fornece estrutura suficiente para garantir que todos os tópicos essenciais sejam cobertos.
 
 ## Entrevista
 
