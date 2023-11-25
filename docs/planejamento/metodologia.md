@@ -2,55 +2,36 @@
 
 ## Introdução
 
-Escolher a metodologia certa para um projeto de software é um passo crítico que pode determinar o sucesso ou o fracasso do projeto, sendo assim o grupo optou para usar das metodologias ágeis. O principal objetivo das metodologias ágeis é reduzir a sobrecarga
-associado a planejamentos no desenvolvimento de *softwares*.
-Dentre os métodos ágeis disponíveis o SCRUM e o XP são os mais populares
-(SWEBOK). 
-
-Para o projeto em questão utilizaremos metodologias ágeis adaptadas.
+A escolha da metodologia apropriada é crucial para o sucesso de um projeto de software. Metodologias ágeis são preferidas por minimizarem a carga de planejamento tradicional em desenvolvimento de software. Entre as diversas abordagens ágeis, SCRUM e XP se destacam pela popularidade e eficácia, conforme indicado pelo SWEBOK. Para este projeto específico, optamos por uma versão adaptada das metodologias ágeis.
 
 ## SCRUM Adaptado
 
-O ciclo do Scrum tem o seu progresso baseado em um série de iterações bem
-definidas, cada uma com duração de 2 a 4 semanas, chamadas Sprints. Antes de cada
-Sprint, realiza-se uma Reunião de planejamento (Sprint Planning Meeting)
-onde o time (equipe) de desenvolvedores priorizar o trabalho que precisa ser feito,
-selecionar e estimar as tarefas que o time pode realizar dentro da Sprint.
-<br><br>
-A próxima fase é a Execução da Sprint. Durante a
-execução da Sprint, o time controla o andamento do desenvolvimento realizando
-Reuniões Diárias Rápidas (Daily Meeting), não mais que 15 minutos de duração, e
-observando o seu progresso usando um gráfico chamado Sprint Burndown. Ao final
-de cada Sprint, é feita uma revisão no produto entregue para verificar se tudo realmente foi
-implementado.
+O SCRUM é estruturado em iterações fixas chamadas Sprints, que duram de 2 a 4 semanas. Cada Sprint começa com uma Reunião de Planejamento, onde o time define e estima as tarefas a serem realizadas. Durante a Sprint, o progresso é monitorado por meio de Reuniões Diárias e o gráfico Sprint Burndown. Ao final, uma revisão do produto é feita para assegurar a implementação adequada dos itens planejados.
 
-### Reuniões 
+### Reuniões
 
-Neste projeto, está prevista a realização de encontros semanais com o propósito de coordenar o planejamento das responsabilidades atribuídas a cada membro da equipe. Além disso, serão realizadas reuniões breves e periódicas ao longo da semana de desenvolvimento de tarefas específicas, com intervalos regulares de 2 a 3 dias entre esses encontros, visando manter um fluxo de comunicação eficaz e promover a sincronização contínua das atividades em andamento.
+Neste projeto, serão realizados encontros semanais para alinhamento e distribuição das responsabilidades da equipe. Adicionalmente, reuniões breves e frequentes acontecerão ao longo da semana para garantir a comunicação eficiente e a sincronização das atividades.
 
 ## XP Adaptado
 
-O XP é um método ágil de desenvolvimento de *software*. Nele todos os requisitos são expressos
-com cenários que são implementados diretamente como tarefas.
+O XP, outro método ágil de desenvolvimento de software, trabalha com requisitos expressos em cenários diretamente convertidos em tarefas. Os cinco valores fundamentais do XP são:
 
-A metodologia XP define um conjuto de cinco valores que são bases para a realização dos trabalhos:
-
-- **Comunicação** sempre fluida.
-- **Feedback** constante.
-- **Simplicidade** nas implementações iniciais.
-- **Coragem** para propor soluções complexas caso necessário.
-- **Respeito**
+- **Comunicação**: constante e eficaz.
+- **Feedback**: frequente e construtivo.
+- **Simplicidade**: em soluções iniciais, evitando complicações desnecessárias.
+- **Coragem**: para enfrentar desafios e propor soluções inovadoras.
+- **Respeito**: mútuo entre todos os envolvidos no projeto.
 
 (VETORAZZO, 2018)
 
-
 ## Bibliografia
-> PEREIRA, Paulo; TORREÃO, Paula; MARÇAL, Ana Sofia. Entendendo Scrum para gerenciar projetos de forma ágil. Mundo PM, v. 1, p. 3-11, 2007. </br>
-> SWEBOK **SWEBOK V3.0**, IEEE <br/>
-> VETORAZZO, Adriana. **Engenharia de Software**, 2018, SAGAH EDUCAÇÂO S.A. </br>
+> PEREIRA, Paulo; TORREÃO, Paula; MARÇAL, Ana Sofia. "Entendendo Scrum para gerenciar projetos de forma ágil." Mundo PM, v. 1, p. 3-11, 2007.
+> SWEBOK. "SWEBOK V3.0." IEEE.
+> VETORAZZO, Adriana. "Engenharia de Software." 2018, SAGAH EDUCAÇÃO S.A.
 
-## 📑 Histórico de versão
+## 📑 Histórico de Versão
 
-| Versão| Data      | Descrição | Autor | Revisor       |
-| :-:   | :-----:       | :------       | -------    | -------            |
-| `1.0`   |27/09/2023 |   Criação da página de metodologia   |  [Breno Queiroz](https://github.com/brenob6)| [Mayara Alves](https://github.com/Mayara-tech) |
+| Versão | Data       | Descrição                         | Autor                                           | Revisor                                      |
+|--------|------------|-----------------------------------|-------------------------------------------------|----------------------------------------------|
+| `1.0`  | 27/09/2023 | Criação da página de metodologia. | [Breno Queiroz](https://github.com/brenob6)    | [Mayara Alves](https://github.com/Mayara-tech) |
+| `2.0`  | 25/11/2023 | Melhoria na clareza dos textos. | [Altino Arthur](https://github.com/arthurrochamoreira)    |  |
