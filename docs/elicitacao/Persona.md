@@ -2,12 +2,11 @@
 
 ## Introdução
 
-Personas são arquétipos detalhadamente construídos que simulam os usuários finais de um sistema, visando orientar as decisões de design e funcionalidade com maior precisão. Esses modelos fictícios são fundamentais para antecipar comportamentos, necessidades e motivações dos usuários, alinhando o desenvolvimento do produto às expectativas do seu público-alvo. Antipersonas, em contrapartida, representam os usuários que não se alinham com o perfil principal visado pelo sistema, ajudando a definir os contornos do que o projeto deve ou não contemplar.
+Personas são representações fictícias que incorporam as características e comportamentos dos usuários-alvo de um sistema. Elas são fundamentais no processo de design, fornecendo uma base sólida para entender as necessidades e experiências dos usuários. Personas ajudam a focar as decisões de design e comunicação nas demandas reais dos usuários, enquanto as antipersonas servem para definir claramente quem não se enquadra no perfil do público-alvo, evitando desvios de foco no desenvolvimento do produto.
 
 ## Metodologia
 
-Para a criação das personas, foram extraídas características significativas a partir do [perfil de usuário](/elicitacao/PerfilUsuario/), transformando dados demográficos e comportamentais em narrativas de usuário. Quatro personas foram concebidas, representadas nas figuras 1 a 4, com duas primárias, uma secundária e uma antipersona. Esta diversificação garante uma cobertura abrangente dos usuários sem diluir o foco nos perfis mais relevantes para o sistema. Visualmente, as personas ganham vida através de imagens geradas pela ferramenta [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), selecionada pela sua capacidade de produzir rostos realísticos que facilitam a empatia e a identificação por parte das equipes de desenvolvimento.
-
+Nossa metodologia para criar personas se baseou nas características delineadas no [perfil de usuário](/elicitacao/PerfilUsuario/), traduzindo dados demográficos e psicográficos em narrativas de usuário que guiam a criação do produto. Quatro personas foram definidas, incluindo duas primárias, uma secundária e uma antipersona, garantindo uma cobertura ampla e representativa dos usuários sem perder de vista os principais stakeholders. Imagens para cada persona foram geradas usando a ferramenta [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), proporcionando uma representação visual que facilita a identificação e empatia dos membros da equipe de desenvolvimento com os usuários finais. Através desta abordagem, as personas se tornam uma parte integrante do processo de design, assegurando que as funcionalidades do sistema estejam alinhadas com as expectativas e necessidades dos usuários.
 
 ## Elenco
 
