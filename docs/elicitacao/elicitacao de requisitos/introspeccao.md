@@ -1,20 +1,19 @@
 # Introspecção
+
 ## Introdução
-Quando falamos em técnicas de elicitação, de acordo com Goguen (1994), a técnica de introspecção é uma das mais utilizadas, já que depende apenas do avaliador. A introspecção é uma técnica na qual a atividade é baseada em "imaginar" como o sistema deve ser e se comportar para solucionar um determinado problema do usuário.
+A introspecção é uma técnica de elicitação de requisitos que se destaca por sua independência, conforme identificado por Goguen em 1994. Essencialmente introspectiva, essa abordagem envolve o avaliador imergindo profundamente em sua própria compreensão do sistema para prever como ele pode atender às necessidades dos usuários. O avaliador "encarna" um usuário e imagina as funcionalidades necessárias para cumprir tarefas específicas.
 
-Como foi dito, esta técnica é realizada pelo próprio avaliador, levando em consideração um ponto de vista particular. Isso nos traz benefícios e vantagens ao utilizar esta técnica, que são:
+Essa técnica oferece vantagens significativas, permitindo que o avaliador visualize rapidamente o sistema em ação. No entanto, a introspecção também tem limitações, principalmente quando o avaliador não consegue se desvincular de suas próprias experiências com o sistema, o que pode obscurecer as necessidades de usuários distintos.
 
-**Vantagens**: Dá a oportunidade para o avaliador conseguir ter uma concepção de como o sistema funciona e se comporta rapidamente, especialmente quando está utilizando uma certa "encenação" de um usuário imaginário.
+**Vantagens**: Facilita uma rápida compreensão do sistema através de uma simulação mental efetiva, empregando a "encenação" de cenários de uso por um usuário fictício.
 
-**Desvantagens**: O avaliador pode estar fortemente vinculado ao uso do sistema, o que pode dificultar a visão na perspectiva de algum outro tipo de usuário.
+**Desvantagens**: Pode haver uma tendência a se concentrar em perspectivas familiares, limitando a exploração de necessidades de diferentes perfis de usuários.
 
 ## Metodologia
-Para a preparação da técnica, foi necessário elaborar mentalmente um cenário de como o sistema deve ser para um usuário que busca resolver um determinado problema.
-
-O cenário imaginário elaborado foi: "Um usuário jovem precisa instalar o linux em seu notebook e, ao necessitar criar um pen drive bootável, ele encontra o software Ventoy. Porém, para utilizá-lo, ele precisa saber como proceder e, assim, acessa o site do Ventoy.".
+Na preparação para a técnica de introspecção, delineamos um cenário detalhado em que o sistema seria utilizado. Imaginamos um jovem usuário que, diante da necessidade de instalar o Linux em seu notebook, recorre ao software Ventoy para criar um pen drive bootável. Para operacionalizar o software, ele busca instruções no site do Ventoy, o que nos levou a considerar a experiência do usuário do início ao fim.
 
 ## Requisitos Elicitados
-Após o exercício mental de utilizar o site Ventoy para solucionar o problema de um usuário imaginário, conseguimos eliciar os requisitos apresentados na Tabela 1. Identificamos cada requisito por uma sigla formada por "ITP" + um número. Para representar o tipo do requisito, serão usadas as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional. Também indicaremos se já há uma implementação do requisito no aplicativo.
+O processo introspectivo revelou vários requisitos, que foram catalogados na Tabela 1. Os requisitos foram codificados iniciando com "ITP", seguidos de um número sequencial. "RF" indica um Requisito Funcional, enquanto "RNF" denota um Requisito Não Funcional. A tabela também especifica se o requisito já está presente na versão atual do aplicativo.
 
 <p align="center"><b>Tabela 01</b> - Requisitos elicitados do Glossário. Fonte: Autores.</p>
 
@@ -42,3 +41,4 @@ Após o exercício mental de utilizar o site Ventoy para solucionar o problema d
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 14/10/2023 | Criação da página de introspecção | [Vinícius Mendes](https://github.com/yabamiah)| [Luís Miranda](https://github.com/LuisMiranda10) e [Altino Arthur](https://github.com/arthurrochamoreira) |
+|`2.0`| 25/11/2023 | Melhoria na clareza dos textos | [Altino Arthur](https://github.com/arthurrochamoreira)|  |
