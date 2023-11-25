@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é uma verificação do artefato [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/) na versão 1.0 de data 29/10/2023, autorada por [x](https://github.com/), que são integrantes do [grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main), 
+Este documento é uma verificação do artefato [Planejamento da Avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoDePapel/planejamento_avaliacao/) na versão 1.0 de data 07/11/2023, autorada por [Breno Queiroz](https://github.com/brenob6), que é integrantes do [grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main), 
 cujo projeto tem como foco o site do [Ventoy](https://www.ventoy.net/en/index.html), o propósito desta verificação é identificar possíveis problemas no artefato.
 
 ## Metodologia 
