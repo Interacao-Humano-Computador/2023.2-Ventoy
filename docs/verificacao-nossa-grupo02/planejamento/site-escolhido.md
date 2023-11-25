@@ -15,7 +15,16 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 
 **Tabela 1** - Checklist não preenchido
 
-
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
+| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
+| 5  | O artefato apresenta uma avaliação heurística do site escolhido? 				      | -          | -                                                                      |
+| 6  | Todos os textos estão na norma padrão?                                       			      | -          | -                                                                      |
+| 7  | O motivo da escolha do site foi definido?						       	      | -          | -                                                                      |
+| 8  | O site apresenta relevância para o contexto do projeto ou da disciplina?				      | -          | -                                                                      |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 </center>
@@ -28,7 +37,16 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 **Tabela 2** - Checklist Preenchido 
 
-
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
+| 1  | O artefato possui Introdução?                                                                          | Sim        | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                             | Não        | O artefato apresenta os critérios que foram utilizados para escolher o site, no entanto não apresenta um detatalhamento da metodologia aplicada en conjunto com os critérios para definir a escolha. |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | Sim        | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim        | -                                                                      |
+| 5  | O artefato apresenta uma avaliação heurística do site escolhido? 				      | Sim        | -                                                                      |
+| 6  | Todos os textos estão na norma padrão?                                       			      | Sim        | -                                                                      |
+| 7  | O motivo da escolha do site foi definido?						       	      | Sim        | -                                                                      |
+| 8  | O site apresenta relevância para o contexto do projeto ou da disciplina?				      | Sim        | -                                                                      |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
@@ -36,6 +54,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 ## Sugestões de Melhorias
 
+Para aprimorar a compreensão do artefato, seria útil proporcionar uma explicação mais detalhada da metodologia empregada.
 
 </center>
 
@@ -49,4 +68,4 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 | Versão |    Data    |       Descrição      | Autor                |   Revisor   |
 | ------ | ---------- | -------------------- | ---------------------| ----------- |
 | `1.0`  | 25/11/2023 | Criação do Documento | Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
-
+| `1.1`  | 25/11/2023 | Adicionado o desenvolvimento | Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
