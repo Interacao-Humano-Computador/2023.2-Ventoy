@@ -90,4 +90,4 @@ A análise das respostas sugere o seguinte perfil para o usuário do aplicativo:
 | Versão |    Data    | Descrição                         | Autor(es)                                           | Revisor(es)                                             |
 |--------|------------|-----------------------------------|-----------------------------------------------------|---------------------------------------------------------|
 | `1.0`  | 14/10/2023 | Criação do documento de perfil de usuário. | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Correia](https://github.com/LimirioGuimaraes), [Altino Arthur](https://github.com/arthurrochamoreira) |
-| `1.1`  | 25/11/2023 | Melhoria da clareza e a concisão do texto. | [Altino Arthur](https://github.com/arthurrochamoreira) |
+| `2.0`  | 25/11/2023 | Melhoria da clareza e a concisão do texto. | [Altino Arthur](https://github.com/arthurrochamoreira) |
