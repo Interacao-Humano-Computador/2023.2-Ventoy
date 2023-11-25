@@ -2,23 +2,12 @@
 
 ## Introdução
 
-As personas são personagens fictícias criadas para representar os usuários da aplicação
-no intuito de melhorar o entendimento das funcionalidades que o sistema deve apresentar.
-Elas devem possuir características que sumarizam bem os usuários “típicos”, mas que
-sejam específicas para torná-las ferramentas de design e comunicação eficientes^1^.
-Já a antipersonas é um perfil fictício que descreve um tipo de usuário que não é o
-público-alvo da aplicação.
+Personas são arquétipos detalhadamente construídos que simulam os usuários finais de um sistema, visando orientar as decisões de design e funcionalidade com maior precisão. Esses modelos fictícios são fundamentais para antecipar comportamentos, necessidades e motivações dos usuários, alinhando o desenvolvimento do produto às expectativas do seu público-alvo. Antipersonas, em contrapartida, representam os usuários que não se alinham com o perfil principal visado pelo sistema, ajudando a definir os contornos do que o projeto deve ou não contemplar.
 
 ## Metodologia
 
-As personas criadas possuem as características apresentadas na seção de <a href="/
-elicitacao/PerfilUsuario/">perfil de usuário</a>. Foram criadas quatro personas, assim
-como vistas nas figuras de 1 a 4, sendo 2 primárias, 1 secundárias e 1 antipersona
-. Foi escolhida essa quantidade, pois permite que as diversas características distintas
-possam ter ao menos um representante sem que o foco no usuário principal do sistema
-seja perdido. Após o detalhamento das personas foi utilizada a ferramenta <a href="
-https://this-person-does-not-exist.com/pt"><i>This Person Doesn't Exist^2^</i></a>
-para gerar uma imagem falsa que representaria a persona.
+Para a criação das personas, foram extraídas características significativas a partir do [perfil de usuário](/elicitacao/PerfilUsuario/), transformando dados demográficos e comportamentais em narrativas de usuário. Quatro personas foram concebidas, representadas nas figuras 1 a 4, com duas primárias, uma secundária e uma antipersona. Esta diversificação garante uma cobertura abrangente dos usuários sem diluir o foco nos perfis mais relevantes para o sistema. Visualmente, as personas ganham vida através de imagens geradas pela ferramenta [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), selecionada pela sua capacidade de produzir rostos realísticos que facilitam a empatia e a identificação por parte das equipes de desenvolvimento.
+
 
 ## Elenco
 
@@ -118,4 +107,5 @@ para gerar uma imagem falsa que representaria a persona.
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 14/10/2023 | Criação das personas                        |[Mayara Alves](https://github.com/Mayara-tech)  | [Breno Queiroz](https://github.com/brenob6)|
+| `2.0`  | 25/11/2023 | Melhoria nos textos de introdução e metodologia |[Altino Arthur](https://github.com/arthurrochamoreira)  | |
 
