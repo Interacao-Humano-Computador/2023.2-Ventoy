@@ -34,7 +34,7 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 | 15  | São apresentados exemplos de uso?	  	    						      | -          | -  								    |
 | 16  | O guia de estilo apresenta uma consistência visual?	  	    				      | -          | -  								    |
 | 17  | São apresentados todos os elementos de interface (Disposição espacial e grid, janelas, tipografia e cores)?| -          | -  								    |
-| 18  | São apresentados os elementos de interação (estilos de interação, seleção de um estilo e aceleradores (teclas de atalho)?| -          | -  						    |
+| 18  | São apresentados os elementos de interação (estilos de interação, seleção de um estilo e aceleradores (teclas de atalho))?| -          | -  						    |
 | 19  | São apresentados os vocabulário e padrões, terminologia, tipos de tela (para tarefas comuns), sequências de diálogos (para feedback ou confirmação de uma operação)?| -          |	    |
 
 

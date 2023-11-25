@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é uma verificação do artefato [x](x) na versão x de data x, autorada por [x](https://github.com/), que são integrantes do [grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main), 
+Este documento é uma verificação do artefato [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/) na versão 1.0 de data 29/10/2023, autorada por [x](https://github.com/), que são integrantes do [grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main), 
 cujo projeto tem como foco o site do [Ventoy](https://www.ventoy.net/en/index.html), o propósito desta verificação é identificar possíveis problemas no artefato.
 
 ## Metodologia 
@@ -51,26 +51,24 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 | 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Sim        | -                                                                      |
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim        | -                                                                      |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim        | -                                                                      |
-| 6  | Todos os textos estão na norma padrão?                                       						      | Não        | Há duas tabelas 01 no texto, há uma tabela que não é chamada e também não possui enumeração. Há também tabelas que não possuem fontes.|
+| 6  | Todos os textos estão na norma padrão?                                       						      | Sim        | - |
 | 7  | O planejamento da avaliação segue o Framework DECIDE?					   				      | Sim        | -                                                                      |
 | 8  | O artefato descreve os objetivos da avaliação?		                                                                      | Sim        | -                                                                      |
 | 9  | O artefato descreve os métodos a serem utilizados?		                                                              | Sim        | -                                                                      |
 | 10  | O artefato descreve os aspectos práticos da avaliação?								              | Sim        | -  								    |
 | 11  | O artefato descreve os aspectos éticos da avaliação?			   			                              | Sim        | -  								    |
-| 12  | O artefato descreve as perguntas a serem feitas na avaliação?					                              | Sim        | -  								    |
-| 13  | O artefato possui um cronograma planejado da avaliação?									      | Sim        | -  								    |
-| 14  | O artefato apresenta o teste piloto do planejamento da avaliação?							      | Sim        | -  								    |
+| 12  | O artefato descreve as perguntas a serem feitas na avaliação?					                              | Incompleto | Possuem, no entanto as perguntas não possuem fontes.|
+| 13  | O artefato possui um cronograma planejado da avaliação?									      | Incompleto | Possue, porém não apresenta todos os envolvidos nem horários.|
+| 14  | O artefato apresenta o teste piloto do planejamento da avaliação?							      | Não        | -  								    |
+							      | Sim        | -  								    |
 
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
-</center>
 
 ## Sugestões de Melhorias
 
-Revisar as chamadas e enumeração de tabelas no texto, assim como as fontes.
-
-</center>
+Algumas informações não possuem fontes claras como as perguntas que seram feitas na entrevista, o cronograma poderia estar mais detalhado e um teste piloto agregaria muito ao planejamento.
 
 ## Bibliografia
 
