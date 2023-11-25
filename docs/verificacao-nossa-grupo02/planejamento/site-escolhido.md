@@ -2,7 +2,7 @@
  
 ## Introdução
 
-Este documento é uma verificação do artefato [Site Escolhido](https://interacao-humano-computador.github.io/2023.2-Ventoy/planejamento/site-escolhido/) na versão x de data x, autorada por [x](https://github.com/), que são integrantes do [grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main), 
+Este documento é uma verificação do artefato [Site Escolhido](https://interacao-humano-computador.github.io/2023.2-Ventoy/planejamento/site-escolhido/) na versão 1.1 de data 10/10/2023, autorada por [Milena Baruc](https://github.com/MilenaBaruc) e [Vinicius Mendes](https://github.com/yabamiah), que são integrantes do [grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main), 
 cujo projeto tem como foco o site do [Ventoy](https://www.ventoy.net/en/index.html), o propósito desta verificação é identificar possíveis problemas no artefato.
 
 ## Metodologia 
