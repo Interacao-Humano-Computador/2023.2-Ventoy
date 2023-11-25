@@ -48,5 +48,5 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 | Versão |    Data    |       Descrição      | Autor                |   Revisor   |
 | ------ | ---------- | -------------------- | ---------------------| ----------- |
-| `1.0`  | 14/11/2023 | Criação do Documento | Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
+| `1.0`  | 25/11/2023 | Criação do Documento | Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
 
