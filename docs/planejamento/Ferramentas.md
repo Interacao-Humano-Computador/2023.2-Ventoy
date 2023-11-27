@@ -2,30 +2,13 @@
 
 ## Introdução
 
-A escolha das ferramentas certas é fundamental para o sucesso de qualquer projeto. Elas não apenas aprimoram a eficiência, mas também facilitam a comunicação e colaboração entre os membros da equipe. Neste documento, apresentamos um conjunto cuidadosamente selecionado de ferramentas que foram escolhidas para suportar e otimizar os processos de nosso projeto.
+A escolha das ferramentas adequadas é essencial para o sucesso de projetos. Elas são vitais para aprimorar a eficiência e facilitar a comunicação e colaboração entre os membros da equipe. Este documento destaca o conjunto de ferramentas selecionadas para apoiar e otimizar nosso projeto, com base na experiência anterior dos membros em projetos como a Bilheteria Digital e o Banco Central do Brasil. Estas ferramentas foram escolhidas por sua capacidade de atender às necessidades atuais e futuras, integrando-se harmoniosamente ao nosso fluxo de trabalho.
 
-A seleção foi baseada em uma combinação de fatores, incluindo experiências anteriores em projetos similares, como a Bilheteria Digital e o Banco Central do Brasil, bem como a expertise dos membros da equipe. Acreditamos que essas ferramentas não apenas atendem às nossas necessidades imediatas, mas também são escaláveis e adaptáveis para atender aos requisitos futuros do projeto.
-
-Com este compêndio, visamos promover uma compreensão clara do papel de cada ferramenta e como ela contribui para o fluxo de trabalho coletivo, garantindo assim que todos os membros da equipe estejam alinhados e possam colaborar eficientemente.
-
-Cada ferramenta foi escolhida não apenas por sua funcionalidade individual, mas também pela maneira como se integra ao nosso ecossistema de trabalho. Ao documentar essas ferramentas e suas finalidades, esperamos estabelecer um padrão de trabalho que seja produtivo e harmonioso.
+Nossa meta é fornecer uma compreensão clara do propósito de cada ferramenta dentro do nosso ecossistema de trabalho e como elas se complementam, estabelecendo um padrão de trabalho produtivo e coeso.
 
 ## Metodologia
 
-A seleção das ferramentas para o projeto foi realizada seguindo uma abordagem prática e baseada na experiência prévia dos membros da equipe. Descrevemos brevemente o processo simplificado adotado:
-
-### Identificação de Requisitos
-
-O primeiro passo foi identificar os requisitos essenciais do projeto, tais como comunicação, gerenciamento de código, design, documentação e compartilhamento de arquivos.
-
-### Escolha Baseada na Experiência
-
-Com base na experiência acumulada em projetos anteriores, selecionamos um conjunto de ferramentas que já se mostraram eficazes e fáceis de usar para a equipe.
-
-### Discussão em Equipe
-
-Discutimos como cada ferramenta se encaixava nas necessidades do projeto e coletamos opiniões de todos os membros da equipe para alcançar um consenso.
-
+A seleção das ferramentas foi um processo reflexivo, fundamentado na experiência e no conhecimento coletivo da equipe. Seguimos um processo simplificado para identificar as necessidades do projeto, como comunicação, gestão de código, design, documentação e compartilhamento de arquivos. Levamos em consideração a eficácia comprovada das ferramentas em iniciativas anteriores e buscamos um consenso entre os membros da equipe para garantir uma escolha que refletisse nossas necessidades comuns.
 
 ## Ferramentas Utilizadas
 
