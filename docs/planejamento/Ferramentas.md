@@ -31,9 +31,9 @@ Discutimos como cada ferramenta se encaixava nas necessidades do projeto e colet
 
 <br>
 
-## Ferramentas Utilizadas
-
+<center>
 **Tabela 1** - Ferramentas Utilizadas no Projeto
+</center>
 
 | Ferramenta | Finalidade | Comparação |
 | --- | --- | --- |
@@ -48,7 +48,9 @@ Discutimos como cada ferramenta se encaixava nas necessidades do projeto e colet
 | ![](../assets/thispersondoesntexist.png){width=75} | Geração de imagens de personas fictícias para prototipagem e demonstrações. | Não há muitas alternativas diretas, mas serviços de stock photos podem ser usados em seu lugar para personas não geradas por IA. |
 | ![](../assets/excel_logo.png){width=75} | Criação de planilhas para organização de horários e dados do projeto. | Google Sheets é uma alternativa com funcionalidades similares e colaboração em tempo real. |
 
+<center>
 Fonte: Autores do Grupo 2.
+</center>
 
 <br>
 
