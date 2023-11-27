@@ -31,22 +31,24 @@ Discutimos como cada ferramenta se encaixava nas necessidades do projeto e colet
 
 <br>
 
+## Ferramentas Utilizadas
+
 **Tabela 1** - Ferramentas Utilizadas no Projeto
 
 | Ferramenta | Finalidade | Comparação |
 | --- | --- | --- |
-| <a href="https://www.microsoft.com/pt-br/microsoft-teams/log-in"><img src="../assets/teams.png" width="75" alt="Teams"/></a> | Utilizado para reuniões virtuais, compartilhamento de documentos e colaboração em tempo real, promovendo comunicação rápida e eficaz. | Alternativas incluem Slack e Zoom para comunicação e colaboração em equipe. |
-| <a href="https://github.com"><img src="../assets/github.png" width="75" alt="GitHub"/></a> | Serve para controle de versão e colaboração em projetos, com rastreamento de alterações e revisão de código, facilitando a colaboração organizada. | Outras opções como Bitbucket e GitLab também oferecem funcionalidades similares de repositório Git. |
-| <a href="https://www.figma.com/"><img src="../assets/figma.png" width="75" alt="Figma"/></a> | Ferramenta de design para a criação e colaboração em UI/UX, usada na prototipação de alternativas de design para o site do projeto. | Comparável com Adobe XD e Sketch, mas Figma é preferido por ser baseado em nuvem e facilitar a colaboração. |
-| <a href="https://www.mkdocs.org/"><img src="../assets/mkdocs.png" width="75" alt="MkDocs"/></a> | Utilizado para simplificar a criação e manutenção de documentação de projetos de forma organizada e eficiente. | Alternativa ao Sphinx, oferece uma experiência mais direta e suporte a Markdown. |
-| <a href="https://code.visualstudio.com/"><img src="../assets/vscode.png" width="75" alt="Visual Studio Code"/></a> | Editor de código para desenvolvimento e documentação, com suporte a extensões e integração com Git. | Sublime Text e Atom são alternativas, mas VSCode é amplamente adotado por sua performance e recursos. |
-| <a href="https://web.whatsapp.com/"><img src="../assets/whatsapp.png" width="75" alt="WhatsApp"/></a> | Plataforma de mensagens para comunicação rápida e direta entre membros da equipe. | Telegram e Signal são alternativas, mas WhatsApp é escolhido pela popularidade e facilidade de uso. |
-| <a href="https://youtube.com"><img src="../assets/youtube.jpg" width="75" alt="YouTube"/></a> | Plataforma para hospedar vídeos de apresentações e reuniões do projeto. | Vimeo é uma alternativa, porém o YouTube tem maior alcance e é gratuito. |
-| <a href="https://drive.google.com/drive/"><img src="../assets/gdrive.png" width="75" alt="Google Drive"/></a> | Serviço de compartilhamento e armazenamento de arquivos, utilizado para distribuição de documentos e arquivos de mídia. | Dropbox e OneDrive são alternativas, mas o Google Drive é integrado com outros serviços Google usados. |
-| <a href="https://this-person-does-not-exist.com/en"><img src="../assets/thispersondoesntexist.png" width="75" alt="This Person Doesn't Exist"/></a> | Geração de imagens de personas fictícias para prototipagem e demonstrações. | Não há muitas alternativas diretas, mas serviços de stock photos podem ser usados em seu lugar para personas não geradas por IA. |
-| <a href="https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web"><img src="../assets/excel_logo.png" width="75" alt="Excel online"/></a> | Criação de planilhas para organização de horários e dados do projeto. | Google Sheets é uma alternativa com funcionalidades similares e colaboração em tempo real. |
+| ![](../assets/teams.png){width=75} | Utilizado para reuniões virtuais, compartilhamento de documentos e colaboração em tempo real, promovendo comunicação rápida e eficaz. | Alternativas incluem Slack e Zoom para comunicação e colaboração em equipe. |
+| ![](../assets/github.png){width=75} | Serve para controle de versão e colaboração em projetos, com rastreamento de alterações e revisão de código, facilitando a colaboração organizada. | Outras opções como Bitbucket e GitLab também oferecem funcionalidades similares de repositório Git. |
+| ![](../assets/figma.png){width=75} | Ferramenta de design para a criação e colaboração em UI/UX, usada na prototipação de alternativas de design para o site do projeto. | Comparável com Adobe XD e Sketch, mas Figma é preferido por ser baseado em nuvem e facilitar a colaboração. |
+| ![](../assets/mkdocs.png){width=75} | Utilizado para simplificar a criação e manutenção de documentação de projetos de forma organizada e eficiente. | Alternativa ao Sphinx, oferece uma experiência mais direta e suporte a Markdown. |
+| ![](../assets/vscode.png){width=75} | Editor de código para desenvolvimento e documentação, com suporte a extensões e integração com Git. | Sublime Text e Atom são alternativas, mas VSCode é amplamente adotado por sua performance e recursos. |
+| ![](../assets/whatsapp.png){width=75} | Plataforma de mensagens para comunicação rápida e direta entre membros da equipe. | Telegram e Signal são alternativas, mas WhatsApp é escolhido pela popularidade e facilidade de uso. |
+| ![](../assets/youtube.jpg){width=75} | Plataforma para hospedar vídeos de apresentações e reuniões do projeto. | Vimeo é uma alternativa, porém o YouTube tem maior alcance e é gratuito. |
+| ![](../assets/gdrive.png){width=75} | Serviço de compartilhamento e armazenamento de arquivos, utilizado para distribuição de documentos e arquivos de mídia. | Dropbox e OneDrive são alternativas, mas o Google Drive é integrado com outros serviços Google usados. |
+| ![](../assets/thispersondoesntexist.png){width=75} | Geração de imagens de personas fictícias para prototipagem e demonstrações. | Não há muitas alternativas diretas, mas serviços de stock photos podem ser usados em seu lugar para personas não geradas por IA. |
+| ![](../assets/excel_logo.png){width=75} | Criação de planilhas para organização de horários e dados do projeto. | Google Sheets é uma alternativa com funcionalidades similares e colaboração em tempo real. |
 
-<font size="3"><p style="text-align: center">Fonte: Autores do Grupo 2.</p></font>
+Fonte: Autores do Grupo 2.
 
 <br>
 
