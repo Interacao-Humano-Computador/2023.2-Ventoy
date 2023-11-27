@@ -6,7 +6,7 @@ A coordenação de reuniões com múltiplos participantes é um desafio logísti
 
 ## Metodologia
 
-Iniciamos a coleta de dados com cada integrante do grupo indicando sua disponibilidade em uma tabela, referida como **Imagem 1**. Com essas informações, desenvolvemos um heatmap que ilustra a disponibilidade agregada do grupo. Utilizamos essa visualização de dados para analisar e identificar os períodos de maior disponibilidade. Após uma discussão criteriosa, o grupo decidiu unânime por reuniões semanais às quintas-feiras às 21 horas. Essa decisão foi integrada aos calendários individuais dos membros, garantindo a organização e o comprometimento com o horário estabelecido. 
+Iniciamos a coleta de dados com cada integrante do grupo indicando sua disponibilidade em uma tabela, referida como **Figura 1**. Com essas informações, desenvolvemos um heatmap que ilustra a disponibilidade agregada do grupo. Utilizamos essa visualização de dados para analisar e identificar os períodos de maior disponibilidade. Após uma discussão criteriosa, o grupo decidiu unânime por reuniões semanais às quintas-feiras às 21 horas. Essa decisão foi integrada aos calendários individuais dos membros, garantindo a organização e o comprometimento com o horário estabelecido. 
 
 ## Heatmap e disponibilidade do grupo
 
