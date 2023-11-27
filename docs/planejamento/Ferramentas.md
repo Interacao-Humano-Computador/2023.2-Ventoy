@@ -10,6 +10,8 @@ Nossa meta é fornecer uma compreensão clara do propósito de cada ferramenta d
 
 A seleção das ferramentas foi um processo reflexivo, fundamentado na experiência e no conhecimento coletivo da equipe. Seguimos um processo simplificado para identificar as necessidades do projeto, como comunicação, gestão de código, design, documentação e compartilhamento de arquivos. Levamos em consideração a eficácia comprovada das ferramentas em iniciativas anteriores e buscamos um consenso entre os membros da equipe para garantir uma escolha que refletisse nossas necessidades comuns.
 
+A seguir, a **Tabela 1** detalha as ferramentas que escolhemos para o projeto:
+
 ## Ferramentas Utilizadas
 
 <br>
