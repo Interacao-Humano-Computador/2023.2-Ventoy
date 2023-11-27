@@ -6,7 +6,9 @@ A coordenação de reuniões com múltiplos participantes é um desafio logísti
 
 ## Metodologia
 
-Iniciamos a coleta de dados com cada integrante do grupo indicando sua disponibilidade em uma tabela. Com essas informações, desenvolvemos um heatmap que ilustra a disponibilidade agregada do grupo. Utilizamos essa visualização de dados para analisar e identificar os períodos de maior disponibilidade. Após uma discussão criteriosa, o grupo decidiu unânime por reuniões semanais às quintas-feiras às 21 horas. Essa decisão foi integrada aos calendários individuais dos membros, garantindo a organização e o comprometimento com o horário estabelecido.
+Iniciamos a coleta de dados com cada integrante do grupo indicando sua disponibilidade em uma tabela, referida como **Imagem 1**. Com essas informações, desenvolvemos um heatmap que ilustra a disponibilidade agregada do grupo. Utilizamos essa visualização de dados para analisar e identificar os períodos de maior disponibilidade. Após uma discussão criteriosa, o grupo decidiu unânime por reuniões semanais às quintas-feiras às 21 horas. Essa decisão foi integrada aos calendários individuais dos membros, garantindo a organização e o comprometimento com o horário estabelecido. 
+
+## Heatmap e disponibilidade do grupo
 
 <p align="center"> Figura 1. Heatmap</p>
 
@@ -16,7 +18,8 @@ Fonte: [Limirio Correia](https://github.com/LimirioGuimaraes)
 
 ### Resultado
 
-Após a análise minuciosa do heatmap, iniciou-se um diálogo colaborativo para encontrar um horário que respeitasse a disponibilidade de todos os membros. Este processo de deliberação foi marcado por uma consideração meticulosa das necessidades individuais e coletivas. Chegamos, então, a um consenso estratégico e unificado: as reuniões foram marcadas para todas as **quintas-feiras às 21 horas**, com uma duração estimada de uma hora e meia. Essa decisão reflete o nosso comprometimento em maximizar a eficiência sem sacrificar a qualidade do engajamento, garantindo que cada passo dado no desenvolvimento do nosso projeto seja sólido e produtivo.
+Analisando o heatmap detalhado na **Figura 1**, iniciamos uma discussão colaborativa para determinar o horário de reunião ideal. A deliberação foi conduzida com atenção às preferências e necessidades de cada membro. O consenso alcançado foi marcar nossas reuniões para **quintas-feiras às 21 horas**, esperando-se que durem até uma hora e meia. Esta decisão, estrategicamente alinhada com o heatmap, reflete nosso compromisso em otimizar o tempo e os recursos do grupo, visando a eficácia e a eficiência em nossas atividades. A Tabela 1 ilustra a convergência de disponibilidades que nos guiou a esta escolha.
+
 
 ## Bibliografia 
 > ROCHA, Miguel Mechi Naves et al. Heatmap matrix interativa: uso de recursos de interação para melhorar uma técnica de visualização de dados multidimensionais. 2021. Tese de Doutorado. Dissertação (Mestrado em Tecnologia). Faculdade de Tecnologia, Universidade Estadual de Campinas, Limeira. Acesso em: 24/09/2023
