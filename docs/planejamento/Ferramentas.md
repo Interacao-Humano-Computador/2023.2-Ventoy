@@ -2,25 +2,49 @@
 
 ## Introdução
 
-Com o objetivo de facilitar o gerenciamento e a execução do projeto, realizou-se um levantamento de possíveis ferramentas com a intenção de agilizar determinadas atividades e a produção de artefatos. As ferramentas escolhidas para a realização do projeto estão apresentadas na Tabela 1. Todas essas ferramentas foram selecionadas com base nas utilizadas em projetos anteriores, como a Bilheteria Digital^1^ e o Banco Central do Brasil^2^. Além disso, também utilizamos a experiência e os conhecimentos dos integrantes do grupo como referência na escolha.
+A escolha das ferramentas certas é fundamental para o sucesso de qualquer projeto. Elas não apenas aprimoram a eficiência, mas também facilitam a comunicação e colaboração entre os membros da equipe. Neste documento, apresentamos um conjunto cuidadosamente selecionado de ferramentas que foram escolhidas para suportar e otimizar os processos de nosso projeto.
+
+A seleção foi baseada em uma combinação de fatores, incluindo experiências anteriores em projetos similares, como a Bilheteria Digital e o Banco Central do Brasil, bem como a expertise dos membros da equipe. Acreditamos que essas ferramentas não apenas atendem às nossas necessidades imediatas, mas também são escaláveis e adaptáveis para atender aos requisitos futuros do projeto.
+
+Com este compêndio, visamos promover uma compreensão clara do papel de cada ferramenta e como ela contribui para o fluxo de trabalho coletivo, garantindo assim que todos os membros da equipe estejam alinhados e possam colaborar eficientemente.
+
+Cada ferramenta foi escolhida não apenas por sua funcionalidade individual, mas também pela maneira como se integra ao nosso ecossistema de trabalho. Ao documentar essas ferramentas e suas finalidades, esperamos estabelecer um padrão de trabalho que seja produtivo e harmonioso.
+
+## Metodologia
+
+A seleção das ferramentas para o projeto foi realizada seguindo uma abordagem prática e baseada na experiência prévia dos membros da equipe. Descrevemos brevemente o processo simplificado adotado:
+
+### Identificação de Requisitos
+
+O primeiro passo foi identificar os requisitos essenciais do projeto, tais como comunicação, gerenciamento de código, design, documentação e compartilhamento de arquivos.
+
+### Escolha Baseada na Experiência
+
+Com base na experiência acumulada em projetos anteriores, selecionamos um conjunto de ferramentas que já se mostraram eficazes e fáceis de usar para a equipe.
+
+### Discussão em Equipe
+
+Discutimos como cada ferramenta se encaixava nas necessidades do projeto e coletamos opiniões de todos os membros da equipe para alcançar um consenso.
+
 
 ## Ferramentas Utilizadas
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
+**Tabela 1** - Ferramentas Utilizadas no Projeto
 
+| Ferramenta | Finalidade | Comparação |
+| --- | --- | --- |
+| [![Teams](../assets/teams.png)](https://www.microsoft.com/pt-br/microsoft-teams/log-in) | Utilizado para reuniões virtuais, compartilhamento de documentos e colaboração em tempo real, promovendo comunicação rápida e eficaz. | Alternativas incluem Slack e Zoom para comunicação e colaboração em equipe. |
+| [![GitHub](../assets/github.png)](https://github.com) | Serve para controle de versão e colaboração em projetos, com rastreamento de alterações e revisão de código, facilitando a colaboração organizada. | Outras opções como Bitbucket e GitLab também oferecem funcionalidades similares de repositório Git. |
+| [![Figma](../assets/figma.png)](https://www.figma.com/) | Ferramenta de design para a criação e colaboração em UI/UX, usada na prototipação de alternativas de design para o site do projeto. | Comparável com Adobe XD e Sketch, mas Figma é preferido por ser baseado em nuvem e facilitar a colaboração. |
+| [![MkDocs](../assets/mkdocs.png)](https://www.mkdocs.org/) | Utilizado para simplificar a criação e manutenção de documentação de projetos de forma organizada e eficiente. | Alternativa ao Sphinx, oferece uma experiência mais direta e suporte a Markdown. |
+| [![Visual Studio Code](../assets/vscode.png)](https://code.visualstudio.com/) | Editor de código para desenvolvimento e documentação, com suporte a extensões e integração com Git. | Sublime Text e Atom são alternativas, mas VSCode é amplamente adotado por sua performance e recursos. |
+| [![WhatsApp](../assets/whatsapp.png)](https://web.whatsapp.com/) | Plataforma de mensagens para comunicação rápida e direta entre membros da equipe. | Telegram e Signal são alternativas, mas WhatsApp é escolhido pela popularidade e facilidade de uso. |
+| [![YouTube](../assets/youtube.jpg)](https://youtube.com) | Plataforma para hospedar vídeos de apresentações e reuniões do projeto. | Vimeo é uma alternativa, porém o YouTube tem maior alcance e é gratuito. |
+| [![Google Drive](../assets/gdrive.png)](https://drive.google.com/drive/) | Serviço de compartilhamento e armazenamento de arquivos, utilizado para distribuição de documentos e arquivos de mídia. | Dropbox e OneDrive são alternativas, mas o Google Drive é integrado com outros serviços Google usados. |
+| [![This Person Doesn't Exist](../assets/thispersondoesntexist.png)](https://this-person-does-not-exist.com/en) | Geração de imagens de personas fictícias para prototipagem e demonstrações. | Não há muitas alternativas diretas, mas serviços de stock photos podem ser usados em seu lugar para personas não geradas por IA. |
+| [![Excel online](../assets/excel_logo.png)](https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web) | Criação de planilhas para organização de horários e dados do projeto. | Google Sheets é uma alternativa com funcionalidades similares e colaboração em tempo real. |
 
-|                                                           |        Ferramenta         |                               Finalidade                                  |
-| :-------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------:    |
-|![]( ../assets/teams.png){width=75x}           |           Teams           |        Realizar reuniões virtuais, compartilhar documentos e colaborar em tempo real, tornando a comunicação rápida e eficaz., juntamente com organização de documentos.        | 
-|![](../assets/github.png){width=75x}           |          GitHub           |        Controle de versão e colaboração em projetos, permitindo o rastreamento de mudanças nos artefatos do projeto e facilitando a revisão de código, tornando a colaboração eficiente e organizada.     |
-|![](../assets/figma.png){width=75x}            |           Figma           |        Criar, atualizar e revisar designs de interfaces de usuário (UI) e experiência do usuário (UX) de forma eficiente e em tempo real. Será principalmente utilizado na prototipação de alternativas de design para o site objeto de estudo do projeto.   |
-|![](../assets/mkdocs.png){width=75x}           |          MkDocs           |        Simplificar a criação, a organização e a manutenção da documentação do projeto de forma eficaz.               |
-|![](../assets/vscode.png){width=75x}           |    Visual Studio Code     |         Desenvolvimento de código/documentação e programação.                 |
-|![](../assets/whatsapp.png){width=75x}         |         WhatsApp          |         Comunicação da equipe por meio de mensagens diretas.                  |
-|![](../assets/youtube.jpg){width=75x}          |          YouTube          |         Hospedagem de vídeos de apresentações e reuniões.                     |
-|![](../assets/gdrive.png){width=75x}           |       Google Drive        |                     Compartilhamento de arquivos.                             |
-|![](../assets/thispersondoesntexist.png){width=75x}  | This Person Doesn't Exist |              Geração de imagens de personas fictícias.                  |
-|![](../assets/excel_logo.png){width=75x}  | Excel online |              Criação de planilhas de horários                 |
+Fonte: Autores do Grupo 2.
 
 
 
@@ -49,5 +73,9 @@ Com o objetivo de facilitar o gerenciamento e a execução do projeto, realizou-
 
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  `1.0`  | 27/09/2023 |            Criação da página de ferramentas.            | [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | [Mayara Alves](https://github.com/Mayara-tech)|
-
+|`1.0` | 27/09/2023 | Criação da página de ferramentas.                       | [Limírio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)|
+|`1.1` | 27/11/2023 | Adicionada descrição detalhada das ferramentas.         | [Altino Arthur](https://github.com/arthurrochamoreira)   | [Revisor 1](https://github.com/revisor1)       |
+|`1.2` | 27/11/2023 | Inclusão de links diretos para as ferramentas na tabela.| [Altino Arthur](https://github.com/arthurrochamoreira)   | [Revisor 1](https://github.com/revisor1)       |
+|`1.3` | 27/11/2023 | Adição da coluna de comparação com outras ferramentas.  | [Altino Arthur](https://github.com/arthurrochamoreira)   | [Revisor 1](https://github.com/revisor1)       |
+|`1.4` | 27/11/2023 | Atualização da introdução.                              | [Altino Arthur](https://github.com/arthurrochamoreira)   | [Revisor 1](https://github.com/revisor1)       |
+|`1.5` | 27/11/2023 | Atualização da Metodologia.                             | [Altino Arthur](https://github.com/arthurrochamoreira)   | [Revisor 1](https://github.com/revisor1)       |
