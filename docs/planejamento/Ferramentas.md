@@ -29,6 +29,8 @@ Discutimos como cada ferramenta se encaixava nas necessidades do projeto e colet
 
 ## Ferramentas Utilizadas
 
+<br>
+
 **Tabela 1** - Ferramentas Utilizadas no Projeto
 
 | Ferramenta | Finalidade | Comparação |
@@ -44,12 +46,10 @@ Discutimos como cada ferramenta se encaixava nas necessidades do projeto e colet
 | <a href="https://this-person-does-not-exist.com/en"><img src="../assets/thispersondoesntexist.png" width="75" alt="This Person Doesn't Exist"/></a> | Geração de imagens de personas fictícias para prototipagem e demonstrações. | Não há muitas alternativas diretas, mas serviços de stock photos podem ser usados em seu lugar para personas não geradas por IA. |
 | <a href="https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web"><img src="../assets/excel_logo.png" width="75" alt="Excel online"/></a> | Criação de planilhas para organização de horários e dados do projeto. | Google Sheets é uma alternativa com funcionalidades similares e colaboração em tempo real. |
 
-Fonte: Autores do Grupo 2.
-
-
-
-
 <font size="3"><p style="text-align: center">Fonte: Autores do Grupo 2.</p></font>
+
+<br>
+
 ## Referência Bibliográficas
 
 > <a id=“RP2” href=“#TEC2”>1.</a> BILHETERIA DIGITAL. Interação Humano Computador. Distrito Federal, 2023. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/>. Acesso em: 06/10/2023.
