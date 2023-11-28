@@ -19,7 +19,7 @@ A metodologia aplicada para a escolha e análise do site foi composta pelas segu
 
 1. **Pesquisa Preliminar**: Cada membro conduziu uma pesquisa independente para encontrar sites que atendessem aos critérios pré-definidos.
 2. **Discussão em Grupo**: Apresentamos e debatemos os méritos de cada site sugerido, considerando os critérios estabelecidos.
-3. **Decisão por Consenso**: Optamos pelo site mais alinhado com os objetivos do grupo e da disciplina, sem a necessidade de votação anônima.
+3. **Decisão por Consenso**: Optamos pelo site mais alinhado com os objetivos do grupo e da disciplina.
 4. **Análise Heurística**: Conduzimos uma avaliação heurística do site escolhido para identificar problemas de usabilidade.
 5. **Feedback da Comunidade**: Interagimos com a comunidade de usuários através de fóruns e grupos online para coletar impressões e opiniões.
 6. **Revisões Baseadas em Feedback**: Refinamos nossa análise e planejamento de melhorias com base nas informações coletadas.
