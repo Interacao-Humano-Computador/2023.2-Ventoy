@@ -14,8 +14,6 @@ A seguir, a **Tabela 1** detalha as ferramentas que escolhemos para o projeto:
 
 ## Ferramentas Utilizadas
 
-<br>
-
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
 |                                                           |        Ferramenta         |                               Finalidade                                  |
 | :-------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------:    |
@@ -32,8 +30,6 @@ A seguir, a **Tabela 1** detalha as ferramentas que escolhemos para o projeto:
 
 
 <font size="3"><p style="text-align: center">Fonte: Autores do Grupo 2.</p></font>
-
-<br>
 
 ## Referência Bibliográficas
 
