@@ -60,7 +60,6 @@ sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas
 
 ### Feedback e sugestões de melhorias
 
-
 Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha autonomia para sugerir melhorias e alterar características da interface em que estava trabalhando. No entanto, durante o uso, o usuário não apontou nenhuma característica que deveria ser introduzida, alterada ou removida. Para estimular melhores resultados e de acordo com o [planejamento da avaliação do protótipo de papel](./planejamento_avaliacao.md), algumas perguntas foram realizadas ao usuário. As respostas a essas perguntas podem ser visualizadas na tabela 03.
 
 </center>
