@@ -1,9 +1,11 @@
 # Iniciar o uso do site Ventoy
+
 ## Introdução
 
 Este relatório destaca a análise de usabilidade conduzida no protótipo em papel da funcionalidade "Iniciar o uso site do Ventoy" para o projeto em questão, relacionado ao site do [Ventoy](https://www.ventoy.net/en/index.html). O objetivo primordial é identificar possíveis desafios e aprimorar a interação dos usuários ao consultar realizarem uma doação. A avaliação visa compreender a experiência do usuário, enfocando eficiência, eficácia, satisfação e acessibilidade no contexto específico do protótipo em papel.
 
 ## Teste piloto
+
 No dia 08/11/2023, foi realizado um teste piloto da entrevista, o integrante Limirio Guimaraes sendo o entrevistador e a integrante Milena Baruc sendo a entrevistada. O link para o teste piloto em questão pode ser [encontrado aqui](https://youtu.be/pXOqH-BSg4k).
 
 ## Objetivo e escopo da avaliação
@@ -77,4 +79,4 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 
 |**Versão**|**Data**|**Descrição**|**Autor**|**Revisor**|
 |---|---|---|---|---|
-|`1.0`|08/11/2023|Criação do documento|[Vinícius Mendes](https://github.com/yabamiah)|
+|`1.0`|08/11/2023|Criação do documento|[Vinícius Mendes](https://github.com/yabamiah)| [Milena Baruc](https://github.com/MilenaBaruc) |
