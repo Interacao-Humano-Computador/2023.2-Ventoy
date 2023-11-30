@@ -6,7 +6,7 @@ Este relatório destaca a análise de usabilidade conduzida no protótipo em pap
 
 ## Teste piloto
 
-No dia 08/11/2023, foi realizado um teste piloto da entrevista, o integrante Luis Miranda sendo o entrevistador e a integrante Vinicius Mendes sendo a entrevistado. O link para o teste piloto em questão pode ser [encontrado aqui](https://youtu.be/agW5zPFxi5o).
+No dia 29/11/2023, foi realizado um teste piloto da entrevista, o integrante Luis Miranda sendo o entrevistador e a integrante Vinicius Mendes sendo a entrevistado. O link para o teste piloto em questão pode ser [encontrado aqui](https://youtu.be/agW5zPFxi5o).
 
 ## Objetivo e escopo da avaliação
 
@@ -27,7 +27,7 @@ O Método seguiu o [planejamento](https://interacao-humano-computador.github.io
 
 | Entrevistador(a) | Entrevistado | Data | Horario de início/fim | Entrevista |
 |------------------|--------------|-------|---------------------|-------------|
-| [Luis Miranda](https://github.com/LuisMiranda10) | Suellen Sayuri Sato | 17:25/17:35 | 29/11/2023 |[Link para entrevista](https://youtu.be/lfbM7HyyfI8) |
+| [Luis Miranda](https://github.com/LuisMiranda10) | Suellen Sayuri Sato | 29/11/2023 | 17:25/17:35 |[Link para entrevista](https://youtu.be/lfbM7HyyfI8) |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
