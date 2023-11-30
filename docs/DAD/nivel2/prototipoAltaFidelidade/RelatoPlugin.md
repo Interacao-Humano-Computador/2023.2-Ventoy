@@ -1,4 +1,4 @@
-# Relato dos Resultados
+# Relato Plugin
 
 ## Objetivos da avaliação
 
@@ -171,6 +171,7 @@ Na tabela 10 podemos ver as respostas às perguntas feitas ao entrevistado [Vict
 | Os elementos de navegação são claros e intuitivos?                        | (x)Sim()Não                          |
 | Você (usuário) possui alguma sugestão de melhoria?                        | Deve-se deixar mais em destaque a aba de documentação na aba de plugin |
 | Existem funcionalidade adicionais que você gostaria de ver implementas?   | Não houveram funcionalidades que devem ser implementadas, de acordo com o usuário |
+
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 </center>
