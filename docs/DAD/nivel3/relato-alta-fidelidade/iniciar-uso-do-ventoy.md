@@ -21,7 +21,7 @@ Ao responder a essas perguntas, buscamos garantir que os objetivos estabelecidos
 
 ## Método de avaliação
 
-O Método seguiu o [planejamento](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoDePapel/planejamento/) confeccionado pela equipe. Para está pesquisa foi avaliada a implementação no protótipo de papel da tarefa "fazer uma doação pelo site do ventoy". Para realizar está avaliação os métodos utilizados foram os métodos de observação e à investigação, uma vez que ambas envolvem a interação com os usuários
+O Método seguiu o [planejamento](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoDePapel/planejamento/) confeccionado pela equipe. Para está pesquisa foi avaliada a implementação no protótipo de papel da tarefa "iniciar o uso do ventoy". Para realizar está avaliação os métodos utilizados foram os métodos de observação e à investigação, uma vez que ambas envolvem a interação com os usuários
 
 **Tabela 1** - Cronograma Executado
 
