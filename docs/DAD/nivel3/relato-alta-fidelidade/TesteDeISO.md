@@ -41,7 +41,7 @@ A realização das entrevistas não gerou custo aos entrevistadores ou ao entrev
 
 ### Feedback e sugestões de melhorias
 
-Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha autonomia para sugerir melhorias e alterar características da interface em que estava trabalhando. No entanto, durante o uso, o usuário não apontou nenhuma característica que deveria ser introduzida, alterada ou removida. Para estimular melhores resultados e de acordo com o [planejamento da avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/#introducao), algumas perguntas foram realizadas ao usuário. As respostas a essas perguntas podem ser visualizadas na tabela 02.
+Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha autonomia para sugerir melhorias e alterar características da interface em que estava trabalhando. No entanto, durante o uso, o usuário apontou uma característica que deveria ser introduzida. Para estimular melhores resultados e de acordo com o [planejamento da avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/#introducao), algumas perguntas foram realizadas ao usuário. As respostas a essas perguntas podem ser visualizadas na tabela 02.
 
 **Tabela 02**: Tabela de resultados das perguntas feitas ao usuário
 
@@ -58,7 +58,7 @@ Durante o processo o usuário permaneceu sempre explicitando o que estava fazend
 
 ### Análise e interpletação dos resultados
 
-De acordo com a fluidez com que o usuário realizava as tarefas, foi possível observar que até chegar à tela de Testes de Iso, não foram identificados problemas na interação do usuário com a interface, só a insatisfação da quantidade de cliques para fazer o donwoload. 
+De acordo com a fluidez com que o usuário realizava as tarefas, foi possível observar que até chegar à tela de Testes de Iso, não foram identificados problemas na interação do usuário com a interface, só a insatisfação a respeito do botão de filtrar todos os testes de arquivo de imagem. 
 Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 
 1. Foram identificadas sugestões de melhoria para o protótipo proposto?
@@ -74,7 +74,7 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 
 |**Versão**|**Data**|**Descrição**|**Autor**|**Revisor**|
 |---|---|---|---|---|
-|`1.0`|08/11/2023|Criação do documento|[Luis Miranda](https://github.com/LuisMiranda10) | [Vinícius Mendes](https://github.com/yabamiah) |
+|`1.0`|29/11/2023|Criação do documento|[Luis Miranda](https://github.com/LuisMiranda10) | [Vinícius Mendes](https://github.com/yabamiah) |
 
 
 
