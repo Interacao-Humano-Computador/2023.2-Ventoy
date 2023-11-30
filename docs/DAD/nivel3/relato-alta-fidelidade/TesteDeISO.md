@@ -6,9 +6,7 @@ Este relatório destaca a análise de usabilidade conduzida no protótipo em pap
 
 ## Teste piloto
 
-No dia 08/11/2023, foi realizado um teste piloto da entrevista, o integrante Luis Miranda sendo o entrevistador e a integrante ## Teste piloto
-
-No dia 08/11/2023, foi realizado um teste piloto da entrevista, o integrante Vinícius Mendes sendo o entrevistador e a integrante Luis Miranda sendo a entrevistada. O link para o teste piloto em questão pode ser [encontrado aqui](https://youtu.be/agW5zPFxi5o).
+No dia 08/11/2023, foi realizado um teste piloto da entrevista, o integrante Luis Miranda sendo o entrevistador e a integrante Vinicius Mendes sendo a entrevistado. O link para o teste piloto em questão pode ser [encontrado aqui](https://youtu.be/agW5zPFxi5o).
 
 ## Objetivo e escopo da avaliação
 
