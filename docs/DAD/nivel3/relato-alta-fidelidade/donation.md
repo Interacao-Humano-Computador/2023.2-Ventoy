@@ -100,4 +100,4 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 29/11/2023 | Criação do documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) ||
+|`1.0`| 29/11/2023 | Criação do documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Vinícius Mendes](https://github.com/yabamiah)|
