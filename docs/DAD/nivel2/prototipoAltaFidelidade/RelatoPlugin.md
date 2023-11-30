@@ -187,4 +187,4 @@ De acordo com a análise dos resultados das entrevistas feitas, foi possível vi
 
 | **Versão** | **Data** | **Descrição** | **Autor**| **Revisor** |
 |------------|----------|---------------|----------|-------------|
-|`1.0`| 29/11/2023 | Criação do documento|[Milena Baruc](https://github.com/MilenaBaruc) | | 
+|`1.0`| 29/11/2023 | Criação do documento|[Milena Baruc](https://github.com/MilenaBaruc) | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | 
