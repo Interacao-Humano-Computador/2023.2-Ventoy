@@ -3,6 +3,9 @@
 
 Este relatório destaca a análise de usabilidade conduzida no protótipo em papel da funcionalidade "Iniciar o uso site do Ventoy" para o projeto em questão, relacionado ao site do [Ventoy](https://www.ventoy.net/en/index.html). O objetivo primordial é identificar possíveis desafios e aprimorar a interação dos usuários ao consultar realizarem uma doação. A avaliação visa compreender a experiência do usuário, enfocando eficiência, eficácia, satisfação e acessibilidade no contexto específico do protótipo em papel.
 
+## Teste piloto
+No dia 08/11/2023, foi realizado um teste piloto da entrevista, o integrante Limirio Guimaraes sendo o entrevistador e a integrante Milena Baruc sendo a entrevistada. O link para o teste piloto em questão pode ser [encontrado aqui](https://youtu.be/pXOqH-BSg4k).
+
 ## Objetivo e escopo da avaliação
 
 O propósito principal desta avaliação é identificar potenciais problemas na interação do usuário com a interface e destacar oportunidades de aprimoramento na usabilidade do protótipo. Nosso foco está direcionado para a eficiência, eficácia, satisfação do usuário e acessibilidade na seção de doações dentro do protótipo de papel.
