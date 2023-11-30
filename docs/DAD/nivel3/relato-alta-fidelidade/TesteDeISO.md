@@ -29,7 +29,7 @@ O Método seguiu o [planejamento](https://interacao-humano-computador.github.io
 
 | Entrevistador(a) | Entrevistado | Data | Horario de início/fim | Entrevista |
 |------------------|--------------|-------|---------------------|-------------|
-| [Luis Miranda](https://github.com/LuisMiranda10) | Suellen Sayuri Sato | 17:25/17:35 | 29/11/2023 |[Link para entrevista]() |
+| [Luis Miranda](https://github.com/LuisMiranda10) | Suellen Sayuri Sato | 17:25/17:35 | 29/11/2023 |[Link para entrevista](https://youtu.be/lfbM7HyyfI8) |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
