@@ -2,13 +2,13 @@
 
 ## Introdução
 
-Este relatório destaca a análise de usabilidade conduzida no protótipo em papel da funcionalidade "Buscar um Teste de ISO de uma arquivo de imagem" para o projeto em questão, relacionado ao site do [Ventoy](https://www.ventoy.net/en/index.html). O objetivo primordial é identificar possíveis desafios e aprimorar a interação dos usuários ao consultar realizarem uma doação. A avaliação visa compreender a experiência do usuário, enfocando eficiência, eficácia, satisfação e acessibilidade no contexto específico do protótipo em papel.
+Este relatório destaca a análise de usabilidade conduzida no protótipo em papel da funcionalidade "Buscar um Teste de ISO de um arquivo de imagem" para o projeto em questão, relacionado ao site do [Ventoy](https://www.ventoy.net/en/index.html). O objetivo primordial é identificar possíveis desafios e aprimorar a interação dos usuários ao consultar realizarem uma doação. A avaliação visa compreender a experiência do usuário, enfocando eficiência, eficácia, satisfação e acessibilidade no contexto específico do protótipo em papel.
 
 ## Teste piloto
 
 No dia 08/11/2023, foi realizado um teste piloto da entrevista, o integrante Luis Miranda sendo o entrevistador e a integrante ## Teste piloto
 
-No dia 08/11/2023, foi realizado um teste piloto da entrevista, o integrante Vinícius Mendes sendo o entrevistador e a integrante Luis Miranda sendo a entrevistada. O link para o teste piloto em questão pode ser [encontrado aqui](https://youtu.be/pXOqH-BSg4k). sendo a entrevistada. O link para o teste piloto em questão pode ser [encontrado aqui](https://youtu.be/agW5zPFxi5o).
+No dia 08/11/2023, foi realizado um teste piloto da entrevista, o integrante Vinícius Mendes sendo o entrevistador e a integrante Luis Miranda sendo a entrevistada. O link para o teste piloto em questão pode ser [encontrado aqui](https://youtu.be/agW5zPFxi5o).
 
 ## Objetivo e escopo da avaliação
 
