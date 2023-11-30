@@ -29,7 +29,7 @@ O Método seguiu o [planejamento](https://interacao-humano-computador.github.io
 
 | Entrevistador(a) | Entrevistado | Data | Horario de início/fim | Entrevista |
 |------------------|--------------|-------|---------------------|-------------|
-| [Luis Miranda](https://github.com/LuisMiranda10) | Suellen Sayuri Sato | 17:25/17:35 | [Link para entrevista]()|
+| [Luis Miranda](https://github.com/LuisMiranda10) | Suellen Sayuri Sato | 17:25/17:35 | 29/11/2023 |[Link para entrevista]() |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
@@ -49,10 +49,10 @@ Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha
 
 | Perguntas | Resposta |
 |-----------|-----------|
-| O layout das interfaces estão claros e organizados? |    |
-| Os elementos de navegação são claros e intuitivos? |    |
-| Você (usuário) possui alguma sugestão de melhoria? |    |
-| Existem funcionalidade adicionais que você gostaria de ver implementada? |    |
+| O layout das interfaces estão claros e organizados? | Sim   |
+| Os elementos de navegação são claros e intuitivos? | Sim   |
+| Você (usuário) possui alguma sugestão de melhoria? | Implementar um botão para filtrar todos os testes de arquivo de imagem  |
+| Existem funcionalidade adicionais que você gostaria de ver implementada? | Somente a falada acima   |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
@@ -76,7 +76,7 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 
 |**Versão**|**Data**|**Descrição**|**Autor**|**Revisor**|
 |---|---|---|---|---|
-|`1.0`|08/11/2023|Criação do documento|[Luis Miranda](https://github.com/LuisMiranda10) | [Milena Baruc](https://github.com/MilenaBaruc) |
+|`1.0`|08/11/2023|Criação do documento|[Luis Miranda](https://github.com/LuisMiranda10) | [Vinícius Mendes](https://github.com/yabamiah) |
 
 
 
