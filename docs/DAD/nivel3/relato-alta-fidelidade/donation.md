@@ -61,7 +61,7 @@ Após a apresentação do termo de consentimento o usuário aceitou os termos e 
 ### Feedback e sugestões de melhorias
 
 
-Foi apresentado aos usuários que, durante o uso do protótipo de papel, ele tinha autonomia para sugerir melhorias e alterar características da interface em que estava trabalhando. No entanto, durante o uso, os usuários não apontaram nenhuma 
+Foi apresentado aos usuários que, durante o uso do protótipo de alta fidelidade, eles tinham autonomia para sugerir melhorias e alterar características da interface em que estava trabalhando. No entanto, durante o uso, os usuários não apontaram nenhuma 
 característica que deveria ser introduzida, alterada ou removida. Para estimular melhores resultados e de acordo com o [planejamento da avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoAltaFidelidade/PlanejamentoAvaliacaoPAF/), 
 algumas perguntas foram realizadas aos usuários. As respostas a essas perguntas podem ser visualizadas na tabela 02, 03 e 04.
 
@@ -78,7 +78,7 @@ algumas perguntas foram realizadas aos usuários. As respostas a essas perguntas
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
-**Tabela 06**: Tabela de resultados das perguntas feitas ao usuário - Breno Alexandre
+**Tabela 03**: Tabela de resultados das perguntas feitas ao usuário - Breno Alexandre
 
 | Pergunta | Resposta |
 |:----| :---:|
@@ -88,6 +88,8 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 | Existem funcionalidade adicionais que  você gostaria de ver implementas?  | Não foi apresentada nenhuma sugestão |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)]
+
+**Tabela 04**: Tabela de resultados das perguntas feitas ao usuário - Gabriel Castelo
 
 | Pergunta | Resposta |
 |:----| :---:|
@@ -102,7 +104,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 Durante o processo o usuário permaneceu sempre explicitando o que estava fazendo e o que gostaria de fazer em seguida, em nenhum momento os usuários pareceram perdidos ou confusos com seu próximo passo.
 
-### Análise e interpletação dos resultados
+### Análise e interpretação dos resultados
 
 Com base na fluidez geral com que os usuários realizaram as tarefas, observamos que as melhorias implementadas a partir do protótipo de papel tiveram impacto positivo. No entanto, o usuário Gabriel Castelo enfrentou dificuldades específicas dentro da aba de doação, pois não conseguiu identificar que os elementos na página eram clicáveis. Desde o início, os usuários identificaram não apenas uma, mas duas maneiras de acessar a página de doação. Ao chegarem na página, a maioria encontrou rapidamente a opção desejada, com exceção de Gabriel Castelo, que enfrentou esse desafio.
 
