@@ -87,7 +87,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incomp
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
-![Gráfico percentual de respostas](../../../assets/percentual_Avaliação-metodologia.PNG)
+![Gráfico percentual de respostas](../../assets/percentual_Avaliação-metodologia.PNG)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
@@ -98,7 +98,7 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equaç
 
 **Figura 2** - Equação de percentual de aproveitamento
 
-![Equação](../../../assets/equacao.PNG)
+![Equação](../../assets/equacao.PNG)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
