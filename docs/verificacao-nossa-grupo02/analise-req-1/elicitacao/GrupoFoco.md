@@ -11,7 +11,7 @@ A verificação do artefato seguirá o [planejamento](https://interacao-humano-c
 
 <center>
 
-**Tabela 1** - Checklist - Metodologia
+**Tabela 1** - Checklist - Grupo de Foco
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
@@ -39,21 +39,22 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 <center>
   
-**Tabela 2** - Checklist preenchido - Metodologia 
+**Tabela 2** - Checklist preenchido - Grupo de foco
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  | -          | -            | 2  | O artefato possui metodologia                                                                 | -          | -                                                            |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -                                                                      |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -                                                                      |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -                                                                      |
-| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -                                                                      |
-| 7  | A seleção de participantes em grupos de foco foi baseada em critérios que garantam representatividade, diversidade e relevância para os objetivos do estudo?				   				      | -          | -                                                                      |
-| 8  | Foi utilizado um grupo de 6 a 10 participantes recomendado para otimizar a interação e facilitar a coleta de dados significativos?      | -          | -                                                                      |
-| 9  | Foi estabelecido objetivos claros para o grupo de foco, garantindo que os participantes estejam cientes do propósito e da relevância de sua participação?  | - |-                                            |
-| 10  | Foram realizadas perguntas específicas e abertas que são fundamentais para incentivar a discussão e obter insights significativos dos participantes?			      | -          | -  								    |
-| 11 | foi realizado o registro detalhado de notas durante a sessão para documentar as contribuições dos participantes e os contextos das discussões? 		      | -          | -  								    |
-| 12  | Foi realizado um relatório com os requisitos elicitados no grupo de foco?				        | -          | -  								    |
+| 1  | O artefato possui Introdução?                                                                                                  | Conforme         | - | 
+| 2  | O artefato possui metodologia                                                                 |   Conforme       |  - |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Conforme        | -                                                                |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Incompleto       | A última versão do artefato não possui revisor.                                                                         |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Conforme        | -                                                                      |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Conforme       | -                                                                      |
+| 7  | A seleção de participantes em grupos de foco foi baseada em critérios que garantam representatividade, diversidade e relevância para os objetivos do estudo?				   				      | Conforme          | -                                                                      |
+| 8  | Foi utilizado um grupo de 6 a 10 participantes recomendado para otimizar a interação e facilitar a coleta de dados significativos?      | Não conforme         | O grupo de participantes foi menor do que o recomendado (5 participantes)                                                                      |
+| 9  | Foi estabelecido objetivos claros para o grupo de foco, garantindo que os participantes estejam cientes do propósito e da relevância de sua participação?  | Conforme |-                                            |
+| 10  | Foram realizadas perguntas específicas e abertas que são fundamentais para incentivar a discussão e obter insights significativos dos participantes?			      | Conforme          | -  								    |
+| 11 | foi realizado o registro detalhado de notas durante a sessão para documentar as contribuições dos participantes e os contextos das discussões? 		      | Incompleto     | foi registrado apenas as perguntas realizadas no grupo de foco. 								    |
+| 12  | Foi realizado um relatório com os requisitos elicitados no grupo de foco?				        | Conforme        | -  								    |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
@@ -66,27 +67,26 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 
 <center>
 
-**Tabela 3** - Sugestões de melhoria - Metodologia
+**Tabela 3** - Sugestões de melhoria - Grupo de foco
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
-|  6   | O artefato especifica os métodos ágeis que serão utilizados, entretanto não justificam o porque de suas escolhas                   |   É sugerido que seja justificado a escolha da metodologia selecionada para o projeto e a importância de sua utilização para o desenvolvimento do projeto.                     | 
-|  7   | O artefato não espefica quem serão os responsáveis por cada função do método ágil scrum.                   |   É sugerido que seja identificado a função de cada membro da equipe dentro do método scrum, para que fique claro a toda equipe seus respectivos papeis dentro da metodologia.                  | 
-|  8   | O artefato não descrever de forma detalhada como a equipe pretende utilizar os métodos escolhidos.                     |   É sugerido que seja identificado a função de cada membro da equipe dentro do método scrum, para que fique claro a toda equipe seus respectivos papeis dentro da metodologia.                  | 
-|  10   |O artefato não apresenta todas as informações necessárias para que a equipe utilize a metodologia.            |  Por causa da falta das informações especificadas nos itens mencionados anteriormente o artefato não possui as informações necessarias, desta maneira e sugerido ao grupo a correção dos itens mencionados anteriormente.                  | 
+|  4  |  A última versão do artefato não possui revisor.   |   É sugerido que seja feito a revisão do artefato e adicionado o revisor.                    | 
+|  8   | O grupo de participantes foi menor do que o recomendado (5 participantes)            |  Como a reunião ja foi realizada, não há sugestão para o artefato, apenas fica a dica para uma futura utilização de outros grupos de foco.              | 
+|  11  | foi registrado apenas as perguntas realizadas no grupo de foco. 	                |  É sugerido que todas as opiniões e discussões durante o grupo de foco sejam registradas por nota.      | 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
 
 ## Acompanhamento
 
-A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incompleto ou não se aplica, obtidas através da checklist de verificação.
+A figura 1 apresenta um gráfico com o percentual de respostas conforme, não conforme, incompleto ou não se aplica, obtidas através da checklist de verificação.
 
 <center>
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
-![Gráfico percentual de respostas](../../assets/percentual_Avaliação-metodologia.PNG)
+![Gráfico percentual de respostas](../../../assets/percentual_Avaliação-grupofoco.PNG)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
@@ -97,7 +97,7 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equaç
 
 **Figura 2** - Equação de percentual de aproveitamento
 
-![Equação](../../assets/equacao.PNG)
+![Equação](../../../assets/equacao.PNG)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
@@ -105,14 +105,14 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 Através dos checklists realizados podemos observar que:
 
-- 6/11  exigências são atendidas (Conformes);
-- 3/11 exigências estão incompletas;
-- 1/11 exigências estão erradas ou não foram realizadas (Não conformes).
-- 1/11 não se aplica.
+- 9/12  exigências são atendidas (Conformes);
+- 2/12 exigências estão incompletas;
+- 1/12 exigências estão erradas ou não foram realizadas (Não conformes).
+- 0/12 não se aplica.
 
-Onde 11 é a quantidade de itens avaliados na verificação.
+Onde 12 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 68,18%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 75%.
 
 
 ## Retrabalho
@@ -125,9 +125,8 @@ Como proposto por Fagan, para o retrabalho o autor do artefato  [Luiz Miranda](h
 
 | Data de Correção | Descrição                                    |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
-|  03/11/2023    | Justificação dos Métodos escolhidos | [Breno Queiroz](https://github.com/brenob6) | [Mayara Alves](https://github.com/Mayara-tech)|  |
-|  03/11/2023    | Identificação de Responsabilidades no Scrum | [Breno Queiroz](https://github.com/brenob6) | [Mayara Alves](https://github.com/Mayara-tech)|  |
-|  03/11/2023    | Detalhamento do Uso dos Métodos Escolhidos | [Breno Queiroz](https://github.com/brenob6) | [Mayara Alves](https://github.com/Mayara-tech)|  |
+|  03/11/2023    | Adição de Revisor | [Luiz Miranda](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech)|  |
+|  03/11/2023    | Registro Completo de Opiniões e Discussões (Grupo de Foco)| [Luiz Miranda](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech)|  |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
