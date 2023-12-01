@@ -136,7 +136,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ## Referência bibliografica 
 
-> THE SCRUM GUINE. Schwaber, K., & Sutherland, J. (2017). The Scrum Guide. Scrum.org. Disponível em: <https://scrumguides.org/> Acesso em: 01 de dezembro de 2023.
+> 1. THE SCRUM GUINE. Schwaber, K., & Sutherland, J. (2017). The Scrum Guide. Scrum.org. Disponível em: <https://scrumguides.org/> Acesso em: 01 de dezembro de 2023.
 > 
 
 ## Bibliografia
@@ -145,7 +145,6 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 > 
 > BILHETERIA DIGITAL. Interacao-Humano_computador. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>. Acesso em: 26/11/2023.<br>
 >
-> VICTOR, Lucas. [Planejamento de Verificação da Entrega 2](https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/verificacao/Grupo-02/Entrega-02/planejamento-verificacao-e2-grupo2.md), GAMA, FGA, 2023. Acesso em: 01 de dezembro de 2023.
 
 ## 📑 Histórico de Versões
 
