@@ -81,7 +81,7 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ## Acompanhamento
 
-A figura 1 apresenta um gráfico com o percentual de respostas sim, não, incompleto ou não se aplica, obtidas através da checklist de verificação.
+A figura 1 apresenta um gráfico com o percentual de respostas conforme, não conforme, incompleto ou não se aplica, obtidas através da checklist de verificação.
 
 <center>
 
