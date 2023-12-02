@@ -34,7 +34,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 ## Desenvolvimento
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato. A verificação foi feita por meio de duas gravações, uma individual e uma em dupla, que estão presentes na tabela 3.
+Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato. A inspeção foi feita por meio de uma gravação individual, que está presentes na tabela 3.
 
 <center>
 
@@ -42,28 +42,27 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                           | Avaliação  | Observação |
 |----|-------------------------------------------------------------------------------------|------------|------------|
-| 1  | O histórico de versão é padronizado?                                                |      -     |     -      |
-| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                               |      -     |     -      |
-| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                     |      -     |     -      |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?        |      -     |     -      |
-| 5  | Todos os textos estão na norma padrão?                                              |      -     |     -      |
-| 6  | Há introdução do artefato?                                                          |      -     |     -      |
-| 7  | O artefato descreve os objetivos da avaliação? 		   				               |      -     |     -      |
-| 8  | 	O artefato possui um cronograma executado da avaliação?                            |      -     |     -      |
-| 9  | 	O artefato possui um tópico para a apresentação dos dados obtidos? 		           |      -     |     -      |
-| 10 | O artefato apresenta os participantes selecionados?                                 |      -     |     -      |
-| 11 | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?|      -     |     -      |
-| 12 | O artefato apresenta uma seção para o feedback dos usuários?	                       |      -     |     -      |
-| 13 | O artefato apresenta uma seção para sumarizar os principais resultados?             |      -     |     -      |
+| 1  | O histórico de versão é padronizado?                                                | Sim |     -      |
+| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                               | Sim |     -      |
+| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                     | Sim |     -      |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?        | Incompleto | tabela 1 não está sendo chamada |
+| 5  | Todos os textos estão na norma padrão?                                              | Sim |     -      |
+| 6  | Há introdução do artefato?                                                          | Sim |     -      |
+| 7  | O artefato descreve os objetivos da avaliação? 		   				               | Sim |     -      |
+| 8  | 	O artefato possui um cronograma executado da avaliação?                            | Sim |     -      |
+| 9  | 	O artefato possui um tópico para a apresentação dos dados obtidos? 		           | Sim |     -      |
+| 10 | O artefato apresenta os participantes selecionados?                                 | Incompleto | faltou sobre o gabriel castelo |
+| 11 | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?| Sim |     -      |
+| 12 | O artefato apresenta uma seção para o feedback dos usuários?	                       | Sim |     -      |
+| 13 | O artefato apresenta uma seção para sumarizar os principais resultados?             | Sim |     -      |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 **Tabela 3** - Cronograma de verificação
 
-| Participantes | Data | Horário | Link da gravação |
-| -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------- |
-| [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 00:00 | [Verificação individual]()       |
-| [Milena Baruc](https://github.com/MilenaBaruc) e [Breno Queiroz](https://github.com/brenob6) | 02/12/2023 | 00:00 | [Verificação em dupla]()            |
+| Participantes | Data | Horário | Link da gravação | Minutagem aonde começa |
+| -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------- | ------------- |
+| [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 17:00/17:30 | [Verificação individual](https://youtu.be/hrXHrD7gICk)       | 00:24:00 |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc) 
 
@@ -71,7 +70,11 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 ## Sugestões de Melhorias
 
-....
+Em geral, o artefato está ótimo, só precisa de algumas melhorias. Sendo assim, as sugestões de melhorias são:
+
+• Adicionar um chamamento para a tabela 1;
+• Adicionar informações sobre o participante: gabriel castelo;
+• Adicionar idade dos usuários.
 
 ## Referência Bibliografica
 

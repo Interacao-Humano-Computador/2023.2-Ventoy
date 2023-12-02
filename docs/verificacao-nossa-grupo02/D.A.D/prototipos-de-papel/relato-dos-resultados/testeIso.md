@@ -39,7 +39,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 ## Desenvolvimento
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato. A verificação foi feita por meio de duas gravações, uma individual e uma em dupla, que estão presentes na tabela 3.
+Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato. A inspeção foi feita por meio de uma gravação individual, que está presentes na tabela 3.
 
 <center>
 
@@ -47,33 +47,32 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                           | Avaliação  | Observação |
 |----|-------------------------------------------------------------------------------------|------------|------------|
-| 1  | O histórico de versão é padronizado?                                                |      -     |     -      |
-| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                               |      -     |     -      |
-| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                     |      -     |     -      |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?        |      -     |     -      |
-| 5  | Todos os textos estão na norma padrão?                                              |      -     |     -      |
-| 6  | Há introdução do artefato?                                                          |      -     |     -      |
-| 7  | Define objetivo e escopo de avaliação dos resultados?   				               |      -     |     -      |
-| 8  | Define o método de avaliação dos resultados?		                                   |      -     |     -      |
-| 9  | O relato apresenta os participantes e suas funções?                                 |      -     |     -      |
-| 10  | O perfil de usuário do participante selecionado se enquadram no perfil de usuário? |      -     |     -      |
-| 11  | Apresenta as sugestões de melhorias?								               |      -     |     -      |
-| 12  | Apresenta uma seção para o feedback dos usuários?						           |      -     |     -      |
-| 13  | Aborda como foi realizada a análise da interação do usuário com o artefato?        |      -     |     -      |
-| 14  | Define um tópico para sumarizar os principais resultados?						   |      -     |     -      |
-| 15  | O resultado relembra quais foram os motivos para a realização do estudo?	       |      -     |     -      |
-| 16  | Considera um planejamento para o reprojeto do sistema?					           |      -     |     -      |
-| 17  | Apresenta um cronograma realizado?		          							       |      -     |     -      |
-| 18  | O relato segue um padrão consolidado para todos os outros relatos?				   |      -     |     -      |
+| 1  | O histórico de versão é padronizado?                                                | Sim |     -      |
+| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                               | Sim |     -      |
+| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                     | Sim |     -      |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?        | Sim |     -      |
+| 5  | Todos os textos estão na norma padrão?                                              | Sim |     -      |
+| 6  | Há introdução do artefato?                                                          | Sim |     -      |
+| 7  | Define objetivo e escopo de avaliação dos resultados?   				               | Sim |     -      |
+| 8  | Define o método de avaliação dos resultados?		                                   | Sim |     -      |
+| 9  | O relato apresenta os participantes e suas funções?                                 | Sim |     -      |
+| 10  | O perfil de usuário do participante selecionado se enquadram no perfil de usuário? | Sim |     -      |
+| 11  | Apresenta as sugestões de melhorias?								               | Sim |     -      |
+| 12  | Apresenta uma seção para o feedback dos usuários?						           | Sim |     -      |
+| 13  | Aborda como foi realizada a análise da interação do usuário com o artefato?        | Sim |     -      |
+| 14  | Define um tópico para sumarizar os principais resultados?						   | Sim |     -      |
+| 15  | O resultado relembra quais foram os motivos para a realização do estudo?	       | Sim |     -      |
+| 16  | Considera um planejamento para o reprojeto do sistema?					           | Não |     -      |
+| 17  | Apresenta um cronograma realizado?		          							       | Sim |     -      |
+| 18  | O relato segue um padrão consolidado para todos os outros relatos?				   | Sim |     -      |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 **Tabela 3** - Cronograma de verificação
 
-| Participantes | Data | Horário | Link da gravação |
-| -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------- |
-| [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 00:00 | [Verificação individual]()       |
-| [Milena Baruc](https://github.com/MilenaBaruc) e [Breno Queiroz](https://github.com/brenob6) | 02/12/2023 | 00:00 | [Verificação em dupla]()            |
+| Participantes | Data | Horário | Link da gravação | Minutagem aonde começa |
+| -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------- | ------------- |
+| [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 17:00/17:30 | [Verificação individual](https://youtu.be/hrXHrD7gICk)       | 00:19:20 |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc) 
 
@@ -81,7 +80,9 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 ## Sugestões de Melhorias
 
-....
+Em geral, o artefato está ótimo, só precisa de uma melhoria. Sendo assim, a sugestão de melhoria é:
+
+• Adicionar um planejamento para o reprojeto do sistema.
 
 ## Referência Bibliografica
 

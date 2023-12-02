@@ -31,7 +31,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 ## Desenvolvimento
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato. A verificação foi feita por meio de duas gravações, uma individual e uma em dupla, que estão presentes na tabela 3.
+Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato. A inspeção foi feita por meio de uma gravação individual, que está presentes na tabela 3.
 
 <center>
 
@@ -39,25 +39,24 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                           | Avaliação  | Observação |
 |----|-------------------------------------------------------------------------------------|------------|------------|
-| 1  | O histórico de versão é padronizado?                                                |      -     |     -      |
-| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                               |      -     |     -      |
-| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                     |      -     |     -      |
-| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?        |      -     |     -      |
-| 5  | Todos os textos estão na norma padrão?                                              |      -     |     -      |
-| 6  | Há introdução do artefato?                                                          |      -     |     -      |
-| 7  | O termo de consentimento garante o direito de aceitar ou recusar a participação?    |      -     |     -      |
-| 8  | O documento garante o direito de confidenciabilidade dos dados pessoas do usuário?  |      -     |     -      |
-| 9  | O documento garante o tratamento equitativo?                                        |      -     |     -      |
-|10  | O documento garante a prevenção de dados?                                           |      -     |     -      |
+| 1  | O histórico de versão é padronizado?                                                | Sim |     -      |
+| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                               | Sim |     -      |
+| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                     | Sim |     -      |
+| 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?        | Não se aplica |     -      |
+| 5  | Todos os textos estão na norma padrão?                                              | Sim |     -      |
+| 6  | Há introdução do artefato?                                                          | Sim |     -      |
+| 7  | O termo de consentimento garante o direito de aceitar ou recusar a participação?    | Sim |     -      |
+| 8  | O documento garante o direito de confidenciabilidade dos dados pessoas do usuário?  | Sim |     -      |
+| 9  | O documento garante o tratamento equitativo?                                        | Sim |     -      |
+|10  | O documento garante a prevenção de dados?                                           | Sim |     -      |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 **Tabela 3** - Cronograma de verificação
 
-| Participantes | Data | Horário | Link da gravação |
-| -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------- |
-| [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 00:00 | [Verificação individual]()       |
-| [Milena Baruc](https://github.com/MilenaBaruc) e [Breno Queiroz](https://github.com/brenob6) | 02/12/2023 | 00:00 | [Verificação em dupla]()            |
+| Participantes | Data | Horário | Link da gravação | Minutagem aonde começa |
+| -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------- | ------------- |
+| [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 17:00/17:30 | [Verificação individual](https://youtu.be/hrXHrD7gICk)       | 00:08:00 |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc) 
 
@@ -65,7 +64,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 ## Sugestões de Melhorias
 
-....
+O artefato, ao meu ver, está ótimo, e em conformidade com o que foi solicitado. 
 
 ## Referência Bibliografica
 
