@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é uma verificação do artefato [lanejamento do Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas/) na versão 1.0 de data 30/10/2023, autorado por [Luis Eduardo](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah), que é integrante do [grupo 02](https://interacao-humano-computador.github.io/2023.2-Ventoy/), cujo projeto tem como foco o site do [Ventoy](https://www.ventoy.net/en/index.html), o propósito desta verificação é identificar possíveis problemas no artefato - Planejamento do Relato dos Resultados da Avaliação (Análise de Tarefas).
+Este documento é uma verificação do artefato [Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/analiseDeTarefas/planejamentoResultadosAnaliseTarefas/) na versão 1.0 de data 30/10/2023, autorado por [Luis Eduardo](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah), que é integrante do [grupo 02](https://interacao-humano-computador.github.io/2023.2-Ventoy/), cujo projeto tem como foco o site do [Ventoy](https://www.ventoy.net/en/index.html), o propósito desta verificação é identificar possíveis problemas no artefato - Planejamento do Relato dos Resultados da Avaliação (Análise de Tarefas).
 
 ## Metodologia 
 
