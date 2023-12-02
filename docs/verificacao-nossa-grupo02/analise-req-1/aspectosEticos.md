@@ -1,12 +1,12 @@
-# Acessar a página de Testes de ISO para verificar os testes
+# Aspectos Éticos
 
 ## Introdução
 
-Este documento é uma verificação do artefato [Acessar a página de Testes de ISO para verificar os testes](../../../../DAD/nivel2/prototipoDePapel/RelatoTesteISO.md) na versão 1.0 de data 22/11/2023, autorado por [Luis Miranda](https://github.com/LuisMiranda10), que é integrante do [grupo 02](https://github.com/Mayara-tech), cujo projeto tem como foco o [Site Ventoy](https://www.ventoy.net/en/index.html), o propósito desta verificação é identificar possíveis problemas no artefato do cronograma. 
+Este documento é uma verificação do artefato [Aspectos Éticos](../../AnaliseDeRequisitos/aspectosEticos.md) na versão 1.1 de data 11/10/2023, autorado por [Limirio Guimarães](https://github.com/LimirioGuimaraes), que é integrante do [grupo 02](https://github.com/Mayara-tech), cujo projeto tem como foco o [Site Ventoy](https://www.ventoy.net/en/index.html), o propósito desta verificação é identificar possíveis problemas no artefato. 
 
 ## Metodologia
 
-A verificação do artefato seguirá o [planejamento](../../verificacao/planejamendoDaVerificacao.md) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em específico. Podemos observar o referido checklist referente a verificação do Cronograma na Tabela 1, as perguntas foram criadas pelo grupo para utilizarmos nas verificações dos artefatos de relato dos prótotipos de papel.
+A verificação do artefato seguirá o [planejamento](../../verificacao/planejamendoDaVerificacao.md) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em específico. Podemos observar o referido checklist referente a verificação do Cronograma na Tabela 1, as perguntas foram tiradas da verificação dos [aspectos éticos](../../verificacao/aspectos_eticos.md) feita pelo grupo.
 
 <center>
 
@@ -20,18 +20,10 @@ A verificação do artefato seguirá o [planejamento](../../verificacao/planejam
 | 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?        |      -     |     -      |
 | 5  | Todos os textos estão na norma padrão?                                              |      -     |     -      |
 | 6  | Há introdução do artefato?                                                          |      -     |     -      |
-| 7  | Define objetivo e escopo de avaliação dos resultados?   				               |      -     |     -      |
-| 8  | Define o método de avaliação dos resultados?		                                   |      -     |     -      |
-| 9  | O relato apresenta os participantes e suas funções?                                 |      -     |     -      |
-| 10  | O perfil de usuário do participante selecionado se enquadram no perfil de usuário? |      -     |     -      |
-| 11  | Apresenta as sugestões de melhorias?								               |      -     |     -      |
-| 12  | Apresenta uma seção para o feedback dos usuários?						           |      -     |     -      |
-| 13  | Aborda como foi realizada a análise da interação do usuário com o artefato?        |      -     |     -      |
-| 14  | Define um tópico para sumarizar os principais resultados?						   |      -     |     -      |
-| 15  | O resultado relembra quais foram os motivos para a realização do estudo?	       |      -     |     -      |
-| 16  | Considera um planejamento para o reprojeto do sistema?					           |      -     |     -      |
-| 17  | Apresenta um cronograma realizado?									               |      -     |     -      |
-| 18  | O relato segue um padrão consolidado para todos os outros relatos?				   |      -     |     -      |
+| 7  | O termo de consentimento garante o direito de aceitar ou recusar a participação?    |      -     |     -      |
+| 8  | O documento garante o direito de confidenciabilidade dos dados pessoas do usuário?  |      -     |     -      |
+| 9  | O documento garante o tratamento equitativo?                                        |      -     |     -      |
+|10  | O documento garante a prevenção de dados?                                           |      -     |     -      |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
@@ -53,18 +45,10 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 | 4  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?        |      -     |     -      |
 | 5  | Todos os textos estão na norma padrão?                                              |      -     |     -      |
 | 6  | Há introdução do artefato?                                                          |      -     |     -      |
-| 7  | Define objetivo e escopo de avaliação dos resultados?   				               |      -     |     -      |
-| 8  | Define o método de avaliação dos resultados?		                                   |      -     |     -      |
-| 9  | O relato apresenta os participantes e suas funções?                                 |      -     |     -      |
-| 10  | O perfil de usuário do participante selecionado se enquadram no perfil de usuário? |      -     |     -      |
-| 11  | Apresenta as sugestões de melhorias?								               |      -     |     -      |
-| 12  | Apresenta uma seção para o feedback dos usuários?						           |      -     |     -      |
-| 13  | Aborda como foi realizada a análise da interação do usuário com o artefato?        |      -     |     -      |
-| 14  | Define um tópico para sumarizar os principais resultados?						   |      -     |     -      |
-| 15  | O resultado relembra quais foram os motivos para a realização do estudo?	       |      -     |     -      |
-| 16  | Considera um planejamento para o reprojeto do sistema?					           |      -     |     -      |
-| 17  | Apresenta um cronograma realizado?		          							       |      -     |     -      |
-| 18  | O relato segue um padrão consolidado para todos os outros relatos?				   |      -     |     -      |
+| 7  | O termo de consentimento garante o direito de aceitar ou recusar a participação?    |      -     |     -      |
+| 8  | O documento garante o direito de confidenciabilidade dos dados pessoas do usuário?  |      -     |     -      |
+| 9  | O documento garante o tratamento equitativo?                                        |      -     |     -      |
+|10  | O documento garante a prevenção de dados?                                           |      -     |     -      |
 
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 

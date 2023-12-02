@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Este documento é uma verificação do artefato [Política](../../planejamento/políticas.md) na versão 1.0 de data 18/09/2023, autorado por [Breno Queiroz](https://github.com/brenob6), que é integrante do [grupo 02](https://github.com/Mayara-tech), cujo projeto tem como foco o [Site Ventoy](https://www.ventoy.net/en/index.html), o propósito desta verificação é identificar possíveis problemas no artefato do cronograma.
+Este documento é uma verificação do artefato [Política](../../planejamento/políticas.md) na versão 1.0 de data 18/09/2023, autorado por [Breno Queiroz](https://github.com/brenob6), que é integrante do [grupo 02](https://github.com/Mayara-tech), cujo projeto tem como foco o [Site Ventoy](https://www.ventoy.net/en/index.html), o propósito desta verificação é identificar possíveis problemas no artefato.
 
 ## Metodologia
 
-A verificação do artefato seguirá o [planejamento](../../verificacao/planejamendoDaVerificacao.md) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em específico. Podemos observar o referido checklist referente a verificação do Cronograma na Tabela 1, as perguntas foram tiradas da verificação das [políticas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/políticas/) feita pelo grupo 1.
+A verificação do artefato seguirá o [planejamento](../../verificacao/planejamendoDaVerificacao.md) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em específico. Podemos observar o referido checklist referente a verificação na Tabela 1, as perguntas foram tiradas da verificação das [políticas](https://interacao-humano-computador.github.io/2023.2-NotaLegal/verificacao/Grupo%202/Entrega%201/políticas/) feita pelo grupo 1.
 
 <center>
 
@@ -30,7 +30,7 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 ## Desenvolvimento 
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato Cronograma. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato. A verificação foi feita por meio de duas gravações, uma individual e uma em dupla, que estão presentes na tabela 3.
+Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, minuciosamente preenchido, reflete os resultados, observações e considerações resultantes da análise realizada no artefato. A verificação foi feita por meio de duas gravações, uma individual e uma em dupla, que estão presentes na tabela 3.
 
 <center>
 
