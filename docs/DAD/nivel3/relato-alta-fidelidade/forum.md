@@ -1,6 +1,6 @@
 # Realizar uma postagem no fórum Ventoy
 
-## Instrodução
+## Introdução
 
 Este relatório destaca a análise de usabilidade conduzida no protótipo de alta fidelidade da funcionalidade
 "realizar uma doação pelo site do Ventoy" para o projeto em questão, relacionado ao site do 
