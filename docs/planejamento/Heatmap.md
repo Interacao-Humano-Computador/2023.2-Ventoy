@@ -29,4 +29,4 @@ Analisando o heatmap detalhado na **Figura 1**, iniciamos uma discussão colabor
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
 `1.0` | 27/09/2023| Criação do Heatmap |[Limirio Correia](https://github.com/LimirioGuimaraes)| [Altino Arthur](https://github.com/arthurrochamoreira), [Breno Queiroz](https://github.com/brenob6), [Limirio Correia](https://github.com/LimirioGuimaraes), [Luis Eduardo](https://github.com/LuisMiranda10), [Mayara Alves](https://github.com/Mayara-tech), [Milena Baruc](https://github.com/MilenaBaruc) e [Vinicius Mendes](https://github.com/yabamiah) 
-`1.1` | 27/11/2023| Adição da metodologia |[Altino Arthur](https://github.com/arthurrochamoreira) | ||
+`1.1` | 27/11/2023| Adição da metodologia |[Altino Arthur](https://github.com/arthurrochamoreira) | [Luis Eduardo](https://github.com/LuisMiranda10)|
