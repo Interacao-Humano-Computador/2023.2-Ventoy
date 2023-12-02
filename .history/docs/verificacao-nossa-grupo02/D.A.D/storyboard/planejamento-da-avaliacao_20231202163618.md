@@ -44,20 +44,20 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 **Tabela 2** - Checklist Preenchido 
 
-| 1  | O artefato possui Introdução?                                                                                                  | Conforme   | -                                                                      |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Conforme   | -                                                                      |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Conforme   | -                                                                      |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Conforme   | -                                                                      |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Conforme   | -                                                                      |
-| 6  | Todos os textos estão na norma padrão?                                       						      | Conforme   | -                                                                      |
-| 7  | O planejamento da avaliação segue o Framework DECIDE?					   				      | Conforme   | -                                                                      |
-| 8  | O artefato descreve os objetivos da avaliação?		                                                                      | Conforme   | -                                                                      |
-| 9  | O artefato descreve os métodos a serem utilizados?		                                                              | Conforme   | -                                                                      |
-| 10  | O artefato descreve os aspectos práticos da avaliação?								              | Conforme   | -  								    |
-| 11  | O artefato descreve os aspectos éticos da avaliação?			   			                              | Conforme   | -  								    |
-| 12  | O artefato descreve as perguntas a serem feitas na avaliação?					                              | Conforme   | -  								    |
+| 1  | O artefato possui Introdução?                                                                                                  | Sim        | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                                    		      | Sim        | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Sim        | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Sim        | -                                                                      |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Sim        | -                                                                      |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Sim        | -                                                                      |
+| 7  | O planejamento da avaliação segue o Framework DECIDE?					   				      | Sim        | -                                                                      |
+| 8  | O artefato descreve os objetivos da avaliação?		                                                                      | Sim        | -                                                                      |
+| 9  | O artefato descreve os métodos a serem utilizados?		                                                              | Sim        | -                                                                      |
+| 10  | O artefato descreve os aspectos práticos da avaliação?								              | Sim        | -  								    |
+| 11  | O artefato descreve os aspectos éticos da avaliação?			   			                              | Sim        | -  								    |
+| 12  | O artefato descreve as perguntas a serem feitas na avaliação?					                              | Sim        | -  								    |
 | 13  | O artefato possui um cronograma planejado da avaliação?									      | Incompleto | O cronograma mostra uma tabela onde deveria estar documentado o cronograma planejado, no entanto está incompleta e os links para as entrevistas levam para os testes pilotos e não para as entrevistas. |
-| 14  | O artefato apresenta o teste piloto do planejamento da avaliação?							      | Conforme   | -  								    |
+| 14  | O artefato apresenta o teste piloto do planejamento da avaliação?							      | Sim        | -  								    |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
@@ -68,7 +68,6 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 A tabela que apresenta o cronograma planejado deve estar melhor documentada com links coerentes e completamente preenchida. A sessão que apresenta os testes pilotos também poderiam estar melhor documentadas apresentando os dados em tabelas e apresentando mais dados como o dia que as entrevistas foram gravadas.
 
 </center>
-
 ## Acompanhamento
 
 A figura 1 apresenta um gráfico com o percentual de respostas conforme, não conforme, incompleto ou não se aplica, obtidas através da checklist de verificação.
@@ -77,7 +76,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas conforme, não co
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
-![Gráfico percentual de respostas](../../../assets/verificacao-liro/pizza-storyboard.png)
+![Gráfico percentual de respostas](../../assets/verificacao-liro/pizza-site-escolhido.png)
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 </center>
@@ -96,18 +95,18 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 Através dos checklists realizados podemos observar que:
 
-- 13/14 exigências são atendidas (Conformes);
-- 1/14 exigências estão incompletas;
-- 0/14 exigências estão erradas ou não foram realizadas (Não conformes).
-- 0/14 não se aplica.
+- 7/8 exigências são atendidas (Conformes);
+- 1/8 exigências estão incompletas;
+- 0/8 exigências estão erradas ou não foram realizadas (Não conformes).
+- 0/8 não se aplica.
 
-Onde 14 é a quantidade de itens avaliados na verificação.
+Onde 8 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 96,52%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 93,75%.
 
 ## Retrabalho
 
-Como apresentado no [planejamento](), para o retrabalho a autora do artefato [Milena Baruc](https://github.com/MilenaBaruc) que irá fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como apresentado no [planejamento](), para o retrabalho os autores do artefato [Milena Baruc](https://github.com/MilenaBaruc) e [Vinicius Mendes](https://github.com/yabamiah) que irão fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
 
 <center>
 
@@ -115,7 +114,7 @@ Como apresentado no [planejamento](), para o retrabalho a autora do artefato [Mi
 
 | Data de Correção | Descrição                                    |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
-|    05/12/2023    | Corrigir erros encontrados pela verificação  | [Milena Baruc](https://github.com/MilenaBaruc) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
+|    05/12/2023    | Corrigir erros encontrados pela verificação  | [Milena Baruc](https://github.com/MilenaBaruc) e [Vinicius Mendes](https://github.com/yabamiah) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 

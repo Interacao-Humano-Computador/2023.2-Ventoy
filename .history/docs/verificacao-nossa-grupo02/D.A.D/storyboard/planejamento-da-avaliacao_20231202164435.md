@@ -1,8 +1,8 @@
-# Verificação Introspecção
+# Verificação Planejamento da Avaliação do Storyboard
 
 ## Introdução
 
-Este documento é uma verificação do artefato [instropecção](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/elicitacao%20de%20requisitos/introspeccao/) na versão 2.0 de data 25/11/2023, autorada por [Altino Arthur](https://github.com/arthurrochamoreira), que é integrante do [grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main), 
+Este documento é uma verificação do artefato [Planejamento da Avaliação do Storyboard ](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/#historico-de-versoes) na versão 2.0 de data 08/11/2023, autorada por [Milena Baruc](https://github.com/MilenaBaruc), que é integrante do [grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main), 
 cujo projeto tem como foco o site do [Ventoy](https://www.ventoy.net/en/index.html), o propósito desta verificação é identificar possíveis problemas no artefato.
 
 ## Metodologia 
@@ -23,12 +23,14 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -                                                                      |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -                                                                      |
 | 6  | Todos os textos estão na norma padrão?                                       						      | -          | -                                                                      |
-| 7  | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com os envolvidos?			      | -          | -                                                                      |
-| 8  | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos?                                                       | -          | -                                                                      |
-| 9  | Está especificado o papel de cada participante?                                                                                | -          | -  								    |
-| 10 | Os requisitos elicitados estão identificados por IDs?	                                                                      | -          | -                                                                      |
-| 11 | Os requisitos foram qualificados em funcionais e não funcionais?	                                                              | -          | -                                                                      |
-| 12  |  O artefato possui um objetivo definido para o uso da introspecção?                                                           | -          | -  								    |
+| 7  | O planejamento da avaliação segue o Framework DECIDE?					   				      | -          | -                                                                      |
+| 8  | O artefato descreve os objetivos da avaliação?		                                                                      | -          | -                                                                      |
+| 9  | O artefato descreve os métodos a serem utilizados?		                                                              | -          | -                                                                      |
+| 10  | O artefato descreve os aspectos práticos da avaliação?								              | -          | -  								    |
+| 11  | O artefato descreve os aspectos éticos da avaliação?			   			                              | -          | -  								    |
+| 12  | O artefato descreve as perguntas a serem feitas na avaliação?					                              | -          | -  								    |
+| 13  | O artefato possui um cronograma planejado da avaliação?									      | -          | -  								    |
+| 14  | O artefato apresenta o teste piloto do planejamento da avaliação?							      | -          | -  								    |
 
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
@@ -42,20 +44,20 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 **Tabela 2** - Checklist Preenchido 
 
-| ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
-|----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
 | 1  | O artefato possui Introdução?                                                                                                  | Conforme   | -                                                                      |
 | 2  | O artefato possui a metodologia utilizada?                                                                    		      | Conforme   | -                                                                      |
 | 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Conforme   | -                                                                      |
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Conforme   | -                                                                      |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Conforme   | -                                                                      |
 | 6  | Todos os textos estão na norma padrão?                                       						      | Conforme   | -                                                                      |
-| 7  | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com os envolvidos?			      | Não Conforme| Um cronogama agregaria ao artefato, pelo menos um cronograma realizado.|
-| 8  | A gravação e o(s) registro(s) da atividade de elicitação dos requisitos?                                                       | Não Conforme| -                                                                      |
-| 9  | Está especificado o papel de cada participante?                                                                                | Não Conforme| -  								    |
-| 10 | Os requisitos elicitados estão identificados por IDs?	                                                                      | Conforme   | -                                                                      |
-| 11 | Os requisitos foram qualificados em funcionais e não funcionais?	                                                              | Conforme   | -                                                                      |
-| 12  |  O artefato possui um objetivo definido para o uso da introspecção?                                                           | Conforme   | -  								    |
+| 7  | O planejamento da avaliação segue o Framework DECIDE?					   				      | Conforme   | -                                                                      |
+| 8  | O artefato descreve os objetivos da avaliação?		                                                                      | Conforme   | -                                                                      |
+| 9  | O artefato descreve os métodos a serem utilizados?		                                                              | Conforme   | -                                                                      |
+| 10  | O artefato descreve os aspectos práticos da avaliação?								              | Conforme   | -  								    |
+| 11  | O artefato descreve os aspectos éticos da avaliação?			   			                              | Conforme   | -  								    |
+| 12  | O artefato descreve as perguntas a serem feitas na avaliação?					                              | Conforme   | -  								    |
+| 13  | O artefato possui um cronograma planejado da avaliação?									      | Incompleto | O cronograma mostra uma tabela onde deveria estar documentado o cronograma planejado, no entanto está incompleta e os links para as entrevistas levam para os testes pilotos e não para as entrevistas. |
+| 14  | O artefato apresenta o teste piloto do planejamento da avaliação?							      | Conforme   | -  								    |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
@@ -63,7 +65,7 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 ## Sugestões de Melhorias
 
-Adicionaria ao artefato um breve texto elucidando os propósitos da aplicação da técnica de introspecção e suas contribuições para o projeto. A inclusão de um cronograma, delineando as etapas realizadas, juntamente com a identificação dos participantes, seria benéfica para a compreensão do documento. Por fim, a incorporação de um vídeo documentando a execução da técnica proporcionaria um enriquecimento adicional ao artefato.
+A tabela que apresenta o cronograma planejado deve estar melhor documentada com links coerentes e completamente preenchida. A sessão que apresenta os testes pilotos também poderiam estar melhor documentadas apresentando os dados em tabelas e apresentando mais dados como o dia que as entrevistas foram gravadas.
 
 </center>
 
@@ -75,7 +77,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas conforme, não co
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
-![Gráfico percentual de respostas](../../../assets/verificacao-liro/pizza-introspeccao.png)
+![Gráfico percentual de respostas](../../../assets/verificacao-liro/pizza-storyboard.png)
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 </center>
@@ -94,18 +96,18 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 Através dos checklists realizados podemos observar que:
 
-- 9/12 exigências são atendidas (Conformes);
-- 0/12 exigências estão incompletas;
-- 3/12 exigências estão erradas ou não foram realizadas (Não conformes).
-- 0/12 não se aplica.
+- 13/14 exigências são atendidas (Conformes);
+- 1/14 exigências estão incompletas;
+- 0/14 exigências estão erradas ou não foram realizadas (Não conformes).
+- 0/14 não se aplica.
 
-Onde 12 é a quantidade de itens avaliados na verificação.
+Onde 14 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 50%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 96,52%.
 
 ## Retrabalho
 
-Como apresentado no [planejamento](), para o retrabalho oautor do artefato [Altino Arthur](https://github.com/arthurrochamoreira) que irá fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como apresentado no [planejamento](), para o retrabalho a autora do artefato [Milena Baruc](https://github.com/MilenaBaruc) que irão fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
 
 <center>
 
@@ -113,7 +115,7 @@ Como apresentado no [planejamento](), para o retrabalho oautor do artefato [Alti
 
 | Data de Correção | Descrição                                    |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
-|    05/12/2023    | Corrigir erros encontrados pela verificação  | [Altino Arthur](https://github.com/arthurrochamoreira) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
+|    05/12/2023    | Corrigir erros encontrados pela verificação  | [Milena Baruc](https://github.com/MilenaBaruc) e [Vinicius Mendes](https://github.com/yabamiah) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
