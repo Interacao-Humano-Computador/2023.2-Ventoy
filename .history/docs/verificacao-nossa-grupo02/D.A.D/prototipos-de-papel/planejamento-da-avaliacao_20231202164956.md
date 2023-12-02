@@ -77,7 +77,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas conforme, não co
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
-![Gráfico percentual de respostas](../../../assets/verificacao-liro/pizza-prototipo-papel.png)
+![Gráfico percentual de respostas](../../../assets/verificacao-liro/pizza-storyboard.png)
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 </center>
@@ -103,11 +103,11 @@ Através dos checklists realizados podemos observar que:
 
 Onde 14 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 78,57%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 96,52%.
 
 ## Retrabalho
 
-Como apresentado no [planejamento](), para o retrabalho a autor do artefato [Breno Queiroz](https://github.com/brenob6) que irá fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como apresentado no [planejamento](), para o retrabalho a autora do artefato [Milena Baruc](https://github.com/MilenaBaruc) que irá fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
 
 <center>
 
@@ -115,7 +115,7 @@ Como apresentado no [planejamento](), para o retrabalho a autor do artefato [Bre
 
 | Data de Correção | Descrição                                    |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
-|    05/12/2023    | Corrigir erros encontrados pela verificação  | [Breno Queiroz](https://github.com/brenob6) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
+|    05/12/2023    | Corrigir erros encontrados pela verificação  | [Milena Baruc](https://github.com/MilenaBaruc) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 

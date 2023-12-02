@@ -1,8 +1,8 @@
-# Verificação Planejamento da Avaliação do Protótipo de Papel
+# Verificação Planejamento da Avaliação do Storyboard
 
 ## Introdução
 
-Este documento é uma verificação do artefato [Planejamento da Avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoDePapel/planejamento_avaliacao/) na versão 1.0 de data 07/11/2023, autorada por [Breno Queiroz](https://github.com/brenob6), que é integrantes do [grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main), 
+Este documento é uma verificação do artefato [Planejamento da Avaliação do Storyboard ](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/planejamentoStoryboard/#historico-de-versoes) na versão 2.0 de data 08/11/2023, autorada por [Milena Baruc](https://github.com/MilenaBaruc), que é integrante do [grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main), 
 cujo projeto tem como foco o site do [Ventoy](https://www.ventoy.net/en/index.html), o propósito desta verificação é identificar possíveis problemas no artefato.
 
 ## Metodologia 
@@ -43,31 +43,31 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 <center>
 
 **Tabela 2** - Checklist Preenchido 
-| ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
-|----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
+
 | 1  | O artefato possui Introdução?                                                                                                  | Conforme   | -                                                                      |
 | 2  | O artefato possui a metodologia utilizada?                                                                    		      | Conforme   | -                                                                      |
 | 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | Conforme   | -                                                                      |
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Conforme   | -                                                                      |
 | 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Conforme   | -                                                                      |
-| 6  | Todos os textos estão na norma padrão?                                       						      | Conforme   | - |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Conforme   | -                                                                      |
 | 7  | O planejamento da avaliação segue o Framework DECIDE?					   				      | Conforme   | -                                                                      |
 | 8  | O artefato descreve os objetivos da avaliação?		                                                                      | Conforme   | -                                                                      |
 | 9  | O artefato descreve os métodos a serem utilizados?		                                                              | Conforme   | -                                                                      |
 | 10  | O artefato descreve os aspectos práticos da avaliação?								              | Conforme   | -  								    |
 | 11  | O artefato descreve os aspectos éticos da avaliação?			   			                              | Conforme   | -  								    |
-| 12  | O artefato descreve as perguntas a serem feitas na avaliação?					                              | Incompleto | Possuem, no entanto as perguntas não possuem fontes.|
-| 13  | O artefato possui um cronograma planejado da avaliação?									      | Incompleto | Possue, porém não apresenta todos os envolvidos nem horários.|
-| 14  | O artefato apresenta o teste piloto do planejamento da avaliação?							      | Não Conforme| -  								    |
-							 
-
+| 12  | O artefato descreve as perguntas a serem feitas na avaliação?					                              | Conforme   | -  								    |
+| 13  | O artefato possui um cronograma planejado da avaliação?									      | Incompleto | O cronograma mostra uma tabela onde deveria estar documentado o cronograma planejado, no entanto está incompleta e os links para as entrevistas levam para os testes pilotos e não para as entrevistas. |
+| 14  | O artefato apresenta o teste piloto do planejamento da avaliação?							      | Conforme   | -  								    |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
+</center>
 
 ## Sugestões de Melhorias
 
-Algumas informações não possuem fontes claras como as perguntas que seram feitas na entrevista, o cronograma poderia estar mais detalhado e um teste piloto agregaria muito ao planejamento.
+A tabela que apresenta o cronograma planejado deve estar melhor documentada com links coerentes e completamente preenchida. A sessão que apresenta os testes pilotos também poderiam estar melhor documentadas apresentando os dados em tabelas e apresentando mais dados como o dia que as entrevistas foram gravadas.
+
+</center>
 
 ## Acompanhamento
 
@@ -77,7 +77,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas conforme, não co
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
-![Gráfico percentual de respostas](../../../assets/verificacao-liro/pizza-prototipo-papel.png)
+![Gráfico percentual de respostas](../../../assets/verificacao-liro/pizza-storyboard.png)
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 </center>
@@ -96,18 +96,18 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 Através dos checklists realizados podemos observar que:
 
-- 11/14 exigências são atendidas (Conformes);
-- 2/14 exigências estão incompletas;
-- 1/14 exigências estão erradas ou não foram realizadas (Não conformes).
+- 13/14 exigências são atendidas (Conformes);
+- 1/14 exigências estão incompletas;
+- 0/14 exigências estão erradas ou não foram realizadas (Não conformes).
 - 0/14 não se aplica.
 
 Onde 14 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 78,57%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 96,52%.
 
 ## Retrabalho
 
-Como apresentado no [planejamento](), para o retrabalho a autor do artefato [Breno Queiroz](https://github.com/brenob6) que irá fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como apresentado no [planejamento](), para o retrabalho a autora do artefato [Milena Baruc](https://github.com/MilenaBaruc) que irá fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
 
 <center>
 
@@ -115,7 +115,7 @@ Como apresentado no [planejamento](), para o retrabalho a autor do artefato [Bre
 
 | Data de Correção | Descrição                                    |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
-|    05/12/2023    | Corrigir erros encontrados pela verificação  | [Breno Queiroz](https://github.com/brenob6) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
+|    05/12/2023    | Corrigir erros encontrados pela verificação  | [Milena Baruc](https://github.com/MilenaBaruc) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
@@ -133,4 +133,4 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 | ------ | ---------- | -------------------- | ---------------------| ----------- |
 | `1.0`  | 25/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
 | `1.1`  | 25/11/2023 | Adicionado o desenvolvimento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
-| `1.2`  | 02/12/2023 | Adicionado gráficos e cálculos de aproveitamento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
+| `1.2`  | /11/2023 | Adicionado gráficos e cálculos de aproveitamento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |

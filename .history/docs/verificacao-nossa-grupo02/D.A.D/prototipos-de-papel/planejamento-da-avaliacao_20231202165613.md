@@ -115,7 +115,7 @@ Como apresentado no [planejamento](), para o retrabalho a autor do artefato [Bre
 
 | Data de Correção | Descrição                                    |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
-|    05/12/2023    | Corrigir erros encontrados pela verificação  | [Breno Queiroz](https://github.com/brenob6) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
+|    05/12/2023    | Corrigir erros encontrados pela verificação  | [Milena Baruc](https://github.com/MilenaBaruc) | [Limirio Guimarães](https://github.com/LimirioGuimaraes)|  |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
