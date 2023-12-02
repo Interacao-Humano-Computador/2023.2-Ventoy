@@ -41,18 +41,18 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
 |----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  | Conforme          | -                                                                      |
-| 2  | O artefato possui Metodologia?                                                                                                  | Incorre         | -                                                                      |
-| 3 | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -                                                                      |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -                                                                      |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -                                                                      |
-| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -                                                                      |
-| 7  | O artefato descreve os objetivos do relato dos resultados da avaliação?				   				      | -          | -                                                                      |
-| 8 | 	O artefato descreve como devem ser apresentados os aspectos práticos do relato dos resultados da avaliação? | - |-                                            |
-| 9  | 	O artefato descreve como devem ser apresentados os resultados da avaliação?				      | -          | -  								    |
-| 10  | O artefato descreve como devem ser apresentadas as conclusões da avaliação?	      | -          | -  								    |
-| 11  | A apresentação do relato dos resultados é fácil de entender para diferentes públicos?			        | -          | -  								    |
-| 12 | O artefato descreve como deve ser documentado o feedback do usuário sobre a análise de tarefas?		        | -          | -  								    |
+| 1  | O artefato possui Introdução?                                                                                                  | Conforme        | -                                                                      |
+| 2  | O artefato possui Metodologia?                                                                                                  | Incompleto         | Apesar do artefato possui um tópico para metodologia, nele não é descrito a metodologia utilizada para construção do planejamento do relato dos resultado do análise de tarefas                                                                     |
+| 3 | O artefato possui bibliografia/referências bibliográficas?                                                                     | Conforme         | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | Conforme         | -                                                                      |
+| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | Não se aplica        | -                                                                      |
+| 6  | Todos os textos estão na norma padrão?                                       						      | Conforme         | -                                                                      |
+| 7  | O artefato descreve os objetivos do relato dos resultados da avaliação?				   				      | Não conforme        | O artefato não descreve os objetivos do relato dos resultados da avaliação.                                                                    |
+| 8  | 	O artefato descreve como devem ser apresentados os aspectos práticos do relato dos resultados da avaliação? | Conforme |-                                            |
+| 9  | 	O artefato descreve como devem ser apresentados os resultados da avaliação?				      | Conforme          | -  								    |
+| 10  | O artefato descreve como devem ser apresentadas as conclusões da avaliação?	      | Conforme         | -  								    |
+| 11 |  A apresentação do relato dos resultados é fácil de entender para diferentes públicos?			        | Conforme         | -  								    |
+| 12 | O artefato descreve como deve ser documentado o feedback do usuário sobre o análise de tarefas?		        | Não conforme         | O artefato não descreve como deve ser documentado o feedback dos usuários que avaliaram o análise de tarefas							    |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
@@ -69,9 +69,9 @@ De maneira geral o artefato apresenta uma boa qualidade, uma boa formatação e 
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
-|  2   |Apesar do artefato possui um tópico para metodologia, nele não é descrito a metodologia utilizada para construção do planejamento do relato dos resultado do storyboard.                 | É sugerido que se faça o detalhamento as etapas, técnicas e ferramentas utilizadas no processo de construção do planejamento do relato dos resultado do storyboard  | 
+|  2   |Apesar do artefato possui um tópico para metodologia, nele não é descrito a metodologia utilizada para construção do planejamento do relato dos resultado do análise de tarefas.                | É sugerido que se faça o detalhamento as etapas, técnicas e ferramentas utilizadas no processo de construção do planejamento do relato dos resultado do análise de tarefas. | 
 |  7   |  O artefato não descreve os objetivos do relato dos resultados da avaliação.                 |   É sugerido que adicione uma seção que explique claramente os objetivos do relato dos resultados da avaliação.              | 
-|  12  | O artefato não descreve como deve ser documentado o feedback dos usuários que avaliaram o storyboard .                   |  É sugerido que se crie uma seção dedicada a demonstrar como deve ser documentado o feedback dos usuários.                 | 
+|  12  | O artefato não descreve como deve ser documentado o feedback dos usuários que avaliaram o análise de tarefas.|  É sugerido que se crie uma seção dedicada a demonstrar como deve ser documentado o feedback dos usuários.                 | 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
@@ -123,7 +123,7 @@ Como proposto por Fagan, para o retrabalho o autores do artefato [Luis Eduardo](
 
 | Data de Correção | Descrição                                    |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
-|  03/11/2023    |  Detalhamento as etapas, técnicas e ferramentas utilizadas no processo de construção do planejamento do relato dos resultado do storyboard  | [Luis Eduardo](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)|  |
+|  03/11/2023    |  Detalhamento as etapas, técnicas e ferramentas utilizadas no processo de construção do planejamento do relato dos resultado do análise de tarefas  | [Luis Eduardo](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)|  |
 |  03/11/2023    | Adicionar uma seção que explique claramente os objetivos do relato dos resultados da avaliação.  | [Luis Eduardo](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)|  |
 |  03/11/2023    | Adicionar uma seção dedicada a demonstrar como deve ser documentado o feedback dos usuários.     | [Luis Eduardo](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)|  |
 
