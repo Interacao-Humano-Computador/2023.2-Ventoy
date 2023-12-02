@@ -118,14 +118,14 @@ Como definido no retrabalho, foi realizado um novo design para página de FAQ co
 
 **Figura 1** - Página 1 - FAQ 
 
-![Página de FAQ-1](../../assets/pagina-FAQ1.jpeg)
+![Página de FAQ-1](../../../assets/pagina-FAQ1.jpeg)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
 
 **Figura 2** - Página 2 - FAQ 
 
-![Página de FAQ-2](../../assets/pagina-FAQ2.jpeg)
+![Página de FAQ-2](../../../assets/pagina-FAQ2.jpeg)
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech) 
 </center>
@@ -139,7 +139,7 @@ A avaliação seguiu os mesmos parametros da primeira avaliação com o mesmo pa
 
 | **Entrevistador(a)** | **Entrevistado** | **Data** | **Horario de início/fim** | **Entrevista** |
 | -------------------- | ---------------- | -------- | ------------------------- | -------------- |
-| [Mayara Alves](https://github.com/Mayara-tech) | Igor Luna | 29/11/2023 | 08:15/08:18 | [Link para Entrevista](https://youtu.be/sd6CPuITmT) |
+| [Mayara Alves](https://github.com/Mayara-tech) | Igor Luna | 29/11/2023 | 08:15/08:18 | [Link para Entrevista](https://youtu.be/5fKcm0_9QTI) |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
@@ -188,3 +188,4 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 22/11/2023 | Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+|`1.1`| 02/12/2023 | Adicionando retrabalho do protótipo de papel | [Mayara Alves](https://github.com/Mayara-tech) | |
