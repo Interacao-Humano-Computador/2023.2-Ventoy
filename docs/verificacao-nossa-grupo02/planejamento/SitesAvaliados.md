@@ -13,7 +13,7 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 
 <center>
 
-**Tabela 1** - Checklist não preenchido
+**Tabela 1** - Checklist Geral não preenchido
 
 | ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
 |----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
@@ -34,13 +34,26 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 </center>
 
+<center>
+
+**Tabela 2** - Checklist Específico não preenchido
+
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
+| 1  | Se faz presente uma avaliação para cada site selecionado?                                       			                       | -          | -                                                                      |
+| 2  | É apresentado as motivações/critérios para a escolha do site?                                       			                       | -          | -                                                                      |
+| 3  |  Possui o nome de quem fez cada avaliação do respectivo site?                                     			                       | -          | -                                                                      |
+| 4  |  São evidenciados os problemas de cada site selecionado?                                     			                       | -          | -                                                                      |
+| 5  |  É apresentado qual o planejamento de avaliação a ser seguido para cada site selecionado?                                     			                       | -          | -                                                                      |
+| 6  |  Os sites são apresentados de forma clara?                                     			                       | -          | -                                                                      |
+
 ## Desenvolvimento 
 
-Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
+Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do artefato. Este checklist, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
 
 <center>
 
-**Tabela 2** - Checklist preenchido
+**Tabela 3** - Checklist Geral preenchido
 
 | ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
 |----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
@@ -58,6 +71,18 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
+<center>
+
+**Tabela 4** - Checklist Específico preenchido
+
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
+| 1  | Se faz presente uma avaliação para cada site selecionado?                                       			                       | -          | -                                                                      |
+| 2  | É apresentado as motivações/critérios para a escolha do site?                                       			                       | -          | -                                                                      |
+| 3  |  Possui o nome de quem fez cada avaliação do respectivo site?                                     			                       | -          | -                                                                      |
+| 4  |  São evidenciados os problemas de cada site selecionado?                                     			                       | -          | -                                                                      |
+| 5  |  É apresentado qual o planejamento de avaliação a ser seguido para cada site selecionado?                                     			                       | -          | -                                                                      |
+| 6  |  Os sites são apresentados de forma clara?                                     			                       | -          | -                                                                      |
 
 ## Sugestões de Melhorias
 
@@ -67,21 +92,30 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 ## Acompanhamento
 
-A figura 1 apresenta um gráfico com o percentual de respostas conforme, não conforme, incompleto ou não se aplica, obtidas através da checklist de verificação.
+A figura 1 e 2 apresenta um gráfico com o percentual de respostas conforme, não conforme, incompleto ou não se aplica, obtidas através da checklist geral e específico de verificação.
 
 <center>
 
-**Figura 1** - Percentual das respostas obtidas na verificação 
+**Figura 1** - Percentual das respostas obtidas na verificação checklist geral
 
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
 
+<center>
+
+**Figura 2** - Percentual das respostas obtidas na verificação checklist específico
+
+
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
+</center>
+
+
 ### Percentual de aproveitamento 
 
-Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equação na figura 2:
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equação na figura 3:
 
-**Figura 2** - Equação de percentual de aproveitamento
+**Figura 3** - Equação de percentual de aproveitamento
 
 ![Equação](../../assets/equacao.PNG)
 
@@ -89,7 +123,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 </center>
 
-Através dos checklists realizados podemos observar que:
+Através dos checklists geral e específico realizados podemos observar que:
 
 - 0/8 exigências são atendidas (Conformes);
 - 0/8 exigências estão incompletas;
@@ -102,11 +136,11 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 ## Retrabalho
 
-Como apresentado no [planejamento](), para o retrabalho o autor do artefato [Mayara Alves](https://github.com/Mayara-tech) que vai fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como apresentado no [planejamento](), para o retrabalho o autor do artefato [Mayara Alves](https://github.com/Mayara-tech) que vai fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 5 a seguir apresenta o cronograma de correções.
 
 <center>
 
-**Tabela 3** - Cronograma de Correções
+**Tabela 5** - Cronograma de Correções
 
 | Data de Correção | Descrição                                    |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
