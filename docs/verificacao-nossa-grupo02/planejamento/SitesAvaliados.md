@@ -47,6 +47,8 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 | 5  |  É apresentado qual o planejamento de avaliação a ser seguido para cada site selecionado?                                     			                       | -          | -                                                                      |
 | 6  |  Os sites são apresentados de forma clara?                                     			                       | -          | -                                                                      |
 
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
+
 ## Desenvolvimento 
 
 Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do artefato. Este checklist, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
@@ -56,7 +58,7 @@ Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do a
 **Tabela 3** - Checklist Geral preenchido
 
 | ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
-|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------| 
 | 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |
 | 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |
 | 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
