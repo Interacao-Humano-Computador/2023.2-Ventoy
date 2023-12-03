@@ -50,7 +50,7 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 | 5  | Todos os textos estão na norma padrão?                                       						      | Conforme        | -                                                                      |
 | 6  | 	O artefato especifica claramente a escolha de métodos ágeis e a justificativa da sua escolha?						   				      | Incompleto         | O artefato especifica os métodos ágeis que serão utilizados, entretanto não justificam o porque de suas escolhas                                                                    |
 | 7  | Os papéis principais (por exemplo, Scrum Master, Product Owner) estão definidos e alinhados com a abordagem ágil escolhida.       | Não conforme   | O artefato não espefica quem serão os responsáveis por cada função do método ágil scrum.
-| 8  | A metodologia utilizado no projeto é descrita de forma detalhada, incluindo os passos a serem seguidos, as atividades a serem realizadas e os recursos necessários? |  Incompleta | O artefato não descrever de forma detalhada como a equipe pretende utilizar os métodos escolhidos.                                            |
+| 8  | A metodologia utilizado no projeto é descrita de forma detalhada, incluindo os passos a serem seguidos, as atividades a serem realizadas e os recursos necessários? |  Incompleto | O artefato não descrever de forma detalhada como a equipe pretende utilizar os métodos escolhidos.                                            |
 | 9  | A metodologia está fundamentada em teorias, conceitos ou abordagens reconhecidas na área?				      | Conforme         | -  								    |
 | 10  | O documento fornece informações suficientes para que a metodologia possa ser reproduzida pela equipe? 		      | Incompleto          | O artefato não apresenta todas as informações necessárias para que a equipe utilize a metodologia. 								    |
 | 11  | E especificado como serão realizados as reuniões regulares (Sprints Planning, Daily Standup, Sprint Review)? 					        | Conforme         | -  								    |
@@ -94,7 +94,23 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ### Percentual de aproveitamento 
 
-Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equação na figura 2:
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equação na figura 2 e a tabela 3 para explicar o significada de cada sigla:
+
+<center>
+
+**Tabela 3** - Cronograma de Correções
+
+| Sigla | Descrição                      | 
+| -------- | ------------------------------ | 
+| QTDE     | Quantidade Total de Exigências | 
+| EC       | Exigências Completas (conformes)           | 
+| EI       | Exigências Incompletas         | 
+| EE       | Exigências Erradas  (não conformes)| 
+| NA       | Exigências Não Aplicáveis      | 
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
+
+</center>
 
 **Figura 2** - Equação de percentual de aproveitamento
 
@@ -118,11 +134,11 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 ## Retrabalho
 
-Como proposto por Fagan, para o retrabalho o autor do artefato [Breno Queiroz](https://github.com/brenob6) e [Altino Arthur](https://github.com/arthurrochamoreira) que irão fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como proposto por Fagan, para o retrabalho o autor do artefato [Breno Queiroz](https://github.com/brenob6) e [Altino Arthur](https://github.com/arthurrochamoreira) que irão fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 4 a seguir apresenta o cronograma de correções.
 
 <center>
 
-**Tabela 3** - Cronograma de Correções
+**Tabela 4** - Cronograma de Correções
 
 | Data de Correção | Descrição                                    |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
