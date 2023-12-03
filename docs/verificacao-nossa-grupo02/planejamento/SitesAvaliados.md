@@ -34,6 +34,31 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 </center>
 
+## Desenvolvimento 
+
+Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
+
+<center>
+
+**Tabela 2** - Checklist preenchido
+
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
+| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
+| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |
+| 6  | Se faz presente uma avaliação para cada site selecionado?                                       			                       | -          | -                                                                      |
+| 7  | É apresentado as motivações/critérios para a escolha do site?                                       			                       | -          | -                                                                      |
+| 8  |  Possui o nome de quem fez cada avaliação do respectivo site?                                     			                       | -          | -                                                                      |
+| 9  |  São evidenciados os problemas de cada site selecionado?                                     			                       | -          | -                                                                      |
+| 10  |  É apresentado qual o planejamento de avaliação a ser seguido para cada site selecionado?                                     			                       | -          | -                                                                      |
+| 11  |  Os sites são apresentados de forma clara?                                     			                       | -          | -                                                                      |
+
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
+
+
 ## Sugestões de Melhorias
 
 
