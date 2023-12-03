@@ -13,7 +13,7 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 
 <center>
 
-**Tabela 1** - Checklist Geralnão preenchido
+**Tabela 1** - Checklist não preenchido
 
 | ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
 |----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
@@ -37,7 +37,7 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 <center>
 
-**Tabela 2** - Checklist Geral preenchido
+**Tabela 2** - Checklist preenchido
 
 | ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
 |----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
