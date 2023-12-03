@@ -68,8 +68,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas conforme, não co
 <center>
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
-
-
+![Equação](../../assets/equacao.PNG)
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
