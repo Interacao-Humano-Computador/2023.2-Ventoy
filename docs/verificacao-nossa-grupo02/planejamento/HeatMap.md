@@ -22,9 +22,6 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 | 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
 | 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |
-| 6  | Possui o horário escolhido pelo grupo para se reunir?                                    			           | -          | -                                                                      |
-| 7  | Possui uma justificativa do horário e dia escolhido pelo grupo para se reunir?                         | -          | -                                                                      |
-| 8  | O objetivo do texto está explicitado de maneira clara e coesa?                                    		   | -          | -                                                                      |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
@@ -61,9 +58,6 @@ Na tabela 3 e 4 podemos observar o checklist geral e específico preenchido apó
 | 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
 | 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |
-| 6  | Possui o horário escolhido pelo grupo para se reunir?                                    			           | -          | -                                                                      |
-| 7  | Possui uma justificativa do horário e dia escolhido pelo grupo para se reunir?                         | -          | -                                                                      |
-| 8  | O objetivo do texto está explicitado de maneira clara e coesa?                                    		   | -          | -                                                                      |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
