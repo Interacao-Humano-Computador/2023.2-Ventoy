@@ -92,7 +92,23 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ### Percentual de aproveitamento 
 
-Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equação na figura 2:
+Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equação na figura 2 e a tabela 3 para explicar o significada de cada sigla:
+
+<center>
+
+**Tabela 3** - Cronograma de Correções
+
+| Sigla | Descrição                      | 
+| -------- | ------------------------------ | 
+| QTDE     | Quantidade Total de Exigências | 
+| EC       | Exigências Completas (conformes)           | 
+| EI       | Exigências Incompletas         | 
+| EE       | Exigências Erradas  (não conformes)| 
+| NA       | Exigências Não Aplicáveis      | 
+
+Fonte: [Mayara Alves](https://github.com/Mayara-tech)
+
+</center>
 
 **Figura 2** - Equação de percentual de aproveitamento
 
@@ -116,11 +132,11 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 ## Retrabalho
 
-Como proposto por Fagan, para o retrabalho o autores do artefato [Luis Eduardo](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah) que irão fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 3 a seguir apresenta o cronograma de correções.
+Como proposto por Fagan, para o retrabalho o autores do artefato [Luis Eduardo](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah) que irão fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 4 a seguir apresenta o cronograma de correções.
 
 <center>
 
-**Tabela 3** - Cronograma de Correções
+**Tabela 4** - Cronograma de Correções
 
 | Data de Correção | Descrição                                    |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
