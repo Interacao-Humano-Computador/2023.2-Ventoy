@@ -86,6 +86,8 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 | 5  |  É apresentado qual o planejamento de avaliação a ser seguido para cada site selecionado?                                     			                       | -          | -                                                                      |
 | 6  |  Os sites são apresentados de forma clara?                                     			                       | -          | -                                                                      |
 
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
+
 ## Sugestões de Melhorias
 
 
