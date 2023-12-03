@@ -17,4 +17,8 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 
 | ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
 |----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-
+| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
+| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |
