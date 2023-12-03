@@ -63,7 +63,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 <center>
 
-**Tabela 4** - Checklist Específicopreenchido
+**Tabela 4** - Checklist Específico preenchido
 
 | ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
 |----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
