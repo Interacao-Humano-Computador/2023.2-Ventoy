@@ -7,7 +7,7 @@ Este documento é uma verificação do artefato [Relato do Resultado - Acessar a
 
 ## Metodologia 
 
-A verificação do artefato seguirá o [planejamento](https://interacao-humano-computador.github.io/2023.2-Ventoy/verificacao/planejamendoDaVerificacao/) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em especifico, onde as perguntas de 1 a 6 são referentes ao checklist geral do projeto e as perguntas de 7 a 13 referentes ao relato do resultado - acessar aba de plugin. Podemos observar esse checklist na Tabela 1. 
+A verificação do artefato seguirá o [planejamento](https://interacao-humano-computador.github.io/2023.2-Ventoy/verificacao/planejamendoDaVerificacao/) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em especifico, onde as perguntas de 1 a 6 são referentes ao checklist geral do projeto e as perguntas de 7 a 15 referentes ao relato do resultado - acessar aba de plugin. Podemos observar esse checklist na Tabela 1. 
 
 <center>
 
@@ -28,6 +28,9 @@ A verificação do artefato seguirá o [planejamento](https://interacao-humano-c
 | 11  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?		        | -          | -  								    |
 | 12 | O artefato apresenta uma seção para o feedback dos usuários?	        | -          | -  								    |
 | 13 | O artefato apresenta uma seção para sumarizar os principais resultados?       | -          | -  								    |
+| 14 | Foi realizado a gravação do teste piloto protótipo de alta fidelidade      |   -  | -							    |
+| 15 | Foi realizado a gravação da avaliação do protótipo de alta fidelidade      |   -  | -  								    |
+
 
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
@@ -57,6 +60,8 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 | 11  | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?		        | Conforme         | -  								    |
 | 12 | O artefato apresenta uma seção para o feedback dos usuários?	        | Conforme          | -  								    |
 | 13 | O artefato apresenta uma seção para sumarizar os principais resultados?       | Conforme         | -  								    |
+| 14 | Foi realizado a gravação do teste piloto protótipo de alta fidelidade      |   Conforme  | -							    |
+| 15 | Foi realizado a gravação da avaliação do protótipo de alta fidelidade      |   Conforme  | -  								    |
 
 Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
@@ -122,14 +127,14 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 Através dos checklists realizados podemos observar que:
 
-- 12/13  exigências são atendidas (Conformes);
-- 0/13 exigências estão incompletas;
-- 1/13 exigências estão erradas ou não foram realizadas (Não conformes).
-- 0/13 não se aplica.
+- 14/15  exigências são atendidas (Conformes);
+- 0/15 exigências estão incompletas;
+- 1/15 exigências estão erradas ou não foram realizadas (Não conformes).
+- 0/15 não se aplica.
 
-Onde 13 é a quantidade de itens avaliados na verificação.
+Onde 15 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 84,6%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 86,6%.
 
 
 ## Retrabalho
