@@ -22,7 +22,12 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 | 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
 | 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |
-| 6  | Os usuários se adequam ao perfil pré estabelecido pela equipe?                                       			                       | -          | -                                                                      |
+| 6  | Possui data, horário e local de como ocorreu a sessão?                                       			                       | -          | -                                                                      |
+| 7  | Os usuários se adequam ao perfil pré estabelecido pela equipe?                                       			                       | -          | -                                                                      |
+| 8  | Possui de 8 a 12 usuários finais presentes na sessão de brainstorming?                                       			                       | -          | -                                                                      |
+| 9  | É dialogado com os participantes sobre como funciona e quais os objetivos durante a sessão?                                       			                       | -          | -                                                                      |
+| 10  | A sessão possui um moderador e um secretário?                                       			                       | -          | -                                                                      |
+| 11  | É explicitado de forma clara a função do moderador e do secretário?                                       			                       | -          | -                                                                      |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
@@ -33,11 +38,23 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 <center>
 
+**Tabela 2** - Checklist preenchido
 
-
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
+| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
+| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |
+| 6  | Possui data, horário e local de como ocorreu a sessão?                                       			                       | -          | -                                                                      |
+| 7  | Os usuários se adequam ao perfil pré estabelecido pela equipe?                                       			                       | -          | -                                                                      |
+| 8  | Possui de 8 a 12 usuários finais presentes na sessão de brainstorming?                                       			                       | -          | -                                                                      |
+| 9  | É dialogado com os participantes sobre como funciona e quais os objetivos durante a sessão?                                       			                       | -          | -                                                                      |
+| 10  | A sessão possui um moderador e um secretário?                                       			                       | -          | -                                                                      |
+| 11  | É explicitado de forma clara a função do moderador e do secretário?                                       			                       | -          | -                                                                      |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
-
 </center>
 
 ## Sugestões de Melhorias
@@ -56,7 +73,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas conforme, não co
 
 
 
-Fonte:
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
 
 ### Percentual de aproveitamento 
@@ -97,7 +114,6 @@ Como apresentado no [planejamento](), para o retrabalho os autores do artefato [
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 </center>
-
 
 ## Bibliografia
 
