@@ -1,4 +1,5 @@
-# Relato dos Resultados - Avaliação dos Protótipos de Papel
+# Relato dos Resultados - Iniciar uso do Ventoy
+
 ## Introdução
 
 Este relatório destaca a análise de usabilidade conduzida no protótipo em papel da funcionalidade "inciar o uso do Ventoy". O objetivo desta análise é avaliar a usabilidade do protótipo de baixa fidelidade desenvolvido para realizar a tarefas em questão. A avaliação visa compreender a experiência do usuário, enfocando eficiência, eficácia, satisfação e acessibilidade no contexto específico do protótipo em papel.
@@ -18,17 +19,24 @@ Ao responder a essas perguntas, buscamos garantir que os objetivos estabelecidos
 
 O Método seguiu o [planejamento](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel2/prototipoDePapel/planejamento.md) confeccionado pela equipe. Para está pesquisa foi avaliada a implementação no protótipo de papel da tarefa "iniciar o uso do Ventoy". Para realizar está avaliação os métodos utilizados foram os métodos de observação e à investigação, uma vez que ambas envolvem a interação com os usuários. O cronograma executado está disponível na tabela 1.
 
+<center>
+
 **Tabela 1** - Cronograma Executado
 
-| Entrevistador(a) | Entrevistado | Data | Horário de início/fim | Entrevista|
-|------------------|--------------|------|----------------------|----------|
+| Entrevistador(a) |Entrevistado | Data | Horário de início/fim | Entrevista |
+|------------------|-------------|------|----------------------|---------- |
 | [Vinícius Mendes](https://github.com/yabamiah) | Igor Luna | 22/11/2023 | 09:47 / 9:54 | [Link para a entrevista](https://youtu.be/6PR9nO--088) |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
+</center>
+
+
 ### Seleção dos participantes
 
-O participante Igor Luna foi selecionado de acordo com o [perfil de usuário](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/elicitacao/PerfilUsuario.md) previamente estabelecido pelo grupo. Segue as informações do participante na tabela 2.
+O participante Igor Luna foi selecionado de acordo com o [perfil de usuário](/elicitacao/PerfilUsuario/) previamente estabelecido pelo grupo. Segue as informações do participante na tabela 2.
+
+<center>
 
 **Tabela 2** - Informações do Usuário
 
@@ -37,9 +45,12 @@ O participante Igor Luna foi selecionado de acordo com o [perfil de usuário](h
 | Gênero | Masculino |
 | Idade | 29 anos |
 | Profissão | Empresário |
+| Experiência com Dispositivos tecnologicos? | (x)Sim ( )Não |
 | Já utilizou o Site? | (x)Sim ( )Não|
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+
+</center>
 
 ### Custos
 
@@ -51,7 +62,9 @@ Para preservar a privacidade dos participantes, garantindo que no relato suas id
 
 ### Feedback e sugestões de melhorias
 
-Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha autonomia para sugerir melhorias e alterar características da interface em que estava trabalhando. No entanto, durante o uso, o usuário não apontou nenhuma característica que deveria ser introduzida, alterada ou removida. Para estimular melhores resultados e de acordo com o [planejamento da avaliação do protótipo de papel](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel2/prototipoDePapel/planejamento.md), algumas perguntas foram realizadas ao usuário. As respostas a essas perguntas podem ser visualizadas na tabela 03.
+Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha autonomia para sugerir melhorias e alterar características da interface em que estava trabalhando. No entanto, durante o uso, o usuário não apontou nenhuma característica que deveria ser introduzida, alterada ou removida. Para estimular melhores resultados e de acordo com o [planejamento da avaliação do protótipo de papel](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/DAD/nivel2/prototipoDePapel/planejamento.md), algumas perguntas foram realizadas ao usuário. As respostas a essas perguntas podem ser visualizadas na tabela 3.
+
+<center>
 
 **Tabela 3** - Tabela de resultados das perguntas feitas ao usuário
 
@@ -64,6 +77,8 @@ Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
+</center>
+
 ### Análise e interpretação dos resultados
 
 De acordo com a fluidez com que o usuário realizava as tarefas, foi possível observar que o usuário conseguiu sem dificuldades acessar o Download e o Document para instalar um o Ventoy para Linux e acessar a documentação de como o Ventoy funciona, não foram identificados problemas na interação do usuário com a interface. Durante o processo foi observado que não há a necessidade de ajustes no protótipo.
@@ -75,7 +90,7 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 2. Foi possível identificar problemas de usabilidade preliminares?
     - Não foi possível identificar problemas de usabilidade.
 
-# Referências Bibliográficas
+# Bibliografia
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
@@ -84,3 +99,4 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 | **Versão** | **Data** | **Descrição** | **Autor**| **Revisor** |
 | ---------- | ---------- | ---------- | --------- | ---------- |
 |`1.0`| 22/11/2023 | Criação do documento e adicionado o resultado da avaliação | [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)| 
+|`1.1`| 03/12/2023 | Correções pós verificação | [Breno Queiroz](https://github.com/brenob6) |
