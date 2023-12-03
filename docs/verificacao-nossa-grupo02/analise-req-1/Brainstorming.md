@@ -22,3 +22,12 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 | 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
 | 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
 | 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |
+| 6  | Os usuários se adequam ao perfil pré estabelecido pela equipe?                                       			                       | -          | -                                                                      |
+
+
+
+
+
+
+
+
