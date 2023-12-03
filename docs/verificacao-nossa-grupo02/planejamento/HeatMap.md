@@ -33,7 +33,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 <center>
 
-**Tabela 2** - Checklist Geral não preenchido
+**Tabela 2** - Checklist Específico não preenchido
 
 | ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
 |----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
