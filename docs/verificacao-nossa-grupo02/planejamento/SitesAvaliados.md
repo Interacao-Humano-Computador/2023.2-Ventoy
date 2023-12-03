@@ -1,1 +1,19 @@
+# Verificação Sites Avaliados
+ 
+## Introdução
 
+Este documento é uma verificação do artefato [Site Avaliados](https://interacao-humano-computador.github.io/2023.2-Ventoy/planejamento/sites-avaliados/) na versão 1.0 de data 02/10/2023, autorada por [Mayara Alves](https://github.com/Mayara-tech), que são integrantes do [grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main), 
+cujo projeto tem como foco o site do [Ventoy](https://www.ventoy.net/en/index.html), o propósito desta verificação é identificar possíveis problemas no artefato.
+
+## Metodologia 
+
+A verificação do artefato seguirá o [planejamento](https://interacao-humano-computador.github.io/2023.2-Ventoy/) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, 
+destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em específico. 
+Podemos observar o referido checklist referente a verificação do Cronograma na Tabela 1. 
+
+<center>
+
+**Tabela 1** - Checklist não preenchido
+
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
