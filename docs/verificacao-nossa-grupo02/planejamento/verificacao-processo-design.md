@@ -11,10 +11,11 @@ A verificação do artefato seguirá o [planejamento](https://interacao-humano-c
 destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em específico. 
 Podemos observar o referido checklist referente a verificação do Cronograma na Tabela 1. 
 
-
-**Tabela 1** - Checklist Geral não preenchido
+<br>
 
 <center>
+
+**Tabela 1** - Checklist Geral não preenchido
 
 | ID | Descrição                                                                                              | Avaliação (Sim, Não, Incompleto) | Observação                                                             | Referência           |
 |----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|----------------------|
@@ -30,9 +31,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
-**Tabela 2** - Checklist Específico não preenchido
-
 <center>
+
+**Tabela 2** - Checklist Específico não preenchido
 
 | ID  | Descrição                                                                                              | Avaliação (Sim, Não, Incompleto)  | Observações               | Referência                                           |
 | :-: | ------------------------------------------------------------------------------------------------------ | ---------- | ------------------------- | ---------------------------------------------------- |
@@ -49,7 +50,7 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
-</center>
+<center>
 
 **Tabela 3** - Checklist Geral preenchido
 
@@ -67,9 +68,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 <br>
 
-**Tabela 4** - Checklist Específico preenchido
-
 <center>
+
+**Tabela 4** - Checklist Específico preenchido
 
 | ID  | Descrição                                                                                      | Avaliação (Sim, Não, Incompleto)  | Observações               |
 | :-: | ---------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------- |
@@ -84,8 +85,9 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 </center>
 
-
 ## Verificação em Trio
+
+<center>
 
 **Tabela 5** - Cronograma de verificação
 
@@ -93,6 +95,8 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 |--------------|-------|---------|-----------------|
 | Luis Miranda, Vinicius Mendes e Altino Arthur | 04/12/2023 | 00:00/00:00| [Link da Gravação]()  |
 
+
+</center>
 
 ## Sugestões de Melhorias
 
