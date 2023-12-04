@@ -82,6 +82,15 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
+## Verificação Individual
+
+**Tabela 5** - Cronograma de verificação
+
+| Participantes | Data | Horário | Link da Gravação|
+|--------------|-------|---------|-----------------|
+| Luis Miranda | 04/12/2023 | 00:06/00:16| [Link da Gravação](https://youtu.be/W2qGx1xBlaE)  |
+
+
 ## Sugestões de Melhorias
 
 Foi encontrado duas sugestões de melhoria neste artefato, como é mostrado na tabela 6.
@@ -107,7 +116,8 @@ A figura 1 e 2 apresenta um gráfico com o percentual de respostas conforme, nã
 
 **Figura 1** - Percentual das respostas obtidas na verificação checklist geral
 
-<img src="" style="width: 45%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/verificacao-Luis-Altino-Vinicius/docs/assets/Grafico-HeatREQEspecifico.png" style="width: 45%;">
+
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
 
@@ -115,7 +125,8 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 **Figura 2** - Percentual das respostas obtidas na verificação checklist específico
 
-<img src="" style="width: 45%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/verificacao-Luis-Altino-Vinicius/docs/assets/Grafico-SiteAvaliado.png" style="width: 45%;">
+
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
 
@@ -132,16 +143,25 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 </center>
 
-Através dos checklists geral e específico realizados podemos observar que:
+Através do checklists geral realizado podemos observar que:
 
-- 0/8 exigências são atendidas (Conformes);
-- 0/8 exigências estão incompletas;
-- 0/8 exigências estão erradas ou não foram realizadas (Não conformes).
-- 0/8 não se aplica.
+- 5/5 exigências são atendidas (Conformes);
+- 0/5 exigências estão incompletas;
+- 0/5 exigências estão erradas ou não foram realizadas (Não conformes).
+- 0/5 não se aplica.
 
-Onde 8 é a quantidade de itens avaliados na verificação.
+Onde 5 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em XX,XX%.
+E através do checklist específico realizado podemos observar que:
+
+- 5/7 exigências são atendidas (Conformes);
+- 1/7 exigências estão incompletas;
+- 1/7 exigências estão erradas ou não foram realizadas (Não conformes).
+- 0/7 não se aplica.
+
+Onde 7 é a quantidade de itens avaliados na verificação.
+
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 83,33%.
 
 ## Retrabalho
 
