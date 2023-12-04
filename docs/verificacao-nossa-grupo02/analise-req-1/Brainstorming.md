@@ -138,11 +138,11 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 ## Retrabalho
 
-Como apresentado no [planejamento](), para o retrabalho os autores do artefato [Limirio Guimarães](https://github.com/LimirioGuimaraes) e [Vinicius Mendes](https://github.com/yabamiah) que vão fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 5 a seguir apresenta o cronograma de correções.
+Como apresentado no [planejamento](), para o retrabalho os autores do artefato [Limirio Guimarães](https://github.com/LimirioGuimaraes) e [Vinicius Mendes](https://github.com/yabamiah) que vão fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 7 a seguir apresenta o cronograma de correções.
 
 <center>
 
-**Tabela 5** - Cronograma de Correções
+**Tabela 7** - Cronograma de Correções
 
 | Data de Correção | Descrição                                    |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
