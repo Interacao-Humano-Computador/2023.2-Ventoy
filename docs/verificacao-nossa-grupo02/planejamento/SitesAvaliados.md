@@ -15,19 +15,19 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 
 **Tabela 1** - Checklist Geral não preenchido
 
-| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
-|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |
-| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
-| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |
-| 6  | Se faz presente uma avaliação para cada site selecionado?                                       			                       | -          | -                                                                      |
-| 7  | É apresentado as motivações/critérios para a escolha do site?                                       			                       | -          | -                                                                      |
-| 8  |  Possui o nome de quem fez cada avaliação do respectivo site?                                     			                       | -          | -                                                                      |
-| 9  |  São evidenciados os problemas de cada site selecionado?                                     			                       | -          | -                                                                      |
-| 10  |  É apresentado qual o planejamento de avaliação a ser seguido para cada site selecionado?                                     			                       | -          | -                                                                      |
-| 11  |  Os sites são apresentados de forma clara?                                     			                       | -          | -                                                                      |
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             | Referência           |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|----------------------|
+| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |-                     |
+| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |-                     |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |-                     |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |-                     |
+| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |-                     |
+| 6  | Se faz presente uma avaliação para cada site selecionado?                                       			                       | -          | -                                                   |-                     |
+| 7  | É apresentado as motivações/critérios para a escolha do site?                                       			                       | -          | -                                               |-                     |
+| 8  |  Possui o nome de quem fez cada avaliação do respectivo site?                                     			                       | -          | -                                                 |-                     |
+| 9  |  São evidenciados os problemas de cada site selecionado?                                     			                       | -          | -                                                      |-                     |
+| 10  |  É apresentado qual o planejamento de avaliação a ser seguido para cada site selecionado?                                     			                       | -          | -                    |-                     |
+| 11  |  Os sites são apresentados de forma clara?                                     			                       | -          | -                                                                   |-                     |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
@@ -38,14 +38,14 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 **Tabela 2** - Checklist Específico não preenchido
 
-| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
-|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  | Se faz presente uma avaliação para cada site selecionado?                                       			                       | -          | -                                                                      |
-| 2  | É apresentado as motivações/critérios para a escolha do site?                                       			                       | -          | -                                                                      |
-| 3  |  Possui o nome de quem fez cada avaliação do respectivo site?                                     			                       | -          | -                                                                      |
-| 4  |  São evidenciados os problemas de cada site selecionado?                                     			                       | -          | -                                                                      |
-| 5  |  É apresentado qual o planejamento de avaliação a ser seguido para cada site selecionado?                                     			                       | -          | -                                                                      |
-| 6  |  Os sites são apresentados de forma clara?                                     			                       | -          | -                                                                      |
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             | Referência           |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|----------------------|
+| 1  | Se faz presente uma avaliação para cada site selecionado?                                       			                       | -          | -                                                   |-                     |
+| 2  | É apresentado as motivações/critérios para a escolha do site?                                       			                       | -          | -                                               |-                     |
+| 3  |  Possui o nome de quem fez cada avaliação do respectivo site?                                     			                       | -          | -                                                 |-                     |
+| 4  |  São evidenciados os problemas de cada site selecionado?                                     			                       | -          | -                                                      |-                     |
+| 5  |  É apresentado qual o planejamento de avaliação a ser seguido para cada site selecionado?                                     			                       | -          | -                     |-                     |
+| 6  |  Os sites são apresentados de forma clara?                                     			                       | -          | -                                                                    |-                     |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
@@ -57,19 +57,19 @@ Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do a
 
 **Tabela 3** - Checklist Geral preenchido
 
-| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
-|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------| 
-| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |
-| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
-| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |
-| 6  | Se faz presente uma avaliação para cada site selecionado?                                       			                       | -          | -                                                                      |
-| 7  | É apresentado as motivações/critérios para a escolha do site?                                       			                       | -          | -                                                                      |
-| 8  |  Possui o nome de quem fez cada avaliação do respectivo site?                                     			                       | -          | -                                                                      |
-| 9  |  São evidenciados os problemas de cada site selecionado?                                     			                       | -          | -                                                                      |
-| 10  |  É apresentado qual o planejamento de avaliação a ser seguido para cada site selecionado?                                     			                       | -          | -                                                                      |
-| 11  |  Os sites são apresentados de forma clara?                                     			                       | -          | -                                                                      |
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             | Referência           |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|---------------------| 
+| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |-                     |
+| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |-                     |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |-                     |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |-                     |
+| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |-                     |
+| 6  | Se faz presente uma avaliação para cada site selecionado?                                       			                       | -          | -                                                   |-                     |
+| 7  | É apresentado as motivações/critérios para a escolha do site?                                       			                       | -          | -                                               |-                     |
+| 8  |  Possui o nome de quem fez cada avaliação do respectivo site?                                     			                       | -          | -                                                 |-                     |
+| 9  |  São evidenciados os problemas de cada site selecionado?                                     			                       | -          | -                                                      |-                     |
+| 10  |  É apresentado qual o planejamento de avaliação a ser seguido para cada site selecionado?                                     			                       | -          | -                    |-                     |
+| 11  |  Os sites são apresentados de forma clara?                                     			                       | -          | -                                                                   |-                     |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
@@ -77,14 +77,14 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 **Tabela 4** - Checklist Específico preenchido
 
-| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
-|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  | Se faz presente uma avaliação para cada site selecionado?                                       			                       | -          | -                                                                      |
-| 2  | É apresentado as motivações/critérios para a escolha do site?                                       			                       | -          | -                                                                      |
-| 3  |  Possui o nome de quem fez cada avaliação do respectivo site?                                     			                       | -          | -                                                                      |
-| 4  |  São evidenciados os problemas de cada site selecionado?                                     			                       | -          | -                                                                      |
-| 5  |  É apresentado qual o planejamento de avaliação a ser seguido para cada site selecionado?                                     			                       | -          | -                                                                      |
-| 6  |  Os sites são apresentados de forma clara?                                     			                       | -          | -                                                                      |
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             | Referência           |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|----------------------|
+| 1  | Se faz presente uma avaliação para cada site selecionado?                                       			                       | -          | -                                                   |-                     |
+| 2  | É apresentado as motivações/critérios para a escolha do site?                                       			                       | -          | -                                               |-                     |
+| 3  |  Possui o nome de quem fez cada avaliação do respectivo site?                                     			                       | -          | -                                                 |-                     |
+| 4  |  São evidenciados os problemas de cada site selecionado?                                     			                       | -          | -                                                      |-                     |
+| 5  |  É apresentado qual o planejamento de avaliação a ser seguido para cada site selecionado?                                     			                       | -          | -                     |-                     |
+| 6  |  Os sites são apresentados de forma clara?                                     			                       | -          | -                                                                    |-                     |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
