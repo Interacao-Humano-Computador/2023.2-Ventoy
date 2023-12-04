@@ -106,7 +106,7 @@ Foi encontrado duas sugestões de melhoria neste artefato, como é mostrado na t
 
 ## Acompanhamento
 
-A figura 1 e 2 apresenta um gráfico com o percentual de respostas Sim, Não, Incompleto ou não aplicável, obtidas através da checklist geral e específico de verificação.
+A figura 1 e 2 apresenta um gráfico com o percentual de respostas Sim, Não, Incompleto ou Não aplicável, obtidas através da checklist geral e específico de verificação.
 
 <center>
 
