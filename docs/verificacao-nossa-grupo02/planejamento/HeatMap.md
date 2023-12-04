@@ -15,13 +15,13 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 
 **Tabela 1** - Checklist Geral não preenchido
 
-| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
-|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |
-| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
-| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             | Referência           |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|----------------------|
+| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |-                     |
+| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |-                     |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |-                     |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |-                     |
+| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |-                     |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
@@ -32,12 +32,12 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 **Tabela 2** - Checklist Específico não preenchido
 
-| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
-|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  | Possui o horário escolhido pelo grupo para se reunir?                                    			           | -          | -                                                                      |
-| 2  | Possui uma justificativa do horário e dia escolhido pelo grupo para se reunir?                         | -          | -                                                                      |
-| 3  | O objetivo do texto está explicitado de maneira clara e coesa?                                    		   | -          | -                                                                      |
-| 4  | É explicitado de forma compreensível como foi preenchida a tabela?                                		   | -          | -                                                                      |
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             | Referência           |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|----------------------|
+| 1  | Possui o horário escolhido pelo grupo para se reunir?                                    			           | -          | -                                                                      |-                     |
+| 2  | Possui uma justificativa do horário e dia escolhido pelo grupo para se reunir?                         | -          | -                                                                      |-                     |
+| 3  | O objetivo do texto está explicitado de maneira clara e coesa?                                    		   | -          | -                                                                      |-                     |
+| 4  | É explicitado de forma compreensível como foi preenchida a tabela?                                		   | -          | -                                                                      |-                     |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
@@ -51,13 +51,15 @@ Na tabela 3 e 4 podemos observar o checklist geral e específico preenchido apó
 
 **Tabela 3** - Checklist Geral preenchido
 
-| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
-|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |
-| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
-| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             | Referência           |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|----------------------|
+| 1  | O artefato possui Introdução?                                                                          |  Sim          | -                                                                      | Página: 1. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                    |
+| 2  | O artefato possui a metodologia utilizada?                                                             | Sim          | -                                                                      |Página: 1-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | Sim          | -                                                                      | Página: 1-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                     |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim          | -                                                                      | Página: 1-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                    |
+| 5  | Todos os textos estão na norma padrão?                                       			                       | Sim          | -                                                                      | Página: 1. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP.                      |
+| 6  | Os revisores são pessoas diferentes dos autores?                                                |    Não                                                | -                                  |  Página: 1-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP. |
+
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
@@ -67,12 +69,12 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 **Tabela 4** - Checklist Específico preenchido
 
-| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
-|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  | Possui o horário escolhido pelo grupo para se reunir?                                    			           | -          | -                                                                      |
-| 2  | Possui uma justificativa do horário e dia escolhido pelo grupo para se reunir?                         | -          | -                                                                      |
-| 3  | O objetivo do texto está explicitado de maneira clara e coesa?                                    		   | -          | -                                                                      |
-| 4  | É explicitado de forma compreensível como foi preenchida a tabela?                                		   | -          | -                                                                      |
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                             | Referência           |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|----------------------|
+| 1  | Possui o horário escolhido pelo grupo para se reunir?                                    			           | Sim          | -                                                                      |-                     |
+| 2  | Possui uma justificativa do horário e dia escolhido pelo grupo para se reunir?                         | Sim          | -                                                                      |-                     |
+| 3  | O objetivo do texto está explicitado de maneira clara e coesa?                                    		   | Sim          | -                                                                      |-                     |
+| 4  | É explicitado de forma compreensível como foi preenchida a tabela?                                		   | Sim          | -                                                                      |-                     |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
@@ -80,7 +82,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 ## Verificação Individual
 
-**Tabela 3** - Cronograma de verificação
+**Tabela 5** - Cronograma de verificação
 
 | Participantes | Data | Horário |
 |--------------|-------|---------|
@@ -88,7 +90,17 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 ## Sugestões de Melhorias
 
+Foi encontrado uma sugestão de melhoria neste artefato, como é mostrado na tabela 6.
 
+<center>
+
+**Tabela 6** - Sugestões de melhoria Checklist Geral - Cronograma
+
+| ID | Descrição do problema | Sugestão de melhoria |
+| --- | ---------------------| ---------------------- |
+| 06  |  O autor do documento está como revisor do documento juntamente com os outros integrantes do grupo                   |     Retirar o autor do documento como revisor                   |
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
 </center>
 
@@ -100,7 +112,7 @@ A figura 1 e 2 apresenta um gráfico com o percentual de respostas conforme, nã
 
 **Figura 1** - Percentual das respostas obtidas na verificação checklist geral
 
-
+<img src="" style="width: 45%;">
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
 
@@ -108,7 +120,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 **Figura 2** - Percentual das respostas obtidas na verificação checklist específico
 
-
+<img src="" style="width: 45%;">
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
 
@@ -118,22 +130,31 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equaç
 
 **Figura 3** - Equação de percentual de aproveitamento
 
-
+![Equação](../../assets/equacao.PNG)
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 </center>
 
-Através dos checklists realizados podemos observar que:
+Através do checklist geral realizado podemos observar que:
 
-- 0/8 exigências são atendidas (Conformes);
+- 5/6 exigências são atendidas (Conformes);
 - 0/8 exigências estão incompletas;
-- 0/8 exigências estão erradas ou não foram realizadas (Não conformes).
-- 0/8 não se aplica.
+- 1/6 exigências estão erradas ou não foram realizadas (Não conformes).
+- 0/6 não se aplica.
 
-Onde 8 é a quantidade de itens avaliados na verificação.
+Onde 6 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em XX,XX%.
+E através do checklist específico realizado podemos observar que:
+
+- 4/4 exigências são atendidas (Conformes);
+- 0/4 exigências estão incompletas;
+- 0/4 exigências estão erradas ou não foram realizadas (Não conformes).
+- 0/4 não se aplica.
+
+Onde 4 é a quantidade de itens avaliados na verificação.
+
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 90%.
 
 ## Retrabalho
 
@@ -150,7 +171,6 @@ Como apresentado no [planejamento](), para o retrabalho o autor do artefato [Lim
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 </center>
-
 
 ## Bibliografia
 
