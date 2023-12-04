@@ -153,12 +153,11 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 ## Bibliografia
 
-- Barbosa, S. D. J.; Silva, B. S. (2010). Interação Humano-Computador. 
+> BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.<br>
+> BILHETERIA DIGITAL. Interacao-Humano_computador. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>. Acesso em: 10/11/2023.<br>
 
-## Referências Bibliográficas
-
-## Histórico de Versões
+## 📑 Histórico de Versões
 
 | Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
-|  1.0   | [02/12/2023] | Criação da verificação do ConcurTaskTrees - CTT | [Altino Arthur](https://github.com/arthurrochamoreira) | [Nome dos Revisores]                             |
+|  1.0   | [02/12/2023] | Criação da verificação do ConcurTaskTrees - CTT | [Altino Arthur](https://github.com/arthurrochamoreira) | [Nome dos Revisores]       
