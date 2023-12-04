@@ -77,6 +77,15 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
 
+## Verificação em Dupla
+
+**Tabela 5** - Cronograma de verificação
+
+| Participantes | Data | Horário | Link da Gravação|
+|--------------|-------|---------|-----------------|
+| Luis Miranda | 04/12/2023 | 00:00/00:00| [Link da Gravação]()  |
+
+
 ## Sugestões de Melhorias
 
 
