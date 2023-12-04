@@ -4,7 +4,7 @@
 
 Este documento é uma verificação do artefato [Planejamento da avaliação da análise de tarefas](../../../DAD/nivel1/AnaliseTarefas/planejamento.md) na versão 1.0 de data 29/10/2023, autorado por [Limirio Guimarães](https://github.com/LimirioGuimaraes), [Mayara Alves](https://github.com/Mayara-tech) e [Breno Queiroz](https://github.com/brenob6), que são integrantes do [grupo 02](https://github.com/Mayara-tech), cujo projeto tem como foco o [Site Ventoy](https://www.ventoy.net/en/index.html), o propósito desta verificação é identificar possíveis problemas no artefato.
 
-## Metodologia
+## Metodologia 
 
 A verificação do artefato seguirá o [planejamento](../../verificacao/planejamendoDaVerificacao.md) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em específico. Podemos observar o referido checklist referente a verificação do Cronograma na Tabela 1, as perguntas foram tiradas da verificação do [planejamento da avaliação da análise de tarefas](../../../verificacao/DAD/nivel01/analiseDeTarefas/planejamento_avalicao_analise_de_tarefas.md) feita pelo grupo.
 
@@ -82,6 +82,20 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 | -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------- | ------------- |
 | [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 17:00/17:30 | [Verificação individual](https://youtu.be/hrXHrD7gICk)       | 00:10:40 |
 Fonte: [Milena Baruc](https://github.com/MilenaBaruc) 
+
+</center>
+
+## Dados gráficos
+
+Segue no gráfico 1, o gráfico onde podemos ver com maior facilidade os erros, acertos e incompletos do artefato.
+
+<center>
+
+**Gráfico 1** - Dados visuais
+
+![Gráfico Especificação Suplementar](../../../assets/graficosMilena/plantarefas.jpg)
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 </center>
 

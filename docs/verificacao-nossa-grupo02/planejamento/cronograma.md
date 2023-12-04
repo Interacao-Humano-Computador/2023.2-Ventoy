@@ -74,6 +74,20 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 </center>
 
+## Dados gráficos
+
+Segue no gráfico 1, o gráfico onde podemos ver com maior facilidade os erros, acertos e incompletos do artefato.
+
+<center>
+
+**Gráfico 1** - Dados visuais
+
+![Gráfico Especificação Suplementar](../../assets/graficosMilena/grafico_cronograma.jpg)
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
+
+</center>
+
 ## Sugestões de Melhorias
 
 Em geral, o artefato está ótimo, só precisa de uma melhoria. Sendo assim, a sugestão de melhoria é:
@@ -92,4 +106,4 @@ Em geral, o artefato está ótimo, só precisa de uma melhoria. Sendo assim, a s
 
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
-| `1.0`  | 02/12/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc)  | [nome](https://github.com/)|
+| `1.0`  | 02/12/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc)  | [nome](https://github.com/)| 

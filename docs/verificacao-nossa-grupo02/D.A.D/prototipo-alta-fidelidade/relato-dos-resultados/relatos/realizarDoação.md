@@ -64,7 +64,21 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 | -------------------------------------------------------------------------------------------- | ---------- | ----- | ------------------- | ------------- |
 | [Milena Baruc](https://github.com/MilenaBaruc)                                               | 02/12/2023 | 17:00/17:30 | [Verificação individual](https://youtu.be/hrXHrD7gICk)       | 00:24:00 |
 
-Fonte: [Milena Baruc](https://github.com/MilenaBaruc) 
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)  
+
+</center>
+
+## Dados gráficos
+
+Segue no gráfico 1, o gráfico onde podemos ver com maior facilidade os erros, acertos e incompletos do artefato.
+
+<center>
+
+**Gráfico 1** - Dados visuais
+
+![Gráfico Especificação Suplementar](../../../../../assets/graficosMilena/doacaoalta.jpg)
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 </center>
 

@@ -78,6 +78,20 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 </center>
 
+## Dados gráficos
+
+Segue no gráfico 1, o gráfico onde podemos ver com maior facilidade os erros, acertos e incompletos do artefato.
+
+<center>
+
+**Gráfico 1** - Dados visuais
+
+![Gráfico Especificação Suplementar](../../../../assets/graficosMilena/testepapel.jpg)
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
+
+</center>
+
 ## Sugestões de Melhorias
 
 Em geral, o artefato está ótimo, só precisa de uma melhoria. Sendo assim, a sugestão de melhoria é:
@@ -88,7 +102,7 @@ Em geral, o artefato está ótimo, só precisa de uma melhoria. Sendo assim, a s
 
 > 1. Ventoy. Interacao-Humano_computador. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Ventoy/>. Acesso em: 02/12/2023.
 
-## Bibliografia
+## Bibliografia 
 
 > BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 
