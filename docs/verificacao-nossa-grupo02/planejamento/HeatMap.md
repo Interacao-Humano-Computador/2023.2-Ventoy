@@ -78,6 +78,14 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 </center>
 
+## Verificação Individual
+
+**Tabela 3** - Cronograma de verificação
+
+| Participantes | Data | Horário |
+|--------------|-------|---------|
+| Luis Miranda | 03/12/2023 | 14:00/14:12|
+
 ## Sugestões de Melhorias
 
 
