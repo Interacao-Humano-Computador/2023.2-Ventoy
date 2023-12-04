@@ -109,7 +109,7 @@ A figura 1 e 2 apresenta um gráfico com o percentual de respostas conforme, nã
 
 **Figura 1** - Percentual das respostas obtidas na verificação checklist geral
 
-<img src="" style="width: 45%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/verificacao-Luis-Altino-Vinicius/docs/assets/Grafico-HeatREQEspecifico.png" style="width: 45%;">
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
@@ -118,7 +118,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 **Figura 2** - Percentual das respostas obtidas na verificação checklist específico
 
-<img src="" style="width: 45%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/verificacao-Luis-Altino-Vinicius/docs/assets/GraficoEspecPrincipios.png" style="width: 45%;">
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
@@ -147,22 +147,22 @@ Onde 5 é a quantidade de itens avaliados na verificação.
 
 E através do checklist específico realizado podemos observar que:
 
-- 5/7 exigências são atendidas (Conformes);
-- 1/7 exigências estão incompletas;
-- 1/7 exigências estão erradas ou não foram realizadas (Não conformes).
-- 0/7 não se aplica.
+- 5/6 exigências são atendidas (Conformes);
+- 1/6 exigências estão incompletas;
+- 0/6 exigências estão erradas ou não foram realizadas (Não conformes).
+- 0/6 não se aplica.
 
-Onde 7 é a quantidade de itens avaliados na verificação.
+Onde 6 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 83,33%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 90,91%.
 
 ## Retrabalho
 
-Como apresentado no [planejamento](), para o retrabalho o autor do artefato [Vinícius Mendes](https://github.com/yabamiah) que vai fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 5 a seguir apresenta o cronograma de correções.
+Como apresentado no [planejamento](), para o retrabalho o autor do artefato [Vinícius Mendes](https://github.com/yabamiah) que vai fazer as correções dos problemas apresentados pela verificação. O responsável por essa verificação fará uma revisão das correções feitas, checando se as correções são suficientes e se foi introduzido novos erros ou não. A tabela 7 a seguir apresenta o cronograma de correções.
 
 <center>
 
-**Tabela 5** - Cronograma de Correções
+**Tabela 7** - Cronograma de Correções
 
 | Data de Correção | Descrição                                    |                Responsável(eis)                |                 Revisor(es)                 |      Status      |
 | :--------------: | :------------------------------------------- | :--------------------------------------------: | :-----------------------------------------: | :--------------: |
