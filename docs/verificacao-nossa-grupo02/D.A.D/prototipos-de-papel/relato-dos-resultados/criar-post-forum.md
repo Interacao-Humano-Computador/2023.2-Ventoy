@@ -41,6 +41,8 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 </center>
 
+[Link para o Vídeo da verificação.](https://youtu.be/s_U3HW-QUFo)
+
 ## Desenvolvimento 
 
 Na tabela 2 podemos observar o checklist preenchido após verificação do artefato. Este checklist, reflete os resultados, observações e considerações resultantes da análise realizada no artefato.
