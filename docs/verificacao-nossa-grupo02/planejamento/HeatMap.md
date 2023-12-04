@@ -61,7 +61,7 @@ Na tabela 3 e 4 podemos observar o checklist geral e específico preenchido apó
 | 6  | Os revisores são pessoas diferentes dos autores?                                                |    Não                                                | -                                  |  Página: 1-3. Heatmap matrix: a multidimensional data visualization technique . Livro: Miguel Mechi and Celmar Guimaraes, HeatMap Matrix, Unicamp-SP. |
 
 
-Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
 </center>
 
@@ -76,7 +76,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 | 3  | O objetivo do texto está explicitado de maneira clara e coesa?                                    		   | Sim          | -                                                                      |-                     |
 | 4  | É explicitado de forma compreensível como foi preenchida a tabela?                                		   | Sim          | -                                                                      |-                     |
 
-Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
 </center>
 
@@ -113,7 +113,7 @@ A figura 1 e 2 apresenta um gráfico com o percentual de respostas conforme, nã
 **Figura 1** - Percentual das respostas obtidas na verificação checklist geral
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/verificacao-Luis-Altino-Vinicius/docs/assets/Grafico-HeatMapREQ.png" style="width: 45%;">
-Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 </center>
 
 <center>
@@ -121,7 +121,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 **Figura 2** - Percentual das respostas obtidas na verificação checklist específico
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/verificacao-Luis-Altino-Vinicius/docs/assets/Grafico-HeatREQEspecifico.png" style="width: 45%;">
-Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 </center>
 
 ### Percentual de aproveitamento 
