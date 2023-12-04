@@ -15,13 +15,13 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 
 **Tabela 1** - Checklist Geral não preenchido
 
-| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
-|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |
-| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
-| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                  | Referência           |
+|----|------------------------------------------------------------------------------------------------------- |------------|-------------------------------------------------------------|----------------------|
+| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
+| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
+| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
@@ -30,14 +30,14 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 **Tabela 2** - Checklist Específico não preenchido
 
-| ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
-|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  | Possui data, horário e local de como ocorreu a sessão?                                       			                       | -          | -                                                                      |
-| 2  | Os usuários se adequam ao perfil pré estabelecido pela equipe?                                       			                       | -          | -                                                                      |
-| 3  | Possui de 8 a 12 usuários finais presentes na sessão de brainstorming?                                       			                       | -          | -                                                                      |
-| 4  | É dialogado com os participantes sobre como funciona e quais os objetivos durante a sessão?                                       			                       | -          | -                                                                      |
-| 5  | A sessão possui um moderador e um secretário?                                       			                       | -          | -                                                                      |
-| 6  | É explicitado de forma clara a função do moderador e do secretário?                                       			                       | -          | -                                                                      |
+| ID | Descrição                                                                                              | Avaliação  | Observação                                                    | Referência           |
+|----|------------------------------------------------------------------------------------------------------- |------------|---------------------------------------------------------------|----------------------|
+| 1  | Possui data, horário e local de como ocorreu a sessão?                                       			                       | -          | -                                                                      |                                  |
+| 2  | Os usuários se adequam ao perfil pré estabelecido pela equipe?                                       			                       | -          | -                                                                      |                           |
+| 3  | Possui de 8 a 12 usuários finais presentes na sessão de brainstorming?                                       			                       | -          | -                                                                      |                       |
+| 4  | É dialogado com os participantes sobre como funciona e quais os objetivos durante a sessão?                                       			                       | -          | -                                                                      |                  |
+| 5  | A sessão possui um moderador e um secretário?                                       			                       | -          | -                                          |     |
+| 6  | É explicitado de forma clara a função do moderador e do secretário?                                       			                       | -          | -                                                                      |              |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
