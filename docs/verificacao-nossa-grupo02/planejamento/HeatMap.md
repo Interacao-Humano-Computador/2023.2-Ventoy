@@ -106,7 +106,7 @@ Foi encontrado uma sugestão de melhoria neste artefato, como é mostrado na tab
 
 ## Acompanhamento
 
-A figura 1 e 2 apresenta um gráfico com o percentual de respostas conforme, não conforme, incompleto ou não se aplica, obtidas através da checklist de verificação.
+A figura 1 e 2 apresenta um gráfico com o percentual de respostas Sim, Não, incompleto ou não se aplica, obtidas através da checklist de verificação.
 
 <center>
 
