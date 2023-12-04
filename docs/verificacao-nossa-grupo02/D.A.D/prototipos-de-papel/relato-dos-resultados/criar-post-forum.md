@@ -62,7 +62,7 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 | 9  | O relato apresenta os participantes e suas funções?		                                                              | Conforme   | -                                                                      |
 | 10  | O perfil de usuário do participante selecionado se enquadram no perfil de usuário?					      | Conforme   | -  								    |
 | 11  | Apresenta as sugestões de melhorias?								                              | Não Conforme| -  								    |
-| 12  | Apresenta uma seção para o feedback dos usuários?						                              | Não Conforme| -  								    |
+| 12  | Apresenta uma seção para o feedback dos usuários?						                              | Conforme| -  								    |
 | 13  | Aborda como foi realizada a análise da interação do usuário com o artefato?						      | Incompleto | -  								    |
 | 14  | Define um tópico para sumarizar os principais resultados?								      | Conforme   | -  								    |
 | 15  | O resultado relembra quais foram os motivos para a realização do estudo?						      | Conforme| -  								    |
@@ -92,7 +92,7 @@ A figura 1 apresenta um gráfico com o percentual de respostas conforme, não co
 
 **Figura 1** - Percentual das respostas obtidas na verificação 
 
-![Gráfico percentual de respostas](../../../assets/verificacao-liro/pizza-introspeccao.png)
+![Gráfico percentual de respostas](../.././.././../assets/verificacao-liro/pizza-forum.png)
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 </center>
@@ -103,7 +103,7 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equaç
 
 **Figura 2** - Equação de percentual de aproveitamento
 
-![Equação](../../assets/equacao.PNG)
+![Equação](../../../../assets/equacao.PNG)
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
@@ -111,12 +111,12 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 Através dos checklists realizados podemos observar que:
 
-- 12/18 exigências são atendidas (Conformes);
+- 13/18 exigências são atendidas (Conformes);
 - 2/18 exigências estão incompletas;
-- 4/18 exigências estão erradas ou não foram realizadas (Não conformes).
+- 3/18 exigências estão erradas ou não foram realizadas (Não conformes).
 - 0/18 não se aplica.
 
-Onde 12 é a quantidade de itens avaliados na verificação.
+Onde 18 é a quantidade de itens avaliados na verificação.
 
 Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 50%.
 
