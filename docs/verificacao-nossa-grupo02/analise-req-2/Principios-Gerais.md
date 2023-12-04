@@ -33,12 +33,14 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 **Tabela 2** - Checklist Específico não preenchido
 
 | ID | Descrição                                                                                              | Avaliação  | Observação                                                             | Referência           |
-|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|----------------------|
-| 1  |                                                                                                        | -          | -                                                                      |                      |
-| 2  |                                                                                                        | -          | -                                                                      |                      |
-| 3  |                                                                                                        | -          | -                                                                      |                      |
-| 4  |                                                                                                        | -          | -                                                                      |                      |
-| 5  |                                        			                                                          | -          | -                                                                      |                      |
+|----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|-------------|
+| 1  | É feita uma análise correta em Expectativas de Uusário para saber se o usuário consegue determinar os relacionamentos entre: intenções e ações possíveis; entre ações e seus efeitos no sistema; entre o estado real do sistema e o que é percebido pela visão, audição ou tato; entre o estado percebido do sistema e as necessidades, intenções e expectativas do usuário?                                                                                                       | -          | -                                                                      | Página: 238, Capítulo 10. Principios e Diretrizes para o Design de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010                                        |
+| 2  | Existe uma descrição sobre cada um dos princípios gerais?                                                                                                        | -          | -                                 | Página: 238, Capítulo 10. Principios e Diretrizes para o Design de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010                                   |
+| 3  | Contém os nove princípios gerais no documento? ( Expectativas dos usuários, Simplicidade nas estruturas das tarefas, Equilíbrio entre controle e liberdade do usuário, Consistência e padronização, Promoção da eficiência do usuário, Antecipação das necessidades do usuário, Visibilidade e reconhecimento, Conteúdo relevante e expressão adequada, Projeto para erros )                                                                                                        | -          | -                                                                      |  Página: 238-248, Capítulo 10. Principios e Diretrizes para o Design de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010                     |
+| 4  | É apresentado algum embasamento teórico sobre os princípios gerais?                                                                                                       | -          | -                                                                      |   Página: 238-248, Capítulo 10. Principios e Diretrizes para o Design de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010                                                            |
+| 5  | É abordado como os princípios gerais serão utilizados dentro do projeto?                                     			                                                          | -          | -                                                                      | Página: 238, Capítulo 10. Principios e Diretrizes para o Design de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010                     |
+| 6  | Os princípios gerais são definidos de forma clara e compreensível?                                    			                                                          | -          | -                                                                      | Página: 238, Capítulo 10. Principios e Diretrizes para o Design de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010                     |
+
 
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
@@ -66,11 +68,13 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 | ID | Descrição                                                                                              | Avaliação  | Observação                                                             |          
 |----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  |                                                                                                        | -          | -                                                                      |                      
-| 2  |                                                                                                        | -          | -                                                                      |                      
-| 3  |                                                                                                        | -          | -                                                                      |                    
-| 4  |                                                                                                        | -          | -                                                                      |                    
-| 5  |                                        			                                                          | -          | -                                                                      |   
+| 1  |  É feita uma análise correta em Expectativas de Usário para saber se o usuário consegue determinar os relacionamentos entre: intenções e ações possíveis; entre ações e seus efeitos no sistema; entre o estado real do sistema e o que é percebido pela visão, audição ou tato; entre o estado percebido do sistema e as necessidades, intenções e expectativas do usuário?                                                                                                       | Sim          | -                                                                      |                      
+| 2  |  Existe uma descrição sobre cada um dos princípios gerais?                                                                                                       | Sim          | -                                                                      |                      
+| 3  |  Contém os nove princípios gerais no documento? ( Expectativas dos usuários, Simplicidade nas estruturas das tarefas, Equilíbrio entre controle e liberdade do usuário, Consistência e padronização, Promoção da eficiência do usuário, Antecipação das necessidades do usuário, Visibilidade e reconhecimento, Conteúdo relevante e expressão adequada, Projeto para erros )                                                                                                      | Sim          | -                                                                      |                    
+| 4  |  É apresentado algum embasamento teórico sobre os princípios gerais?                                                                                                      | Incompleto          | -                                                                      |                    
+| 5  | É abordado como os princípios gerais serão utilizados dentro do projeto?                                        			                                                          | Sim          | -                                                                      |   
+| 6  | Os princípios gerais são definidos de forma clara e compreensível?                                       			                                                          | Sim         | -                                                                      |   
+
 
 ## Verificação Individual
 
@@ -83,7 +87,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 ## Sugestões de Melhorias
 
-Foi encontrado duas sugestões de melhoria neste artefato, como é mostrado na tabela 6.
+Foi encontrado uma sugestão de melhoria neste artefato, como é mostrado na tabela 6.
 
 <center>
 
@@ -91,7 +95,7 @@ Foi encontrado duas sugestões de melhoria neste artefato, como é mostrado na t
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
-| 2   | O artefato não contém a metodologia utilizada                   | Se faz necessário a presença da metodologia para um melhor entendimento de como foi feito o artefato                      |
+| 4   | O artefato apresenta de maneira incompleta a respeito de algum tipo de enbasamento teórico utilizado nos princípios gerais, uma vez que na referência bibliográfica, o link disponibilizado não leva lugar nenhum                    | É importante que seja colocado um embasamento teórico sobre os princípios gerais, como por exemplo Norman  |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
@@ -178,7 +182,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 | Versão |    Data    |       Descrição      | Autor                |   Revisor   |
 | ------ | ---------- | -------------------- | ---------------------| ----------- |
-| `1.0`  | 02/11/2023 | Criação do Documento | [Luis Miranda](https://github.com/LuisMiranda10)| |
+| `1.0`  | 04/11/2023 | Criação do Documento | [Luis Miranda](https://github.com/LuisMiranda10)| |
 
 
 
