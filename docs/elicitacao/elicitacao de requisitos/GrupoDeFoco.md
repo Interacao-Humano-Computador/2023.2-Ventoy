@@ -20,6 +20,8 @@ Nome| Função|
 <span style = "color: blue"> Paulo Tibério </span>     |  Usuário
 <span style = "color: blue"> Rolando Severo </span>       |  Usuário
 
+<p align=""><b>Fonte: </b><a href="https://github.com/LuisMiranda10">Luis Miranda.</a></p>
+
 </center>
 
 ## Perguntas
@@ -40,11 +42,34 @@ Ordem | Pergunta|
 | 8 |  Como você avalia a disposição das perguntas no FAQ? |
 | 9 |  Como você avaliaria o design visual do site, levando em consideração a disposição de informações pela interface? |
 | 10| Que funcionalidades ou informações você acha que estão faltando no site do Ventoy? |
+
+<p align="center"><b>Fonte: </b><a href="https://github.com/LuisMiranda10">Luis Miranda.</a></p>
+
+## Registros de Nota
+
+Abaixo segue os registros de nota feitos com o grupo de foco, conforme segue na tabela 3.
+
+<p align="center"><b>Tabela 03</b> - Registros feitos. </p>
+
+Ordem | Adriana Cristina | Marcus Aurélio | Paulo Tibério | Rolando Severo  |
+|---|-------------|-------------|-------------|-------------|
+| 1 | Site para ter acesso e baixar arquivo para o uso | idem a opinião do Paulo  | Site bem simples, com design gráfico bem abaixo da qualidade no mundo atual, mas efetivo ao que se propõem  |  idem a opinião do Paulo  |
+| 2 | Download do arquivo e FAC | Abas que pode seguir caso ocorram algum tipo de erro quando está realizando as funções disponíveis   | idem a opinião da Adriana   | Download de arquivo e criar uma unidade USB inicializável  |
+| 3 | A parte "How to Use" ( mesmo que ainda tenho muitas informações juntas, o que atrapalha visualmente ) | Fóruns ( mesmo que não explique como estão sendo utilizados )  | Downloads e Documentação   | idem a opinião do Paulo ( entretando pede uma tradução para a página e uma tela com informações mais bem distríbuidas )   |
+| 4 | Disposição de elementos na tela, com uma melhor priorização de informações ( juntamente com usabiliade ) | Idem a opinião do Rolando  | Usabiliade ( tradução e campos de busca )   | Se a página é amigavél e a facilidade de pesquisar algo dentro do site  |  
+| 5 | Bem simples com instruções minimalistas | Não vê tantos problemas  | Idem a opinião da Adriana ( linguagem mais técnica )   | Idem a opinião do Paulo ( entretanto pede novamente uma tradução por conta de muitas informações em chinês etc )  |
+| 6 | Idem a opinião dos outros | Fala novamente sobre a questão de alterar o idioma e mlehor fluxo de informação | Muito simples, sentindo a falta de localizador na página   | Simples, citando a falta de presença de um localizador   |
+| 7 | Por conta de ser da área do TI, acredita que sim  | Guiar em relação a possíveis erros | Idem a opinião dos outros   | Idem a opinião dos outros ( poderia ser mais intuitivo fácil )  |
+| 8 | O fac poderia ter as informações mais bem distribuídas, sendo mais minimalista | Filtragem de informações, com uma tela tendo a presença de informações mais bem distríbuidas  | Idem a opinião da Adriana   | Idem a opinião da Adriana   |
+| 9 | Padronização de cores, com uma melhor disposição ( para melhorar o foco ) | Links que não sabem bem o que é por estarem em outro idioma ( além das cores confusas )  | Muito básico, com cores confusas   | Idem a opinião dos outros  |
+| 10| Idem a opinião do Marcus | Referências de vídeos para um melhor entendimento de como funciona, além de vezes que foi feito download do open source   | Parte de tradução e uma responsividade sobre o site   | Uma melhor identidade visual para o site   |
+
+<p align="center"><b>Fonte: </b><a href="https://github.com/LuisMiranda10">Luis Miranda.</a></p>
  
 ## Requisitos Elicitados 
-Após a realização da reunião de grupo de foco com os usuários, foi possivel eliciar os requsitos apresentados na Tabela 03. Identificamos cada requisito por uma sigla formada por "GPF" + um número, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional, além disso também será representado se já há uma implementação do requisito no aplicativo.
+Após a realização da reunião de grupo de foco com os usuários, foi possivel eliciar os requsitos apresentados na Tabela 04. Identificamos cada requisito por uma sigla formada por "GPF" + um número, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional, além disso também será representado se já há uma implementação do requisito no aplicativo.
 
-<p align="center"><b>Tabela 03</b> - Requisitos elicitados do Grupo de Foco.</p>
+<p align="center"><b>Tabela 04</b> - Requisitos elicitados do Grupo de Foco.</p>
 
 | **Identificador** | **Requisitos** | **Tipo** | **Implementado** |
 |--------------|-------------|-----|-----------------|
@@ -57,7 +82,7 @@ Após a realização da reunião de grupo de foco com os usuários, foi possivel
 |GPF07| Deve possuir caminhos guiados para correção de possíveis erros | RF | Implementado |
 |GPF08| O site deve ter uma interface mais responsiva | RNF | Não Implementado |
 |GPF09| O site deve fornecer a quantidade de vezes que foi feito download desse open source | RF | Não implementado |
-|GPF10| O site deve  possuir uma identidade visual mais identificável | RNF | Não implementado |
+|GPF10| O site deve possuir uma identidade visual mais identificável | RNF | Não implementado |
 
 <p align="center"><b>Fonte: </b><a href="https://github.com/LuisMiranda10">Luis Miranda.</a></p>
 
@@ -70,5 +95,6 @@ Após a realização da reunião de grupo de foco com os usuários, foi possivel
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 15/10/2023 | Criação da página de Grupo de Foco | [Luis Miranda](https://github.com/LuisMiranda10)| [Vinícius Mendes](https://github.com/yabamiah) e [Altino Arthur](https://github.com/arthurrochamoreira)|
-|`2.0`| 25/11/2023 | Melhoria na clareza dos textos | [Altino Arthur](https://github.com/arthurrochamoreira)| |
+|`2.0`| 25/11/2023 | Melhoria na clareza dos textos | [Altino Arthur](https://github.com/arthurrochamoreira)| [Luis Miranda](https://github.com/LuisMiranda10) |
+|`2.1`| 05/12/2023 | Correção da Página de Grupo de Foco | [Luis Miranda](https://github.com/LuisMiranda10) | |
 
