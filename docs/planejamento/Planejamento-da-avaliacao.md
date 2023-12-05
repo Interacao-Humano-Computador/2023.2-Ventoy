@@ -76,6 +76,8 @@ Ao final de todos os avaliadores terem analisados os dados, é gerado um relató
 
 E ao finalizar a apresentação do relatório a população de usuários, os dados serão apresentados a equipe de desenvolvimento do site.
 
+# Histórico de versões
+
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-----:       | :------       | -------    | -------            |
-| 1.0   |23/09/2023 |   Criação da página do planejamento da avaliação   |  [Vinícius Mendes](https://github.com/yabamiah) e [Milena Baruc](https://github.com/MilenaBaruc)| [Limirio Correia](https://github.com/LimirioGuimaraes) |
+| 1.0   |23/09/2023 |   Criação da página do planejamento da avaliação   |  [Vinícius Mendes](https://github.com/yabamiah) e [Milena Baruc](https://github.com/MilenaBaruc)| [Limirio Guimarães](https://github.com/LimirioGuimaraes) |
