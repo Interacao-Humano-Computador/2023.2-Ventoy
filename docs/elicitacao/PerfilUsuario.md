@@ -112,18 +112,20 @@ Fonte: [Mayara Alves](https://github.com/Mayara-tech)
 
 ## Definição do Perfil de Usuário
 A análise das respostas sugere o seguinte perfil para o usuário do aplicativo:
-- **Gênero:** Predominantemente masculino.
-- **Idade:** Entre 25 e 34 anos.
-- **Experiência:** Elevada com dispositivos tecnológicos.
-- **Atitudes:** Inclinados à tecnologia.
-- **Tarefas primárias:** Criação de pen-drives bootáveis.
+
+- **Gênero:** Predominantemente masculino.<br>
+- **Idade:** Entre 25 e 34 anos.<br>
+- **Experiência:** Elevada com dispositivos tecnológicos.<br>
+- **Atitudes:** Inclinados à tecnologia.<br>
+- **Tarefas primárias:** Criação de pen-drives bootáveis.<br>
 
 ## Referências
-- BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.
-- HENRIQUE, Matheus; FERREIRA, Rafael. *Perfil do Usuário*. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 1/2023. Disponível em: [Perfil de Usuário](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/). Acesso em: 29 de setembro de 2023.
+> BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.
+> 
+> HENRIQUE, Matheus; FERREIRA, Rafael. *Perfil do Usuário*. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 1/2023. Disponível em: [Perfil de Usuário](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/). Acesso em: 29 de setembro de 2023.
 
 ## Histórico de Versões
 | Versão |    Data    | Descrição                         | Autor(es)                                           | Revisor(es)                                             |
 |--------|------------|-----------------------------------|-----------------------------------------------------|---------------------------------------------------------|
 | `1.0`  | 14/10/2023 | Criação do documento de perfil de usuário. | [Mayara Alves](https://github.com/Mayara-tech) | [Limirio Correia](https://github.com/LimirioGuimaraes), [Altino Arthur](https://github.com/arthurrochamoreira) |
-| `2.0`  | 25/11/2023 | Melhoria na concisão do texto. | [Altino Arthur](https://github.com/arthurrochamoreira) |
+| `2.0`  | 25/11/2023 | Melhoria na concisão do texto. | [Altino Arthur](https://github.com/arthurrochamoreira) | [Mayara Alves](https://github.com/Mayara-tech) 
