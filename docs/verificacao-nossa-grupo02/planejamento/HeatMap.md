@@ -80,7 +80,7 @@ Na tabela 3 e 4 podemos observar o checklist geral e específico preenchido apó
 
 </center>
 
-## Verificação Individual
+## Inspeção Individual
 
 **Tabela 5** - Cronograma de verificação
 
