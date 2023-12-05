@@ -138,16 +138,26 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 </center>
 
-Através dos checklists realizados podemos observar que:
+Através dos checklist geral realizado podemos observar que:
 
-- 0/8 exigências são atendidas (Conformes);
-- 0/8 exigências estão incompletas;
-- 0/8 exigências estão erradas ou não foram realizadas (Não conformes).
-- 0/8 não se aplica.
+- 5/5 exigências são atendidas (Conformes);
+- 0/5 exigências estão incompletas;
+- 0/5 exigências estão erradas ou não foram realizadas (Não conformes).
+- 0/5 não se aplica.
 
-Onde 8 é a quantidade de itens avaliados na verificação.
+Onde 5 é a quantidade de itens avaliados na verificação.
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em XX,XX%.
+Através dos checklist específico realizado podemos observar que:
+
+- 4/6 exigências são atendidas (Conformes);
+- 2/6 exigências estão incompletas;
+- 0/6 exigências estão erradas ou não foram realizadas (Não conformes).
+- 0/6 não se aplica.
+
+Onde 6 é a quantidade de itens avaliados na verificação.
+
+
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 90,21%.
 
 ## Retrabalho
 
