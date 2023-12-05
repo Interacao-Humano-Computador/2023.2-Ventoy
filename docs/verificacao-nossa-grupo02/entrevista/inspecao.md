@@ -22,7 +22,7 @@ riquesa de detalhes e junto com suas respectivas fontes.
 | 2 | O artefato possui uma Bibliografia/Referência Bibliográfica?| -        | - |
 | 3 | O artefato possui um Histórico de Versões com o id e descrição das versões, data, autores e revisores? | -        | - |
 | 4 | Os revisores são pessoas diferentes dos autores?| -| - 
-| 5 | O texto apresenta metodologia utilizadas para a criação das personas? |
+| 5 | O texto apresenta metodologia utilizada na entrevista? |
 
 Fonte: [Breno Queiroz]()
 

@@ -63,7 +63,7 @@ Fonte: BARBOSA; SILVA, p. 145 - 146
 
 citação 3
 
-![citação 3](assets/verificacao/entrevista3.png)
+![citação 3](/assets/verificacao/entrevista3.png)
 
 Fonte: BARBOSA; SILVA, p. 145
 
