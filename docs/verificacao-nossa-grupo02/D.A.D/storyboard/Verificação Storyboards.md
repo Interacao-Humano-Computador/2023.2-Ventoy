@@ -82,14 +82,14 @@ Logo abaixo, será apresentado as **Figuras 1 e 2**, que irão representar o por
 
 **Figura 1** - Gráfico de setores do porcentual de aproveitamento do checklist geral
 
-![Untitled design 1.png](../../assets/Untitleddesign1.png)
+![Untitled design 1.png](../../../assets/Untitleddesign1.png)
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 ### Porcentual de aproveitamento do Checklist específico
 
 **Figura 2** - Gráfico de setores do porcentual de aproveitamento do checklist específico
 
-![Untitled design 1.png](../../assets/Untitleddesign1.png)
+![Untitled design 1.png](../../../assets/Untitleddesign1.png)
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
