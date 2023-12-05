@@ -16,6 +16,8 @@ Iniciamos a coleta de dados com cada integrante do grupo indicando sua disponibi
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 <center/>
+
+  
 ### Resultado
 
 Analisando o heatmap detalhado na **Figura 1**, iniciamos uma discussão colaborativa para determinar o horário de reunião ideal. A deliberação foi conduzida com atenção às preferências e necessidades de cada membro. O consenso alcançado foi marcar nossas reuniões para **quintas-feiras às 21 horas**, esperando-se que durem até uma hora e meia. Esta decisão, estrategicamente alinhada com o heatmap, reflete nosso compromisso em otimizar o tempo e os recursos do grupo, visando a eficácia e a eficiência em nossas atividades. A Tabela 1 ilustra a convergência de disponibilidades que nos guiou a esta escolha.
