@@ -81,6 +81,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Sugestões de Melhorias
 De acorda com a inspeção feita, foi possível encontrar algumas possíveis melhorias para o artefato em questão, as melhorias serão descritas logo abaixo junto ao ID da verificação:
+
 - **ID04**: Só acrescentar que por não ter encontrado problemas com o usuário, não significa que o protótipo de papel está na sua melhor forma.
 - **ID05**: Acrescentar o local onde ocorreu a avaliação.
 
