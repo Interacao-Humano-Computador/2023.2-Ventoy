@@ -22,13 +22,13 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
   
 ### Resultado
 
-Analisando o heatmap detalhado na **Figura 1**, iniciamos uma discussão colaborativa para determinar o horário de reunião ideal. A deliberação foi conduzida com atenção às preferências e necessidades de cada membro. O consenso alcançado foi marcar nossas reuniões para **quintas-feiras às 21 horas**, esperando-se que durem até uma hora e meia. Esta decisão, estrategicamente alinhada com o heatmap, reflete nosso compromisso em otimizar o tempo e os recursos do grupo, visando a eficácia e a eficiência em nossas atividades. A Tabela 1 ilustra a convergência de disponibilidades que nos guiou a esta escolha.
+Analisando o heatmap detalhado na **Figura 1**, iniciamos uma discussão colaborativa para determinar o horário de reunião ideal. A deliberação foi conduzida com atenção às preferências e necessidades de cada membro. O consenso alcançado foi marcar nossas reuniões para **quintas-feiras às 21 horas**, esperando-se que durem até uma hora e meia. Esta decisão, estrategicamente alinhada com o heatmap, reflete nosso compromisso em otimizar o tempo e os recursos do grupo, visando a eficácia e a eficiência em nossas atividades. 
 
 
 ## Bibliografia 
 > ROCHA, Miguel Mechi Naves et al. Heatmap matrix interativa: uso de recursos de interação para melhorar uma técnica de visualização de dados multidimensionais. 2021. Tese de Doutorado. Dissertação (Mestrado em Tecnologia). Faculdade de Tecnologia, Universidade Estadual de Campinas, Limeira. Acesso em: 24/09/2023
 
-## 📑 Histórico de versões 
+## Histórico de versões 
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
