@@ -56,11 +56,11 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 | ID | Descrição                                                                                              | Avaliação (Sim, Não, Incompleto)  | Observação                                                             |
 |----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |
-| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
-| 5  | Todos os textos estão na norma padrão?                                       			                    | -          | -                                                                      |
+| 1  | O artefato possui Introdução?                                                                          | Sim          | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                             | Não          | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | Sim          | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim          | -                                                                      |
+| 5  | Todos os textos estão na norma padrão?                                       			                    | Sim          | -                                                                      |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -74,12 +74,12 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 | ID  | Descrição                                                                                      | Avaliação (Sim, Não, Incompleto)  | Observações               |
 | :-: | ---------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------- |
-|  1  | O artefato analisa a situação atual do design?                                                |                                   |                           |
-|  2  | Existe síntese de uma intervenção no design?                                                   |                                   |                           |
-|  3  | Há avaliação da nova situação pós-intervenção?                                                 |                                   |                           |
-|  4  | O processo de design reflete alguma das perspectivas de design (racionalismo técnico, reflexão em ação)? |                                   |                           |
-|  5  | Existe uma "conversa com materiais" durante o design, estimulando a reflexão em ação?          |                                   |                           |
-|  6  | O artefato segue algum modelo de ciclo de vida de design de IHC?                               |                                   |                           |
+|  1  | O artefato analisa a situação atual do design?                                                 |   Sim                             |                           |
+|  2  | Existe síntese de uma intervenção no design?                                                   |   Sim                             |                           |
+|  3  | Há avaliação da nova situação pós-intervenção?                                                 |  Incompleto                       |                           |
+|  4  | O processo de design reflete alguma das perspectivas de design (racionalismo técnico, reflexão em ação)? |   Sim                   |                           |
+|  5  | Existe uma "conversa com materiais" durante o design, estimulando a reflexão em ação?          |     Sim                           |                           |
+|  6  | O artefato segue algum modelo de ciclo de vida de design de IHC?                               |  Sim                              |                           |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -100,6 +100,8 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 ## Sugestões de Melhorias
 
+- Adicionar a metodologia
+- Adicionar os testes de usabilidade
 
 </center>
 
