@@ -126,7 +126,7 @@ Na tabela 4 é possível verificar os principais resultados da entrevista realiz
 O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
 na tabela 5. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 5. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/vJ6OgmxM6bo).
 
-O Storyboard em questão pode ser visto aqui [aqui](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-1). É o storyboard de número 4.
+O Storyboard em questão pode ser visto aqui [aqui](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-4). É o storyboard de número 4.
 
 <center>
 
@@ -244,7 +244,7 @@ Na tabela 8 é possível verificar os principais resultados da entrevista realiz
 O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
 na tabela 9. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 10. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/xTHNB-6jFOU).
 
-O Storyboard em questão pode ser visto aqui [aqui](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-1). É o storyboard de número 6
+O Storyboard em questão pode ser visto aqui [aqui](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-6). É o storyboard de número 6
 
 <center>
  
@@ -371,5 +371,5 @@ Na tabela 12 é possível verificar os principais resultados da entrevista reali
 | `1.4`  | 08/11/2023 | Adicionado resultados Utilizando o FAQ | [Mayara Alves](https://github.com/Mayara-tech) | [Vinícius Mendes](https://github.com/yabamiah) |
 | `1.5`  | 08/11/2023 | Adicionado resultados documentação e donwload | [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)   |
 | `1.6`  | 08/11/2023 | Adicionado resultados utilizando fórum | [Breno Queiroz](https://github.com/brenob6)| [Vinícius Mendes](https://github.com/yabamiah)   |
-
+| `1.7`  | 08/11/2023 | Correção da página de Relato dos Resultados | [Luis Eduardo](https://github.com/LuisMiranda10) |  |
 
