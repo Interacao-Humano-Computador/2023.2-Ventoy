@@ -47,12 +47,12 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       |
 |----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|
-| 1  | O histórico de versão é padronizado?                                           |            |            |            
-| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                          |            |            |  
-| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                |            |            |   
-| 4  | Todos os textos estão na norma padrão?                                         |            |            |   
-| 5  | Há introdução do artefato?                                                     |            |            | 
-| 6  | Há metodologia de como foi conduzido o artefato?                               |            |            |
+| 1  | O histórico de versão é padronizado?                                           |     Sim      |            |            
+| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                          |     Sim      |            |  
+| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                |     Sim      |            |   
+| 4  | Todos os textos estão na norma padrão?                                         |     Sim      |            |   
+| 5  | Há introdução do artefato?                                                     |     Sim      |            | 
+| 6  | Há metodologia de como foi conduzido o artefato?                               |     Sim      |            |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
@@ -60,26 +60,32 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | ID | Critério de avaliação | Avaliação (Sim/Não/Não aplicável) | Observações |
 |---|----------------------|------------------------------------|---------------|
-|01| A consolidação dos dados do relato dos resultados, utilizou a análise de intersujeito? | | |
-|02| No relato do resultado foi descrito os objetivos que motivaram a avaliação? | | |
-|03| Os problemas encontrados, foram descritos como tendências de problemas? | | | 
-|04| Se caso não houver problemas encontrados, foi descrito que não pode ser afirmado que o sistema tenha alta qualidade? | | | 
-|05| No relato do resultado, foi descrito como a avaliação foi realizada? (Como ocorreu o método de avaliação utilizado) | | | 
-|06| No relato do resultado, foi descrito o número e perfil de usuários e avaliadores que participaram da avaliação? | | | 
-|07| No relato do resultado, foi apresentado uma organização dedados coletados? (Como tabelas, gráficos e sumário) | | | 
-|08| No relato do resultado, foi apresentado uma interpretação e análise dos dados? | | |Página: 312, Capítulo 9. Planejamento da Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 |
-|09| No relato do resultado, foi apresentado uma lista dos problemas encontrados? | | | 
-|10| No relato do resultado, foi apresentado um planejamento desugestões de melhorias para o projeto? | | | 
+|01| A consolidação dos dados do relato dos resultados, utilizou a análise de intersujeito? | Não | |
+|02| No relato do resultado foi descrito os objetivos que motivaram a avaliação? | Não | |
+|03| Os problemas encontrados, foram descritos como tendências de problemas? | Não | | 
+|04| Se caso não houver problemas encontrados, foi descrito que não pode ser afirmado que o sistema tenha alta qualidade? | Não aplicável | | 
+|05| No relato do resultado, foi descrito como a avaliação foi realizada? (Como ocorreu o método de avaliação utilizado) | Sim | | 
+|06| No relato do resultado, foi descrito o número e perfil de usuários e avaliadores que participaram da avaliação? | Sim | | 
+|07| No relato do resultado, foi apresentado uma organização dedados coletados? (Como tabelas, gráficos e sumário) | Não | | 
+|08| No relato do resultado, foi apresentado uma interpretação e análise dos dados? | Sim | |
+|09| No relato do resultado, foi apresentado uma lista dos problemas encontrados? | Sim | | 
+|10| No relato do resultado, foi apresentado um planejamento de sugestões de melhorias para o projeto? | Sim | | 
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 **Tabela 3** - Cronograma de verificação
 
-| Participantes | Data | Horário | Link da gravação | Minutagem aonde começa |
-|--------------|-------|---------|-------------------|---------|
-
+| Participantes | Data | Horário |
+|--------------|-------|---------|
+| Vinícius Mendes| 04/12/2023 | 22:00/22:10| 
 
 ## Sugestões de Melhorias
+De acorda com a inspeção feita, foi possível encontrar algumas possíveis melhorias para o artefato em questão, as melhorias serão descritas logo abaixo junto ao ID da verificação: 
+
+- **ID01**: Utilizar a análise intersujeito, deixando claro a consolidação de dados análisados pelo entrevistador e pelo participante
+- **ID02**: Descrever os objetivos definidos no planejamento da avaliação
+- **ID03**: Escrever tendências de problemas a partir dos problemas encontrados
+- **ID07**: Representar os dados coletados em alguma forma de organização, como tabel
 
 
 ## Referência Bibliográfica
@@ -92,4 +98,4 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | Versão | Data | Descrição | Autor | Revisor |
 |-------|-------|------------|-------|--------|
-|`1.0`| 03/12/2023| Criação do documento | [Vinícius Mendes](https://github.com/yabamiah)| |
+|`1.0`| 03/12/2023| Criação do documento | [Vinícius Mendes](https://github.com/yabamiah)| [Luis Miranda](https://github.com/LuisMiranda10)|
