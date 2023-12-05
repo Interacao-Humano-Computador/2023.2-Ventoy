@@ -144,9 +144,9 @@ nav:
           - Ferramentas: verificacao-nossa-grupo02/ventoy.md
           - Metodologia: verificacao-nossa-grupo02/ventoy.md
           - Políticas: verificacao-nossa-grupo02/ventoy.md
-          - Heatmap: verificacao-nossa-grupo02/ventoy.md
+          - Heatmap: verificacao-nossa-grupo02/planejamento/HeatMap.md
           - Processo design: verificacao-nossa-grupo02/ventoy.md
-          - Sites avaliados: verificacao-nossa-grupo02/ventoy.md
+          - Sites avaliados: verificacao-nossa-grupo02/planejamento/SitesAvaliados.md
           - Site escolhido: verificacao-nossa-grupo02/ventoy.md
         - Análise de Requisitos I:
           - Aspectos Éticos: verificacao-nossa-grupo02/ventoy.md
@@ -158,14 +158,14 @@ nav:
             - Inspeção: verificacao-nossa-grupo02/entrevista/inspecao.md
         - Elicitação:
           - Entrevista: verificacao-nossa-grupo02/ventoy.md
-          - Brainstorming: verificacao-nossa-grupo02/ventoy.md
+          - Brainstorming: verificacao-nossa-grupo02/analise-req-1/Brainstorming.md
           - Introspecção: verificacao-nossa-grupo02/ventoy.md
           - Grupo de foco: verificacao-nossa-grupo02/ventoy.md
         - Análise de Tarefas: 
           - Análise Hierárquica de Tarefas - HTA: verificacao-nossa-grupo02/ventoy.md
           - ConcurTaskTrees - CTT: verificacao-nossa-grupo02/analise-req-1/verificacao-CTT.md
         - Análise de requisitos II: 
-          - Princípios Gerais: verificacao-nossa-grupo02/ventoy.md
+          - Princípios Gerais: verificacao-nossa-grupo02/analise-req-2/Principios-Gerais.md
           - Características Gerais: verificacao-nossa-grupo02/ventoy.md
           - Metas de Usabilidade: verificacao-nossa-grupo02/ventoy.md
           - Guia de Estilo: verificacao-nossa-grupo02/ventoy.md
