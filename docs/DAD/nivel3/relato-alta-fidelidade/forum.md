@@ -101,16 +101,63 @@ com por exemplo: bug, notícias, dúvida, etc.
 - O entrevistado solicitou que fosse adicionado na listagem das postagens, um mecanismo de ordenação por
 número de visualizações e data de postagem.
 
-## Conclusão
+## Conclusão da Entrevista
 
 A interface está intuitiva mas existe muitas funcionalidades que estão faltando e que podem agregar na
 usabilidade do site.
+
+## Correções
+
+Após a entrevista o protótipo foi corrigido para seguir as sugestões do entrevistado. Foi adicionado uma barra de pesquisa na listagem do fórum
+e também sistemas de ordenação na tabela. Também foi adicionado na crianção da postagem um camo de Tag.
+
+<center>
+
+**Figura 1**: Lista de postagem inicial
+
+![](/assets/prototipos/forumListOld.png)
+
+Fonte: [Breno Queiroz](https://github.com/brenob6)
+
+**Figura 2**: Criação de postagem inicial
+
+![](/assets/prototipos/forumPostOld.png)
+
+Fonte: [Breno Queiroz](https://github.com/brenob6)
+
+**Figura 3**: Lista de postagem após correções
+
+![](/assets/prototipos/forumListNew.png)
+
+Fonte: [Breno Queiroz](https://github.com/brenob6)
+
+**Figura 4**: Criação de postagem após correções
+
+![](/assets/prototipos/forumPostNew.png)
+
+Fonte: [Breno Queiroz](https://github.com/brenob6)
+
+</center>
+
+
+## Protótipo de Alta Fidelidade
+
+<center>
+
+[Link para o protótipo]("https://www.figma.com/proto/PqQJ5MzOl87LzabB34JnxS/IHC?type=design&node-id=180-640&t=2w09SzLGxGqMVvoI-0&scaling=min-zoom&page-id=76%3A205&starting-point-node-id=180%3A640")
+
+<iframe width="1000vw" height="400vh" src="https://www.figma.com/proto/PqQJ5MzOl87LzabB34JnxS/IHC?type=design&node-id=180-640&t=2w09SzLGxGqMVvoI-0&scaling=min-zoom&page-id=76%3A205&starting-point-node-id=180%3A640" allowfullscreen></iframe>
+
+</center>
+
 
 ## Referências Bibliográficas
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
 ## 📑 Histórico de Versões
+
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
-|--------|---------|-----------|--------|---------|
+|-----|------------|-----------|--------|---------|
 |`1.0`| 29/11/2023 | Criação do documento | [Breno Queiroz](https://github.com/brenob6) | [](https://github.com/)|
+|`1.1`| 04/12/2023 | Adicionando melhorias propostas pelo entrevistado | [Breno Queiroz](https://github.com/brenob6)
