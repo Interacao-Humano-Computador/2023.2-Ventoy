@@ -5,18 +5,83 @@
 O objetivo deste documento é apresentar os resultados da avaliação dos [storyboards](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/), que foram criados para ilustrar as propostas de soluções para tarefas que devem ser executadas no sistema. As entrevistas com os potenciais usuários foram realizadas seguindo o 
 [planejamento da avaliação storyboard](./planejamentoStoryboard.md), que contém as informações sobre os participantes, os critérios de avaliação e o roteiro de perguntas e respostas.
 
+## Relato dos resultados Storyboard 1 : Começar o uso do Ventoy
+
+### Método de avaliação
+
+O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
+na tabela 1. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 1. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/9t2AY5-XPFU).
+
+O Storyboard em questão pode ser visto aqui [Storyboard 1](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-1).
+
+<center>
+ 
+**Tabela 1** - Cronograma da Avaliação 1.
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Breno Queiroz](https://github.com/brenob6) | Samuel Gomes|20:40  |     15:44      | 08/11/2023 | Discord |
+
+**Fonte** - [Breno Queiroz](https://github.com/brenob6)
+</center>
+
+### Seleção de participante
+
+O participante Samuel Gomes, que é estudante de Engenharia de Software. É um usuário do Ventoy e utiliza
+o site com certa frequência, e possui experiência com o site.
+
+### Sugestões de melhoria
+
+O usuário sugeriu apenas que o storyboard estivesse com um qualidade gráfica melhor.
+
+### Feedback do usuário
+
+O usuário gostou do storyboard apresentado.
+
+### Análise e interpretação dos resultados
+
+De acordo com a entrevista realizada o storyboard utilizando o storyboard está de acordo com
+a realidade.
+
+### Sumário dos principais resultados
+Na tabela 2 é possível verificar os principais resultados da entrevista realizada
+<center>
+ 
+**Tabela 2** - Perguntas feitas e Respostas fornecidas.
+
+| Perguntas | Respostas |
+| --------- | --------- |
+|1 - A história retratada no Storyboard está alinhada com o título?? | Sim |
+|2 – O Storyboard em análise reflete de forma precisa a realidade? | Sim |
+|3 – O Storyboard aborda adequadamente os principais aspectos da realização da tarefa em questão? | Sim |
+|4 – As ações descritas no Storyboard seguem uma sequência lógica e fluida? | Sim |
+|5 – O Storyboard apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim |
+
+**Fonte** -[Breno Queiroz](https://github.com/brenob6)
+
+<p style="text-align: center"><a href="https://youtu.be/J4DbUkByxeo" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=J4DbUkByxeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+</center>
+
+<p style="text-align: center"><a href="https://youtu.be/4XBtckHRoGg" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/4XBtckHRoGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+
 ## Relato dos resultados Storyboard 2: Utilizando o FAQ 
 
 ### Método de avaliação
 
 O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela 1. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 2. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/9t2AY5-XPFU).
+na tabela 3. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 3. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/9t2AY5-XPFU).
 
 O Storyboard em questão pode ser visto aqui [Storyboard 2](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-2).
 
 <center>
 
-**Tabela 1** - Cronograma da Avaliação 1.
+**Tabela 3** - Cronograma da Avaliação 1.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -36,7 +101,7 @@ Durante a avaliação o usuário não relatou problemas.
 
 ### Sugestões de melhoria
 
-O usuário não deu sugetões de melhoria. 
+O usuário não deu sugestões de melhoria. 
 
 ### Feedback do usuário
 
@@ -48,9 +113,10 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 
 ### Sumário dos principais resultados
 
+Na tabela 4 é possível verificar os principais resultados da entrevista realizada
 <center>
 
-**Tabela 2** - Respostas 1.
+**Tabela 4** - Perguntas feitas e Respostas fornecidas
 
 | Perguntas | Respostas |
 | --------- | --------- |
@@ -69,13 +135,13 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 ### Método de avaliação
 
 O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela 3. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 4. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/vJ6OgmxM6bo).
+na tabela 5. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 5. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/vJ6OgmxM6bo).
 
 O Storyboard em questão pode ser visto aqui [aqui](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-1). É o storyboard de número 4.
 
 <center>
 
-**Tabela 3** - Cronograma da Avaliação 1.
+**Tabela 5** - Cronograma da Avaliação 1.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -106,10 +172,10 @@ O usuário verificou que o storyboard está bem feito, sendo bem trabalhado e ap
 Com base na entrevista realizada e na observação dos usuários, podemos concluir que o fluxo do storyboard para fazer uma doação no site do ventoy está alinhada com a realidade e corresponde às necessidades dos usuários do Ventoy.
 
 ### Sumário dos principais resultados
-
+Na tabela 6 é possível verificar os principais resultados da entrevista realizada
 <center>
 
-**Tabela 4** - Respostas 1.
+**Tabela 6** - Perguntas feitas e Respostas fornecidas
 
 | Perguntas | Respostas |
 | --------- | --------- |
@@ -128,13 +194,13 @@ Com base na entrevista realizada e na observação dos usuários, podemos conclu
 ### Método de avaliação
 
 O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela 5. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 6. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/puBGGz80lMc).
+na tabela 7. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 7. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/puBGGz80lMc).
 
-O Storyboard em questão pode ser visto aqui [aqui]().
+O Storyboard em questão pode ser visto aqui [aqui](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-5).
 
 <center>
 
-**Tabela 5** - Cronograma da Avaliação 1.
+**Tabela 7** - Cronograma da Avaliação 1.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -165,10 +231,10 @@ O usuário verificou que o storyboard está bem feito, sendo bem trabalhado e ap
 Ao ser feita a entrevista, o entrevistador achou bem explicativo e bem adequado a situação mostrada, sempre seguindo uma sequência lógica e bem formada.
 
 ### Sumário dos principais resultados
-
+Na tabela 8 é possível verificar os principais resultados da entrevista realizada
 <center>
 
-**Tabela 6** - Respostas 1.
+**Tabela 8** - Perguntas feitas e Respostas fornecidas
 
 | Perguntas | Respostas |
 | --------- | --------- |
@@ -182,66 +248,7 @@ Ao ser feita a entrevista, o entrevistador achou bem explicativo e bem adequado 
 
 </center>
 
-## Relato dos resultados Storyboard 7 : Acesso à página de plugin
-
-### Método de avaliação
-
-O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela 7. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 8. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/wkiDJeg2-FQ). Para que pudessemos começar a avaliação foi assinado um [termo de consentimento](TermoDeConsentimentoPlugin.pdf) pelo entrevistado.
-
-O Storyboard em questão pode ser visto aqui [aqui](storyboards.md/#storyboard-7-acesso-à-página-de-plugin).
-
-<center>
-
-**Tabela 7** - Cronograma da Avaliação 1.
-
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
-| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Milena Baruc](https://github.com/MilenaBaruc) | [Wanjo Christopher](https://github.com/wChrstphr) | 14:20 | 14:48 | 08/11/2023 | Teams |
-
-**Fonte** - [Milena Baruc](https://github.com/MilenaBaruc).
-
-</center>
-
-### Seleção de participante
-
-O participante de nome Wanjo Christopher Paraizo Escobar, com 21 anos está fazendo engenharia de software, terceiro semestre, na Universidade de Brasília. Se encaixa no perfil de usuário, pois apesar de nunca ter precisado utilizar o site Ventoy, o estudante já sabe criar pen-drive bootável pela sua experiência dentro da faculdade, sendo assim, uma pessoa relativamente experiente em realizar ações relacionado a tecnologia. 
-
-### Problemas e dificuldades encontradas
-
-Durante a avaliação o usuário não relatou problemas, apenas foi preciso explicar o site.
-
-### Sugestões de melhoria
-
-O usuário não deu sugetões de melhoria.
-
-### Feedback do usuário
-
-O usuário apresentou que o storyboard está ótimo, como podemos ver nas [respostas das questões](./relatoDosResultados.md/#sumário-dos-principais-resultados).
-
-### Análise e interpretação dos resultados
-
-De acordo com a entrevista feita, pode-se perceber que o entrevistado achou agradável o storyboard em questão, apenas indagando que nele não possui um passo a passo de como se deve fazer a tarefa em questão, porém o storyboard realmente não é para ter essa parte. Essa parte fica com a [análise hierarquica de tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md/#acessar-a-página-de-plugin) que foi mostrado posteriormente ao entrevistado. 
-
-### Sumário dos principais resultados
-
-<center>
-
-**Tabela 8** - Respostas 1.
-
-| Perguntas | Respostas |
-| --------- | --------- |
-|1 – A história retratada no Storyboard está alinhada com o título? | Sim |
-|2 – O Storyboard em análise reflete de forma precisa a realidade? | Sim |
-|3 – O Storyboard aborda adequadamente os principais aspectos da realização da tarefa em questão? | Sim |
-|4 – As ações descritas no Storyboard seguem uma sequência lógica e fluida? | Sim |
-|5 – O Storyboard apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim |
-
-**Fonte** - [Milena Baruc](https://github.com/MilenaBaruc).
-
-</center>
-
-## Relato dos resultados Storyboard 8 : Começar o uso do Ventoy
+## Relato dos resultados Storyboard 6 : Começar o uso do Ventoy
 
 ### Método de avaliação
 
@@ -282,10 +289,10 @@ O usuário não concordou em que tal história aconteça na realidade, pois diss
 De acordo com a entrevista feita, o usuário gostou do storyboard e entendeu o propósito, porém não acha que uma das etapas apresentadas no desenho retrate a realidade.
 
 ### Sumário dos principais resultados
-
+Na tabela 10 é possível verificar os principais resultados da entrevista realizada
 <center>
  
-**Tabela 10** - Respostas 1.
+**Tabela 10** - Perguntas feitas e Respostas fornecidas
 
 | Perguntas | Respostas |
 | --------- | --------- |
@@ -303,62 +310,64 @@ De acordo com a entrevista feita, o usuário gostou do storyboard e entendeu o p
 
 </center>
 
-## Relato dos resultados Storyboard 1 : Começar o uso do Ventoy
+## Relato dos resultados Storyboard 7 : Acesso à página de plugin
+
+### Método de avaliação
+
+O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
+na tabela 11. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 11. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/wkiDJeg2-FQ). Para que pudessemos começar a avaliação foi assinado um [termo de consentimento](TermoDeConsentimentoPlugin.pdf) pelo entrevistado.
+
+O Storyboard em questão pode ser visto aqui [aqui](storyboards.md/#storyboard-7-acesso-à-página-de-plugin).
 
 <center>
- 
-**Tabela 9** - Cronograma da Avaliação 2.
+
+**Tabela 11** - Cronograma da Avaliação 1.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Breno Queiroz](https://github.com/brenob6) | Samuel Gomes|20:40  |     15:44      | 08/11/2023 | Discord |
+| [Milena Baruc](https://github.com/MilenaBaruc) | [Wanjo Christopher](https://github.com/wChrstphr) | 14:20 | 14:48 | 08/11/2023 | Teams |
 
-**Fonte** - [Breno Queiroz](https://github.com/brenob6)
+**Fonte** - [Milena Baruc](https://github.com/MilenaBaruc).
+
 </center>
 
 ### Seleção de participante
 
-O participante Samuel Gomes, que é estudante de Engenharia de Software. É um usuário do Ventoy e utiliza
-o site com certa frequência, e possui experiência com o site.
+O participante de nome Wanjo Christopher Paraizo Escobar, com 21 anos está fazendo engenharia de software, terceiro semestre, na Universidade de Brasília. Se encaixa no perfil de usuário, pois apesar de nunca ter precisado utilizar o site Ventoy, o estudante já sabe criar pen-drive bootável pela sua experiência dentro da faculdade, sendo assim, uma pessoa relativamente experiente em realizar ações relacionado a tecnologia. 
+
+### Problemas e dificuldades encontradas
+
+Durante a avaliação o usuário não relatou problemas, apenas foi preciso explicar o site.
 
 ### Sugestões de melhoria
 
-O usuário sugeriu apenas que o storyboard estivesse com um qualidade gráfica melhor.
+O usuário não deu sugetões de melhoria.
 
 ### Feedback do usuário
 
-O usuário gostou do storyboard apresentado.
+O usuário apresentou que o storyboard está ótimo, como podemos ver nas [respostas das questões](./relatoDosResultados.md/#sumário-dos-principais-resultados).
 
 ### Análise e interpretação dos resultados
 
-De acordo com a entrevista realizada o storyboard utilizando o storyboard está de acordo com
-a realidade.
+De acordo com a entrevista feita, pode-se perceber que o entrevistado achou agradável o storyboard em questão, apenas indagando que nele não possui um passo a passo de como se deve fazer a tarefa em questão, porém o storyboard realmente não é para ter essa parte. Essa parte fica com a [análise hierarquica de tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md/#acessar-a-página-de-plugin) que foi mostrado posteriormente ao entrevistado. 
 
 ### Sumário dos principais resultados
-
+Na tabela 12 é possível verificar os principais resultados da entrevista realizada
 <center>
- 
-**Tabela 10** - Respostas.
+
+**Tabela 12** - Perguntas feitas e Respostas fornecidas
 
 | Perguntas | Respostas |
 | --------- | --------- |
-|1 - A história retratada no Storyboard está alinhada com o título?? | Sim |
+|1 – A história retratada no Storyboard está alinhada com o título? | Sim |
 |2 – O Storyboard em análise reflete de forma precisa a realidade? | Sim |
 |3 – O Storyboard aborda adequadamente os principais aspectos da realização da tarefa em questão? | Sim |
 |4 – As ações descritas no Storyboard seguem uma sequência lógica e fluida? | Sim |
 |5 – O Storyboard apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim |
 
-**Fonte** -[Breno Queiroz](https://github.com/brenob6)
-
-<p style="text-align: center"><a href="https://youtu.be/J4DbUkByxeo" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=J4DbUkByxeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+**Fonte** - [Milena Baruc](https://github.com/MilenaBaruc).
 
 </center>
-
-<p style="text-align: center"><a href="https://youtu.be/4XBtckHRoGg" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/4XBtckHRoGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 ## Bibliografia
 
