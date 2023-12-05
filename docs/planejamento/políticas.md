@@ -57,7 +57,7 @@ for aceito, a *issue* automaticamente será fechada.
 > Sobre solicitação de pull, **GitHub Docs**, disponível em:
 <https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests> Acesso em: 29 de setembro 2023<br/>
 
-## Histórico de versão
+## 📑 Histórico de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
