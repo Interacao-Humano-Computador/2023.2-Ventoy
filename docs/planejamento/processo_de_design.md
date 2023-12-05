@@ -129,7 +129,7 @@ o sistema e desenvolver novas funcionalidade em versões futuras.
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
-## 📑 Histório de versão
+## Histórico de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
