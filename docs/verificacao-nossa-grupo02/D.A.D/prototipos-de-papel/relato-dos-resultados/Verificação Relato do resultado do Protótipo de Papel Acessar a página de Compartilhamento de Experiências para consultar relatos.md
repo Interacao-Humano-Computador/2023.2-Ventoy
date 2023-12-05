@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é uma verificação do artefato [Relato do resultado do Protótipo de Papel Acessar a página de Compartilhamento de Experiências para consultar relatos](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoDePapel/RelatoEXP/) na versão 1.7 de data 20/11/2023, autorado por [Mayara Alves](https://github.com/Mayara-tech), que é integrante do [grupo 02](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito), cujo projeto tem como foco o [Relato do resultado do Protótipo de Papel Acessar a página de Compartilhamento de Experiências para consultar relatos](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US), o propósito desta verificação é identificar possíveis problemas no artefato.
+Este documento é uma verificação do artefato [Relato do resultado do Protótipo de Papel Acessar a página de Compartilhamento de Experiências para consultar relatos](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoDePapel/RelatoEXP/) na versão 1.7 de data 20/11/2023, autorado por [Altino Arthur](https://github.com/arthurrochamoreira), que é integrante do [grupo 02](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito), cujo projeto tem como foco o [Relato do resultado do Protótipo de Papel Acessar a página de Compartilhamento de Experiências para consultar relatos](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US), o propósito desta verificação é identificar possíveis problemas no artefato.
 
 ## Metodologia
 
@@ -77,7 +77,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | Participantes | Data | Horário | Link da Gravação |
 |--------------|-------|---------|------------------|
-| Vinícius Mendes | 03/12/2023 | 14:40/14:47| [Link da gravação](https://youtu.be/fIrZ-4p31M0) |
+| Vinícius Mendes, Altino Arthur, Luis Miranda | 03/12/2023 | 14:40/14:47| [Link da gravação](https://youtu.be/fIrZ-4p31M0) |
 
 ## Sugestões de Melhorias
 De acorda com a inspeção feita, foi possível encontrar algumas possíveis melhorias para o artefato em questão, as melhorias serão descritas logo abaixo junto ao ID da verificação:
