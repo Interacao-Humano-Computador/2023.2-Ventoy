@@ -76,6 +76,9 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes) e [Mayara Alves](https://github.com/Mayara-tech)
 
+[Link para o vídeo da verificação.](https://youtu.be/EJMLOj4RB_I)
+
+
 </center>
 
 ## Sugestões de Melhorias
