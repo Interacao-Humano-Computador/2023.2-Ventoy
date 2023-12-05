@@ -84,7 +84,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 | Vinícius Mendes | 03/12/2023 | 14:40/14:47|
 
 ## Sugestões de Melhorias
-
+De acorda com a inspeção feita, foi possível encontrar algumas possíveis melhorias para o artefato em questão, as melhorias serão descritas logo abaixo junto ao ID da verificação:
 
 ## Referência Bibliográfica
 > Carteira Digital de Trânsito. Requisitos de Software. Distrito Federal, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/. Acesso em: 02/12/2023
