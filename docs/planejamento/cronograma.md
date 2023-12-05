@@ -346,7 +346,7 @@ Na Tabela 17, tem-se o cronograma executado para todas as atividades da oitava e
 |Protótipo e Relato dos resultados do Protótipo de Alta Fidelidade - Realizar uma postagem no fórum Ventoy           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 29/11 | Breno      |   29/11   | Luis |
 |Protótipo e Relato dos resultados do Protótipo de Alta Fidelidade - Acessar a página de FAQ para consultar dúvida           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 02/12 | Mayara     |   29/11   | Breno  |
 | Gravação da apresentação      | Início: 26/11<br>Fim: 27/11        |   Início: 29/11<br>Fim: 29/11                         	  | Limírio, Breno, Luís, Milena, Vinícius e Altino             |   29/11   | Limírio, Breno, Luís, Milena, Vinícius e Altino           |
-| Cronograma executado                |   Início: 26/11<br>Fim:27/11                    	        | Início: 05/12 <br>Fim: 05/12 |Mayara          |   23/11   |  Vinícius     |
+| Cronograma executado                |   Início: 26/11<br>Fim:27/11                    	        | Início: 05/12 <br>Fim: 05/12 |Mayara          |  05/12  |  Vinícius     |
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
