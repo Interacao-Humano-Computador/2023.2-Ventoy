@@ -68,10 +68,13 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 | Participantes | Data | Horário | Link da gravação | Minutagem aonde começa |
 |--------------|-------|---------|-------------------|---------|
 | Vinícius Mendes | 04/12/2023| 17:10 |  [Link da gravação](https://youtu.be/STBX5F1leSg)       | 00:00 |
+
 ## Sugestões de Melhorias
 
 De acorda com a inspeção feita, foi possível encontrar algumas possíveis melhorias para o artefato em questão, as melhorias serão descritas logo abaixo junto ao ID da verificação:
+
 - **ID05**: Os desenhos de acordo com a definição do storyboard, são desenhos simples, e feitos como esboços, para ser uma prototipagem rápida e fácil de realizada. Os desenhos dos storyboards devem seguir isto.
+
 ## Referência Bibliográfica
 > Carteira Digital de Trânsito. Requisitos de Software. Distrito Federal, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/. Acesso em: 02/12/2023
 
