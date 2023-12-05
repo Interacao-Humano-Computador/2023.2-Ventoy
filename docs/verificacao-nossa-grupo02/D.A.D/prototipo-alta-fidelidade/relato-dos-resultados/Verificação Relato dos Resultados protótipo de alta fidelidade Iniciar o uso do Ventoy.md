@@ -61,16 +61,16 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | ID | Critério de avaliação | Avaliação (Sim/Não/Não aplicável) | Observações |
 |---|----------------------|------------------------------------|---------------|
-|01| A consolidação dos dados do relato dos resultados, utilizou a análise de intersujeito? | | | 
-|02| No relato do resultado foi descrito os objetivos que motivaram a avaliação? | | | 
-|03| Os problemas encontrados, foram descritos como tendências de problemas? | | | 
-|04| Se caso não houver problemas encontrados, foi descrito que não pode ser afirmado que o sistema tenha alta qualidade? | | | 
-|05| No relato do resultado, foi descrito como a avaliação foi realizada? (Como ocorreu o método de avaliação utilizado) | | | 
-|06| No relato do resultado, foi descrito o número e perfil de usuários e avaliadores que participaram da avaliação? | | | 
-|07| No relato do resultado, foi apresentado uma organização dedados coletados? (Como tabelas, gráficos e sumário) | | | 
-|08| No relato do resultado, foi apresentado uma interpretação e análise dos dados? | | ||
-|09| No relato do resultado, foi apresentado uma lista dos problemas encontrados? | | | 
-|10| No relato do resultado, foi apresentado um planejamento desugestões de melhorias para o projeto? | | | 
+|01| A consolidação dos dados do relato dos resultados, utilizou a análise de intersujeito? | Sim | | 
+|02| No relato do resultado foi descrito os objetivos que motivaram a avaliação? |Sim | | 
+|03| Os problemas encontrados, foram descritos como tendências de problemas? | Não aplicável | | 
+|04| Se caso não houver problemas encontrados, foi descrito que não pode ser afirmado que o sistema tenha alta qualidade? | Não | | 
+|05| No relato do resultado, foi descrito como a avaliação foi realizada? (Como ocorreu o método de avaliação utilizado) | Sim | | 
+|06| No relato do resultado, foi descrito o número e perfil de usuários e avaliadores que participaram da avaliação? | Sim | | 
+|07| No relato do resultado, foi apresentado uma organização dedados coletados? (Como tabelas, gráficos e sumário) | Sim | | 
+|08| No relato do resultado, foi apresentado uma interpretação e análise dos dados? | Sim | ||
+|09| No relato do resultado, foi apresentado uma lista dos problemas encontrados? | Não aplicável | | 
+|10| No relato do resultado, foi apresentado um planejamento desugestões de melhorias para o projeto? | Não aplicável| | 
 
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
@@ -83,7 +83,10 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 | Vinícius Mendes | 03/12/2023 | 15:00/15:10 |
 
 ## Sugestões de Melhorias
+De acorda com a inspeção feita, foi possível encontrar algumas possíveis melhorias para o artefato em questão, as melhorias serão descritas logo abaixo junto ao ID da verificação
 
+- **ID04**: Descrever tendências de problemas a partir dos problemas encontrados.
+- **ID05**: Acrescentar o local onde ocorreu a avaliação
 
 ## Referência Bibliográfica
 > Carteira Digital de Trânsito. Requisitos de Software. Distrito Federal, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/. Acesso em: 02/12/2023
