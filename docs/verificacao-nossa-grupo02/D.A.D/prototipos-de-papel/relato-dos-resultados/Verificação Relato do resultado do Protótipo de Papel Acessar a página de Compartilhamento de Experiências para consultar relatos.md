@@ -47,12 +47,12 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 | ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       |
 |----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|
-| 1  | O histórico de versão é padronizado?                                           |    Sim        |            |            
-| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                          |    Sim        |            |  
-| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                |    Sim        |            |   
-| 4  | Todos os textos estão na norma padrão?                                         |    Sim        |            |   
-| 5  | Há introdução do artefato?                                                     |    Sim        |            | 
-| 6  | Há metodologia de como foi conduzido o artefato?                               |    Não        |            |
+| 1  | O histórico de versão é padronizado?                                           |            |            |            
+| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                          |            |            |  
+| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                |            |            |   
+| 4  | Todos os textos estão na norma padrão?                                         |            |            |   
+| 5  | Há introdução do artefato?                                                     |            |            | 
+| 6  | Há metodologia de como foi conduzido o artefato?                               |            |            |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
