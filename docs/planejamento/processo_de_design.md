@@ -52,7 +52,7 @@ se existem problemas de usabilidade nas representações de design, nos protóti
 ## Engenharia de Usabilidade de Nielsen
 
 Nielsen definiu um conjunto de dez atividades que devem ocorrer durantetodo o ciclo de vida do produto.
-A tabela 1. faz uma breve descrição de cada atividade.
+A tabela 1 faz uma breve descrição de cada atividade.
 
 <center>
 
@@ -125,6 +125,9 @@ a elaboração de protótipos de baixa, média e alta fidelidade, que deverão s
 Na fase de instalação, o objetivo é coletar opiniões de usuários para futuramente melhorar ainda mais
 o sistema e desenvolver novas funcionalidade em versões futuras.
 
+- **Riscos Potencias com essa escolha:** pouca experiência em relação ao seu uso
+- **Plano de Mitigação em relação ao risco dessa escolha:** revisões e verificações durante o processo  
+
 ## Bibliografia
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
@@ -135,4 +138,5 @@ o sistema e desenvolver novas funcionalidade em versões futuras.
 | :-:   | :-:       | :--       | --    | --            |
 | `1.0`   |16/09/2023 |Criação da página Processo de Design de IHC|[Breno Queiroz](https://github.com/brenob6) e [Luis Miranda](https://github.com/luismiranda10)|[Vinícius Mendes](https://github.com/yabamiah)   |
 | `1.1`   |08/10/2023 |Correção da página após primeira apresentação| [Breno Queiroz](https://github.com/brenob6)|  [Mayara Alves](https://github.com/Mayara-tech)                 |
+| `1.2`   |05/12/2023 |Correção da página de Processos de Design | [Luis Miranda](https://github.com/luismiranda10)|             |
 
