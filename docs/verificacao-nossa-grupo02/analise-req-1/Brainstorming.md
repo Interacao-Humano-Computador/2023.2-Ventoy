@@ -88,7 +88,19 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 ## Sugestões de Melhorias
 
+Foi encontrado  sugestão de melhoria neste artefato, como é mostrado na tabela 6.
 
+<center>
+
+**Tabela 6** - Sugestões de melhoria Checklist - Cronograma
+
+| ID | Descrição do problema | Sugestão de melhoria |
+| --- | ---------------------| ---------------------- |
+|     |                      |                        |
+
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
+
+</center>
 
 </center>
 
