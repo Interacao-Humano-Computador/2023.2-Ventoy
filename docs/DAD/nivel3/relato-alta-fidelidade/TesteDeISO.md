@@ -37,7 +37,7 @@ O participante da entrevista, Suellen Sayuri Sato é estudante de Engenharia de 
 
 ### Custos
 
-A realização das entrevistas não gerou custo aos entrevistadores ou ao entrevistado, as mesmas foram realizadas presencialmente na casa do entrevistador e de carácter voluntário.
+A realização das entrevistas não gerou custo aos entrevistadores ou ao entrevistado, as mesmas foram realizadas de forma presencial, em ambiente controlado e adequado, na casa do entrevistador, sendo propício à interação entre o entrevistador e o entrevistado, além de ser de caracter voluntário. Foram fornecidos materiais para que o participante pudesse realizar a avaliação. 
 
 ### Feedback e sugestões de melhorias
 
@@ -50,7 +50,7 @@ Foi apresentado ao usuário que, durante o uso do protótipo de papel, ele tinha
 | O layout das interfaces estão claros e organizados? | Sim   |
 | Os elementos de navegação são claros e intuitivos? | Sim   |
 | Você (usuário) possui alguma sugestão de melhoria? | Implementar um botão para filtrar todos os testes de arquivo de imagem  |
-| Existem funcionalidade adicionais que você gostaria de ver implementada? | Somente a falada acima   |
+| Existem funcionalidade adicionais que você gostaria de ver implementada? | Somente o que foi falado acima   |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
@@ -66,7 +66,28 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 2. Foi possível identificar problemas de usabilidade preliminares?
     - Sim a partir da analíse da gravação foi possível identificar um problema já apresentado no texto acima.
 
-## Referências Bibliográficas
+## Conclusão
+
+Visto que o usuário identificou um potencial problema, em que ao acessar a página de testes de ISO, poderia ter uma implementação de um botão de filtro para caso quisesse ver a lista inteira de arquivos de imagem testados ao invés buscar por um em específico.
+
+A partir das observações feitas, foram estabelecidas datas para a correção desse protótipo de alta fidelidade. Abaixo na tabela 03, é mostrado o cronograma dessa correção.
+
+**Tabela 03**: Tabela de correção do protótipo de alta fidelidade
+
+| Executor(a) da Correção  | Data da Correção | Descrição do Problema | Solução |
+|------------------|--------------|---------------------|-------------|
+| [Luis Miranda](https://github.com/LuisMiranda10) | 05/12/2023 |  Falta de um botão para filtrar todos os testes de arquivo de imagem   | Implementar esse botão para otimizar a experiência do usuário       |
+
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
+
+As correções do protótipo de alta fidelidade podem ser vistas na figura 1, abaixo:
+
+**Figura 1:** Protótipo de Alta Fidelidade - Página de Teste de ISO atualizada
+
+
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
+    
+## Bibliografia
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
@@ -75,6 +96,7 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 |**Versão**|**Data**|**Descrição**|**Autor**|**Revisor**|
 |---|---|---|---|---|
 |`1.0`|29/11/2023|Criação do documento|[Luis Miranda](https://github.com/LuisMiranda10) | [Vinícius Mendes](https://github.com/yabamiah) |
+|`1.1`|05/12/2023|Correçaõ da página de relato de alta fidelidade de teste de ISO|[Luis Miranda](https://github.com/LuisMiranda10) |  |
 
 
 
