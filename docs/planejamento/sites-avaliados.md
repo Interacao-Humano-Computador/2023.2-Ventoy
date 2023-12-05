@@ -62,9 +62,9 @@ O [Ventoy](https://www.ventoy.net/en/index.html) é uma ferramenta de código ab
 > TSE - Tribunal Superior Eleitoral. Disponível em: [TSE - Tribunal Superior Eleitoral](https://www.tse.jus.br/#/). Acesso em: 02/10/2023 <BR>
 > Ventoy. Disponível em: [Ventoy](https://www.ventoy.net/en/index.html). Acesso em: 02/10/2023  <BR>
 
-## 📑 Histórico de versão
+## Histórico de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-----:       | :------       | -------    | -------            |
-| `1.0` |02/10/2023 |   Criação da página de sites avaliados  |  [Mayara Alves](https://github.com/Mayara-tech)| [Limirio Correia](https://github.com/LimirioGuimaraes) |
+| `1.0` |02/10/2023 |   Criação da página de sites avaliados  |  [Mayara Alves](https://github.com/Mayara-tech)| [Limirio Guimarães](https://github.com/LimirioGuimaraes) |
 | `1.1` | 10/10/2023 |  Adicionando avaliação heurística dos sites avaliados | [Mayara Alves](https://github.com/Mayara-tech) | [Luis Eduardo](https://github.com/LuisMiranda10)
