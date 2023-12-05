@@ -159,5 +159,5 @@ Fonte: [Breno Queiroz](https://github.com/brenob6)
 
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |-----|------------|-----------|--------|---------|
-|`1.0`| 29/11/2023 | Criação do documento | [Breno Queiroz](https://github.com/brenob6) | [](https://github.com/)|
-|`1.1`| 04/12/2023 | Adicionando melhorias propostas pelo entrevistado | [Breno Queiroz](https://github.com/brenob6)
+|`1.0`| 29/11/2023 | Criação do documento | [Breno Queiroz](https://github.com/brenob6) | [Luis Miranda](https://github.com/LuisMiranda10)|
+|`1.1`| 04/12/2023 | Adicionando melhorias propostas pelo entrevistado | [Breno Queiroz](https://github.com/brenob6) |  [Luis Miranda](https://github.com/LuisMiranda10) |
