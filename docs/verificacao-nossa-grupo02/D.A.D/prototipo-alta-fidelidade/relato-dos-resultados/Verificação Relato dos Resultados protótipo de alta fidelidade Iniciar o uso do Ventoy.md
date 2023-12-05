@@ -95,4 +95,4 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | Versão | Data | Descrição | Autor | Revisor |
 |-------|------|-----------|---------|--------|
-|`1.0`| 03/12/2023| Criação do documento | [Vinícius Mendes](https://github.com/yabamiah)| |
+|`1.0`| 03/12/2023| Criação do documento | [Vinícius Mendes](https://github.com/yabamiah)| [Luis Miranda](https://github.com/LuisMiranda10) |
