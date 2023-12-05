@@ -80,7 +80,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 ## Inspeção Individual
 
-**Tabela 5** - Cronograma de verificação
+**Tabela 5** - Cronograma de inspeção
 
 | Participantes | Data | Horário | Link da Gravação|
 |--------------|-------|---------|-----------------|
