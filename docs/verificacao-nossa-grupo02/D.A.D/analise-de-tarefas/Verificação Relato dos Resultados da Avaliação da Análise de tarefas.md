@@ -87,6 +87,24 @@ De acorda com a inspeção feita, foi possível encontrar algumas possíveis mel
 - **ID03**: Escrever tendências de problemas a partir dos problemas encontrados
 - **ID07**: Representar os dados coletados em alguma forma de organização, como tabel
 
+## Acompanhamento
+Logo abaixo, será apresentado as **Figuras 1 e 2**, que irão representar o porcentual de aproveitamento dos checklists, utilizando como o parâmetro "Sim", "Não" e "Não aplicável".
+
+## Porcentual de aproveitamento do Checklist geral
+
+**Figura 1** - Gráfico de setores do porcentual de aproveitamento do checklist geral
+
+![Untitled design (1).png](../../../assets/Untitleddesign1.png)
+
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+### Porcentual de aproveitamento do Checklist específico
+
+**Figura 2** - Gráfico de setores do porcentual de aproveitamento do checklist específico
+
+![Untitled design (3) 1.png](../../../assets/Untitleddesign(3).png)
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ## Referência Bibliográfica
 > Carteira Digital de Trânsito. Requisitos de Software. Distrito Federal, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/. Acesso em: 02/12/2023
