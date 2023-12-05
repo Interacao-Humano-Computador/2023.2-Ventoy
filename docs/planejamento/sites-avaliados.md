@@ -62,7 +62,7 @@ O [Ventoy](https://www.ventoy.net/en/index.html) é uma ferramenta de código ab
 > TSE - Tribunal Superior Eleitoral. Disponível em: [TSE - Tribunal Superior Eleitoral](https://www.tse.jus.br/#/). Acesso em: 02/10/2023 <BR>
 > Ventoy. Disponível em: [Ventoy](https://www.ventoy.net/en/index.html). Acesso em: 02/10/2023  <BR>
 
-## Histórico de versão
+## 📑 Histórico de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-----:       | :------       | -------    | -------            |
