@@ -1,7 +1,7 @@
 # Storyboards
 ## Introdução
 
-Este documento é uma verificação do artefato [Storyboards](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/) na versão 1.7 de data 20/11/2023, autorado por [Vinícius Mendes](https://github.com/yabamiah), que é integrante do [grupo 02](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito), cujo projeto tem como foco o [Aplicativo Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US), o propósito desta verificação é identificar possíveis problemas no artefato.
+Este documento é uma verificação do artefato [Storyboards](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/) na versão 1.7 de data 20/11/2023, autorado por [Mayara Alves](https://github.com/Mayara-tech), que é integrante do [grupo 02](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito), cujo projeto tem como foco o [Aplicativo Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US), o propósito desta verificação é identificar possíveis problemas no artefato.
 
 ## Metodologia
 
