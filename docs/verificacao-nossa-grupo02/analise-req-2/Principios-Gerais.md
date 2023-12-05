@@ -76,7 +76,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 | 6  | Os princípios gerais são definidos de forma clara e compreensível?                                       			                                                          | Sim         | -                                                                      |   
 
 
-## Verificação Individual
+## Inspeção Individual
 
 **Tabela 5** - Cronograma de verificação
 
