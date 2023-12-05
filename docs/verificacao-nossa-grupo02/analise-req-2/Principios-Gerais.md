@@ -183,7 +183,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 | Versão |    Data    |       Descrição      | Autor                |   Revisor   |
 | ------ | ---------- | -------------------- | ---------------------| ----------- |
-| `1.0`  | 04/11/2023 | Criação do Documento | [Luis Miranda](https://github.com/LuisMiranda10)| |
+| `1.0`  | 04/11/2023 | Criação do Documento | [Luis Miranda](https://github.com/LuisMiranda10)|[Breno Queiroz](https://github.com/brenob6) |
 
 
 
