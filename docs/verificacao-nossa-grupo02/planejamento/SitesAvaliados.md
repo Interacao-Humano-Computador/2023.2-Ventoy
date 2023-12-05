@@ -185,5 +185,5 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 | Versão |    Data    |       Descrição      | Autor                |   Revisor   |
 | ------ | ---------- | -------------------- | ---------------------| ----------- |
-| `1.0`  | 02/11/2023 | Criação do Documento | [Luis Miranda](https://github.com/LuisMiranda10)| |
+| `1.0`  | 02/11/2023 | Criação do Documento | [Luis Miranda](https://github.com/LuisMiranda10)| [Vinícius Mendes](https://github.com/yabamiah) |
 
