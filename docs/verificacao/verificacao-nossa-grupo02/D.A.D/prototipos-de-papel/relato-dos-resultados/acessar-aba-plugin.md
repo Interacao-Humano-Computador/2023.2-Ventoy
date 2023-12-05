@@ -1,0 +1,1 @@
+# Verificação Acessar a Aba de Plugin
