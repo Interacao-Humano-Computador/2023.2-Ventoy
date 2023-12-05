@@ -4,7 +4,7 @@
 O planejamento do relato dos resultados na análise de tarefas é uma etapa crucial em processos de avaliação e melhoria de desempenho, no qual foi baseado no planejamento da avaliação da Análise de tarefas e no livro Interação Humano-Computador, de Barbosa e Silva. Este processo envolve a investigação detalhada e sistemática dos dados coletados por um indivíduo ou equipe durante a fase de **análise de tarefas**, visando entender como as tarefas são executadas, identificar lacunas, otimizar procedimentos e melhorar a produtividade.
 
 ## Metodologia
-A metodologia ser baseada sera a do DECIDE (Definir, Especificar, Coletar, Interpretar, Documentar e Executar), no qual ajuda para um aumento na melhoria da usabilidade do site do Ventoy. Os elementos de avaliação desse planejamento são:
+A metodologia ser baseada no [Planejamento da Avaliação da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/AnaliseTarefas/planejamento/). Os elementos de avaliação desse planejamento são:
 - Objetivo e escopo da avaliação;
 - Método;
 - Participantes e avaliadores;
@@ -16,7 +16,7 @@ A metodologia ser baseada sera a do DECIDE (Definir, Especificar, Coletar, Inter
 ## Relato dos resultados
 
 ### Objetivos e escopo da avaliação
-Compreender minuciosamente como as atividades são executadas, incluindo o objetivo a ser alcançado pelo grupo e o motivo daquela avaliação. É importante a definição clara dos limites e a abordagem da avaliação, em que se uma considerando sobre restrições decorrentes de elementos como os aspectos éticos.
+Compreender minuciosamente como as atividades são executadas, incluindo o objetivo a ser alcançado pelo grupo e o motivo daquela avaliação. É importante a definição clara dos limites e da abordagem da avaliação, se considerando sobre restrições decorrentes de elementos como os aspectos éticos, para que o usuário tenha maior confiança sobre a entrevista.
 
 E já para o objetivo do relato de resultados da avaliação, é estabelecido:
 
@@ -29,14 +29,14 @@ Abaixo, como pode ser visto na tabela 1, temos o nosso exemplo de um cronograma 
 
 <b>Tabela 1:</b> Exemplo de cronograma executado.
 
-| Data | Local | Horário| Ator da avaliação |  Receptor da avaliação |
-| ---- | ------- | -------- | ----------------- | ---------------------- |
-| dd/mm/aaaa | xxxxx | xx:xx | [nome do ator da avaliação]() | [nome do receptor da avaliação]() |
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [nome do ator da avaliação]()  |  [nome do receptor da avaliação]() | xx:xx | xx:xx | dd/mm/aaaa | xxxxx |
 
 <p><b>Fonte:</b> Autores, 2023.</p>
 
 ### Participantes e avaliadores
-No relato de resultados deve incluir a quantidade de usuários e os seus perfis (nome, idade, curso, semestre, faculdade), no qual devem estar alinhados com o [perfil de usuário](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/PerfilUsuario/) já pré estabelecido pelo grupo, e também os avaliadores e os seus papéis durante a avaliação.
+No relato de resultados deve incluir a quantidade de usuários e os seus perfis (nome, curso, idade etc), no qual devem estar alinhados com o [perfil de usuário](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/PerfilUsuario/) já pré estabelecido pelo grupo, e também os avaliadores e os seus papéis durante a avaliação.
 
 ### Sumário de dados
 Neste item, os avaliadores que participaram da avaliação devem apresentar de forma organizada, resumida e clara os dados coletados, incluindo tabelas e gráficos (indicando a fonte dos dados inseridos na tabela).
@@ -48,7 +48,14 @@ Após a apresentação dos dados coletados, neste item deve ser apresentada uma 
 Durante a avaliação, o usuário irá encontrar problemas, seja do sistema ou da análise de tarefas, e será neste tópico onde iremos listar todos esses problemas encontrados de forma minuciosa e clara.
 
 ### Reprojeto do sistema
-Neste item, os avaliadores irão com ajuda da bagagem de dados coletados, interpretados e problemas encontrados, planejar e propor sugestões para o melhoramento do sistema, mantendo a base do projeto.
+Neste item, os avaliadores irão com ajuda da bagagem de dados coletados, interpretados e problemas encontrados, planejar e propor sugestões para o melhoramento do sistema, mantendo a base do projeto. Tendo como base a tabela 2 abaixo, o cronograma desse reprojeto deverá ser realizado na data de 13/11/2023, sem um horário específico marcado, para que se tenha uma flexibilidade maior para todos os integrantes do grupo.
+
+<b>Tabela 2:</b> Exemplo de cronograma de reprojeto.
+
+| Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
+| ------------------------ | ----------------- | -------------- | ---- |
+| [nome do executor do reprojeto]()  | xx:xx | xx:xx | 13/11/2023 |
+<p><b>Fonte:</b> Luis Miranda, 2023.</p>
 
 ## Bibliografia
 
@@ -58,5 +65,5 @@ Neste item, os avaliadores irão com ajuda da bagagem de dados coletados, interp
 
 | Versão | Data | Descrição | Autores | Revisor |
 |-----------|--------|---------------|------------|------------|
-| `1.0` | 30/10/2023 | Criação do documento do planejamento do Relato de Resultados da Avaliação da Análise de Tarefas | [Luis Eduardo](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)  |
-| `1.1` | 05/12/2023 | Correção da página de Planejamento do Relato de Resultados da Avaliação da Análise de Tarefas | [Luis Eduardo](https://github.com/LuisMiranda10) )|   |
+| `1.0` | 30/10/2023 | Criação do documento do planejamento do Relato de Resultados da Avaliação da Análise de Tarefas | [Luis Miranda](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)  |
+| `1.1` | 05/12/2023 | Correção da página de Planejamento do Relato de Resultados da Avaliação da Análise de Tarefas | [Luis Miranda](https://github.com/LuisMiranda10) )|   |
