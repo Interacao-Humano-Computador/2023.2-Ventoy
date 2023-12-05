@@ -14,10 +14,15 @@ O ConcurTaskTrees (CTT), um modelo de árvores que tratam de tarefas concorrente
 
 Essas categorias, como mostrado na figura 1, proporcionam uma estrutura para analisar e compreender as tarefas envolvidas em um sistema de interface usuário-computador, contribuindo para uma avaliação mais abrangente e um design eficiente.
 
-<p align="center"><b>Figura 01</b> - Tarefas</p>
+<center>
+
+**Figura 01 -** Tarefas
 
 ![HTA uso do ventoy](../../assets/Tarefas.jpeg)
-<p align="center"><b>Fonte</b>: Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 203</p>
+
+Fonte: Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 203.¹
+
+</center>
 
 ## ConcurTaskTrees (CTT)
 
@@ -27,71 +32,98 @@ Nesta seção, apresentaremos as análises de tarefas do site Ventoy pelo métod
 
 O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 2. Nesta tarefa o usuário tem como objetivo iniciar o uso do Ventoy, de acordo como foi visto na [Análise Hierárquica de Tarefas](../analisedetarefas/analiseHierarquicaDeTarefas.md/#iniciar-o-uso-do-ventoy).
 
-<p align="center"><b>Figura 02</b> - Diagrama CTT: Iniciar o uso do Ventoy</p>
+<center>
+
+**Figura 02 -** Diagrama CTT: Iniciar o uso do Ventoy
 
 ![HTA uso do ventoy](../../assets/CTT/iniciar%20uso%20do%20ventoy.png)
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/MilenaBaruc">Milena Baruc.</a></p>
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
+
+</center>
 
 ### Fazer Postagem no Fórum
 
 O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 3. Nesta tarefa o usuário tem como objetivo criar um novo post no fórum do Ventoy, de acordo como foi visto na [Análise Hierárquica de Tarefas](../analisedetarefas/analiseHierarquicaDeTarefas.md/#fazer-postagem-no-forum).
 
-<p align="center"><b>Figura 03</b> - Diagrama CTT - Fazer postagem no fórum</p>
+<center>
+
+**Figura 03 -** Diagrama CTT: Fazer postagem no fórum
 
 ![HTA uso do ventoy](../../assets/CTT/fazer%20postagem%20no%20fórum.png)
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/MilenaBaruc">Milena Baruc.</a></p>
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
+
+</center>
 
 ### Acessar a página de Doações para realizar uma doação
 
 O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 4. Nesta tarefa o usuário tem como objetivo fazer uma doação para os desenvolvedores do Ventoy, de acordo como foi visto na [Análise Hierárquica de Tarefas](../analisedetarefas/analiseHierarquicaDeTarefas.md/#acessar-a-pagina-de-doacoes-para-realizar-uma-doacao).
 
-<p align="center"><b>Figura 04</b> - Diagrama CTT - acessar a página de doações para realizar uma doação</p>
+<center>
+
+**Figura 04 -** Diagrama CTT - acessar a página de doações para realizar uma doação
 
 ![HTA uso do ventoy](../../assets/CTT/realizar%20doação%20na%20página%20de%20doações.png)
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/MilenaBaruc">Milena Baruc.</a></p>
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
-### Acessar a página de Testes De Iso 
+</center>
+
+### Acessar a página de Testes De Iso
 
 O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 5. Nesta tarefa o usuário tem como objetivo acessar a página de Testes de Iso do Ventoy, de acordo como foi visto na [Análise Hierárquica de Tarefas](../analisedetarefas/analiseHierarquicaDeTarefas.md/#acessar-a-pagina-de-testes-de-iso).
 
-<p align="center"><b>Figura 05</b> - Diagrama CTT - acessar a página de testes de iso</p>
+<center>
+
+**Figura 05 -** Diagrama CTT - acessar a página de testes de iso
 
 ![HTA uso do ventoy](../../assets/CTT/acessar%20a%20página%20de%20testes%20iso.png)
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/MilenaBaruc">Milena Baruc.</a></p>
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
-### Acessar a página de Compartilhamento de Experiências 
+</center>
+
+### Acessar a página de Compartilhamento de Experiências
 
 O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 6. Nesta tarefa o usuário tem como objetivo acessar a página de compartilhamento de experiências do Ventoy, de acordo como foi visto na [Análise Hierárquica de Tarefas](../analisedetarefas/analiseHierarquicaDeTarefas.md/#acessar-a-pagina-de-compartilhamento-de-experiencias).
 
-<p align="center"><b>Figura 06</b> - Diagrama CTT - acessar a página de compartilhamento de experiências</p>
+<center>
+
+**Figura 06 -** Diagrama CTT - acessar a página de compartilhamento de experiências
 
 ![HTA uso do ventoy](../../assets/CTT/acessar%20a%20página%20de%20compartilhamento%20de%20experiências.png)
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/MilenaBaruc">Milena Baruc.</a></p>
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
-### Acessar a página de Plugin 
+</center>
+
+### Acessar a página de Plugin
 
 O diagrama feito para analisar esta tarefa foi representado em um diagrama na figura 7. Nesta tarefa o usuário tem como objetivo acessar a página de plugin do Ventoy, de acordo como foi visto na [Análise Hierárquica de Tarefas](../analisedetarefas/analiseHierarquicaDeTarefas.md/#acessar-a-pagina-de-plugin).
 
-<p align="center"><b>Figura 07</b> - Diagrama CTT - acessar a página de plugin</p>
+<center>
+
+**Figura 07 -** Diagrama CTT - acessar a página de plugin
 
 ![HTA uso do ventoy](../../assets/CTT/acessar%20a%20página%20de%20plugin.png)
 
-<p align="center"><b>Fonte</b>:  <a href="https://github.com/MilenaBaruc">Milena Baruc.</a></p>
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
-## Bibliografia
->Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193.
+</center>
 
 ## Referência Bibliográfica
-> Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.
 
+**1.** Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6, p. 193.
+
+## Bibliografia
+
+> Barbosa e Silva. Interação Humano-Computador. 1 ed.  ELSEVIER INC, 2010.  Capítulo 6.
 
 ## 📑 Histórico de Versões
+
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 16/10/2023 | Criação da página de análise de tarefas CTT | [Milena Baruc](https://github.com/MilenaBaruc)| [Mayara Alves](https://github.com/Mayara-tech) e [Altino Arthur](https://github.com/altinoarthurmoreira)|
-|`2.0`| 07/11/2023 | Adição CTTs | [Milena Baruc](https://github.com/MilenaBaruc)| [Mayara Alves](https://github.com/Mayara-tech)|
+|`1.1`| 07/11/2023 | Adição CTTs | [Milena Baruc](https://github.com/MilenaBaruc)| [Mayara Alves](https://github.com/Mayara-tech)|
+| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/) |
