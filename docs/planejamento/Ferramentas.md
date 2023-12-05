@@ -8,7 +8,7 @@ Nossa meta é fornecer uma compreensão clara do propósito de cada ferramenta d
 
 ## Metodologia
 
-A seleção das ferramentas foi um processo reflexivo, fundamentado na experiência e no conhecimento coletivo da equipe. Seguimos um processo simplificado para identificar as necessidades do projeto, como comunicação, gestão de código, design, documentação e compartilhamento de arquivos. Levamos em consideração a eficácia comprovada das ferramentas em iniciativas anteriores e buscamos um consenso entre os membros da equipe para garantir uma escolha que refletisse nossas necessidades comuns.
+A seleção das ferramentas foi um processo, fundamentado na experiência e no conhecimento coletivo da equipe. Seguimos um processo simplificado para identificar as necessidades do projeto, como comunicação, gestão de código, design, documentação e compartilhamento de arquivos. Levamos em consideração a eficácia comprovada das ferramentas em iniciativas anteriores e buscamos um consenso entre os membros da equipe para garantir uma escolha que refletisse nossas necessidades comuns.
 
 A seguir, a **Tabela 1** detalha as ferramentas que escolhemos para o projeto:
 
@@ -16,7 +16,7 @@ A seguir, a **Tabela 1** detalha as ferramentas que escolhemos para o projeto:
 
 <center>
 **Tabela 1** - Ferramentas Escolhidas 
-</center>
+
 
 | Ferramenta | Nome | Finalidade |
 |------------|------|------------|
@@ -30,9 +30,9 @@ A seguir, a **Tabela 1** detalha as ferramentas que escolhemos para o projeto:
 | ![](../assets/gdrive.png){width=75} | Google Drive | Serviço de compartilhamento e armazenamento de arquivos, utilizado para distribuição de documentos e arquivos de mídia. |
 | ![](../assets/thispersondoesntexist.png){width=75} | This Person Does Not Exist | Geração de imagens de personas fictícias para prototipagem e demonstrações. |
 | ![](../assets/excel_logo.png){width=75} | Microsoft Excel | Criação de planilhas para organização de horários e dados do projeto. |
+  
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
-<center>
-Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes). 
 </center>
 
 ## Referência Bibliográficas
