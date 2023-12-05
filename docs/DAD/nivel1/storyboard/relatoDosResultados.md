@@ -10,7 +10,7 @@ O objetivo deste documento é apresentar os resultados da avaliação dos [story
 ### Método de avaliação
 
 O método utilizado foi o método framework DECIDE proposto no [Planejamento da Avaliação Storyboard](./planejamentoStoryboard.md), sendo este o de entrevista, os dados da entrevista estão indicados 
-na tabela 1. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 1. Para acessar a gravação da entrevista [clique aqui](https://youtu.be/9t2AY5-XPFU).
+na tabela 1. Além disso, utilizou-se de um questionário de cinco questões para guiar a entrevista, disponível na Tabela 1. Para acessar a gravação da entrevista [clique aqui](https://www.youtube.com/watch?v=J4DbUkByxeo).
 
 O Storyboard em questão pode ser visto aqui [Storyboard 1](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel1/storyboard/storyboards/#storyboard-1).
 
@@ -59,17 +59,6 @@ Na tabela 2 é possível verificar os principais resultados da entrevista realiz
 
 **Fonte** -[Breno Queiroz](https://github.com/brenob6)
 
-<p style="text-align: center"><a href="https://youtu.be/J4DbUkByxeo" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=J4DbUkByxeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
-</center>
-
-<p style="text-align: center"><a href="https://youtu.be/4XBtckHRoGg" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/4XBtckHRoGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
-
 ## Relato dos resultados Storyboard 2: Utilizando o FAQ 
 
 ### Método de avaliação
@@ -81,7 +70,7 @@ O Storyboard em questão pode ser visto aqui [Storyboard 2](https://interacao-hu
 
 <center>
 
-**Tabela 3** - Cronograma da Avaliação 1.
+**Tabela 3** - Cronograma da Avaliação 2.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -141,7 +130,7 @@ O Storyboard em questão pode ser visto aqui [aqui](https://interacao-humano-com
 
 <center>
 
-**Tabela 5** - Cronograma da Avaliação 1.
+**Tabela 5** - Cronograma da Avaliação 4.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -200,7 +189,7 @@ O Storyboard em questão pode ser visto aqui [aqui](https://interacao-humano-com
 
 <center>
 
-**Tabela 7** - Cronograma da Avaliação 1.
+**Tabela 7** - Cronograma da Avaliação 5.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -259,7 +248,7 @@ O Storyboard em questão pode ser visto aqui [aqui](https://interacao-humano-com
 
 <center>
  
-**Tabela 9** - Cronograma da Avaliação 2.
+**Tabela 9** - Cronograma da Avaliação 6.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -304,10 +293,6 @@ Na tabela 10 é possível verificar os principais resultados da entrevista reali
 
 **Fonte** -[Vinícius Mendes](https://github.com/yabamiah)
 
-<p style="text-align: center"><a href="https://youtu.be/xTHNB-6jFOU" target="blanket">Clique aqui</a></p>
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/xTHNB-6jFOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
 </center>
 
 ## Relato dos resultados Storyboard 7 : Acesso à página de plugin
@@ -321,7 +306,7 @@ O Storyboard em questão pode ser visto aqui [aqui](storyboards.md/#storyboard-7
 
 <center>
 
-**Tabela 11** - Cronograma da Avaliação 1.
+**Tabela 11** - Cronograma da Avaliação 7.
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
