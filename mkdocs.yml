@@ -97,17 +97,74 @@ nav:
           - Relato Realizar Postagem no Fórum: DAD/nivel3/relato-alta-fidelidade/forum.md
   - Verificação:
     - Grupo 02:
-      - Analise de Requisitos I:
-        - Entrevistas: 
-          - Lista de verificação: verificacao-nossa-grupo02/entrevista/checklist.md
-          - Inspeção: verificacao-nossa-grupo02/entrevista/inspecao.md
-      - Design, Avaliação e Desenvolvimento:
-        - Protótipo de Papel:
-          - Relato dos Resultados:
-            - Iniciar Uso do Ventoy: verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/relato-dos-resultados/iniciar-ventoy.md
-        - Protótipo de Alta Fidelidade:
-          - Relato dos Resultados:
-            - Página de FAQ: verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relato-dos-resultados/faq.md
+      - Verificação:
+        - Planejamento:
+          - Cronograma:
+          - Ferramentas:
+          - Metodologia:
+          - Políticas:
+          - Heatmap:
+          - Processo design:
+          - Sites avaliados:
+          - Site escolhido:
+        - Análise de Requisitos I:
+          - Aspectos Éticos:
+          - Perfil de Usuário:
+          - Persona:
+          - Cenários:
+          - Entrevistas:
+            - Lista de verificação: verificacao-nossa-grupo02/entrevista/checklist.md
+            - Inspeção: verificacao-nossa-grupo02/entrevista/inspecao.md
+        - Elicitação:
+          - Entrevista:
+          - Brainstorming:
+          - Introspecção:
+          - Grupo de foco:
+        - Análise de Tarefas:
+          - Análise Hierárquica de Tarefas - HTA:
+          - ConcurTaskTrees - CTT:
+        - Análise de requisitos II:
+          - Princípios Gerais:
+          - Características Gerais:
+          - Metas de Usabilidade:
+          - Guia de Estilo:
+        - Design, Avaliação e Desenvolvimento:
+          - Nível 1:
+            - Storyboard:
+              - Planejamento da Avaliação do Storyboard:
+              - Planejamento do Relato dos Resultados:
+              - Relato dos Resultados do Storyboard:
+              - Storyboards:
+            - Análise de Tarefas:
+              - Planejamento da Avaliação da Análise de Tarefas:
+              - Planejamento do Relato dos Resultados da Avaliação:
+              - Relato dos Resultados da Avaliação:
+          - Nível 2:
+            - Protótipo de Papel:
+              - Planejamento da Avaliação do protótipo de papel:
+              - Planejamento do Relato dos resultados do protótipo de papel:
+              - Protótipos de papel:
+              - Relato dos Resultados:
+                - Criar post no fórum:
+                - Acessar a aba de plugin:
+                - Acessar a página de FAQ para consultar dúvida:
+                - Acessar a página de Testes de ISO para verificar os testes:
+                - Realizar doação:
+                - Acessar a página de Compartilhamento de Experiências para consultar relatos:
+                - Iniciar o uso do Ventoy:
+                  - Iniciar Uso do Ventoy: verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/relato-dos-resultados/iniciar-ventoy.md
+          - Nível 3:
+            - Protótipo de alta fidelidade:
+              - Planejamento da Avaliação do protótipo de alta fidelidade:
+              - Planejamento do Relato dos resultados do protótipo de alta fidelidade:
+              - Relatos dos Prótotipos de alta fidelidade:
+                - Relato Plugin:
+                - Relato Donation:
+                - Relato Iniciar o uso do Ventoy:
+                - Relato Teste de Iso:
+                - Relato Realizar Postagem no Fórum:
+                - Página de FAQ:
+                  - Página de FAQ: verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relato-dos-resultados/faq.md
     - Grupo 03:
       - Planejamento da verificação: verificacao/planejamendoDaVerificacao.md
       - Planejamento:
