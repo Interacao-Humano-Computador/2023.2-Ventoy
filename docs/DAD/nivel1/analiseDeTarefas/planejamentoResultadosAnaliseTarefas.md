@@ -16,7 +16,7 @@ Os elementos de avaliação são:
 ## Relato dos resultados
 
 ### Objetivos e escopo da avaliação
-Compreender minuciosamente como as atividades são executadas, incluindo o objetivo a ser alcançado pelo grupo e o motivo daquela avaliação.
+Compreender minuciosamente como as atividades são executadas, incluindo o objetivo a ser alcançado pelo grupo e o motivo daquela avaliação. É importante a definição clara dos limites e a abordagem da avaliação, em que se uma considerando sobre restrições decorrentes de elementos como tempo, recursos e aspectos éticas.
 
 E já para o objetivo do relato de resultados da avaliação, é estabelecido:
 
