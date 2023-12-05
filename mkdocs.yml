@@ -74,7 +74,7 @@ nav:
           - Relato dos Resultados da Avaliação: DAD/nivel1/AnaliseTarefas/resultado.md
     - Nível 2:
       - Protótipo de Papel:
-        - Planejamento da Avaliação do protótipo de papel: DAD/nivel2/prototipoDePapel/planejamento_avaliacao.md
+        - Planejamento da Avaliação do protótipo de papel: verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/verificacao-planejamento-relato-resultado-pp.md
         - Planejamento do Relato dos resultados do protótipo de papel: DAD/nivel2/prototipoDePapel/planejamento_relato.md
         - Protótipos de papel: DAD/nivel2/prototipoDePapel/Prototipos.md
         - Relato dos Resultados:
@@ -106,7 +106,7 @@ nav:
             - Ferramentas: verificacao/planejamento/ferramentas.md
             - Cronograma: verificacao/planejamento/cronograma.md
             - Padronização do Projeto: verificacao/padronizacaoProjeto.md
-            - Processos de design: verificacao/planejamento/processoDesign.md
+            - Processos de design: verificacao-nossa-grupo02/planejamento/verificacao-processo-design.md
           - Análise de requisitos I:
             - Aspectos Éticos: verificacao/aspectos_eticos.md
             - Perfil de usuário: verificacao/analiseRequisito/perfilUsuario.md
@@ -163,7 +163,7 @@ nav:
           - Grupo de foco: verificacao-nossa-grupo02/ventoy.md
         - Análise de Tarefas: 
           - Análise Hierárquica de Tarefas - HTA: verificacao-nossa-grupo02/ventoy.md
-          - ConcurTaskTrees - CTT: verificacao-nossa-grupo02/ventoy.md
+          - ConcurTaskTrees - CTT: verificacao-nossa-grupo02/analise-req-1/verificacao-CTT.md
         - Análise de requisitos II: 
           - Princípios Gerais: verificacao-nossa-grupo02/ventoy.md
           - Características Gerais: verificacao-nossa-grupo02/ventoy.md
