@@ -75,6 +75,24 @@ De acorda com a inspeção feita, foi possível encontrar algumas possíveis mel
 
 - **ID05**: Os desenhos de acordo com a definição do storyboard, são desenhos simples, e feitos como esboços, para ser uma prototipagem rápida e fácil de realizada. Os desenhos dos storyboards devem seguir isto.
 
+## Acompanhamento
+Logo abaixo, será apresentado as **Figuras 1 e 2**, que irão representar o porcentual de aproveitamento dos checklists, utilizando como o parâmetro "Sim", "Não" e "Não aplicável".
+
+## Porcentual de aproveitamento do Checklist geral
+
+**Figura 1** - Gráfico de setores do porcentual de aproveitamento do checklist geral
+
+![Untitled design 1.png](../../assets/Untitleddesign1.png)
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+### Porcentual de aproveitamento do Checklist específico
+
+**Figura 2** - Gráfico de setores do porcentual de aproveitamento do checklist específico
+
+![Untitled design 1.png](../../assets/Untitleddesign1.png)
+
+Fonte: [Vinícius Mendes](https://github.com/yabamiah)
+
 ## Referência Bibliográfica
 > Carteira Digital de Trânsito. Requisitos de Software. Distrito Federal, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/. Acesso em: 02/12/2023
 
