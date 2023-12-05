@@ -78,7 +78,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
-## Verificação Individual
+## Inspeção Individual
 
 **Tabela 5** - Cronograma de verificação
 
