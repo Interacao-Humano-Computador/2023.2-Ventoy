@@ -326,9 +326,9 @@ Na Tabela 16, tem-se o cronograma planejado para todas as atividades da oitava e
 
 ### Cronograma executado entrega 8.
 
-Na Tabela 16, tem-se o cronograma executado para todas as atividades da oitava entrega.
+Na Tabela 17, tem-se o cronograma executado para todas as atividades da oitava entrega.
 
-<p align="center"><b>Tabela 16</b> - Entrega 8. Relato dos resultados do Protótipo de alta fidelidade </p>
+<p align="center"><b>Tabela 17</b> - Entrega 8. Relato dos resultados do Protótipo de alta fidelidade </p>
 
 | Atividade                    | Data prevista                                    	      | Período de execuçaõ  | Responsáveis       | Revisão   | Revisor            |
 | ---------------------------------- | --------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -339,16 +339,16 @@ Na Tabela 16, tem-se o cronograma executado para todas as atividades da oitava e
 |Relato dos resultados do Protótipo de Alta Fidelidade - Teste de Iso           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 29/11 | Luis    |   29/11   | Vinícius |
 |Relato dos resultados do Protótipo de Alta Fidelidade - Realizar uma postagem no fórum Ventoy           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 29/11 | Breno      |   29/11   | Luis |
 |Relato dos resultados do Protótipo de Alta Fidelidade - Acessar a página de FAQ para consultar dúvida           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 02/12 | Mayara     |   29/11   | Breno  |
-| Gravação da apresentação      | Início: 21/11<br>Fim: 21/11            |   Início: 22/11<br>Fim: 22/11                         	   |Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   22/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino           |
-| Cronograma executado                |    Início: 21/11<br>Fim: 21/11                       	        | Início: 23/11<br>Fim: 23/11 |Mayara          |   23/11   |  Vinícius     |
+| Gravação da apresentação      | Início: 26/11<br>Fim: 27/11        |   Início: 29/11<br>Fim: 29/11                         	  | Limírio, Breno, Luís, Milena, Vinícius e Altino             |   29/11   | Limírio, Breno, Luís, Milena, Vinícius e Altino           |
+| Cronograma executado                |   Início: 26/11<br>Fim:27/11                    	        | Início: 05/12 <br>Fim: 05/12 |Mayara          |   23/11   |  Vinícius     |
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 ### Cronograma planejado entrega 6.2.
 
-Na Tabela 17, tem-se o cronograma planejado para todas as atividades da entrega 6.2.
+Na Tabela 18, tem-se o cronograma planejado para todas as atividades da entrega 6.2.
 
-<p align="center"><b>Tabela 17</b> - Entrega 6.2. Verificação dos artefatos </p>
+<p align="center"><b>Tabela 18</b> - Entrega 6.2. Verificação dos artefatos </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
