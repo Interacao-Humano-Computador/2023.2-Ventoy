@@ -80,4 +80,4 @@ E ao finalizar a apresentação do relatório a população de usuários, os dad
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-----:       | :------       | -------    | -------            |
-| 1.0   |23/09/2023 |   Criação da página do planejamento da avaliação   |  [Vinícius Mendes](https://github.com/yabamiah) e [Milena Baruc](https://github.com/MilenaBaruc)| [Limirio Guimarães](https://github.com/LimirioGuimaraes) |
+| `1.0`   |23/09/2023 |   Criação da página do planejamento da avaliação   |  [Vinícius Mendes](https://github.com/yabamiah) e [Milena Baruc](https://github.com/MilenaBaruc)| [Limirio Guimarães](https://github.com/LimirioGuimaraes) |
