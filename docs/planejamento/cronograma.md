@@ -299,11 +299,17 @@ Na Tabela 15, tem-se o cronograma executado para todas as atividades da sétima 
 | Atividade                    | Data prevista                                    	      | Período de execuçaõ  | Responsáveis       | Revisão   | Revisor            |
 | ---------------------------------- | --------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
 | Correção dos artefatos da entrega 6.1     | Início: 14/11<br>Fim: 15/11                 	            | Início: 15/11<br>Fim: 16/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      	     |   16/11   | Mayara, Limírio, Luís, Milena, Vinícius e Altino            |
-|Relato dos resultados do Protótipo de Papel            | Início: 14/11<br>Fim: 15/11                    	      | Início: 17/11<br>Fim: 22/11 | Mayara, Limírio, Luís, Milena, Vinícius, Breno e Altino        |   22/11   | Mayara, Limírio, Luís, Milena, Vinícius, Breno e Altino            |
+| Protótipo e Relato dos resultados do Protótipo de Papel - Criar post no fórum     | Início: 14/11<br>Fim: 15/11       | Início: 17/11<br>Fim: 22/11 | Breno     |   22/11   | Mayara           |
+| Protótipo e Relato dos resultados do Protótipo de Papel - Acessar a aba de plugin     | Início: 14/11<br>Fim: 15/11       | Início: 17/11<br>Fim: 22/11 | Milena   |   22/11   | Mayara            |
+| Protótipo e Relato dos resultados do Protótipo de Papel - Acessar a página de FAQ para consultar dúvida    | Início: 14/11<br>Fim: 15/11       | Início: 17/11<br>Fim: 22/11 | Mayara   |   22/11   | Luis          |
+| Protótipo e Relato dos resultados do Protótipo de Papel - Acessar a página de Testes de ISO     | Início: 14/11<br>Fim: 15/11       | Início: 17/11<br>Fim: 22/11 | Luis     |   22/11   | Mayara           |
+| Protótipo e Relato dos resultados do Protótipo de Papel - Realizar uma doação    | Início: 14/11<br>Fim: 15/11       | Início: 17/11<br>Fim: 22/11 |  Limírio   |   22/11   | Breno           |
+| Protótipo e Relato dos resultados do Protótipo de Papel - Acessar a página de Compartilhamento de Experiências     | Início: 14/11<br>Fim: 15/11       | Início: 17/11<br>Fim: 22/11 | Altino   |   22/11   | Mayara|
+| Protótipo e Relato dos resultados do Protótipo de Papel - Iniciar uso do Ventoy | Início: 14/11<br>Fim: 15/11       | Início: 17/11<br>Fim: 22/11 | Vinícius    |   22/11   | Mayara           |
 | Planejamento da Avaliação do protótipo de alta fidelidade    | Início: 14/11<br>Fim: 15/11                       	      | Início: 17/11<br>Fim: 22/11 | Mayara  |   22/11   | Luis         |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade  | Início: 14/11<br>Fim: 15/11 | Início: 17/11<br>Fim: 22/11 | Altino, Vinícius e Luis   |   22/11   | Breno         |
 | Gravação da apresentação      | Início: 21/11<br>Fim: 21/11            |   Início: 22/11<br>Fim: 22/11                         	   |Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino             |   22/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino           |
-| Cronograma executado                |    Início: 21/11<br>Fim: 21/11                       	        | Início: 23/11<br>Fim: 23/11 |Mayara          |   23/11   |  Vinícius     |
+| Cronograma executado                |    Início: 21/11<br>Fim: 21/11                       	        | Início: 23/11<br>Fim: 05/12 |Mayara          |   05/12   |  Vinícius     |
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
@@ -333,12 +339,12 @@ Na Tabela 17, tem-se o cronograma executado para todas as atividades da oitava e
 | Atividade                    | Data prevista                                    	      | Período de execuçaõ  | Responsáveis       | Revisão   | Revisor            |
 | ---------------------------------- | --------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
 | Correção dos artefatos da entrega 7     |      Início: 16/11<br>Fim: 17/11            	            | Início: 17/11<br>Fim: 20/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      	     |   21/11   | Mayara, Limírio, Luís, Milena, Vinícius e Altino            |
-|Relato dos resultados do Protótipo de Alta Fidelidade - Plugin           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 29/11 | Milena      |   29/11   | Limírio  |
-|Relato dos resultados do Protótipo de Alta Fidelidade - Donation           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 29/11 | Limírio      |   29/11   | Vinícius  |
-|Relato dos resultados do Protótipo de Alta Fidelidade - Iniciar o uso do site Ventoy      |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 29/11 | Vinícius     |   29/11   | Milena |
-|Relato dos resultados do Protótipo de Alta Fidelidade - Teste de Iso           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 29/11 | Luis    |   29/11   | Vinícius |
-|Relato dos resultados do Protótipo de Alta Fidelidade - Realizar uma postagem no fórum Ventoy           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 29/11 | Breno      |   29/11   | Luis |
-|Relato dos resultados do Protótipo de Alta Fidelidade - Acessar a página de FAQ para consultar dúvida           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 02/12 | Mayara     |   29/11   | Breno  |
+|Protótipo e Relato dos resultados do Protótipo de Alta Fidelidade - Plugin           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 29/11 | Milena      |   29/11   | Limírio  |
+|Protótipo e Relato dos resultados do Protótipo de Alta Fidelidade - Donation           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 29/11 | Limírio      |   29/11   | Vinícius  |
+|Protótipo e Relato dos resultados do Protótipo de Alta Fidelidade - Iniciar o uso do site Ventoy      |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 29/11 | Vinícius     |   29/11   | Milena |
+|Protótipo e Relato dos resultados do Protótipo de Alta Fidelidade - Teste de Iso           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 29/11 | Luis    |   29/11   | Vinícius |
+|Protótipo e Relato dos resultados do Protótipo de Alta Fidelidade - Realizar uma postagem no fórum Ventoy           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 29/11 | Breno      |   29/11   | Luis |
+|Protótipo e Relato dos resultados do Protótipo de Alta Fidelidade - Acessar a página de FAQ para consultar dúvida           |Início: 16/11<br>Fim: 17/11                    	      | Início: 20/11<br>Fim: 02/12 | Mayara     |   29/11   | Breno  |
 | Gravação da apresentação      | Início: 26/11<br>Fim: 27/11        |   Início: 29/11<br>Fim: 29/11                         	  | Limírio, Breno, Luís, Milena, Vinícius e Altino             |   29/11   | Limírio, Breno, Luís, Milena, Vinícius e Altino           |
 | Cronograma executado                |   Início: 26/11<br>Fim:27/11                    	        | Início: 05/12 <br>Fim: 05/12 |Mayara          |   23/11   |  Vinícius     |
 
@@ -381,6 +387,7 @@ Na Tabela 18, tem-se o cronograma planejado para todas as atividades da entrega 
 | `1.6`   |08/11/2023| Adicionando cronograma executado da quinta entrega |[Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/LimirioGuimaraes)|
 | `1.7`   |23/11/2023| Adicionando cronograma executado da entrega 6.1|[Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/LimirioGuimaraes)|
 | `1.8`   |23/11/2023| Adicionando cronograma executado da sétima entrega |[Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/LimirioGuimaraes)|
+| `1.9`   |05/12/2023| Adicionando cronograma executado da oitava entrega |[Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/LimirioGuimaraes)|
 
 
 
