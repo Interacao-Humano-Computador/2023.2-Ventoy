@@ -75,9 +75,9 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 **Tabela 3** - Cronograma de verificação
 
-| Participantes | Data | Horário |
-|--------------|-------|---------|
-| Vinícius Mendes | 03/12/2023 | 14:40/14:47|
+| Participantes | Data | Horário | Link da Gravação |
+|--------------|-------|---------|------------------|
+| Vinícius Mendes | 03/12/2023 | 14:40/14:47| [Link da gravação](https://youtu.be/fIrZ-4p31M0) |
 
 ## Sugestões de Melhorias
 De acorda com a inspeção feita, foi possível encontrar algumas possíveis melhorias para o artefato em questão, as melhorias serão descritas logo abaixo junto ao ID da verificação:
