@@ -28,7 +28,7 @@ O protótipo de papel apresentado na Figura 1 e 2, ilustram páginas do site do 
 
 A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](https://youtu.be/QaR2__Q8lYw), foi gravada em 22/11 às 8:14. Foi feita de acordo com o [planejamento do relato](./planejamento_relato.md/#preparo) feito pelo grupo.
 
-## Protótipo 2 - 
+## Protótipo 2 - Postagem no fórum Ventoy
 
 O protótipo de papel apresentado na figura 3, ilustra as páginas que serão acessadas para realizar uma postagem no fórum Ventoy.
 
@@ -126,8 +126,6 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 ### Teste Piloto
 
 A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](https://youtu.be/rH3lhLAYO7I), foi gravada em 22/11 às 10:00. Foi feita de acordo com o [planejamento do relato](./planejamento_relato.md/#preparo) feito pelo grupo.
-
-
 
 ## Bibliografia
 

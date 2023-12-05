@@ -4,7 +4,7 @@
 
 Esse artefato é projetado para documentar de maneira abrangente o planejamento que visa descrever os resultados provenientes da avaliação de um protótipo em papel. Seu propósito é abordar todos os elementos fundamentais necessários para a elaboração completa e detalhada desse relatório. Em outras palavras, é um guia abrangente que visa cobrir todos os aspectos essenciais envolvidos na criação do relatório de avaliação do protótipo em papel.
 
-## Metodologia 
+## Metodologia
 
 A seleção da metodologia a ser empregada no planejamento do relatório do protótipo de papel é influenciada pelos objetivos da análise. Conforme discutido na literatura sobre Interação Humano-Computador, existem três abordagens principais: investigação, inspeção e observação, cada uma com suas metodologias distintas. No contexto deste artefato em particular, as opções viáveis restringem-se à observação e à investigação, uma vez que ambas envolvem a interação com os usuários.
 
@@ -59,15 +59,17 @@ Adicionalmente, é fundamental responder às seguintes questões por meio da an�
 
 ### Método de avaliação
 
-O relato deve incluir uma descrição da abordagem metodológica empregada na obtenção dos dados seguindo o [planejamento da avaliação](./planejamento_avaliacao.md), tendo em vista o motivo de ter sido utilizado esse método. Além disso, deve conter quais ferramentas e equipamentos foram utilizados. Os entrevistadores devem seguir o cronograma dado na tabela 1 para apresentarem os dados da entrevista, desde o cronograma planejado até o cronograma executado. 
+O relato deve incluir uma descrição da abordagem metodológica empregada na obtenção dos dados seguindo o [planejamento da avaliação](./planejamento_avaliacao.md), tendo em vista o motivo de ter sido utilizado esse método. Além disso, deve conter quais ferramentas e equipamentos foram utilizados. Os entrevistadores devem seguir o cronograma dado na tabela 1 para apresentarem os dados da entrevista, desde o cronograma planejado até o cronograma executado.
 
 <center>
 
-Tabela 1 - Cronograma 
+**Tabela 1 -** Cronograma
 
 | **Entrevistador(a)** | **Entrevistado** | **Data** | **Horario de início/fim** | **Entrevista** |
 | -------------------- | ---------------- | -------- | ------------------------- | -------------- |
 | [nome](github) | [nome](github) | xx/xx/xx | xx:xx/xx:xx | [entrevista x](youtube) |
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 </center>
 
@@ -86,9 +88,31 @@ A realização das entrevistas não gerará um custo ao entrevistador ou ao usu�
 
 Vale ressaltar que, para que possamos utilizar as ferramentas é necessário um dispositivo com acesso à internet.
 
+### Teste piloto
+
+Para cada relato dos prótotipos deve ter um teste piloto. Assim, todos os integrantes do grupo farão um de acordo com o seu prótotipo de papel. Os testes pilotos foram feitos e estão reunidos na tabela 2.
+
+<center>
+
+**Tabela 2 -** Cronograma testes pilotos
+
+| **Protótipo**                                                                                  | **Entrevista**                       |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------ |
+| [1](./Prototipos.md/#protótipo-1---iniciar-o-uso-do-ventoy)                                    | [Link](https://youtu.be/QaR2__Q8lYw) |
+| [2](./Prototipos.md/#protótipo-2---postagem-no-fórum-ventoy)                                   | [Link](https://youtu.be/bfJcuGFK1ko) |
+| [3](./Prototipos.md/#protótipo-3---acessar-a-página-de-faq-para-consultar-dúvida)              | [Link](https://youtube.com/shorts/_lG3-rFcJ08) |
+| [4](./Prototipos.md/#protótipo-4---acessar-a-página-de-doações-para-realizar-uma-doação)       | [Link](https://youtube.com/) |
+| [5](./Prototipos.md/#protótipo-5---acessar-a-página-de-testes-de-iso-para-verificar-os-testes) | [Link](https://youtu.be/pKw4u7akbbI) |
+| [6](./Prototipos.md/#protótipo-6---acesso-à-página-de-compartilhamento-de-experiências)        | [Link](https://youtube.com/) |
+| [7](./Prototipos.md/#protótipo-7---acesso-à-página-de-plugin)                                  | [Link](https://youtu.be/rH3lhLAYO7I) |
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
+
+</center>
+
 ### Aspectos éticos
 
-É imperativo preservar a privacidade dos participantes, garantindo que no relato suas identidades e opiniões permaneçam confidenciais, sem divulgação pública. Obtendo-se o consentimento explícito dos participantes, é essencial informá-los sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas práticas éticas, mantemos um ambiente de avaliação seguro e respeitoso seguindo todos os critérios estabelecidos no [termo de consertimento](../../../../elicitacao/termoConsertimento.pdf) . No relatório dos resultados da avaliação, é crucial detalhar o processo de solicitação de consentimento, incluindo se os entrevistados concordaram ou não.
+É imperativo preservar a privacidade dos participantes, garantindo que no relato suas identidades e opiniões permaneçam confidenciais, sem divulgação pública. Obtendo-se o consentimento explícito dos participantes, é essencial informá-los sobre o propósito da avaliação e o uso previsto de seus dados. Adotando essas práticas éticas, mantemos um ambiente de avaliação seguro e respeitoso seguindo o [termo de consertimento](../../../../elicitacao/termoConsertimento.pdf). No relatório dos resultados da avaliação, é crucial detalhar o processo de solicitação de consentimento, incluindo se os entrevistados concordaram ou não.
 
 ### Feedback e sugestões de melhorias
 
@@ -100,7 +124,7 @@ O feedback dos usuários também desempenha um papel vital na melhoria contínua
 
 Após feito a avaliação com usuário através da entrevista o entrevistador deve realizar uma análise e interpretação dos resultados obtidos.  Isso envolve examinar cuidadosamente os dados coletados durante a avaliação, identificar padrões, tendências e insights relevantes, e extrair conclusões significativas a partir dessas informações. Contextualizar os resultados dentro do objetivo da avaliação e considerar o impacto dos problemas identificados na usabilidade, na experiência do usuário e nos objetivos estabelecidos. Além disso, deve responder as perguntas levantadas inicialmente.
 
-# Referências Bibliográficas
+# Bibliografia
 
 > Preece, J., Rogers, Y., & Sharp, H. (2005). **Design de interação: Além da interação homem-computador**. Bookman, 2005.
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
@@ -111,3 +135,4 @@ Após feito a avaliação com usuário através da entrevista o entrevistador de
 |--------|---------|-----------|--------|---------|
 |`1.0`| 08/11/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |
 |`1.1`| 08/11/2023 | Adicionando tópicos pendentes |[Mayara Alves](https://github.com/Mayara-tech)  |  [Milena Baruc](https://github.com/MilenaBaruc) |
+| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/) |
