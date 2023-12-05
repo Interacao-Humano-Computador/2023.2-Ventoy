@@ -76,7 +76,7 @@ Ao final de todos os avaliadores terem analisados os dados, é gerado um relató
 
 E ao finalizar a apresentação do relatório a população de usuários, os dados serão apresentados a equipe de desenvolvimento do site.
 
-# Histórico de versões
+# 📑 Histórico de versões
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-----:       | :------       | -------    | -------            |
