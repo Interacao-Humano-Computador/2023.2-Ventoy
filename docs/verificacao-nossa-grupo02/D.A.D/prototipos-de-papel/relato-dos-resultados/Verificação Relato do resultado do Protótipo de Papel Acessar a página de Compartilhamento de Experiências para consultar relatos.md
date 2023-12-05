@@ -45,14 +45,18 @@ Na tabela 2 podemos observar o checklist preenchido após verificação do artef
 
 **Tabela 3** - Checklist Geral
 
-| ID | Critério de Avaliação                           | Avaliação ( Sim/ Não / Não Aplicável )             | Observações                       |
-|----| ------------------------------------------------|----------------------------------------------------|-----------------------------------|
-| 1  | O histórico de versão é padronizado?                                           |     Sim       |            |            
-| 2  | Possui o(s) autor(es) e o(s) revisor(es) do artefato?                          |     Sim       |            |  
-| 3  | O artefato possui referências bibliográficas e/ou bibliografia?                |     Sim       |            |   
-| 4  | Todos os textos estão na norma padrão?                                         |     Sim       |            |   
-| 5  | Há introdução do artefato?                                                     |     Sim       |            | 
-| 6  | Há metodologia de como foi conduzido o artefato?                               |     Sim       |            |
+| ID | Critério de avaliação | Avaliação (Sim/Não/Não aplicável) | Observações |
+|---|----------------------|------------------------------------|---------------|
+|01| A consolidação dos dados do relato dos resultados, utilizou a análise de intersujeito? | | | 
+|02| No relato do resultado foi descrito os objetivos que motivaram a avaliação? | | |
+|03| Os problemas encontrados, foram descritos como tendências de problemas? | | | 
+|04| Se caso não houver problemas encontrados, foi descrito que não pode ser afirmado que o sistema tenha alta qualidade? | | |
+|05| No relato do resultado, foi descrito como a avaliação foi realizada? (Como ocorreu o método de avaliação utilizado) | | | 
+|06| No relato do resultado, foi descrito o número e perfil de usuários e avaliadores que participaram da avaliação? | | |
+|07| No relato do resultado, foi apresentado uma organização dedados coletados? (Como tabelas, gráficos e sumário) | | | 
+|08| No relato do resultado, foi apresentado uma interpretação e análise dos dados? | | |
+|09| No relato do resultado, foi apresentado uma lista dos problemas encontrados? | | | 
+|10| No relato do resultado, foi apresentado um planejamento de sugestões de melhorias para o projeto? | | | 
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
