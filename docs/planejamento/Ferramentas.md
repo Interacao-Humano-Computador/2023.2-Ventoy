@@ -60,8 +60,9 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
 |`1.0` | 27/09/2023 | Criação da página de ferramentas.                       | [Limírio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)|
-|`1.1` | 27/11/2023 | Adicionada descrição detalhada das ferramentas.         | [Altino Arthur](https://github.com/arthurrochamoreira)   | [Revisor 1](https://github.com/revisor1)       |
-|`1.2` | 27/11/2023 | Inclusão de links diretos para as ferramentas na tabela.| [Altino Arthur](https://github.com/arthurrochamoreira)   | [Revisor 1](https://github.com/revisor1)       |
-|`1.3` | 27/11/2023 | Adição da coluna de comparação com outras ferramentas.  | [Altino Arthur](https://github.com/arthurrochamoreira)   | [Revisor 1](https://github.com/revisor1)       |
-|`1.4` | 27/11/2023 | Atualização da introdução.                              | [Altino Arthur](https://github.com/arthurrochamoreira)   | [Revisor 1](https://github.com/revisor1)       |
-|`1.5` | 27/11/2023 | Atualização da Metodologia.                             | [Altino Arthur](https://github.com/arthurrochamoreira)   | [Revisor 1](https://github.com/revisor1)       |
+|`1.1` | 27/11/2023 | Adicionada descrição detalhada das ferramentas.         | [Altino Arthur](https://github.com/arthurrochamoreira)   | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|`1.2` | 27/11/2023 | Inclusão de links diretos para as ferramentas na tabela.| [Altino Arthur](https://github.com/arthurrochamoreira)   | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|`1.3` | 27/11/2023 | Adição da coluna de comparação com outras ferramentas.  | [Altino Arthur](https://github.com/arthurrochamoreira)   | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|`1.4` | 27/11/2023 | Atualização da introdução.                              | [Altino Arthur](https://github.com/arthurrochamoreira)   | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|`1.5` | 27/11/2023 | Atualização da Metodologia.                             | [Altino Arthur](https://github.com/arthurrochamoreira)   |  [Limírio Guimarães](https://github.com/LimirioGuimaraes)  |
+|`2.0` | 05/12/2023 | Correção da página após verificação dos artefatos | [Limírio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)|
