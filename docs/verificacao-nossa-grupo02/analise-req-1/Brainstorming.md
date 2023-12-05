@@ -114,16 +114,14 @@ A figura 1 e 2 apresenta um gráfico com o percentual de respostas conforme, nã
 **Figura 1** - Percentual das respostas obtidas na verificação checklist geral
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/assets/Grafico-HeatREQEspecifico.png" style="width: 45%;">
-Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
-
-
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
 **Figura 2** - Percentual das respostas obtidas na verificação checklist específico
 
 <img src="https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/assets/GraficoEspecPrincipios.png" style="width: 45%;">
 
-Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
 
 
@@ -135,7 +133,7 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equaç
 
 ![Equação](../../assets/equacao.PNG)
 
-Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
+<font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
 </center>
 
