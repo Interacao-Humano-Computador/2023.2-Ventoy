@@ -348,7 +348,7 @@ Na Tabela 17, tem-se o cronograma planejado para todas as atividades da entrega 
 
 > <a id=“RP3” href=“#TEC3”>3.</a> BANCO CENTRAL. Interação Humano Computador. Distrito Federal, 2023. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/>. Acesso em: 06/10/2023.
 
-## 📑 Histórico de versão
+## Histórico de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --             |
