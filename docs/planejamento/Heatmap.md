@@ -28,7 +28,7 @@ Analisando o heatmap detalhado na **Figura 1**, iniciamos uma discussão colabor
 ## Bibliografia 
 > ROCHA, Miguel Mechi Naves et al. Heatmap matrix interativa: uso de recursos de interação para melhorar uma técnica de visualização de dados multidimensionais. 2021. Tese de Doutorado. Dissertação (Mestrado em Tecnologia). Faculdade de Tecnologia, Universidade Estadual de Campinas, Limeira. Acesso em: 24/09/2023
 
-## Histórico de versões 
+## 📑 Histórico de versões 
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
