@@ -55,7 +55,7 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 >YOUTUBE. Disponível em: [YouTube](https://youtube.com). Acesso em: 19 de Set. 2023.</br>
 </br>
 
-## Histórico de Versões
+## 📑 Histórico de Versões
 
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
