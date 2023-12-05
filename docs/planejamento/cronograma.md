@@ -1,8 +1,14 @@
 # Cronograma 
 
 ## Introdução
-O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o planejamento, organização e distribuição das atividades que serão executadas e entregues ao longo do curso "Interação Humano Computador", ministrado pelo professor André Barros de Sales na Universidade de Brasília durante o período letivo de 2023.2. Os cronogramas a seguir foram desenvolvidos com base nas datas de entrega especificadas no plano de ensino^1^ fornecido pelo professor, utilizando também como referência o cronograma de projetos anteriores, tais como a Bilheteria Digital^2^  e o Banco Central do Brasil^3^ .
 
+A elaboração de um cronograma é crucial para qualquer projeto, pois fornece uma estrutura temporal clara, orientando a execução das tarefas e possibilitando uma gestão eficiente do tempo. Ao estabelecer datas de início e conclusão para cada atividade, o cronograma oferece uma visão geral do progresso, contribuindo para evitar atrasos e garantir um acompanhamento efetivo do projeto. O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o planejamento, organização e distribuição das atividades que serão executadas e entregues ao longo do curso "Interação Humano Computador", ministrado pelo professor André Barros de Sales na Universidade de Brasília durante o período letivo de 2023.2. 
+
+
+## Metodologia 
+
+A metodologia adotada para a elaboração do cronograma das etapas de entrega do projeto baseou-se em nas datas de entrega especificadas no plano de ensino^1^ fornecido pelo professor, utilizando também como referência o cronograma de projetos anteriores, tais como a Bilheteria Digital^2^  e o Banco Central do Brasil^3^. Inicialmente, delineamos claramente o escopo do projeto, identificando objetivos de cada entrega. Em seguida, desdobramos essas entregas em atividades e tarefas mais específicas, atribuindo as responsabilidades para cada membro da equipe. A estimativa de duração de cada tarefa foi feita com utilizando os prazos de entrega de cada etapa, deixando uma margem de tempo sempre que possível para futuros imprevistos. 
+Essa abordagem proporcionou não apenas a construção de um cronograma, mas também contribuiu para a organização do projeto ao longo do semestre.
 
 ### Cronograma de entregas
 
