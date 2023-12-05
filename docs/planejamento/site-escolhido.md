@@ -48,7 +48,7 @@ A [Licença do software Ventoy](../assets/Licenca_uso) está sob a GNU GENERAL P
 - BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Elsevier, Rio de Janeiro, 2011.
 - NIELSEN, J., & Molich, R. (1990). Avaliação heurística de interfaces de usuário. Em Anais da conferência SIGCHI sobre Fatores Humanos em Sistemas Computacionais. Disponível em: [ACM Digital Library](https://dl.acm.org/doi/10.1145/97243.97281)
 
-## Histórico de versão
+## 📑 Histórico de versão
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
