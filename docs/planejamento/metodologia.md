@@ -31,8 +31,6 @@ A metodologia XP define um conjunto de cinco valores fundamentais que são a bas
 
 ## 📑 Histórico de versão
 
-<p align="center"><b>Tabela 01</b></p>
-
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-----:       | :------       | -------    | -------            |
 |`1.0`   |27/09/2023 |   Criação da página de metodologia   |  [Breno Queiroz](https://github.com/brenob6)| [Mayara Alves](https://github.com/Mayara-tech) |
