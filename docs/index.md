@@ -7,10 +7,10 @@ Esta página é dedicada à documentação de todos os artefatos produzidos pelo
 
 |![Altino Arthur](https://github.com/arthurrochamoreira.png) |![Breno](https://github.com/brenob6.png)|![Limirio Correia](https://github.com/LimirioGuimaraes.png)|![Luis Eduardo](https://github.com/LuisMiranda10.png)|![Mayara Alves](https://github.com/Mayara-tech.png)|![Milena Baruc](https://github.com/MilenaBaruc.png)|![Vinicius Mendes](https://github.com/yabamiah.png)|
 | - | - | - | - | - | - | - |
-|[Altino Arthur](https://github.com/arthurrochamoreira)|[Breno Queiroz](https://github.com/brenob6)|[Limirio Correia](https://github.com/LimirioGuimaraes)|[Luis Eduardo](https://github.com/LuisMiranda10)|[Mayara Alves](https://github.com/Mayara-tech)|[Milena Baruc](https://github.com/MilenaBaruc)|[Vinicius Mendes](https://github.com/yabamiah)|
+|[Altino Arthur](https://github.com/arthurrochamoreira)|[Breno Queiroz](https://github.com/brenob6)|[Limirio Guimarães](https://github.com/LimirioGuimaraes)|[Luis Eduardo](https://github.com/LuisMiranda10)|[Mayara Alves](https://github.com/Mayara-tech)|[Milena Baruc](https://github.com/MilenaBaruc)|[Vinicius Mendes](https://github.com/yabamiah)|
 
 ## 📑 Histórico de versões:
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 :------: | :----: | :------: | :----------: | :----------:
-`1.0` | 19/09/2023 | Criação da git page | [Mayara Alves](https://github.com/Mayara-tech) | [Altino Arthur](https://github.com/arthurrochamoreira), [Breno Queiroz](https://github.com/brenob6), [Limirio Correia](https://github.com/LimirioGuimaraes), [Luis Eduardo](https://github.com/LuisMiranda10), [Mayara Alves](https://github.com/Mayara-tech), [Milena Baruc](https://github.com/MilenaBaruc) e [Vinicius Mendes](https://github.com/yabamiah)
+`1.0` | 19/09/2023 | Criação da git page | [Mayara Alves](https://github.com/Mayara-tech) | [Altino Arthur](https://github.com/arthurrochamoreira), [Breno Queiroz](https://github.com/brenob6), [Limirio Guimarães](https://github.com/LimirioGuimaraes), [Luis Eduardo](https://github.com/LuisMiranda10), [Milena Baruc](https://github.com/MilenaBaruc) e [Vinicius Mendes](https://github.com/yabamiah)
