@@ -15,22 +15,22 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 
 **Tabela 1** - Checklist não preenchido
 
-| ID | Descrição                                                                                                                      | Avaliação  | Observação                                                             |
-|----|--------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                                                  | -          | -                                                                      |
-| 2  | O artefato possui a metodologia utilizada?                                                                    		      | -          | -                                                                      |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                                                     | -          | -                                                                      |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores?                         | -          | -                                                                      |
-| 5  | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                                   | -          | -                                                                      |
-| 6  | Todos os textos estão na norma padrão?                                       						      | -          | -                                                                      |
-| 7  | O planejamento da avaliação segue o Framework DECIDE?					   				      | -          | -                                                                      |
-| 8  | O artefato descreve os objetivos da avaliação?		                                                                      | -          | -                                                                      |
-| 9  | O artefato descreve os métodos a serem utilizados?		                                                              | -          | -                                                                      |
-| 10  | O artefato descreve os aspectos práticos da avaliação?								              | -          | -  								    |
-| 11  | O artefato descreve os aspectos éticos da avaliação?			   			                              | -          | -  								    |
-| 12  | O artefato descreve as perguntas a serem feitas na avaliação?					                              | -          | -  								    |
-| 13  | O artefato possui um cronograma planejado da avaliação?									      | -          | -  								    |
-| 14  | O artefato apresenta o teste piloto do planejamento da avaliação?							      | -          | -  								    |
+| ID  | Descrição                                                                                                            | Avaliação | Observação                                                  |
+| --- | ---------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------ |
+| 1   | O artefato possui Introdução?                                                                                         | -         | -                                                            |
+| 2   | O artefato possui a metodologia utilizada?                                                                           | -         | -                                                            |
+| 3   | O artefato possui bibliografia/referências bibliográficas?                                                            | -         | -                                                            |
+| 4   | O artefato possui um histórico de versões com o ID e descrição das versões, data, autores e revisores?              | -         | -                                                            |
+| 5   | Todas as tabelas e imagens são chamadas no texto, possuem legendas e fontes?                                       | -         | -                                                            |
+| 6   | Todos os textos estão na norma padrão?                                                                               | -         | -                                                            |
+| 7   | O planejamento da avaliação segue o Framework DECIDE?                                                                | -         | -                                                            |
+| 8   | O artefato descreve os objetivos da avaliação?                                                                       | -         | -                                                            |
+| 9   | O artefato descreve os métodos a serem utilizados?                                                                   | -         | -                                                            |
+| 10  | O artefato descreve os aspectos práticos da avaliação?                                                               | -         | -                                                            |
+| 11  | O artefato descreve os aspectos éticos da avaliação?                                                                  | -         | -                                                            |
+| 12  | O artefato descreve as perguntas a serem feitas na avaliação?                                                         | -         | -                                                            |
+| 13  | O artefato possui um cronograma planejado da avaliação?                                                              | -         | -                                                            |
+| 14  | O artefato apresenta o teste piloto do planejamento da avaliação?                                                     | -         | -                                                            |
 
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
