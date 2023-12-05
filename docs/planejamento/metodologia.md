@@ -29,7 +29,7 @@ A metodologia XP define um conjunto de cinco valores fundamentais que são a bas
 - SWEBOK **SWEBOK V3.0**, IEEE
 - PEREIRA, Paulo; TORREÃO, Paula; MARÇAL, Ana Sofia. Entendendo Scrum para gerenciar projetos de forma ágil. Mundo PM, v. 1, p. 3-11, 2007.
 
-## Histórico de versão
+## 📑 Histórico de versão
 
 <p align="center"><b>Tabela 01</b></p>
 
