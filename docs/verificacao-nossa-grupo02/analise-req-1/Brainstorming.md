@@ -17,11 +17,11 @@ Podemos observar o referido checklist referente a verificação do Cronograma na
 
 | ID | Descrição                                                                                              | Avaliação  | Observação                                                  | Referência           |
 |----|------------------------------------------------------------------------------------------------------- |------------|-------------------------------------------------------------|----------------------|
-| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
-| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
-| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
+| 1  | O artefato possui Introdução?                                                                          |          | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
+| 2  | O artefato possui a metodologia utilizada?                                                             |           | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             |          | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |          | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
+| 5  | Todos os textos estão na norma padrão?                                       			                       |         | -                                                                      |Ventoy. "Ventoy: A New Bootable USB Solution." Ventoy, n.d. Web. 3 de dez. 2023.  [Ventoy](https://www.ventoy.net/en/index.html)                     |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
@@ -52,11 +52,11 @@ Na tabela 3 e 4 podemos observar o checklist preenchido após verificação do a
 
 | ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
 |----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                          | -          | -                                                                      |
-| 2  | O artefato possui a metodologia utilizada?                                                             | -          | -                                                                      |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | -          | -                                                                      |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | -          | -                                                                      |
-| 5  | Todos os textos estão na norma padrão?                                       			                       | -          | -                                                                      |
+| 1  | O artefato possui Introdução?                                                                          | Sim          | -                                                                      |
+| 2  | O artefato possui a metodologia utilizada?                                                             | Sim          | -                                                                      |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             | Sim          | -                                                                      |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? | Sim          | -                                                                      |
+| 5  | Todos os textos estão na norma padrão?                                       			                       | Sim          | -                                                                      |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
@@ -67,12 +67,12 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 | ID | Descrição                                                                                              | Avaliação  | Observação                                                             |
 |----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  | Possui data, horário e local de como ocorreu a sessão?                                       			                       | -          | -                                                                      |
-| 2  | Os usuários se adequam ao perfil pré estabelecido pela equipe?                                       			                       | -          | -                                                                      |
-| 3  | Possui de 8 a 12 usuários finais presentes na sessão de brainstorming?                                       			                       | -          | -                                                                      |
-| 4  | É dialogado com os participantes sobre como funciona e quais os objetivos durante a sessão?                                       			                       | -          | -                                                                      |
-| 5  | A sessão possui um moderador e um secretário?                                       			                       | -          | -                                                                      |
-| 6  | É explicitado de forma clara a função do moderador e do secretário?                                       			                       | -          | -                                                                      |
+| 1  | Possui data, horário e local de como ocorreu a sessão?                                       			                       | Sim          | -                                                                      |
+| 2  | Os usuários se adequam ao perfil pré estabelecido pela equipe?                                       			                       | Sim          | -                                                                      |
+| 3  | Possui de 8 a 12 usuários finais presentes na sessão de brainstorming?                                       			                       | Incompleto          | -                                                                      |
+| 4  | É dialogado com os participantes sobre como funciona e quais os objetivos durante a sessão?                                       			                       | Sim          | -                                                                      |
+| 5  | A sessão possui um moderador e um secretário?                                       			                       | Sim          | -                                                                      |
+| 6  | É explicitado de forma clara a função do moderador e do secretário?                                       			                       | Incompleto          | -                                                                      |
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
@@ -83,20 +83,21 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 | Participantes | Data | Horário | Link da Gravação|
 |--------------|-------|---------|-----------------|
-| Luis Miranda, Vinicius Mendes e Altino Arthur | 04/12/2023 | 00:00/00:00| [Link da Gravação]()  |
+| Luis Miranda, Vinicius Mendes e Altino Arthur | 04/12/2023 | 21:58/22:08| [Link da Gravação](https://youtu.be/f9vA83eivNI)  |
 
 
 ## Sugestões de Melhorias
 
-Foi encontrado  sugestão de melhoria neste artefato, como é mostrado na tabela 6.
+Foi encontrado duas sugestões de melhoria neste artefato, como é mostrado na tabela 6.
 
 <center>
 
-**Tabela 6** - Sugestões de melhoria Checklist - Cronograma
+**Tabela 6** - Sugestões de melhoria Checklist Específico - Cronograma
 
 | ID | Descrição do problema | Sugestão de melhoria |
 | --- | ---------------------| ---------------------- |
-|     |                      |                        |
+|  3   | A sessão contou apenas com 4 usuários, quando na verdade, deveria ter entre 8 e 12 usuários participando da sessão                     |  É importante que tenha o número pré estabelecido de usuários na sessão                     |
+|  6   | Não foi explicitado qual era a função do moderador e do secretário                     |  Se faz necessário uma melhor explicação acerca das funções do moderador e do secretário no documento                      |
 
 <font size="3"><p style="text-align: center">Fonte: <a href="https://github.com/LuisMiranda10">Luis Miranda</a></p></font>
 
