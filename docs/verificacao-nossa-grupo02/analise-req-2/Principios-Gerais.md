@@ -109,7 +109,8 @@ A figura 1 e 2 apresenta um gráfico com o percentual de respostas conforme, nã
 
 **Figura 1** - Percentual das respostas obtidas na verificação checklist geral
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/assets/Grafico-HeatREQEspecifico.png" style="width: 45%;">
+![Figura 1](../../assets/Grafico-HeatREQEspecifico.png)
+
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
@@ -118,7 +119,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 **Figura 2** - Percentual das respostas obtidas na verificação checklist específico
 
-<img src="https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/assets/GraficoEspecPrincipios.png" style="width: 45%;">
+![Figura 2](../../assets/GraficoEspecPrincipios.png)
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
