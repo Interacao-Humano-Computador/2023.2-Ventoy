@@ -12,27 +12,27 @@ A seleção das ferramentas foi um processo reflexivo, fundamentado na experiên
 
 A seguir, a **Tabela 1** detalha as ferramentas que escolhemos para o projeto:
 
-## Ferramentas Utilizadas
+## Ferramentas 
 
 <center>
-**Tabela 1** - Ferramentas Utilizadas no Projeto
+**Tabela 1** - Ferramentas Escolhidas 
 </center>
 
-| Ferramenta | Nome | Finalidade | Comparação |
-|------------|------|------------|------------|
-| ![](../assets/teams.png){width=75} | Microsoft Teams | Utilizado para reuniões virtuais, compartilhamento de documentos e colaboração em tempo real, promovendo comunicação rápida e eficaz. | Alternativas incluem Slack e Zoom para comunicação e colaboração em equipe. |
-| ![](../assets/github.png){width=75} | GitHub | Serve para controle de versão e colaboração em projetos, com rastreamento de alterações e revisão de código, facilitando a colaboração organizada. | Outras opções como Bitbucket e GitLab também oferecem funcionalidades similares de repositório Git. |
-| ![](../assets/figma.png){width=75} | Figma | Ferramenta de design para a criação e colaboração em UI/UX, usada na prototipação de alternativas de design para o site do projeto. | Comparável com Adobe XD e Sketch, mas Figma é preferido por ser baseado em nuvem e facilitar a colaboração. |
-| ![](../assets/mkdocs.png){width=75} | MkDocs | Utilizado para simplificar a criação e manutenção de documentação de projetos de forma organizada e eficiente. | Alternativa ao Sphinx, oferece uma experiência mais direta e suporte a Markdown. |
-| ![](../assets/vscode.png){width=75} | Visual Studio Code | Editor de código para desenvolvimento e documentação, com suporte a extensões e integração com Git. | Sublime Text e Atom são alternativas, mas VSCode é amplamente adotado por sua performance e recursos. |
-| ![](../assets/whatsapp.png){width=75} | WhatsApp | Plataforma de mensagens para comunicação rápida e direta entre membros da equipe. | Telegram e Signal são alternativas, mas WhatsApp é escolhido pela popularidade e facilidade de uso. |
-| ![](../assets/youtube.jpg){width=75} | YouTube | Plataforma para hospedar vídeos de apresentações e reuniões do projeto. | Vimeo é uma alternativa, porém o YouTube tem maior alcance e é gratuito. |
-| ![](../assets/gdrive.png){width=75} | Google Drive | Serviço de compartilhamento e armazenamento de arquivos, utilizado para distribuição de documentos e arquivos de mídia. | Dropbox e OneDrive são alternativas, mas o Google Drive é integrado com outros serviços Google usados. |
-| ![](../assets/thispersondoesntexist.png){width=75} | This Person Does Not Exist | Geração de imagens de personas fictícias para prototipagem e demonstrações. | Não há muitas alternativas diretas, mas serviços de stock photos podem ser usados em seu lugar para personas não geradas por IA. |
-| ![](../assets/excel_logo.png){width=75} | Microsoft Excel | Criação de planilhas para organização de horários e dados do projeto. | Google Sheets é uma alternativa com funcionalidades similares e colaboração em tempo real. |
+| Ferramenta | Nome | Finalidade |
+|------------|------|------------|
+| ![](../assets/teams.png){width=75} | Microsoft Teams | Utilizado para reuniões virtuais, compartilhamento de documentos e colaboração em tempo real, promovendo comunicação rápida e eficaz. |
+| ![](../assets/github.png){width=75} | GitHub | Serve para controle de versão e colaboração em projetos, com rastreamento de alterações e revisão de código, facilitando a colaboração organizada. |
+| ![](../assets/figma.png){width=75} | Figma | Ferramenta de design para a criação e colaboração em UI/UX, usada na prototipação de alternativas de design para o site do projeto. |
+| ![](../assets/mkdocs.png){width=75} | MkDocs | Utilizado para simplificar a criação e manutenção de documentação de projetos de forma organizada e eficiente. |
+| ![](../assets/vscode.png){width=75} | Visual Studio Code | Editor de código para desenvolvimento e documentação, com suporte a extensões e integração com Git. |
+| ![](../assets/whatsapp.png){width=75} | WhatsApp | Plataforma de mensagens para comunicação rápida e direta entre membros da equipe. |
+| ![](../assets/youtube.jpg){width=75} | YouTube | Plataforma para hospedar vídeos de apresentações e reuniões do projeto. |
+| ![](../assets/gdrive.png){width=75} | Google Drive | Serviço de compartilhamento e armazenamento de arquivos, utilizado para distribuição de documentos e arquivos de mídia. |
+| ![](../assets/thispersondoesntexist.png){width=75} | This Person Does Not Exist | Geração de imagens de personas fictícias para prototipagem e demonstrações. |
+| ![](../assets/excel_logo.png){width=75} | Microsoft Excel | Criação de planilhas para organização de horários e dados do projeto. |
 
 <center>
-Fonte: Autores do Grupo 2.
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes). 
 </center>
 
 ## Referência Bibliográficas
