@@ -112,7 +112,7 @@ A figura 1 e 2 apresenta um gráfico com o percentual de respostas Sim, Não, In
 
 **Figura 1** - Percentual das respostas obtidas na verificação checklist geral
 
-<img src="/assets/Grafico-HeatREQEspecifico.png" style="width: 45%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/assets/Grafico-HeatMapREQ.png" style="width: 45%;">
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
@@ -121,7 +121,7 @@ Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 **Figura 2** - Percentual das respostas obtidas na verificação checklist específico
 
-<img src="/assets/Grafico-SiteAvaliado.png" style="width: 45%;">
+<img src="https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/assets/Grafico-SiteAvaliado.png" style="width: 45%;">
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 </center>
