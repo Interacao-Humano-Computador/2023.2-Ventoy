@@ -1,12 +1,12 @@
-# Matriz de Rastreabilidade
+# Relato do resultado do Protótipo de Papel Acessar a página de Compartilhamento de Experiências para consultar relatos
 
 ## Introdução
 
-Este documento é uma verificação do artefato [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pos-rastreabilidade/matriz-geral/) na versão 1.7 de data 20/11/2023, autorado por [Vinícius Mendes](https://github.com/yabamiah), que é integrante do [grupo 02](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito), cujo projeto tem como foco o [Aplicativo Carteira Digital de Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US), o propósito desta verificação é identificar possíveis problemas no artefato.
+Este documento é uma verificação do artefato [Relato do resultado do Protótipo de Papel Acessar a página de Compartilhamento de Experiências para consultar relatos](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pos-rastreabilidade/matriz-geral/) na versão 1.7 de data 20/11/2023, autorado por [Vinícius Mendes](https://github.com/yabamiah), que é integrante do [grupo 02](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito), cujo projeto tem como foco o [Relato do resultado do Protótipo de Papel Acessar a página de Compartilhamento de Experiências para consultar relatos](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR&gl=US), o propósito desta verificação é identificar possíveis problemas no artefato.
 
 ## Metodologia
 
-A verificação do artefato seguirá o [planejamento](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/verificacao/grupo2/planejamentoDaVerificacao.md) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em específico. Podemos observar o referido checklist referente a verificação do Cronograma na Tabela 1, as perguntas foram tiradas da verificação da [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pos-rastreabilidade/matriz-geral/) feita anterirormente pelo grupo.
+A verificação do artefato seguirá o [planejamento](https://github.com/Requisitos-de-Software/2023.2-Carteira_Digital_de_Transito/blob/main/docs/verificacao/grupo2/planejamentoDaVerificacao.md) estabelecido pelo nosso grupo. Conforme detalhado no planejamento, destaca-se a relevância do subtópico da metodologia neste documento, para apresentar a tabela contendo os checklists utilizados para realizar essa verificação deste artefato em específico. Podemos observar o referido checklist referente a verificação do Cronograma na Tabela 1, as perguntas foram tiradas da verificação da [Relato dos Resultados da Avaliação da Análise de tarefas](https://requisitos-de-software.github.io/2023.2-Carteira_Digital_de_Transito/pos-rastreabilidade/matriz-geral/) feita anterirormente pelo grupo.
 
 **Tabela 1** - Checklist Geral
 
@@ -25,12 +25,17 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | ID | Critério de avaliação | Avaliação (Sim/Não/Não aplicável) | Observações | Referências | Imagem da Referência |
 |---|----------------------|------------------------------------|---------------|--------------|-------------|
-|01| A Matriz de Rastreabilidade está sendo representada em uma matriz? | | | Página: 28, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama | ![Screenshot_20231202_192120](Screenshot_20231202_192120.png)| 
-|02| A Matriz de Rastreabilidade contém uma coluna que contém as identificações dos requisitos?| | |  Página: 30, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama | ![Screenshot_20231202_192147](Screenshot_20231202_192147.png) |
-|03| A Matriz de Rastreabilidade contém uma coluna com a descrição do requisito? | | |Página: 30, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama | ![Screenshot_20231202_192147](Screenshot_20231202_192147.png)|
-|04| A Matriz de Rastreabilidade contém uma coluna com artefatos relacionados com a origem do requisito?| | | Página: 30, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama | ![Screenshot_20231202_192147](Screenshot_20231202_192147.png)
-|05| A Matriz de Rastreabilidade contém uma coluna com artefatos que foram gerados a partir dos requisitos?| | |Página: 32, Pós Rastreabilidade. Documento: MILENE SERRANO, MAURÍCIO SERRANO, Requisitos - Aula 26, Universidade de Brasília - Faculdade do Gama| ![Screenshot_20231202_192208](Screenshot_20231202_192208.png) |
-|06| A Matriz de Rastreabilidade contém uma coluna indicando a dependências entre requisitos? |  |  | Página: 13, Capítulo 3. Prática da rastreabilidade de requisitos. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. | ![Screenshot_20231203_143550](Screenshot_20231203_143550.png) |
+|01| A consolidação dos dados do relato dos resultados, utilizou a análise de intersujeito? | | | Página: 311, Capítulo 9. Planejamento da Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010|  ![Alt text](../../../../assets/Screenshot_20231204_141013.png)|
+|02| No relato do resultado foi descrito os objetivos que motivaram a avaliação? | | | Página: 312, Capítulo 9. Planejamento da Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Alt text](../../../../assets/Screenshot_20231204_141138.png)|
+|03| Os problemas encontrados, foram descritos como tendências de problemas? | | | Página: 312, Capítulo 9. Planejamento da Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Alt text](../../../../assets/Screenshot_20231204_141432.png)|
+|04| Se caso não houver problemas encontrados, foi descrito que não pode ser afirmado que o sistema tenha alta qualidade? | | | Página: 312, Capítulo 9. Planejamento da Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Alt text](../../../../assets/Screenshot_20231204_141610.png)|
+|05| No relato do resultado, foi descrito como a avaliação foi realizada? (Como ocorreu o método de avaliação utilizado) | | | Página: 312, Capítulo 9. Planejamento da Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Alt text](../../../../assets/Screenshot_20231204_141735.png)|
+|06| No relato do resultado, foi descrito o número e perfil de usuários e avaliadores que participaram da avaliação? | | | Página: 312, Capítulo 9. Planejamento da Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Alt text](../../../../assets/Screenshot_20231204_141847.png)|
+|07| No relato do resultado, foi apresentado uma organização dedados coletados? (Como tabelas, gráficos e sumário) | | | Página: 312, Capítulo 9. Planejamento da Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Alt text](../../../../assets/Screenshot_20231204_142032.png)|
+|08| No relato do resultado, foi apresentado uma interpretação e análise dos dados? | | |Página: 312, Capítulo 9. Planejamento da Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 | ![Alt text](../../../../assets/Screenshot_20231204_142048.png)|
+|09| No relato do resultado, foi apresentado uma lista dos problemas encontrados? | | | Página: 312, Capítulo 9. Planejamento da Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Alt text](../../../../assets/Screenshot_20231204_142129.png)|
+|10| No relato do resultado, foi apresentado um planejamento desugestões de melhorias para o projeto? | | | Página: 312, Capítulo 9. Planejamento da Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010| ![Alt text](../../../../assets/Screenshot_20231204_142228.png) |
+
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
@@ -55,12 +60,16 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | ID | Critério de avaliação | Avaliação (Sim/Não/Não aplicável) | Observações |
 |---|----------------------|------------------------------------|---------------|
-|01| A Matriz de Rastreabilidade está sendo representada em uma matriz? | Sim  |
-|02| A Matriz de Rastreabilidade contém uma coluna que contém as identificações dos requisitos?|  Sim |
-|03| A Matriz de Rastreabilidade contém uma coluna com a descrição do requisito? |   Sim   |
-|04| A Matriz de Rastreabilidade contém uma coluna com artefatos relacionados com a origem do requisito?|  Sim  |
-|05| A Matriz de Rastreabilidade contém uma coluna com artefatos que foram gerados a partir dos requisitos?|  Sim |
-|06| A Matriz de Rastreabilidade contém uma coluna indicando a dependências entre requisitos? | Não |
+|01| A consolidação dos dados do relato dos resultados, utilizou a análise de intersujeito? | | |
+|02| No relato do resultado foi descrito os objetivos que motivaram a avaliação? | | |
+|03| Os problemas encontrados, foram descritos como tendências de problemas? | | | 
+|04| Se caso não houver problemas encontrados, foi descrito que não pode ser afirmado que o sistema tenha alta qualidade? | | | 
+|05| No relato do resultado, foi descrito como a avaliação foi realizada? (Como ocorreu o método de avaliação utilizado) | | | 
+|06| No relato do resultado, foi descrito o número e perfil de usuários e avaliadores que participaram da avaliação? | | | 
+|07| No relato do resultado, foi apresentado uma organização dedados coletados? (Como tabelas, gráficos e sumário) | | | 
+|08| No relato do resultado, foi apresentado uma interpretação e análise dos dados? | | |Página: 312, Capítulo 9. Planejamento da Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 |
+|09| No relato do resultado, foi apresentado uma lista dos problemas encontrados? | | | 
+|10| No relato do resultado, foi apresentado um planejamento desugestões de melhorias para o projeto? | | | 
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
@@ -68,7 +77,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | Participantes | Data | Horário |
 |--------------|-------|---------|
-| Vinícius Mendes | 03/12/2023 | 14:40/14:47|
+| Vinícius Mendes | 04/12/2023 | 14:40/14:47|
 
 ## Sugestões de Melhorias
 
@@ -83,4 +92,4 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|-------|--------|
-|`1.0`| 03/12/2023| Criação do documento | [Vinícius Mendes](https://github.com/yabamiah)| |
+|`1.0`| 04/12/2023| Criação do documento | [Vinícius Mendes](https://github.com/yabamiah)| |
