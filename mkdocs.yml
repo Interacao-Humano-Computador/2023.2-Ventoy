@@ -98,71 +98,70 @@ nav:
   - Verificação:
     - Grupo 02:
       - Verificação:
-        - Planejamento:
-          - Cronograma:
-          - Ferramentas:
-          - Metodologia:
-          - Políticas:
-          - Heatmap:
-          - Processo design:
-          - Sites avaliados:
-          - Site escolhido:
+        - Planejamento: verificacao-nossa-grupo02/
+          - Cronograma: verificacao-nossa-grupo02/
+          - Ferramentas: verificacao-nossa-grupo02/
+          - Metodologia: verificacao-nossa-grupo02/
+          - Políticas: verificacao-nossa-grupo02/
+          - Heatmap: verificacao-nossa-grupo02/
+          - Processo design: verificacao-nossa-grupo02/
+          - Sites avaliados: verificacao-nossa-grupo02/
+          - Site escolhido: verificacao-nossa-grupo02/
         - Análise de Requisitos I:
-          - Aspectos Éticos:
-          - Perfil de Usuário:
-          - Persona:
-          - Cenários:
+          - Aspectos Éticos: verificacao-nossa-grupo02/
+          - Perfil de Usuário: verificacao-nossa-grupo02/
+          - Persona: verificacao-nossa-grupo02/
+          - Cenários: verificacao-nossa-grupo02/
           - Entrevistas:
             - Lista de verificação: verificacao-nossa-grupo02/entrevista/checklist.md
             - Inspeção: verificacao-nossa-grupo02/entrevista/inspecao.md
         - Elicitação:
-          - Entrevista:
-          - Brainstorming:
-          - Introspecção:
-          - Grupo de foco:
-        - Análise de Tarefas:
-          - Análise Hierárquica de Tarefas - HTA:
-          - ConcurTaskTrees - CTT:
-        - Análise de requisitos II:
-          - Princípios Gerais:
-          - Características Gerais:
-          - Metas de Usabilidade:
-          - Guia de Estilo:
+          - Entrevista: verificacao-nossa-grupo02/
+          - Brainstorming: verificacao-nossa-grupo02/
+          - Introspecção: verificacao-nossa-grupo02/
+          - Grupo de foco: verificacao-nossa-grupo02/
+        - Análise de Tarefas: 
+          - Análise Hierárquica de Tarefas - HTA: verificacao-nossa-grupo02/
+          - ConcurTaskTrees - CTT: verificacao-nossa-grupo02/
+        - Análise de requisitos II: 
+          - Princípios Gerais: verificacao-nossa-grupo02/
+          - Características Gerais: verificacao-nossa-grupo02/
+          - Metas de Usabilidade: verificacao-nossa-grupo02/
+          - Guia de Estilo: verificacao-nossa-grupo02/
         - Design, Avaliação e Desenvolvimento:
           - Nível 1:
             - Storyboard:
-              - Planejamento da Avaliação do Storyboard:
-              - Planejamento do Relato dos Resultados:
-              - Relato dos Resultados do Storyboard:
-              - Storyboards:
+              - Planejamento da Avaliação do Storyboard: verificacao-nossa-grupo02/
+              - Planejamento do Relato dos Resultados: verificacao-nossa-grupo02/
+              - Relato dos Resultados do Storyboard: verificacao-nossa-grupo02/
+              - Storyboards: verificacao-nossa-grupo02/
             - Análise de Tarefas:
-              - Planejamento da Avaliação da Análise de Tarefas:
-              - Planejamento do Relato dos Resultados da Avaliação:
-              - Relato dos Resultados da Avaliação:
+              - Planejamento da Avaliação da Análise de Tarefas: verificacao-nossa-grupo02/
+              - Planejamento do Relato dos Resultados da Avaliação: verificacao-nossa-grupo02/
+              - Relato dos Resultados da Avaliação: verificacao-nossa-grupo02/
           - Nível 2:
-            - Protótipo de Papel:
-              - Planejamento da Avaliação do protótipo de papel:
-              - Planejamento do Relato dos resultados do protótipo de papel:
-              - Protótipos de papel:
-              - Relato dos Resultados:
-                - Criar post no fórum:
-                - Acessar a aba de plugin:
-                - Acessar a página de FAQ para consultar dúvida:
-                - Acessar a página de Testes de ISO para verificar os testes:
-                - Realizar doação:
-                - Acessar a página de Compartilhamento de Experiências para consultar relatos:
-                - Iniciar o uso do Ventoy:
-                  - Iniciar Uso do Ventoy: verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/relato-dos-resultados/iniciar-ventoy.md
+            - Protótipo de Papel: 
+              - Planejamento da Avaliação do protótipo de papel: verificacao-nossa-grupo02/
+              - Planejamento do Relato dos resultados do protótipo de papel: verificacao-nossa-grupo02/
+              - Protótipos de papel: verificacao-nossa-grupo02/
+              - Relato dos Resultados: 
+                - Criar post no fórum: verificacao-nossa-grupo02/
+                - Acessar a aba de plugin: verificacao-nossa-grupo02/
+                - Acessar a página de FAQ para consultar dúvida: verificacao-nossa-grupo02/
+                - Acessar a página de Testes de ISO para verificar os testes: verificacao-nossa-grupo02/
+                - Realizar doação: verificacao-nossa-grupo02/
+                - Acessar a página de Compartilhamento de Experiências para consultar relatos: verificacao-nossa-grupo02/
+                - Iniciar Uso do Ventoy: verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/relato-dos-resultados/iniciar-ventoy.md
           - Nível 3:
             - Protótipo de alta fidelidade:
-              - Planejamento da Avaliação do protótipo de alta fidelidade:
-              - Planejamento do Relato dos resultados do protótipo de alta fidelidade:
-              - Relatos dos Prótotipos de alta fidelidade:
-                - Relato Plugin:
-                - Relato Donation:
-                - Relato Iniciar o uso do Ventoy:
-                - Relato Teste de Iso:
-                - Relato Realizar Postagem no Fórum:
+              - Planejamento da Avaliação do protótipo de alta fidelidade: verificacao-nossa-grupo02/
+              - Planejamento do Relato dos resultados do protótipo de alta fidelidade: verificacao-nossa-grupo02/
+              - Relatos dos Prótotipos de alta fidelidade: 
+                - Relato Plugin: verificacao-nossa-grupo02/
+                - Relato Donation: verificacao-nossa-grupo02/
+                - Relato Iniciar o uso do Ventoy: verificacao-nossa-grupo02/
+                - Relato Teste de Iso: verificacao-nossa-grupo02/
+                - Relato Realizar Postagem no Fórum: verificacao-nossa-grupo02/
                 - Página de FAQ:
                   - Página de FAQ: verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relato-dos-resultados/faq.md
     - Grupo 03:
