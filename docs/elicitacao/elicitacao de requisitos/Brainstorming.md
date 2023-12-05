@@ -29,20 +29,22 @@ Nome| Função|
 
 Em uma sessão de brainstorming, o moderador e o secretário desempenham papéis distintos, ambos essenciais para garantir que o processo seja eficiente, organizado e produtivo.
 
-1. **Moderador:**
+#### **Moderador:**
    - **Facilitação do Processo:** O moderador é responsável por conduzir a sessão de brainstorming, garantindo que ela siga as regras e objetivos estabelecidos.
    - **Estímulo à Participação:** O moderador encoraja todos os participantes a contribuírem, criando um ambiente aberto e receptivo para ideias.
    - **Manutenção do Foco:** Ele assegura que a discussão permaneça centrada no tópico em questão, evitando desvios ou discussões que não estejam alinhadas com os objetivos do brainstorming.
    - **Gestão do Tempo:** Controla o tempo dedicado a cada fase do processo para garantir que todas as etapas sejam concluídas dentro do prazo estabelecido.
    - **Resumo e Recapitulação:** Ao final, o moderador revisa as ideias geradas, destaca os pontos-chave e confirma o entendimento geral.
 
-2. **Secretário:**
+#### **Secretário:**
+
    - **Registro de Ideias:** O secretário é responsável por documentar todas as ideias apresentadas durante o brainstorming. Isso pode ser feito por meio de anotações, registro em um quadro branco, software colaborativo, ou outras formas de documentação.
    - **Organização das Ideias:** Organiza as ideias de maneira clara e compreensível, muitas vezes categorizando-as para facilitar análises posteriores.
    - **Criação de Atas:** Pode ser encarregado de redigir ou resumir as atas da reunião, incluindo as ideias principais, discussões importantes e eventuais conclusões ou próximos passos.
    - **Distribuição da Documentação:** Compartilha as informações coletadas com os participantes após a sessão, garantindo que todos tenham acesso ao resumo das ideias geradas.
 
-3. **Usuários:**
+#### **Usuários:**
+   
    - Em sessões de brainstorming, os usuários desempenham uma função crucial ao gerar uma diversidade de ideias, trazendo perspectivas únicas e colaborando ativamente. Sua participação envolve a geração de ideias inovadoras, a quebra de barreiras criativas, a oferta de feedback construtivo e o comprometimento com as soluções emergentes. A diversidade de experiências contribui para um conjunto mais amplo de ideias, enquanto a colaboração e o engajamento ativo impulsionam a criatividade e a inovação. Os usuários não apenas contribuem com ideias, mas também desempenham um papel na priorização e comprometimento com as soluções resultantes, facilitando a implementação bem-sucedida das ideias geradas.
 
 ## Metodologia
