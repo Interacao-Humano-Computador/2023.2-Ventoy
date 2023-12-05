@@ -15,7 +15,7 @@ Arthur
 |**Início da reunião**| 21:00 | 21:12 |
 |**Fim da reunião**| 21:30 | 22:00 |
 
-**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
+**Fonte:** [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
@@ -36,7 +36,7 @@ Arthur
 | 6.Milena      |:x:                |milenabaruc072@gmail.com       |:fairy:        |
 | 7.Vinícius    |:white_check_mark: |viniciusmendes1019@gmail.com   |:cold_face:    |
 
-**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
+**Fonte:** [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
@@ -51,8 +51,7 @@ Arthur
 | 1 | Analisar as correções necessárias tendo em vista o feedback da entrega 01 |
 | 2 | Divisão das tarefas entre os integrantes para o desenvolvimento dos artefatos da entrega 02 |
 
-**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
-
+**Fonte:** [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
@@ -69,7 +68,7 @@ Arthur
 |        |               |                 |          |
 |        |               |                 |          |
 
-**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
+**Fonte:** [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
@@ -94,7 +93,7 @@ A próxima reunião ficou marcada para o dia 12/10/2023, às 21:00.
 | 4     | Storyboard                                                                                     | Breno e Mayara    | 14/10/2023|
 | 5     | Elicitação de Requisitos                                                                       | Breno, Mayara, Limírio, Luís e Vinicius| 14/10/2023|
 
-**Fonte:** [Limirio Correia](https://github.com/LimirioGuimaraes)
+**Fonte:** [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
@@ -102,4 +101,4 @@ A próxima reunião ficou marcada para o dia 12/10/2023, às 21:00.
 
 | Versão | Data      | Descrição | Autor | Revisor |
 | :-:    | :-----:   | :------   | ----  | ------- |
-| `1.0`  |05/10/2023 | Criação da quarta ata |[Limirio Correia](https://github.com/LimirioGuimaraes)|[Mayara Alves](https://github.com/Mayara-tech) |
+| `1.0`  |05/10/2023 | Criação da quarta ata |[Limirio Guimarães](https://github.com/LimirioGuimaraes)|[Mayara Alves](https://github.com/Mayara-tech) |
