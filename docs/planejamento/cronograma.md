@@ -354,7 +354,7 @@ Na Tabela 17, tem-se o cronograma executado para todas as atividades da oitava e
 
 Na Tabela 18, tem-se o cronograma planejado para todas as atividades da entrega 6.2.
 
-<p align="center"><b>Tabela 18</b> - Entrega 6.2. Verificação dos artefatos </p>
+<p align="center"><b>Tabela 18</b> - Entrega 6.2. Verificação dos artefatos II </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -365,6 +365,24 @@ Na Tabela 18, tem-se o cronograma planejado para todas as atividades da entrega 
 | Cronograma executado                                           	        | Início: 28/11<br>Fim: 29/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino            |   29/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino              |
 
 <font size="3"><p style="text-align: center">Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
+
+### Cronograma executado entrega 6.2.
+
+Na Tabela 19, tem-se o cronograma executado para todas as atividades da entrega 6.2.
+
+<p align="center"><b>Tabela 19</b> - Entrega 6.2. Verificação dos artefatos II </p>
+
+| Atividade                    | Data prevista                                    	      | Período de execuçaõ  | Responsáveis       | Revisão   | Revisor            |
+| ---------------------------------- | --------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos da entrega 8     |       Início: 21/11<br>Fim: 21/11        	            | Início: 30/11<br>Fim: 02/12 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      	     | 02/12  | Mayara, Limírio, Luís, Milena, Vinícius e Altino            |
+| Verificação - Cronograma, Políticas, Aspectos eticos, P0lanejamento da avaliação da analise de tarefas, Prototipo de papel - acessar a pagina de Teste Iso, Planejamento do relato dos resultados do protótipo de alta fidelidade, Protótipo de alta fidelidade - realizar doação          |Início: 22/11<br>Fim: 23/11                 	      | Início: 30/11<br>Fim: 02/12 | Milena      |  02/12   | Mayara |
+| Verificação - Elicitação - entrevista, Relato dos resultados do prototipo de papel - Iniciar uso do Ventoy, Relato dos resultados do prototipo de alta fidelidade - Acessar a página de FAQ para consultar dúvida, Protótipos de alta fidelidade, Características Gerais, Relato do resultado do protótipo de papel - acessar a página de FAQ para consultar dúvida e  realizar doação, Relato do resultado do protótipo de alta fidelidade - Acessar a página de Testes de ISO para verificar os testes.   |Início: 22/11<br>Fim: 23/11               	      | Início: 30/11<br>Fim: 04/12 | Breno      |  04/12  | Limírio |
+| Verificação - Site escolhido, Cenários, Elicitação - introspecção, Guia de estilo, Planejamento da avaliação do storyboard, Planejamento da avaliação do protótipo de papel, Relato do resultado do protótipo de papel - criar post no forum e acessar aba de plugin.  |Início: 22/11<br>Fim: 23/11               	      | Início: 30/11<br>Fim: 02/12 | Limírio    |  02/12  | Milena |
+| Verificação - Metodologia, Grupo de foco, Planejamento do relato dos resultados do Storyboad, Planejamento do relato dos resultados da análise de tarefas, Relato do resultado do protótipo de alta fidelidade - criar post no forum e acessar aba de plugin  |Início: 22/11<br>Fim: 23/11               	      | Início: 30/11<br>Fim: 04/12 | Mayara   |  04/12  | Luis |
+| Gravação da apresentação      | Início: 28/11<br>Fim: 29/11       |   Início: 04/12<br>Fim: 04/12                         	  | Limírio, Breno, Luís, Milena, Vinícius e Altino             |   04/12  | Limírio, Breno, Luís, Milena, Vinícius e Altino           |
+| Cronograma executado                |   28/11<br>Fim: 29/11              	        | Início: 05/12 <br>Fim: 05/12 |Mayara          |  05/12  |  Vinícius     |
+
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 ## Referências Bibliográficas
 
