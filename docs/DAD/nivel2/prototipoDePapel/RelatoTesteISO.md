@@ -70,7 +70,7 @@ Abaixo a tabela 3, mostra as respostas das perguntas abaixo, que foram registrad
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
-As respostas a essas perguntas podem ser vistas [aqui](https://youtu.be/NQdwb7WBXrY)
+As respostas a essas perguntas podem ser vistas [aqui](https://youtu.be/NQdwb7WBXrY).
 </center>
 
 Ao longo do procedimento, o usuário continuou a comunicar claramente suas ações e suas intenções subsequentes. Em nenhum momento, ele demonstrou estar perdido ou confuso em relação ao próximo passo a ser tomado.
@@ -94,3 +94,5 @@ A respostas às perguntas, começa no minuto 1:38, são apresentadas ao final da
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 22/11/2023 | Criação do documento | [Luis Miranda](https://github.com/LuisMiranda10)  | [Mayara Alves](https://github.com/Mayara-tech) |
+|`1.1`| 22/11/2023 | Correção da página de Relato de Teste de ISO | [Luis Miranda](https://github.com/LuisMiranda10)  |  |
+
