@@ -4,7 +4,7 @@
 O planejamento do relato dos resultados na análise de tarefas é uma etapa crucial em processos de avaliação e melhoria de desempenho, no qual foi baseado no planejamento da avaliação da Análise de tarefas e no livro Interação Humano-Computador, de Barbosa e Silva. Este processo envolve a investigação detalhada e sistemática dos dados coletados por um indivíduo ou equipe durante a fase de **análise de tarefas**, visando entender como as tarefas são executadas, identificar lacunas, otimizar procedimentos e melhorar a produtividade.
 
 ## Metodologia
-Os elementos de avaliação são:
+A metodologia ser baseada sera a do DECIDE (Definir, Especificar, Coletar, Interpretar, Documentar e Executar), no qual ajuda para um aumento na melhoria da usabilidade do site do Ventoy. Os elementos de avaliação desse planejamento são:
 - Objetivo e escopo da avaliação;
 - Método;
 - Participantes e avaliadores;
