@@ -60,16 +60,12 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | ID | Critério de avaliação | Avaliação (Sim/Não/Não aplicável) | Observações |
 |---|----------------------|------------------------------------|---------------|
-|01| A consolidação dos dados do relato dos resultados, utilizou a análise de intersujeito? | | |
-|02| No relato do resultado foi descrito os objetivos que motivaram a avaliação? | | |
-|03| Os problemas encontrados, foram descritos como tendências de problemas? | | | 
-|04| Se caso não houver problemas encontrados, foi descrito que não pode ser afirmado que o sistema tenha alta qualidade? | | | 
-|05| No relato do resultado, foi descrito como a avaliação foi realizada? (Como ocorreu o método de avaliação utilizado) | | | 
-|06| No relato do resultado, foi descrito o número e perfil de usuários e avaliadores que participaram da avaliação? | | | 
-|07| No relato do resultado, foi apresentado uma organização dedados coletados? (Como tabelas, gráficos e sumário) | | | 
-|08| No relato do resultado, foi apresentado uma interpretação e análise dos dados? | | |Página: 312, Capítulo 9. Planejamento da Avaliação de IHC. Livro: SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010 |
-|09| No relato do resultado, foi apresentado uma lista dos problemas encontrados? | | | 
-|10| No relato do resultado, foi apresentado um planejamento desugestões de melhorias para o projeto? | | | 
+|01| A Matriz de Rastreabilidade está sendo representada em uma matriz? | Sim  |
+|02| A Matriz de Rastreabilidade contém uma coluna que contém as identificações dos requisitos?|  Sim |
+|03| A Matriz de Rastreabilidade contém uma coluna com a descrição do requisito? |   Sim   |
+|04| A Matriz de Rastreabilidade contém uma coluna com artefatos relacionados com a origem do requisito?|  Sim  |
+|05| A Matriz de Rastreabilidade contém uma coluna com artefatos que foram gerados a partir dos requisitos?|  Sim |
+|06| A Matriz de Rastreabilidade contém uma coluna indicando a dependências entre requisitos? | Não |
 
 Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
@@ -77,7 +73,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 | Participantes | Data | Horário |
 |--------------|-------|---------|
-| Vinícius Mendes | 04/12/2023 | 14:40/14:47|
+| Vinícius Mendes | 03/12/2023 | 14:40/14:47|
 
 ## Sugestões de Melhorias
 
