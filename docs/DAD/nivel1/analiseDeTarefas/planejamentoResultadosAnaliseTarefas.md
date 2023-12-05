@@ -5,13 +5,13 @@ O planejamento do relato dos resultados na análise de tarefas é uma etapa cruc
 
 ## Metodologia
 Os elementos de avaliação são:
-Objetivo e escopo da avaliação;
-Método;
-Participantes e avaliadores;
-Sumário dos dados coletados;
-Análise e interpretação de dados;
-Listagem de dificuldades encontradas;
-Reprojeto do sistema;
+- Objetivo e escopo da avaliação;
+- Método;
+- Participantes e avaliadores;
+- Sumário dos dados coletados;
+- Análise e interpretação de dados;
+- Listagem de dificuldades encontradas;
+- Reprojeto do sistema;
 
 ## Relato dos resultados
 
@@ -31,11 +31,12 @@ Abaixo, como pode ser visto na tabela 1, temos o nosso exemplo de um cronograma 
 
 | Data | Local | Horário| Ator da avaliação |  Receptor da avaliação |
 | ---- | ------- | -------- | ----------------- | ---------------------- |
+| dd/mm/aaaa | xxxxx | xx:xx | [nome do ator da avaliação]() | [nome do receptor da avaliação]() |
 
 <p><b>Fonte:</b> Autores, 2023.</p>
 
 ### Participantes e avaliadores
-No relato de resultados deve incluir a quantidade de usuários e os seus perfis (nome, idade, curso, semestre, faculdade), no qual devem estar alinhados com o [perfil de usuário]() já pré estabelecido pelo grupo, e também os avaliadores e os seus papéis durante a avaliação.
+No relato de resultados deve incluir a quantidade de usuários e os seus perfis (nome, idade, curso, semestre, faculdade), no qual devem estar alinhados com o [perfil de usuário](https://interacao-humano-computador.github.io/2023.2-Ventoy/elicitacao/PerfilUsuario/) já pré estabelecido pelo grupo, e também os avaliadores e os seus papéis durante a avaliação.
 
 ### Sumário de dados
 Neste item, os avaliadores que participaram da avaliação devem apresentar de forma organizada, resumida e clara os dados coletados, incluindo tabelas e gráficos (indicando a fonte dos dados inseridos na tabela).
@@ -44,10 +45,10 @@ Neste item, os avaliadores que participaram da avaliação devem apresentar de f
 Após a apresentação dos dados coletados, neste item deve ser apresentada uma resenha da interpretação dos dados, para que assim possamos extrair o máximo de proveito dos dados coletados.
 
 ### Problemas encontrados
-Durante a avaliação, o usuário irá encontrar problemas, seja do sistema ou da análise de tarefas, e será neste tópico onde iremos listar todos esses problemas encontrados.
+Durante a avaliação, o usuário irá encontrar problemas, seja do sistema ou da análise de tarefas, e será neste tópico onde iremos listar todos esses problemas encontrados de forma minuciosa e clara.
 
 ### Reprojeto do sistema
-Neste item, os avaliadores irão com ajuda da bagagem de dados coletados, interpretados e problemas encontrados, planejar e propor sugestões para o melhoramento do sistema.
+Neste item, os avaliadores irão com ajuda da bagagem de dados coletados, interpretados e problemas encontrados, planejar e propor sugestões para o melhoramento do sistema, mantendo a base do projeto.
 
 ## Bibliografia
 
