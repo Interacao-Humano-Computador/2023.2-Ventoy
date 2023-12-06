@@ -73,3 +73,4 @@ A maior facilidade que tive durante toda a disciplina foi a integração entre t
 | `1.0`  | 25/11/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
 | `1.1`  | 25/11/2023 | Adição no documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
 | `1.2`  | 25/11/2023 | Adição no Documento | [Vinicius Mendes](https://github.com/yabamiah.png) | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.3`  | 25/11/2023 | Adição no Documento | [Altino Arthur](https://github.com/arthurrochamoreira) | [Milena Baruc](https://github.com/MilenaBaruc) |
