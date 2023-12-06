@@ -38,7 +38,6 @@ E para ajudar na etapa de decisão por consenso, foi necessário levantarmos cri
 - Interface divergente dos padrões da disciplina ☑
 - Nível adequado de complexidade ☑
 
-
 Com base nos critérios estabelecidos, o site [Ventoy](https://www.ventoy.net/en/index.html) era um dos concorrentes a ser escolhido. E para a escolha definitiva foram elavancadas mais algumas razões para o motiva da escolha, que serão apresentados logo abaixo:
 
 ### Principais Razões para a Escolha:
