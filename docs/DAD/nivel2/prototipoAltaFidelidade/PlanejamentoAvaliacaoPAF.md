@@ -123,9 +123,9 @@ As informações referêntes ao cronograma de realização do teste piloto do pr
 |-------------------| ------------ | ----------------- | -------------- | ---- | -------------------|  ------------------ | 
 | [Milena Baruc](https://github.com/MilenaBaruc) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) | 19:00 | 19:08 | 29/11/2023 | [Teste Piloto](https://www.youtube.com/watch?v=AYdRs3hq6C0) | Plugin
 |[Limírio Guimarães](https://github.com/LimirioGuimaraes)  | [Milena Baruc](https://github.com/MilenaBaruc) |19:08 | 19:15 | 29/11/2023 |[Teste Piloto](https://www.youtube.com/watch?v=YGbi7uaO5W0)| Realizar doação na página de doações
-| [Vinícius Mendes](https://github.com/yabamiah) |  [Luis Eduardo](https://github.com/LuisMiranda10)  |      18:35      |     18:40     | 29/11/2023 | [Entrevista](https://www.youtube.com/watch?v=pXOqH-BSg4k) | Iniciar o uso do Ventoy
-| [Luis Eduardo](https://github.com/LuisMiranda10) | [Vinícius Mendes](https://github.com/yabamiah) | 18:26 | 18:31 | 29/11/2023| [Entrevista](https://www.youtube.com/watch?v=agW5zPFxi5o) |  Realização de Testes de Iso
-| [Mayara Alves](https://github.com/Mayara-tech) |   [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | 22:20     |   22:25             | 01/12/2023     | [Entrevista](https://www.youtube.com/watch?v=6at)   | Acessar a página de FAQ para consultar dúvida
+| [Vinícius Mendes](https://github.com/yabamiah) |  [Luis Eduardo](https://github.com/LuisMiranda10)  |      18:35      |     18:40     | 29/11/2023 | [Teste Piloto](https://www.youtube.com/watch?v=pXOqH-BSg4k) | Iniciar o uso do Ventoy
+| [Luis Eduardo](https://github.com/LuisMiranda10) | [Vinícius Mendes](https://github.com/yabamiah) | 18:26 | 18:31 | 29/11/2023| [Teste Piloto](https://www.youtube.com/watch?v=agW5zPFxi5o) |  Realização de Testes de Iso
+| [Mayara Alves](https://github.com/Mayara-tech) |   [Limírio Guimarães](https://github.com/LimirioGuimaraes)  | 22:20     |   22:25             | 01/12/2023     | [Teste Piloto](https://www.youtube.com/watch?v=6at)   | Acessar a página de FAQ para consultar dúvida
 | [Breno Queiroz](https://github.com/brenob6) | -  | -  |   -     | - | - | Fazer postagem no fórum
 |  [Altino Arthur](https://github.com/arthurrochamoreira)                 |   -   |     -     |     -    |  -  |    -          | Compartilhamento de Experiências
 
