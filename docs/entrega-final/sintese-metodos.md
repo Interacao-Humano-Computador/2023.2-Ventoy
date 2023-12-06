@@ -1,4 +1,4 @@
-# Métodos e Técnicas Utilizados no Projeto
+# Síntese de Métodos e Técnicas Utilizados no Projeto
 
 ## Introdução
 
