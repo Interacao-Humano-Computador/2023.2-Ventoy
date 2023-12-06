@@ -33,8 +33,11 @@ O documento vai ser dividido entre os nomes dos participantes do grupo e em cada
 
 ### Dificuldades
 
+Uma das maiores dificuldades que tive durante o desenvolver da disciplina foi a falta de tempo e organização das tarefas entre todas as outras disciplinas que também realizo, o que me trouxa dificuldade em realizar algumas atividades e acompanhar o estudo junto com a turma. Outra dificuldade que acabou afetando acho que não só a mim, mas a todos é a falta de um horário livre em comum para nos reunirmos, e isso em conjunto com prazos curtos e atividades difíceis acabava dificultando bastante.
+
 ### Facilidades
 
+A maior facilidade que tive durante toda a disciplina foi a integração entre todos os membros do grupo, o que tornou a realizaao das atividades e das reuniões mais dinâmicas e leves, às vezes faltava um pouco de organização no começo, mas do meio para o final da disciplina conseguimos dividir as tarefas de maneira proveitosa para todos. E outro facilidade foi as aulas dinâmicas do professor que facilitou na aprendizagem de conceitos e técnicas que ajudou no desenvolvemento de algumas atividades e possívelmente em experiências fora da disciplina também.
 
 ## Breno Queiroz
 
