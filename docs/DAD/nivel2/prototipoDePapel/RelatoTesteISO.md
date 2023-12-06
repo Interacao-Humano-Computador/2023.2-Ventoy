@@ -94,5 +94,5 @@ A respostas às perguntas, começa no minuto 1:38, são apresentadas ao final da
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 22/11/2023 | Criação do documento | [Luis Miranda](https://github.com/LuisMiranda10)  | [Mayara Alves](https://github.com/Mayara-tech) |
-|`1.1`| 22/11/2023 | Correção da página de Relato de Teste de ISO | [Luis Miranda](https://github.com/LuisMiranda10)  |  |
+|`1.1`| 22/11/2023 | Correção da página de Relato de Teste de ISO | [Luis Miranda](https://github.com/LuisMiranda10)  | [Breno](https://github.com/Brenob6)  |
 
