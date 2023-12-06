@@ -127,7 +127,7 @@ Após a análise dos resultados obtidos identificamos o seguinte perfil para os 
 - **Gênero:** Predominantemente masculino.<br>
 - **Idade:** Entre 25 e 34 anos.<br>
 - **Experiência:** Elevada com dispositivos tecnológicos.<br>
-- **Atitudes:** Inclinados à tecnologia.<br>
+- **Atitudes:** Tecnófilos.<br>
 - **Tarefas primárias:** Criação de pen-drives bootáveis.<br>
 
 ## Referências
