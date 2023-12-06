@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Um protótipo é um esboço de produto ou serviço que busca visualizar uma ideia, entender comportamentos ou testar soluções. Ele é resultado de descobertas feitas em fases anteriores, sendo sustentado por hipóteses a serem testadas antes da construção do produto final. No caso do prótotipo de papel é de baixa a média fidelidade, o que é útil para designers e desenvolvedores visualizarem e ajustarem coisas de forma prática, economizando tempo e recursos.
+Um protótipo é um esboço de produto ou serviço que busca visualizar uma ideia, entender comportamentos ou testar soluções. Ele é resultado de descobertas feitas em fases anteriores, sendo sustentado por hipóteses a serem testadas antes da construção do produto final. No caso do prótotipo de papel é de baixa a média fidelidade. Cada integrante do grupo deve adicionar a esse artefato o seu prótotipo e o teste piloto.
 
 ## Metodologia 
 
@@ -46,7 +46,7 @@ O protótipo de papel apresentado na Figura 1 e 2, ilustram páginas do site do 
 
 A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](https://youtu.be/QaR2__Q8lYw), foi gravada em 22/11 às 8:14. Foi feita de acordo com o [planejamento do relato](./planejamento_relato.md/#preparo) feito pelo grupo.
 
-## Protótipo 2 - Realizar postagem no fórum
+## Protótipo 2 - Postagem no fórum Ventoy
 
 O protótipo de papel apresentado na figura 3, ilustra as páginas que serão acessadas para realizar uma postagem no fórum Ventoy.
 
@@ -62,8 +62,7 @@ Fonte: [Breno Queiroz](https://github.com/brenob6)
 
 ### Teste-Piloto
 
-O teste-piloto do protótipo em questão foi gravado no dia 20/11/ às 20:00. 
-Para acessar o vídeo basta [clicar aqui](https://youtu.be/bfJcuGFK1ko). 
+A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](https://youtu.be/bfJcuGFK1ko), foi gravada em 20/11 às 20:00. Foi feita de acordo com o [planejamento do relato](./planejamento_relato.md/#preparo) feito pelo grupo.
 
 ## Protótipo 3 - Acessar a página de FAQ para consultar dúvida
 
@@ -97,8 +96,8 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
-
 ## Protótipo 5 - Acessar a página de Testes de ISO para verificar os testes
+
 O prótotipo de papel apresentado na figura 6, ilustra uma das páginas do site Ventoy, referente a página de [testes de ISO](https://www.ventoy.net/en/isolist.html).
 
 <center>
@@ -145,8 +144,6 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 
 A partir disso, foi feito um testo piloto para verificar o funcionamento do processo, antes de irmos para a entrevista e relato sobre o protótipo descrito. Além disso, o teste piloto permite testar os instrumentos, garantir que cada um renderá resultados próprios para responder as perguntas de pesquisa; antever resultados; avaliar a viabilidade e utilidade dos métodos de coleta em cada fase de execução; revisar e aprimorar os pontos necessários. Para acessa-lá basta [clicar aqui](https://youtu.be/rH3lhLAYO7I), foi gravada em 22/11 às 10:00. Foi feita de acordo com o [planejamento do relato](./planejamento_relato.md/#preparo) feito pelo grupo.
 
-
-
 ## Bibliografia
 
 > PREECE, Rogers Sharp **Design de Interação - Além da interação homem-computador** Bookman <br/>
@@ -163,3 +160,4 @@ A partir disso, foi feito um testo piloto para verificar o funcionamento do proc
 |`1.5`| 22/11/2023 | Adicionando protótipo 2 | [Breno Queiroz](https://github.com/brenob6)      | [Mayara Alves](https://github.com/Mayara-tech)   |
 |`1.6`| 22/11/2023 | Adicionando protótipo 6 | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinicius Mendes](https://github.com/yabamiah)  |
 |`1.7`| 05/12/2023 | Adicionando metodologia | [Mayara Alves](https://github.com/Mayara-tech)| [Breno Queiroz](https://github.com/brenob6)  |
+| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/) |

@@ -6,9 +6,15 @@ A avaliação de protótipos de alta fidelidade é essencial para identificar e 
 
 ## Método da avaliação
 
-O método de avaliação adotado está sendo descrito no [Planejamento do Relato de Resultados da Avaliação do Protótipo de Alta Fidelidade](./PlanejamentoRelatoPrototipoAltaFidelidade.md). Na tabela 1, temos o cronograma executado do relato.
+O método de avaliação adotado está sendo descrito no [Planejamento do Relato de Resultados da Avaliação do Protótipo de Alta Fidelidade](./PlanejamentoRelatoPrototipoAltaFidelidade.md). Na tabela 1, temos o cronograma executado do relato e na figura 1 temos o prótotipo em questão.
 
 <center>
+
+**Figura 1 -** Prótotipo de alta fidelidade da aba Plugin
+
+![Plugin 1](../../../assets/plugin/Desktop-plugin-page.png)
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 **Tabela 1** - Cronograma Executado
 
@@ -178,7 +184,36 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 ## Análise e interpretação dos resultados
 
-De acordo com a análise dos resultados das entrevistas feitas, foi possível visualizar que o link para ir para a aba de documentação deve ficar mais visível ao usuário, assim como melhorar o design para que fique "bonito aos olhos. Com essa interpretação, podemos ver que os usuários querem as melhorias indicadas, porém não os atrapalhou durante o fluxo de navegação do protótipo de alta fidelidade. 
+De acordo com a análise dos resultados das entrevistas feitas, foi possível visualizar que o link para ir para a aba de documentação deve ficar mais visível ao usuário, assim como melhorar o design para que fique "bonito aos olhos. Com essa interpretação, podemos ver que os usuários querem as melhorias indicadas, porém não os atrapalhou durante o fluxo de navegação do protótipo de alta fidelidade. <br>
+<br>
+Respostas as perguntas apresentadas no tópico de objetivos da avaliação:<br>
+<br>
+
+1. Foram identificadas sugestões de melhoria para o protótipo proposto?
+
+* Sim, arrumar o design e melhorar o link para ir à documentação.
+
+2. Foi possível identificar problemas de usabilidade preliminares?
+
+* Não, a usabilidade dos usuários foi considerável.
+
+## Conclusão
+
+A partir da análise da realização da tarefa pelos usuários, foi possível identificar que a interface fornece os elementos necessários para a realização da tarefa, no entanto precisam de algumas melhorias localizadas no tópico acima. Assim necessitando de um retrabalho.
+
+### Retrabalho
+
+De acordo com os resultados obtidos durante as entrevistas, será feito um retrabalho no dia 05/12, a melhora do Prótotipo de Alta Fidelidade está localizado na figura 2.
+
+<center>
+
+**Figura 2 -** Prótotipo retrabalhado
+
+![Plugin 1](../../../assets/plugin/Desktop-plugin-page-corrigido.png)
+
+Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
+
+</center>
 
 ## Referências Bibliográficas
 
@@ -189,3 +224,4 @@ De acordo com a análise dos resultados das entrevistas feitas, foi possível vi
 | **Versão** | **Data** | **Descrição** | **Autor**| **Revisor** |
 |------------|----------|---------------|----------|-------------|
 |`1.0`| 29/11/2023 | Criação do documento|[Milena Baruc](https://github.com/MilenaBaruc) | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | 
+| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/) |

@@ -21,7 +21,7 @@ O site Ventoy é uma plataforma de código aberto que oferece uma série de cara
 - Prints;
 - Informações sobre o site e de contato.
 
-A respeito das tecnologias utilizadas no sistema, por ser um site de código aberto, pudemos visualizar em seu [código fonte no github](https://github.com/ventoy/Ventoy) (Visualizado em: 23 out. 2023) que as tecnologias mais utilizadas são: C (84.4%), Shell(5.4%), HTML(3.1%), C++(2.1%), CSS(1.3%) e Makefile(1.2%). 
+A respeito das tecnologias utilizadas no sistema, por ser um site de código aberto, pudemos visualizar em seu [código fonte no github](https://github.com/ventoy/Ventoy)¹ que as tecnologias mais utilizadas são: C (84.4%), Shell(5.4%), HTML(3.1%), C++(2.1%), CSS(1.3%) e Makefile(1.2%).
 
 ## Limites
 
@@ -38,17 +38,19 @@ O site [Ventoy](https://www.ventoy.net/en/index.html) não estabelece limites es
 - Há páginas com difentes estéticas: O fórum do Ventoy é em um formato totalmente diferente das outras abas, o que pode ocasionar desentimentos pelo usuário;
 - Apenas há duas línguas disponíveis para a utilização do site: por estarmos falando de uma ferramenta de criação de unidades USB inicializáveis, é utilizada em diversos lugares do mundo.
 
-É importante observar que, embora o Ventoy seja uma ferramenta útil para criar unidades USB inicializáveis com várias imagens ISO, ele pode não ser isento de problemas ou desafios, e os usuários podem encontrar entraves específicos, especialmente em cenários complexos ou situações específicas. 
+É importante observar que, embora o Ventoy seja uma ferramenta útil para criar unidades USB inicializáveis com várias imagens ISO, ele pode não ser isento de problemas ou desafios, e os usuários podem encontrar entraves específicos, especialmente em cenários complexos ou situações específicas.
+
+## Referências Bibliográficas
+
+**1.** GitHub - ventoy/Ventoy: A new bootable USB solution. Github. https://github.com/ventoy/Ventoy#document. Acesso em: 23/10/2023. <br/>
 
 ## Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. <br/>
 
-## Referências Bibliográficas
-
-> GitHub - ventoy/Ventoy: A new bootable USB solution. Github. https://github.com/ventoy/Ventoy#document. Acesso em: 23/10/2023. <br/>
-
 ## 📑 Histórico de Versões
+
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 23/10/2023 | Criação da página de características gerais | [Milena Baruc](https://github.com/MilenaBaruc)| [Mayara Alves](https://github.com/Mayara-tech)|
+| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/) |

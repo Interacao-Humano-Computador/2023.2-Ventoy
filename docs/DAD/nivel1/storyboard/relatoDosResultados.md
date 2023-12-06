@@ -20,7 +20,7 @@ O Storyboard em questão pode ser visto aqui [Storyboard 1](https://interacao-hu
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Breno Queiroz](https://github.com/brenob6) | Samuel Gomes|20:40  |     15:44      | 08/11/2023 | Discord |
+| [Breno Queiroz](https://github.com/brenob6) | Samuel Gomes|15:40  |     15:44      | 08/11/2023 | Discord |
 
 **Fonte** - [Breno Queiroz](https://github.com/brenob6)
 
