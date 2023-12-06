@@ -21,6 +21,35 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
+### Download
+As figura 2, 3 e 4 apresentam o protótipo de alta fidelidade do download.
+
+<center>
+
+**Figura 02**: Protótipo de alta fidelidade da página de download;
+
+![main-page](../../assets/prototipos-figma/download1.png)
+
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+
+**Figura 03**: Protótipo de alta fidelidade da página de download/linux;
+
+![main-page](../../assets/prototipos-figma/download2.png)
+
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+
+**Figura 04**: Protótipo de alta fidelidade da página de downloado/linux após clicar no download de uma versão;
+
+![main-page](../../assets/prototipos-figma/download3.png)
+
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
+
+
+
+
+
 ## Referência Bibliográficas
 
 > 1. FIGMA. Disponível em: [Figma](https://www.figma.com/). Acesso em: 22 de Nov. 2023.</br>
