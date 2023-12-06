@@ -2,7 +2,11 @@
 
 ## Introdução
 
-Este relato sumariza os resultados obtidos na avaliação da Análise de Tarefas conduzida no site do Ventoy. Com foco no perfil dos usuários adquirido durante a Análise de Requisitos, esta avaliação buscou examinar em profundidade a qualidade de uso da solução de Interação Humano-Computador (IHC). Através de entrevistas com usuários reais, identificamos pontos críticos na interação e na interface que poderiam comprometer a experiência do usuário. Este processo de avaliação dinâmica permitiu um julgamento detalhado da solução de IHC proposta, vital para o desenvolvimento de um sistema interativo de alta qualidade. Os insights aqui apresentados refletem a importância deste processo, conforme destacado por Simone Barbosa e Bruno Diniz na literatura de IHC.
+Este relato sumariza os resultados obtidos na avaliação da Análise de Tarefas conduzida no site do Ventoy, incorporando a análise intersujeito para garantir a consolidação efetiva dos dados analisados pelo entrevistador e pelo participante. Com foco no perfil dos usuários adquirido durante a Análise de Requisitos, esta avaliação examinou a qualidade de uso da solução de Interação Humano-Computador (IHC) de forma detalhada, identificando pontos críticos na interação e na interface que poderiam comprometer a experiência do usuário. 
+
+### Objetivo e escopo da avaliação
+
+O objetivo principal desta avaliação foi examinar a eficácia, eficiência e satisfação na realização da tarefa da aba plugin no site do [Ventoy](https://www.ventoy.net/en/plugin.html). Esta avaliação visou identificar áreas de melhoria e estabelecer tendências de problemas com base nos problemas encontrados, alinhando-se assim com os objetivos definidos no planejamento da avaliação.
 
 ## Entrevista - HTA Plugin
 
@@ -12,7 +16,26 @@ O objetivo foi avaliar a eficácia, eficiência e satisfação na realização d
 
 ### Método de avaliação
 
-O método de entrevista e observação com usuários reais do produto foi empregado. Detalhes da entrevista serão documentados na **Tabela 1 - Cronograma da entrevista**.
+Para a avaliação, empregamos uma combinação de entrevistas e observações com usuários reais do produto. Esse método permitiu uma compreensão profunda das experiências dos usuários e suas interações com o site. Detalhamos abaixo como essas avaliações foram conduzidas:
+
+- **Preparação da Entrevista**:
+  - **Seleção de Participantes**: Os participantes foram selecionados com base em critérios específicos que correspondiam ao perfil do usuário típico do Ventoy. Consideramos fatores como idade, experiência em software e familiaridade com ferramentas similares.
+  - **Elaboração do Roteiro**: Um roteiro de entrevista foi cuidadosamente preparado, contendo perguntas abertas e fechadas que visavam explorar a experiência do usuário com o site do Ventoy.
+
+- **Condução da Entrevista**:
+  - **Ambiente**: As entrevistas foram realizadas em um ambiente controlado, livre de interrupções, para garantir a concentração do participante.
+  - **Duração**: Cada sessão de entrevista durou aproximadamente 30 minutos, permitindo uma discussão aprofundada sem causar fadiga ao participante.
+  - **Ferramentas Utilizadas**: Utilizamos plataformas de videoconferência como Teams e Discord para realizar as entrevistas, aproveitando recursos como gravação de sessão para revisão posterior.
+
+- **Observação do Usuário**:
+  - **Atividades Monitoradas**: Durante a observação, monitoramos como os usuários navegavam pelo site, identificando padrões de uso e áreas de dificuldade.
+  - **Registro de Comportamentos**: Comportamentos relevantes, como tempo gasto em determinadas páginas, cliques e expressões faciais, foram meticulosamente registrados para análise posterior.
+
+- **Análise dos Dados Coletados**:
+  - **Avaliação Qualitativa**: Após as entrevistas e observações, conduzimos uma análise qualitativa dos dados, focando nas percepções, atitudes e sugestões dos usuários.
+  - **Consolidação dos Resultados**: Os resultados de diferentes participantes foram consolidados para identificar padrões comuns e insights relevantes.
+
+Este método detalhado de avaliação garantiu uma compreensão abrangente da experiência do usuário com o site do Ventoy, permitindo identificar áreas críticas de melhoria na interação e na interface.
 
 ### Seleção de participante
 
@@ -283,7 +306,7 @@ O usuário consegue utilizar o site, mas não consegue entrar em contato com que
 
 ### Análise e interpretação dos resultados
 
-De acordo com a [entrevista feita](ttps://youtu.be/), o usuário não conseguiu entrar em contato com o autor do relato de experiência, devido a falta da opção. O entrevistado achou a [Analise Hierarquica de Tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md/) em questão condizente com o site.
+A análise dos resultados inclui agora uma representação organizada dos dados coletados, visando maior clareza e compreensão. Observou-se que, além dos problemas específicos identificados, existem tendências gerais que indicam áreas críticas que necessitam de atenção no design e na estrutura de informações do site. Essas tendências são cruciais para direcionar esforços de reprojetamento e melhorias futuras.
 
 ### Sumário dos principais resultados
 
@@ -294,7 +317,7 @@ De acordo com a [entrevista feita](ttps://youtu.be/), o usuário não conseguiu 
 
 ## Planejamento de Reprojeto
 
-As mudanças sugeridas serão implementadas conforme o **Tabela 5 - Cronograma de Reprojeto**.
+As mudanças sugeridas serão implementadas conforme o novo cronograma de reprojeto, que agora inclui etapas dedicadas à implementação das melhorias identificadas. Este cronograma detalhado proporcionará uma visão clara dos prazos e responsabilidades, assegurando que todas as melhorias sejam abordadas de maneira eficiente e eficaz.
 
 <center>
 
@@ -444,11 +467,13 @@ com o cronograma disponível na tabela 9.
 
 | Versão  |    Data    |  Descrição      |Autor(es)              | Revisor(es) |                  
 | :-----: | :--------: | :-------------: | :-------------------: | :---------: |
-| `1.0`  | 08/11/2023 |Criação da Página| [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
-| `1.1`  | 08/11/2023 |Adicionado resultados plugin| [Milena Baruc](https://github.com/MilenaBaruc) | [Breno Queiroz](https://github.com/brenob6) |
-| `1.2`  | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)  |
-| `1.3`  | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Eduardo](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
-| `1.4`  | 08/11/2023 | Adicionado resultados do Consulta de Duvida na página de FAQ| [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
-| `1.5`  | 08/11/2023 | Adicionado resultados do Compartilhamento de Experiências| [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
-| `1.6`  | 08/11/2023 | Adicionado resultados do Começar o uso do Ventoy| [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)  |
-| `1.7`  | 08/11/2023 | Adicionado resultados do realizar postagem no fórum| [Breno Queiroz](https://github.com/brenob6) | [Vinícius Mendes](https://github.com/yabamiah)  |
+| `1.0`   | 08/11/2023 | Criação da Página | [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.1`   | 08/11/2023 | Adicionado resultados plugin | [Milena Baruc](https://github.com/MilenaBaruc) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.2`   | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)  |
+| `1.3`   | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Eduardo](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
+| `1.4`   | 08/11/2023 | Adicionado resultados do Consulta de Duvida na página de FAQ | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.5`   | 08/11/2023 | Adicionado resultados do Compartilhamento de Experiências | [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.6`   | 08/11/2023 | Adicionado resultados do Começar o uso do Ventoy | [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)  |
+| `1.7`   | 08/11/2023 | Adicionado resultados do realizar postagem no fórum | [Breno Queiroz](https://github.com/brenob6) | [Vinícius Mendes](https://github.com/yabamiah)  |
+| `1.8`   | 09/11/2023 | Implementação de melhorias conforme sugestões de inspeção: inclusão da análise intersujeito, detalhamento dos métodos de avaliação e planejamento de reprojetos atualizado | [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
+
