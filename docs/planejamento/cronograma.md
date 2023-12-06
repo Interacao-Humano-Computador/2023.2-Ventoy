@@ -12,7 +12,7 @@ Essa abordagem proporcionou não apenas a construção de um cronograma, mas tam
 
 ### Cronograma de entregas
 
-Na Tabela 1, tem-se o cronograma de entrega de todas as etapas do projeto.
+Na Tabela 1, tem-se o cronograma de entrega de todas as etapas do projeto, podendo sofrer alterações ao longo do semestre.
 
 <p align="center"><b>Tabela 01</b> - Cronograma de Entregas </p>
 
