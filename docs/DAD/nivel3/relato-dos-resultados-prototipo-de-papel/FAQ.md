@@ -5,8 +5,8 @@
 Este relatório destaca a análise de usabilidade conduzida no protótipo de alta fidelidade da funcionalidade
 "Acessar a página de FAQ para consultar dúvida" para o projeto em questão, relacionado ao site do 
 [Ventoy](https://www.ventoy.net/en/index.html). O objetivo primordial é identificar possíveis desafios e aprimorar
-a interação dos usuários ao realizarem uma doação . A avaliação visa compreender a experiência do usuário, enfocando
-eficiência, eficácia, satisfação e acessibilidade no contexto específico do pr otótipo em papel.
+a interação dos usuários ao realizarem uma consulta no FAQ . A avaliação visa compreender a experiência do usuário, enfocando
+eficiência, eficácia, satisfação e acessibilidade no contexto específico do protótipo em papel.
 
 ## Teste Piloto
 
@@ -15,7 +15,7 @@ No dia 01/12/2023, foi realizado um teste piloto da entrevista com a integrante 
 ### Objetivo e escopo da avaliação
 
 O propósito principal desta avaliação é identificar potenciais problemas na interação do usuário com a interface e destacar oportunidades de aprimoramento na usabilidade do protótipo. Nosso foco está direcionado para a eficiência, eficácia, 
-satisfação do usuário e acessibilidade na seção de doações dentro do protótipo de papel.
+satisfação do usuário e acessibilidade na seção de consulta de dúvidas no FAQ dentro do protótipo de alta fidelidade.
 
 Além disso, para garantir uma avaliação abrangente e informada, procuramos responder às seguintes questões por meio da análise criteriosa dos resultados:
 
@@ -26,8 +26,8 @@ Ao responder a essas perguntas, buscamos garantir que os objetivos estabelecidos
 
 ### Método de avaliação
 
-O Método seguiu o [planejamento](/DAD/nivel2/prototipoAltaFidelidade/Planejamento) confeccionado pela equipe. Para está pesquisa foi avaliada a implementação no protótipo de papel da tarefa 
-"Acessar a página de FAQ para consultar dúvida". Para realizar está avaliação os métodos utilizados foram os métodos de observação e à investigação, uma vez que ambas envolvem a interação com os usuários.
+O Método seguiu o [planejamento](/DAD/nivel2/prototipoAltaFidelidade/Planejamento) confeccionado pela equipe. Para está pesquisa foi avaliada a implementação no protótipo de alta fidelidade elaborado no figma para a tarefa 
+"Acessar a página de FAQ para consultar dúvida". Para realizar está avaliação os métodos utilizados foram os métodos de observação e à investigação, uma vez que ambas envolvem a interação com os usuários, para isso foi utilizada uma entrevista com usuário do sistema.
 
 
 <center>
@@ -120,4 +120,5 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 ## 📑 Histórico de Versões
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 02/12/2023 | Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) | |
+|`1.0`| 02/12/2023 | Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) | [Milena Baruc](https://github.com/MilenaBaruc) |
+|`1.1`| 05/12/2023 | Correção do artefato | [Mayara Alves](https://github.com/Mayara-tech) | [Milena Baruc](https://github.com/MilenaBaruc) |
