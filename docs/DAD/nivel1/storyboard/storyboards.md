@@ -79,7 +79,7 @@ O storyboard visualizado na figura 5 demonstra o uso do Testes de Iso  do Ventoy
 <center>
 ![](../../../assets/storyboard/storyboardL1.png)
 
-Fonte: [Luis Eduardo](https://github.com/LuisMiranda10)
+Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 </center>
 
@@ -124,8 +124,8 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 |`1.2`  | 29/10/2023 |Adicionado Storyboard 2|[Mayara Alves](https://github.com/Mayara-tech)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
 |`1.3`  | 29/10/2023 |Adicionado Storyboard 3|[Altino Arthur](https://github.com/arthurrochamoreira)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
 |`1.4`  | 29/10/2023 |Adicionado Storyboard 4|[Limírio Guimarães](https://github.com/LimirioGuimaraes)|[Altino Arthur](https://github.com/arthurrochamoreira) 
-|`1.5`  | 29/10/2023 |Adicionado Storyboard 5|[Luis Eduardo](https://github.com/LuisMiranda10)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
+|`1.5`  | 29/10/2023 |Adicionado Storyboard 5|[Luis Miranda](https://github.com/LuisMiranda10)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
 |`1.6`  | 29/10/2023 |Adicionado Storyboard 6|[Vinícius Mendes](https://github.com/yabamiah)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
-|`1.7`  | 29/10/2023 |Adicionado Storyboard 7|[Milena Baruc](https://github.com/MilenaBaruc)|[Luis Eduardo](https://github.com/LuisMiranda10)
-|`2.0`  | 29/10/2023 |Atulizando Storyboard 7|[Milena Baruc](https://github.com/MilenaBaruc)|[Luis Eduardo](https://github.com/LuisMiranda10)
+|`1.7`  | 29/10/2023 |Adicionado Storyboard 7|[Milena Baruc](https://github.com/MilenaBaruc)|[Luis Miranda](https://github.com/LuisMiranda10)
+|`2.0`  | 29/10/2023 |Atulizando Storyboard 7|[Milena Baruc](https://github.com/MilenaBaruc)|[Luis Miranda](https://github.com/LuisMiranda10)
 |`3.0` | 06/12/2023 | Adicionado texto de metodologia | [Breno Queiroz](https://github.com/brenob6) | 
