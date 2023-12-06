@@ -9,6 +9,13 @@ levantando questões sobre a introdução de tecnologia, explorar
 diferentes soluções de design e avaliar se um produto satisfaz a
 necessidade dos seus usuários (ROSSON, CARROL, apud BARBOSA, SILVA, 2010).
 
+## Metodologia
+
+Para a criação dos cenários foram utilizadas as [personas](../../elicitacao/Persona) definidas no processo de elicitação,
+que foram utilizada como atores para os cenários.
+Aleḿ disso, as tarefas e objetivos dos atores são correspondentes as
+principais tarefas obtidas também na etapa de elicitação.
+
 ## Cenário 01
 
 ### Aprendendo a Ferramenta
@@ -105,15 +112,22 @@ Pontos considerados problemáticos e devem ser considerados no projeto.
 **Atores:** Steve Vobes
 
 Steve Vobes é um grande entusiasta de projetos open-source, ao entrar no site do Ventoy
-ele se encomoda bastante com os anúncios evasivos que existem na página. Vobes então decide
-ajudar com um doação. Ele clica no campo donate na navbar e é direcionado para uma página 
-onde pode fazer doações via PayPal, cripto-moedas, etc.
+para baixar a ferramenta ele se encomoda bastante com os anúncios evasivos que existem na página.
+Após fazer uso da ferramentas para a criação de um dualboot em seu computador, Vobes decide
+ajudar o projeto com um doação. Ele clica no campo donate na navbar e é direcionado para uma página 
+onde pode fazer doações via PayPal, cripto-moedas, etc. Nesta página ele visualiza as opções
+de doações de maneira pouco organizada e além disso, alguns QRCodes estão sobrepostos, pois a tela
+teão não foi desenvolvida pensando em responsabilidade. Aumentando o tamanho da tela Vobes consegue
+utilizar o QRCode para realizar um doação em Bitcoin.
+
 
 ### Análise Cenário 03
 
 Pontos considerados problemáticos e devem ser considerados no projeto.
 
 - Anúncios evasivos podem prejudicar a experiência do usuário.
+- A página de doação deve ser simples e responsiva, o usuário deve conseguir fazer a doação em poucos
+cliques, para que o mesmo não perca a vontade de contribuir.
 
 # Bibliografia
 
@@ -128,6 +142,7 @@ Pontos considerados problemáticos e devem ser considerados no projeto.
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
 | `1.0`  |13/10/2023 |Criação do documento|[Breno Queiroz](https://github.com/brenob6)|  [Altino Arthur](https://github.com/arthurrochamoreira)|
+| `1.1` | 02/12/2023 | Adicionado metodologia | [Breno Queiroz Lima](https://github.com/brenob6) | [Milena Baruc](https://github.com/MilenaBaruc)
 
 </center>
 
