@@ -21,9 +21,10 @@ A maior facilidade que tive durante o semestre foi a amizade que nós integrante
 ## Luis Eduardo
 
 ### Dificuldades
+Acredito que o semestre curto, a falta de tempo para se dedicar a todas as disciplinas ( juntamente com seus respectivos trabalhos e provas ), e entregas que acabavam por necessitar tempo para que se tenha o minímo de qualidade exigida, foram um dos desafios e dificuldades que encontrei durante a matéria, tanto de Interação Humano-Computador, quanto para Engenharia de Requisitos.
 
 ### Facilidades
-
+A principal vantagem que tive em estar cursando essa matéria foi a de que em ambas disciplinas( IHC e Requisitos) serem com o mesmo grupo a realização dos projetos, o que acabou por deixar a matéria mais agradavél. O grupo sempre foi transparente em relação as entregas, juntamente com reuniões que deixavam o ambiente mais leve e divertido (takaka). Em relação a conhecimento, dedico isso ao professor Andre no qual dava feedbacks que ajudavam a entender melhor partes do conteúdo. Técnicas de Elicitação e Verificações foram muito importantes para conseguir conhecimento que não tinha antes. Mesmo sendo uma matéria de muito conteúdo e entregas, acredito ser uma via de mão dupla, no qual ganhamos conhecimento mesmo sendo bem exigidos.
 
 ## Altino Arthur
 
