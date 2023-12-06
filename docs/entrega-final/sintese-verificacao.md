@@ -2,9 +2,9 @@
 
 ## Introdução
 
-## Grupo 2
 
-??? abstract "Verificação do Planejamento"
+
+??? abstract "Planejamento"
 
     <center>
 
@@ -23,7 +23,7 @@
 
     </center>
 
-??? abstract "Verificações da Análise de Requisitos I"
+??? abstract "Requisitos I"
 
     <center>
 
@@ -44,7 +44,7 @@
 
     </center>
 
-??? abstract "Verificações Análise de Requisitos II"
+??? abstract "Análise de Requisitos II"
 
     <center>
 
@@ -56,22 +56,6 @@
     | [Características Gerais*](../../verificacao-nossa-grupo02/analise-req-2/) |
     | [Metas de Usabilidade*](../../verificacao-nossa-grupo02/analise-req-2/) | Mayara Alves | Luis Miranda |
     | [Guia de Estilo](../../verificacao-nossa-grupo02/analise-req-2/guia-de-estilo) | Limirio Guimarães | |
-
-    **Fonte**: [Breno Queiroz](https://github.com/brenob6)
-
-    </center>
-
-
-??? abstract "Tabela 5"
-
-    <center>
-
-    **Tabela 4**: Verificações Análise de Tarefas
-
-    | Artefato | Autor | Revisor |
-    |---|---|---|
-    | Análise Hierárquica de Tarefas - HTA | 
-    | Concur Task Trees - CTT | Altino Arthur | Mayara Alves |
 
     **Fonte**: [Breno Queiroz](https://github.com/brenob6)
 
@@ -111,7 +95,7 @@
 
     </center>
 
-??? abstract "Verificações Prótipo de Papel"
+??? abstract "Prótipo de Papel"
 
     <center>
 
