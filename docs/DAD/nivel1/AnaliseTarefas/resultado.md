@@ -427,6 +427,12 @@ com o cronograma disponível na tabela 9.
 
 <center>
 
+**Tabela 9 - Cronograma da entrevista**
+
+| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Breno Queiroz](https://github.com/brenob6) | Samuel Gomes | 22:45 | 22:50 | 08/11/2023 | Discord |
+
 **Tabela 9** - Cronograma de Reprojeto
 
 | Executador(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
@@ -434,8 +440,6 @@ com o cronograma disponível na tabela 9.
 | [Breno Queiroz](https://github.com/brenob6) | 20:00 | 20:30 | 13/11/2023 |
 
 **Fonte**: [Breno Queiroz](https://github.com/brenob6)
-
-
 
 </center>
 
