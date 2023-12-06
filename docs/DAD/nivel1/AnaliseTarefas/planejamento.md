@@ -106,7 +106,7 @@ As informações referêntes ao cronograma de realização das entrevistas serã
 | [Mayara Alves](https://github.com/Mayara-tech) |   Wycthor da Silva do Nascimento   | 22:20     |   22:25             | 08/11/2023     | [Entrevista](https://www.youtube.com/watch?v=6aty_NhATtc)   | Acessar a página de FAQ para consultar dúvida
 |  [Altino Arthur](https://github.com/arthurrochamoreira)                 |   Angelo Henrique         |         19:20        |         19:30       |  08/11/2023   |       [Entrevista](https://www.youtube.com/)             | Compartilhamento de Experiências
 | [Vinícius Mendes](https://github.com/yabamiah) |   Rafael Boanch   |       15:07       |     15:40      | 08/11/2023 | [Entrevista](https://www.youtube.com/watch?v=xTHNB-6jFOU) | Iniciar o uso do Ventoy
-| [Breno Queiroz](https://github.com/brenob6) | Samuel Gomes | -  |   -     | 08/11/2023 | [Entrevista](https://www.youtube.com/) | Fazer postagem no fórum
+| [Breno Queiroz](https://github.com/brenob6) | Samuel Gomes | -  |   -     | 08/11/2023 | [Entrevista](https://www.youtube.com/watch?v=4XBtckHRoGg) | Fazer postagem no fórum
 
 
 
