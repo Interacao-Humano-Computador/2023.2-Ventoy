@@ -2,21 +2,21 @@
 
 ## Introdução
 
-Este relato sumariza os resultados obtidos na avaliação da Análise de Tarefas conduzida no site do Ventoy, visando melhorar a qualidade de uso da solução de Interação Humano-Computador (IHC). A avaliação incorporou a análise intersujeito, enfatizando a consolidação de percepções entre o entrevistador e os participantes.
+Este relato sumariza os resultados obtidos na avaliação da Análise de Tarefas conduzida no site do Ventoy. Com foco no perfil dos usuários adquirido durante a Análise de Requisitos, esta avaliação buscou examinar em profundidade a qualidade de uso da solução de Interação Humano-Computador (IHC). Através de entrevistas com usuários reais, identificamos pontos críticos na interação e na interface que poderiam comprometer a experiência do usuário. Este processo de avaliação dinâmica permitiu um julgamento detalhado da solução de IHC proposta, vital para o desenvolvimento de um sistema interativo de alta qualidade. Os insights aqui apresentados refletem a importância deste processo, conforme destacado por Simone Barbosa e Bruno Diniz na literatura de IHC.
 
 ## Entrevista - HTA Plugin
 
 ### Objetivo e escopo da avaliação
 
-O objetivo foi avaliar a eficácia, eficiência e satisfação na realização da tarefa da aba plugin no site do [Ventoy](https://www.ventoy.net/en/plugin.html), com foco na identificação de áreas de melhoria e tendências de problemas com base nos objetivos definidos no planejamento da avaliação.
+O objetivo foi avaliar a eficácia, eficiência e satisfação na realização da tarefa da aba plugin no site do [Ventoy](https://www.ventoy.net/en/plugin.html), visando identificar áreas de melhoria.
 
 ### Método de avaliação
 
-Utilizamos entrevistas com análise intersujeito e observação com usuários reais, documentadas na **Tabela 1 - Cronograma da entrevista**.
+O método de entrevista e observação com usuários reais do produto foi empregado. Detalhes da entrevista serão documentados na **Tabela 1 - Cronograma da entrevista**.
 
 ### Seleção de participante
 
-O perfil do usuário foi rigorosamente selecionado, garantindo a relevância dos resultados. Destacamos Wanjo Christopher Paraizo Escobar, um estudante de engenharia de software com experiência intermediária em tecnologia.
+Selecionamos participantes que correspondem ao perfil do usuário do Ventoy, garantindo a relevância dos resultados obtidos. O participante de nome Wanjo Christopher Paraizo Escobar, com 21 anos está fazendo engenharia de software, terceiro semestre, na Universidade de Brasília. Se encaixa no perfil de usuário, pois apesar de nunca ter precisado utilizar o site Ventoy, o estudante já sabe criar pen-drive bootável pela sua experiência dentro da faculdade, sendo assim, uma pessoa relativamente experiente em realizar ações relacionado a tecnologia.
 
 ### Problemas e dificuldades encontradas
 
@@ -26,31 +26,12 @@ O perfil do usuário foi rigorosamente selecionado, garantindo a relevância dos
 
 ### Sugestões de melhoria
 
-- Organizar a documentação para facilitar a localização de dados
-- Melhorar o design da página
+- Organizar a documentação para achar fácil os dados que estão sendo procurados
+- Corrigir o Design 
 
 ### Feedback do usuário
 
-Os usuários conseguem utilizar o site, mas enfrentam desafios devido à falta de organização e ao design pouco atraente.
-
-### Análise e interpretação dos resultados
-
-A análise intersujeito revelou que os usuários têm dificuldade em localizar informações específicas devido à desorganização e ao design da interface. A análise destacou a necessidade de melhorias na disposição da informação e na estética da página.
-
-### Sumário dos principais resultados
-
-- As informações na página de plugins são claramente visíveis? Resposta: Sim, porém o design não é agradável.
-- A estrutura de navegação na página é intuitiva? Resposta: Sim.
-- Os plugins estão organizados de maneira lógica e categorizados? Resposta: Não, é necessário buscar ativamente.
-- Os plugins possuem documentação ou instruções de uso para ajudar os usuários? Resposta: Sim.
-
-## Planejamento de Reprojeto
-
-As mudanças sugeridas serão implementadas conforme o **Tabela 2 - Cronograma de Reprojeto**.
-
-### Representação dos Dados Coletados
-
-Os dados coletados durante as entrevistas e análises foram sistematizados e organizados em formatos de tabelas e gráficos, facilitando a compreensão das tendências e problemas identificados.
+O usuário consegue utilizar o site, porém deve abrir diversas páginas para encontrar sua resposta. 
 
 ### Análise e interpretação dos resultados
 
@@ -302,7 +283,7 @@ O usuário consegue utilizar o site, mas não consegue entrar em contato com que
 
 ### Análise e interpretação dos resultados
 
-A análise dos resultados inclui agora uma representação organizada dos dados coletados, visando maior clareza e compreensão. Observou-se que, além dos problemas específicos identificados, existem tendências gerais que indicam áreas críticas que necessitam de atenção no design e na estrutura de informações do site. Essas tendências são cruciais para direcionar esforços de reprojetamento e melhorias futuras.
+De acordo com a [entrevista feita](ttps://youtu.be/), o usuário não conseguiu entrar em contato com o autor do relato de experiência, devido a falta da opção. O entrevistado achou a [Analise Hierarquica de Tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md/) em questão condizente com o site.
 
 ### Sumário dos principais resultados
 
@@ -313,7 +294,7 @@ A análise dos resultados inclui agora uma representação organizada dos dados 
 
 ## Planejamento de Reprojeto
 
-As mudanças sugeridas serão implementadas conforme o novo cronograma de reprojeto, que agora inclui etapas dedicadas à implementação das melhorias identificadas. Este cronograma detalhado proporcionará uma visão clara dos prazos e responsabilidades, assegurando que todas as melhorias sejam abordadas de maneira eficiente e eficaz.
+As mudanças sugeridas serão implementadas conforme o **Tabela 5 - Cronograma de Reprojeto**.
 
 <center>
 
@@ -463,13 +444,11 @@ com o cronograma disponível na tabela 9.
 
 | Versão  |    Data    |  Descrição      |Autor(es)              | Revisor(es) |                  
 | :-----: | :--------: | :-------------: | :-------------------: | :---------: |
-| `1.0`   | 08/11/2023 | Criação da Página | [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
-| `1.1`   | 08/11/2023 | Adicionado resultados plugin | [Milena Baruc](https://github.com/MilenaBaruc) | [Breno Queiroz](https://github.com/brenob6) |
-| `1.2`   | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)  |
-| `1.3`   | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Eduardo](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
-| `1.4`   | 08/11/2023 | Adicionado resultados do Consulta de Duvida na página de FAQ | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
-| `1.5`   | 08/11/2023 | Adicionado resultados do Compartilhamento de Experiências | [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
-| `1.6`   | 08/11/2023 | Adicionado resultados do Começar o uso do Ventoy | [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)  |
-| `1.7`   | 08/11/2023 | Adicionado resultados do realizar postagem no fórum | [Breno Queiroz](https://github.com/brenob6) | [Vinícius Mendes](https://github.com/yabamiah)  |
-| `1.8`   | 09/11/2023 | Implementação de melhorias conforme sugestões de inspeção: inclusão da análise intersujeito, detalhamento dos métodos de avaliação e planejamento de reprojetos atualizado | [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
-
+| `1.0`  | 08/11/2023 |Criação da Página| [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.1`  | 08/11/2023 |Adicionado resultados plugin| [Milena Baruc](https://github.com/MilenaBaruc) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.2`  | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)  |
+| `1.3`  | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Eduardo](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
+| `1.4`  | 08/11/2023 | Adicionado resultados do Consulta de Duvida na página de FAQ| [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.5`  | 08/11/2023 | Adicionado resultados do Compartilhamento de Experiências| [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.6`  | 08/11/2023 | Adicionado resultados do Começar o uso do Ventoy| [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)  |
+| `1.7`  | 08/11/2023 | Adicionado resultados do realizar postagem no fórum| [Breno Queiroz](https://github.com/brenob6) | [Vinícius Mendes](https://github.com/yabamiah)  |
