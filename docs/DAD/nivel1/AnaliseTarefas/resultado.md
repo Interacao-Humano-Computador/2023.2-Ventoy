@@ -453,11 +453,12 @@ com o cronograma disponível na tabela 9.
 
 | Versão  |    Data    |  Descrição      |Autor(es)              | Revisor(es) |                  
 | :-----: | :--------: | :-------------: | :-------------------: | :---------: |
-| `1.0`  | 08/11/2023 |Criação da Página| [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
-| `1.1`  | 08/11/2023 |Adicionado resultados plugin| [Milena Baruc](https://github.com/MilenaBaruc) | [Breno Queiroz](https://github.com/brenob6) |
-| `1.2`  | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)  |
-| `1.3`  | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Eduardo](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
-| `1.4`  | 08/11/2023 | Adicionado resultados do Consulta de Duvida na página de FAQ| [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
-| `1.5`  | 08/11/2023 | Adicionado resultados do Compartilhamento de Experiências| [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
-| `1.6`  | 08/11/2023 | Adicionado resultados do Começar o uso do Ventoy| [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)  |
-| `1.7`  | 08/11/2023 | Adicionado resultados do realizar postagem no fórum| [Breno Queiroz](https://github.com/brenob6) | [Vinícius Mendes](https://github.com/yabamiah)  |
+| `1.0`   | 08/11/2023 | Criação da Página | [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.1`   | 08/11/2023 | Adicionado resultados plugin | [Milena Baruc](https://github.com/MilenaBaruc) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.2`   | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)  |
+| `1.3`   | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Eduardo](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
+| `1.4`   | 08/11/2023 | Adicionado resultados do Consulta de Duvida na página de FAQ | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.5`   | 08/11/2023 | Adicionado resultados do Compartilhamento de Experiências | [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
+| `1.6`   | 08/11/2023 | Adicionado resultados do Começar o uso do Ventoy | [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)  |
+| `1.7`   | 08/11/2023 | Adicionado resultados do realizar postagem no fórum | [Breno Queiroz](https://github.com/brenob6) | [Vinícius Mendes](https://github.com/yabamiah)  |
+| `1.8`   | 09/11/2023 | Implementação de melhorias conforme sugestões de inspeção: inclusão da análise intersujeito, detalhamento dos métodos de avaliação e planejamento de reprojetos atualizado | [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
