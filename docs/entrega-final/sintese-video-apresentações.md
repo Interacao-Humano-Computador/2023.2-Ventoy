@@ -144,7 +144,6 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
     
     |   Participantes                                                 |
     ------------------------------------------------------------------|
-    [Breno](https://github.com/brenob6.png) |
     [Limirio Guimarães](https://github.com/LimirioGuimaraes.png) |
     [Luis Miranda](https://github.com/LuisMiranda10.png)|
     [Mayara Alves](https://github.com/Mayara-tech)|
@@ -264,6 +263,8 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
     
     |   Participantes                                                 |
     ------------------------------------------------------------------|
+    [Altino Arthur](https://github.com/arthurrochamoreira.png) |
+    [Breno](https://github.com/brenob6.png) |
     [Limirio Guimarães](https://github.com/LimirioGuimaraes.png) |
     [Luis Miranda](https://github.com/LuisMiranda10.png)|
     [Mayara Alves](https://github.com/Mayara-tech)|
