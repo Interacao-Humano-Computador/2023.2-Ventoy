@@ -53,6 +53,7 @@ Na Tabela 1 teremos a representação dos métodos e técnicas que utilizamos em
 **Fonte**: [Vinícius Mendes](https://github.com/yabamiah), 2023.
 
 </center>
+
 ## Conclusão
 
 Conforme apresentado na Tabela 1, ao longo de todas as etapas do projeto na disciplina de Interação Humano-Computador, foram empregados diversos métodos e técnicas durante as atividades, alguns dos quais foram reaproveitados em diferentes artefatos. Em certas fases, houve uma necessidade maior de utilizar uma variedade de técnicas, como na etapa de Elicitação de Requisitos, Análise de Tarefas, Análise do Perfil de Usuários, entre outras.
