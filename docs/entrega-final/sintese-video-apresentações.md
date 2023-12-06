@@ -277,4 +277,4 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |--------|------|------------|--------|--------|
-|`1.0` | 20/10/2023 | Criação da página da Tabela de Apresentações| [Luis Miranda](https://github.com/LuisMiranda10) | |
+|`1.0` | 20/10/2023 | Criação da página da Tabela de Apresentações| [Luis Miranda](https://github.com/LuisMiranda10) | [Breno](https://github.com/brenob6.png)|
