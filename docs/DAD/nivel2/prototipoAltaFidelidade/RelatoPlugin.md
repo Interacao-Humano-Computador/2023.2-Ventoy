@@ -224,4 +224,4 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 | **Versão** | **Data** | **Descrição** | **Autor**| **Revisor** |
 |------------|----------|---------------|----------|-------------|
 |`1.0`| 29/11/2023 | Criação do documento|[Milena Baruc](https://github.com/MilenaBaruc) | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | 
-| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/) |
+| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Miranda](https://github.com/LuisMiranda10) |
