@@ -182,4 +182,4 @@ mais eficaz, eficiente e segura.
 | Versão | Data       | Descrição   | Autor   | Revisor                                      |
 | ------ | ---------- | ----------- | -------| ------------------------------------------|
 | `1.0`  | 23/10/2023 | Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) e [Breno Queiroz](https://github.com/brenob6) |  [Milena Baruc](https://github.com/MilenaBaruc)
-| `1.1`  | 06/10/2023 | Melhorias no texto | [Breno Queiroz](https://github.com/brenob6) |
+| `1.1`  | 06/10/2023 | Melhorias no texto | [Breno Queiroz](https://github.com/brenob6) | [Luis Eduardo](https://github.com/LuisMiranda10) |
