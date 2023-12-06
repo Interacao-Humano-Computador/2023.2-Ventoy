@@ -128,6 +128,25 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
+### Doação
+As figuras 14 e 15 apresentam o protótipo de alta fidelidade da página de FAQ.
+
+<center>
+
+**Figura 14**: Protótipo de alta fidelidade da página FAQ.
+
+![main-page](../../assets/prototipos-figma/faq1.png)
+
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+
+**Figura 15**: Protótipo de alta fidelidade da página FAQ/Installation.
+
+![main-page](../../assets/prototipos-figma/faq2.png)
+
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
+
 
 ## Referência Bibliográficas
 
