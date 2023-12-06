@@ -138,5 +138,5 @@ o sistema e desenvolver novas funcionalidade em versões futuras.
 | :-:   | :-:       | :--       | --    | --            |
 | `1.0`   |16/09/2023 |Criação da página Processo de Design de IHC|[Breno Queiroz](https://github.com/brenob6) e [Luis Miranda](https://github.com/luismiranda10)|[Vinícius Mendes](https://github.com/yabamiah)   |
 | `1.1`   |08/10/2023 |Correção da página após primeira apresentação| [Breno Queiroz](https://github.com/brenob6)|  [Mayara Alves](https://github.com/Mayara-tech)                 |
-| `1.2`   |05/12/2023 |Correção da página de Processos de Design | [Luis Miranda](https://github.com/luismiranda10)|             |
+| `1.2`   |05/12/2023 |Correção da página de Processos de Design | [Luis Miranda](https://github.com/luismiranda10)| [Breno Queiroz](https://github.com/brenob6) |
 
