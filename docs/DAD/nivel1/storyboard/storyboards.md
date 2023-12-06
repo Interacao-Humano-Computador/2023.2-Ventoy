@@ -10,6 +10,13 @@ uma representação visual clara do fluxo de trabalho do usuário.
 E auxilia os designers a encontrarem potenciais problemas antes do
 início da fase de desenvolvimento.(PREECE)
 
+## Metodologia
+
+Os storyboards foram confecionados pelos integrantes do grupo utilizando papel e caneta ou
+pela ferramenta Canvas. Por se tratar de um protótipo de baixa fidelidade, não foi 
+atribuído muito tempo de desenvolvimento para os storyboards, sendo que, cada um foi construído em
+um período de no máximo 30 minutos. 
+
 ## Storyboard 1
 
 O storyboard visualizado na figura 1 demonstra o uso do fórum do Ventoy por dois usuários.
@@ -121,3 +128,4 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 |`1.6`  | 29/10/2023 |Adicionado Storyboard 6|[Vinícius Mendes](https://github.com/yabamiah)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
 |`1.7`  | 29/10/2023 |Adicionado Storyboard 7|[Milena Baruc](https://github.com/MilenaBaruc)|[Luis Eduardo](https://github.com/LuisMiranda10)
 |`2.0`  | 29/10/2023 |Atulizando Storyboard 7|[Milena Baruc](https://github.com/MilenaBaruc)|[Luis Eduardo](https://github.com/LuisMiranda10)
+|`3.0` | 06/12/2023 | Adicionado texto de metodologia | [Breno Queiroz](https://github.com/brenob6) | 
