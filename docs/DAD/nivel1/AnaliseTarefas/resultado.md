@@ -186,15 +186,15 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 6 - Cronograma d
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Luis Eduardo](https://github.com/LuisMiranda10) | Douglas Alves dos Santos | 19:02 | 19:13 | 08/11/2023 | Teams |
+| [Luis Miranda](https://github.com/LuisMiranda10) | Douglas Alves dos Santos | 19:02 | 19:13 | 08/11/2023 | Teams |
 
-**Fonte**:[Luis Eduardo](https://github.com/LuisMiranda10)
+**Fonte**:[Luis Miranda](https://github.com/LuisMiranda10)
 
 **Tabela 6 - Cronograma de Reprojeto**
 
 | Executor(a) do Reprojeto | Horário de Início | Horário de Fim | Data |
 | ------------------------ | ----------------- | -------------- | ---- |
-| [Luis Eduardo](https://github.com/LuisMiranda10) | 13:00 | 15:00 | 13/11/2023 |
+| [Luis Miranda](https://github.com/LuisMiranda10) | 13:00 | 15:00 | 13/11/2023 |
 
 **Fonte**:[Luis Miranda](https://github.com/LuisMiranda10)
 </center>
@@ -456,7 +456,7 @@ com o cronograma disponível na tabela 9.
 | `1.0`   | 08/11/2023 | Criação da Página | [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
 | `1.1`   | 08/11/2023 | Adicionado resultados plugin | [Milena Baruc](https://github.com/MilenaBaruc) | [Breno Queiroz](https://github.com/brenob6) |
 | `1.2`   | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)  |
-| `1.3`   | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Eduardo](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
+| `1.3`   | 08/11/2023 | Adicionado resultados de Testes de Iso | [Luis Miranda](https://github.com/LuisMiranda10) | [Mayara Alves](https://github.com/Mayara-tech) |
 | `1.4`   | 08/11/2023 | Adicionado resultados do Consulta de Duvida na página de FAQ | [Mayara Alves](https://github.com/Mayara-tech) | [Breno Queiroz](https://github.com/brenob6) |
 | `1.5`   | 08/11/2023 | Adicionado resultados do Compartilhamento de Experiências | [Altino Arthur](https://github.com/arthurrochamoreira) | [Breno Queiroz](https://github.com/brenob6) |
 | `1.6`   | 08/11/2023 | Adicionado resultados do Começar o uso do Ventoy | [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)  |
