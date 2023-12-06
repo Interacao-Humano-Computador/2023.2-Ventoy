@@ -29,8 +29,11 @@ A maior facilidade que tive durante o semestre foi a amizade que nós integrante
 
 ### Dificuldades
 
+A maior dificuldade encontrada por mim durante a disciplina está relacionada à grande quantidade de atividades e entregas ao mesmo tempo. Outra grande dificuldade que encontrei está relacionada aos horários; tínhamos rotinas muito diferentes e várias disciplinas ao mesmo tempo, o que por vezes tornou muito difícil conciliar.
+
 ### Facilidades
 
+A maior facilidade que tive foi relacionada ao meu grupo, no geral conseguimos nos conectar muito bem para coloborar em conjunto na elaboração dos artefatos.
 
 ## Vinícius Mendes
 
