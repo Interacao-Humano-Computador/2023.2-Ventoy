@@ -6,7 +6,7 @@
 
 ## Metodologia
 
-A metodologia utilizada para construção do prótotipo de papel são as baseadas nas tarefas ilustrada na [Análise de tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas/#fazer-postagem-no-forum) e nos resultados do [prótipo de baixa fidelidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoDePapel/Prototipos/), com base nestas tarefas foi desenvolvido um design alternativo para algumas páginas. 
+A metodologia utilizada para construção do prótotipo de papel são as baseadas nas tarefas ilustrada na [Análise de tarefas](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas/#fazer-postagem-no-forum) e nos resultados do [prótipo de baixa fidelidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoDePapel/Prototipos/), com base nestas tarefas foi desenvolvido um design alternativo para algumas páginas. Você também pode acessar o protótipo clicando [aqui](https://www.figma.com/proto/PqQJ5MzOl87LzabB34JnxS/IHC?type=design&node-id=1-4&t=qd2wrWXxLAif9ard-0&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A4).
 
 ### Página inicial
 A figura 1 apresenta o protótipo de alta fidelidade da página inicial.
