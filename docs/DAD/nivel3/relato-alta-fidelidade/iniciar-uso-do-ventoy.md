@@ -71,6 +71,8 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 2. Foi possível identificar problemas de usabilidade preliminares?
     - Sim a partir da analíse da gravação foi possível identificar um problema já apresentado no texto acima.
 
+A partir do feedback dado pelo participante da avaliação sobre diminuir a quantidade de clicks do download, pode criar problemas de usuários novos desistirem de instalar o Ventoy ou de alguma forma, desanimá-los de o instalar.
+
 ## Referências Bibliográficas
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
@@ -80,3 +82,4 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 |**Versão**|**Data**|**Descrição**|**Autor**|**Revisor**|
 |---|---|---|---|---|
 |`1.0`|08/11/2023|Criação do documento|[Vinícius Mendes](https://github.com/yabamiah)| [Milena Baruc](https://github.com/MilenaBaruc) |
+|`2.0| 06/12/2023|Correção final do artefato | [Vinícius Mendes](https://github.com/yabamiah) | [Milena Baruc](https://github.com/MilenaBaruc) |
