@@ -23,6 +23,7 @@ O Storyboard em questão pode ser visto aqui [Storyboard 1](https://interacao-hu
 | [Breno Queiroz](https://github.com/brenob6) | Samuel Gomes|20:40  |     15:44      | 08/11/2023 | Discord |
 
 **Fonte** - [Breno Queiroz](https://github.com/brenob6)
+
 </center>
 
 ### Seleção de participante
@@ -58,6 +59,8 @@ Na tabela 2 é possível verificar os principais resultados da entrevista realiz
 |5 – O Storyboard apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim |
 
 **Fonte** -[Breno Queiroz](https://github.com/brenob6)
+
+</center>
 
 ## Relato dos resultados Storyboard 2: Utilizando o FAQ 
 
@@ -356,7 +359,7 @@ Na tabela 12 é possível verificar os principais resultados da entrevista reali
 
 ## Bibliografia
 
-> BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+> BARBOSA, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.<br/>
 > BILHETERIA DIGITAL. Interacao-Humano_computador. Distrito Federal, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/>. Acesso em: 11/10/2023.<br>
 
 
@@ -371,5 +374,5 @@ Na tabela 12 é possível verificar os principais resultados da entrevista reali
 | `1.4`  | 08/11/2023 | Adicionado resultados Utilizando o FAQ | [Mayara Alves](https://github.com/Mayara-tech) | [Vinícius Mendes](https://github.com/yabamiah) |
 | `1.5`  | 08/11/2023 | Adicionado resultados documentação e donwload | [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)   |
 | `1.6`  | 08/11/2023 | Adicionado resultados utilizando fórum | [Breno Queiroz](https://github.com/brenob6)| [Vinícius Mendes](https://github.com/yabamiah)   |
-| `1.7`  | 08/11/2023 | Correção da página de Relato dos Resultados | [Luis Eduardo](https://github.com/LuisMiranda10) |  |
+| `1.7`  | 08/11/2023 | Correção da página de Relato dos Resultados | [Luis Eduardo](https://github.com/LuisMiranda10) | [Breno Queiroz](https://github.com) |
 
