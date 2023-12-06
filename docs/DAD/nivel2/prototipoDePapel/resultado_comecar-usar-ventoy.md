@@ -34,7 +34,7 @@ Fonte: [Vinícius Mendes](https://github.com/yabamiah)
 
 ### Seleção dos participantes
 
-O participante Igor Luna foi selecionado de acordo com o [perfil de usuário](/elicitacao/PerfilUsuario/) previamente estabelecido pelo grupo. Segue as informações do participante na tabela 2.
+O participante Igor Luna foi selecionado de acordo com o [perfil de usuário](../../../elicitacao/PerfilUsuario.md) previamente estabelecido pelo grupo, ou seja, é um usuário que já utilizou o site Ventoy e que possui experiências com dispositivos tecnológicos. Segue as informações do participante na tabela 2.
 
 <center>
 
@@ -90,13 +90,18 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 2. Foi possível identificar problemas de usabilidade preliminares?
     - Não foi possível identificar problemas de usabilidade.
 
-# Bibliografia
+## Bibliografia
 
 > BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
+
+## Referência Bibliogrática
+
+> VENTOY. Interação Humano Computador. Distrito Federal, 2023. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.2-Ventoy>. Acesso em: 22/11/2023.
 
 ## 📑 Histórico de Versões
 
 | **Versão** | **Data** | **Descrição** | **Autor**| **Revisor** |
 | ---------- | ---------- | ---------- | --------- | ---------- |
 |`1.0`| 22/11/2023 | Criação do documento e adicionado o resultado da avaliação | [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech)| 
-|`1.1`| 03/12/2023 | Correções pós verificação | [Breno Queiroz](https://github.com/brenob6) |
+|`1.1`| 03/12/2023 | Correções pós verificação | [Breno Queiroz](https://github.com/brenob6) |[Vinícius Mendes](https://github.com/yabamiah) |
+|`2.0`| 06/12/2023 | Correção final do artefato | [Vinícius Mendes](https://github.com/yabamiah) | [Luis Miranda](https://github.com/LuisMiranda10) |
