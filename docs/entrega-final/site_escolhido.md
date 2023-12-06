@@ -68,4 +68,4 @@ A escolha do site para a produção do trabalho foi uma etapa crucial, pois trab
 
 | Versão |    Data    |       Descrição      | Autor                                          |   Revisor                            |
 | ------ | ---------- | -------------------- | ---------------------------------------------- | ---------------------------------- |
-| `1.0`  | 25/11/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.0`  | 06/12/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
