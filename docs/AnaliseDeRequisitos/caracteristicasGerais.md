@@ -53,4 +53,4 @@ O site [Ventoy](https://www.ventoy.net/en/index.html) não estabelece limites es
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 23/10/2023 | Criação da página de características gerais | [Milena Baruc](https://github.com/MilenaBaruc)| [Mayara Alves](https://github.com/Mayara-tech)|
-| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/) |
+| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [Altino Arthur](https://github.com/arthurrochamoreira) |
