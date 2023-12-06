@@ -94,6 +94,7 @@ As correções do protótipo de alta fidelidade podem ser vistas na figura 1, ab
 
 **Figura 1:** Protótipo de Alta Fidelidade - Página de Teste de ISO atualizada
 
+![Novo protótipo de alta fidelidade](../../../assets/TesteISOupdate.JPG)
 
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
