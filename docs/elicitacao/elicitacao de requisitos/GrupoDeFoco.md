@@ -1,7 +1,7 @@
 # Grupo de Foco
 
 ## Introdução
-Grupos de foco são metodologias interativas que reúnem um conjunto de participantes selecionados para discutir e opinar sobre um tópico específico. Esses grupos são particularmente valiosos no contexto de desenvolvimento de sistemas, pois permitem a coleta de informações qualitativas profundas diretamente de usuários representativos ou stakeholders. A dinâmica de grupo estimula um diálogo rico e multifacetado, proporcionando insights que podem definir requisitos essenciais, aprimorar a experiência do usuário e otimizar o processo de desenvolvimento.
+Grupos de foco são metodologias interativas que reúnem um conjunto de participantes selecionados para discutir e opinar sobre um tópico específico. Esses grupos são particularmente valiosos no contexto de desenvolvimento de sistemas, pois permitem a coleta de informações qualitativas profundas diretamente de usuários representativos ou *stakeholders*. A dinâmica de grupo estimula um diálogo rico e multifacetado, proporcionando *insights* que podem definir requisitos essenciais, aprimorar a experiência do usuário e otimizar o processo de desenvolvimento.
 
 ## Metodologia
 A sessão de grupo de foco foi realizada em 16 de outubro de 2023, às 14:32, com duração de aproximadamente 29 minutos. Conduzida por Luis Eduardo Carneiro Miranda, a reunião contou com a presença de quatro usuários, como detalhado na Tabela 1. Idealmente, grupos de foco são mais produtivos com 6 a 10 participantes; no entanto, devido a restrições de disponibilidade, a sessão prosseguiu com quatro.
@@ -92,9 +92,10 @@ Após a realização da reunião de grupo de foco com os usuários, foi possivel
 >Marcelo Medeiros Eler. Aula 5 - Requisitos de Software - Conceitos e Técnicas de Elicitação. Universidade de São Paulo, 2006. Disponível em: [https://edisciplinas.usp.br/pluginfile.php/7993139](https://edisciplinas.usp.br/pluginfile.php/7993139/mod_resource/content/1/05%20-%20Requisitos%20de%20Software%20-%20Conceitos%20e%20T%C3%A9cnicas%20de%20Elicita%C3%A7%C3%A3o.PDF).<br>
 
 ## 📑 Histórico de Versões
+
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 15/10/2023 | Criação da página de Grupo de Foco | [Luis Miranda](https://github.com/LuisMiranda10)| [Vinícius Mendes](https://github.com/yabamiah) e [Altino Arthur](https://github.com/arthurrochamoreira)|
 |`2.0`| 25/11/2023 | Melhoria na clareza dos textos | [Altino Arthur](https://github.com/arthurrochamoreira)| [Luis Miranda](https://github.com/LuisMiranda10) |
-|`2.1`| 05/12/2023 | Correção da Página de Grupo de Foco | [Luis Miranda](https://github.com/LuisMiranda10) | |
+|`2.1`| 05/12/2023 | Correção da Página de Grupo de Foco | [Luis Miranda](https://github.com/LuisMiranda10) | [Breno Queiroz](https://github.com/brenob6)|
 
