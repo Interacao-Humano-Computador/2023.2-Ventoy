@@ -28,6 +28,6 @@ Correção | responsável | revisor
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-`1.0` | 22/11/2023| Criação da página de apresentação 6 |[Breno Queiroz](https://github.com/brenob6) |[Luis Miranda](https://github.com/mayara-tech) |
+|`1.0` | 22/11/2023| Criação da página de apresentação 6 |[Breno Queiroz](https://github.com/brenob6) |[Luis Miranda](https://github.com/mayara-tech) |
 |`2.0` | 06/12/2023 | Correção finall do artefato | [Vinícius Mendes](https://github.com/yabamiah) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
 
