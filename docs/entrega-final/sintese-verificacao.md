@@ -1,7 +1,14 @@
 # Síntese das Verificações
 
-## Introdução
+## Metodologia
 
+As verificações foram realizadas através de inspeções baseadas em uma checklist específica para cada
+artefato. Todas checklists possuem uma lista de itens padrões com objetivo de avaliar aspectos relacionados
+a conformidade com o padrão de escrita do grupo.  O restante das checklist fora construída baseado
+na literatura sobre o artefato, utilizando de referências bibliográficas para a criação dos items de verificação.
+
+Caso o artefato em questão não fosse citado em nenhuma literatura, foram utilizado sugestões de melhorias
+propostas pelo professor durante as aulas.
 
 
 ??? abstract "Planejamento"
