@@ -135,4 +135,4 @@ Após feito a avaliação com usuário através da entrevista o entrevistador de
 |--------|---------|-----------|--------|---------|
 |`1.0`| 08/11/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Mayara Alves](https://github.com/Mayara-tech) |
 |`1.1`| 08/11/2023 | Adicionando tópicos pendentes |[Mayara Alves](https://github.com/Mayara-tech)  |  [Milena Baruc](https://github.com/MilenaBaruc) |
-| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/) |
+| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Miranda](https://github.com/LuisMiranda10)  |
