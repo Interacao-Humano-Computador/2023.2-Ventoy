@@ -38,6 +38,8 @@ Fórum | 10. Você consegue identificar rapidamente os temas que são tratados e
 Página de TestedISO | 12. Você consegue acha rapidamente se uma distribução que você visa instalar foi testada no Ventoy?
 Sobre todo site | 13. Quais são as funcionalidades que acha que são importantes, que foram ou que devem ser implementadas no Ventoy para melhora a usabilidade do mesmo?
 
+<p align="center"><b>Fonte</b>: <a href="https://github.com/Mayara-tech">Mayara Alves.</a></p>
+
 
 ## Requisitos Elicitados 
 Após a realização da entrevista com o usuário do Ventoy, foi possível eliciar os requisitos apresentados na Tabela 2. Onde cada requisito é classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional, além disso também será representado se já há uma implementação do requisito no aplicativo.
