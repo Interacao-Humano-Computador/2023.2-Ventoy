@@ -29,7 +29,6 @@ Correção dos relatos da análise de tarefas HTA | Cada um corrige o seu | |
 
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
-`1.0` | 08/11/2023| Criação da página de apresentação 5 |[Mayara Alves](https://github.com/maya
-ra-tech) |[Vinicius Mendes](https://github.com/mayara-tech) |
-|`2.0` | 06/12/2023 | Correção final do artefato | [Vinícius Mendes] | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|`1.0` | 08/11/2023| Criação da página de apresentação 5 |[Mayara Alves](https://github.com/mayara-tech) |[Vinicius Mendes](https://github.com/mayara-tech) |
+|`2.0` | 06/12/2023 | Correção final do artefato | [Vinicius Mendes](https://github.com/mayara-tech) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
 
