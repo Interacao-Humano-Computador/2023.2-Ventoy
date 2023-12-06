@@ -24,49 +24,31 @@ usuários.
 O site do ventoy possui as seguinte funcionalidade principais:
 
 - Download da ferramenta Ventoy.
- 
 - Consulta da documentação da ferramenta Ventoy.
 - Fórum onde a comunidade que utiliza a ferramenta pode interagir.
 - Página de perguntas frequentes(FAQ).
+- Página de doações, onde usuário podem dar suporte financeiro para o desenvolvimento do projeto.
+
+Essas funcionalidades serão priorizada durante o desenvolvimento do projeto.
 
 ### Eficiência
 
 A eficiência de um sistema, mede o quão rápido o usuário consegue realizar seu objetivos
 com o sistema.
 
-Em geral o site do Ventoy é eficiente. Pois suas principais atividades são simples e o usuário
-consegue usufruir delas sem grande dificuldades.
- 
-### Segurança
+Algumas tarefas que podem ser realizadas no site do Ventoy podem ser aprimoradas para serem concluídas
+de maneira mais rápida.
 
-Um software seguro pressupõe que o usuário não será exposto a nenhuma situação indesejada
-ou perigosa.
-
-- O site do Ventoy possui alguns anúncios de carater duvidoso como podemos ver na figura 1.
-
-<center>
-
-<p align="center"> <b>Figura 1</b>. Anúncios </p>
-
-![Anúncios](../assets/metas-usabilidade/anuncios.png)
-
-Fonte: Site Ventoy.
-
-</center>
-
-### Utilidade
-
-Um software útil dispõe de ferramentas que são essenciais para um determinada tarefa.
-
-- A documentação presente no site não possui campo de pesquisa. Ver figura 2.
-- A página de FAQ não possui mecanismos de pesquisa, sendo nessário ao usuário percorrer toda a 
-lista de maneira manual. Ver figura 3
-- No fórum do site existe uma ação desnecessária, é necessário escolher um tipo de fórum e posteriormente
-o fórum, porém só existe um fórum de cada tipo, de modo que a segunda ação não faz sentido.
+- Consulta de documentação: a documentação não possui sistema de pesquisa, logo o usuário deve
+percorrer todos os tópicos manualmente até encontrar o tópico desejado. 
+Ver figura 1.
+- FAQ: de maneira semelhante a página de FAQ também não possui sistema de pesquisa, logo o usuário
+deve percorrer todas as perguntas até encontrar uma que se adeque a sua dúvida.
+Ver figura 2.
 
 <center>
 
-<p align="center"> <b>Figura 2</b>. Documentação </p>
+<p align="center"> <b>Figura 1</b>. Documentação </p>
 
 ![Documentação](../assets/metas-usabilidade/doc-barra.png)
 
@@ -76,20 +58,57 @@ Fonte: Site Ventoy.
 
 <center>
 
-<p align="center"> <b>Figura 3.</b> Página de FAQ</p>
+<p align="center"> <b>Figura 2.</b> Página de FAQ</p>
 
 ![Documentação](../assets/metas-usabilidade/faq.png)
 
 Fonte: Site Ventoy.
 
 </center>
+ 
+### Segurança
+
+Um software seguro pressupõe que o usuário não será exposto a nenhuma situação indesejada
+ou perigosa.
+
+- O site do Ventoy possui alguns anúncios de carater duvidoso como podemos ver na figura 3.
+
+<center>
+
+ <b>Figura 3</b>. Anúncios 
+
+![Anúncios](../assets/metas-usabilidade/anuncios.png)
+
+Fonte: Site Ventoy.
+
+</center>
+
+### Utilidade
+
+Um software útil dispõe de ferramentas que são essenciais para um determinada tarefa. 
+
+A principal tarefa do site Ventoy é disponibilizar a ferramentas para download.
+Entretanto para que o usuário consiga utilizar a ferramenta é necessário que no site haja no site
+as seguintes funcionalidade:
+
+- Documentação detalhada sobre a ferrameta.
+- Página de FAQ, para dúvidas frequentes dos usuários.
+- Por se tratar de uma comunidade open source, um fórum é fundamental para facilitar a interação da
+comunidade, tanto para questões de desenvolvimento, como para tirar dúvidas ou realizações de anúncios
+sobre a ferramenta.
 
 ### Facilidade de aprendizagem
 
 A facildade de aprendizado se refere ao tempo e esforço necessário para que o usuário aprenda a utilizar o sistema com
 determinado nível de competência e desempenho ^1^.
 
-A avaliação da facilidade de aprendizado no Ventoy revela que o site apresenta algumas deficiências em termos de facilidade de aprendizado logo que o site apresenta algumas formatações inadequadas como na figura 4 onde podemos ve uma não coerência entre a formação do texto e ausencia de espaçamento adequado. Navegação confusa, ja que algumas páginas não tem botão para retornar ao menu anterior como demonstrado na figura 5, além de inconsistencia de idiomas, já que em alguns trechos do site e possível ver a utilização de mais de um idioma sem a explicação dos mesmos, como podemos observar na figura 6, todos esses aspectos tendem a atrapalhar o desempenho do usuário com o site. 
+A avaliação da facilidade de aprendizado no Ventoy revela que o site apresenta algumas deficiências
+em termos de facilidade de aprendizado logo que o site apresenta algumas formatações inadequadas
+como na figura 4 onde podemos ver uma não coerência entre a formação do texto e ausencia de espaçamento
+adequado. Navegação confusa, ja que algumas páginas não tem botão para retornar ao menu anterior
+como demonstrado na figura 5, além de inconsistencia de idiomas, já que em alguns trechos do
+site e possível ver a utilização de mais de um idioma sem a explicação dos mesmos, como podemos
+observar na figura 6, todos esses aspectos tendem a atrapalhar o desempenho do usuário com o site. 
 
 <center>
 
@@ -147,7 +166,11 @@ No entanto, também são identificados ícones menos intuitivos como na figura 8
 
 ## Conclusão
 
-Em resumo, a avaliação das metas de usabilidade no site do Ventoy revelou tanto pontos positivos, quanto áreas que precisam de melhorias. Melhorias na segurança, utilidade, facilidade de aprendizado e memorização podem aprimorar significativamente a experiência do usuário. portanto, essas metas que devem ser priorizados e tratados nas próximas etapas, visando oferecer aos usuários uma experiência mais eficaz, eficiente e segura.
+Em resumo, a avaliação das metas de usabilidade no site do Ventoy revelou tanto pontos positivos
+, quanto áreas que precisam de melhorias. Melhorias na segurança, utilidade, facilidade de aprendizado
+e memorização podem aprimorar significativamente a experiência do usuário. Portanto, essas metas
+que devem ser priorizados e tratados nas próximas etapas, visando oferecer aos usuários uma experiência
+mais eficaz, eficiente e segura.
 
 ## Referências Bibliograficas
 
@@ -159,4 +182,4 @@ Em resumo, a avaliação das metas de usabilidade no site do Ventoy revelou tant
 | Versão | Data       | Descrição   | Autor   | Revisor                                      |
 | ------ | ---------- | ----------- | -------| ------------------------------------------|
 | `1.0`  | 23/10/2023 | Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) e [Breno Queiroz](https://github.com/brenob6) |  [Milena Baruc](https://github.com/MilenaBaruc)
-
+| `1.1`  | 06/10/2023 | Melhorias no texto | [Breno Queiroz](https://github.com/brenob6) |
