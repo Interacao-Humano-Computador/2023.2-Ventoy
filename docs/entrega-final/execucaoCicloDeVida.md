@@ -18,6 +18,8 @@ Mostrar como o projeto evolui ao longo do tempo é essencial para garantir clare
 
 **Fonte** - [Milena Baruc](https://github.com/MilenaBaruc)
 
+</center>
+
 ## Referências Bibliográficas
 
 1. BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, P.109, Editora Elsevier, Rio de Janeiro, 2010
