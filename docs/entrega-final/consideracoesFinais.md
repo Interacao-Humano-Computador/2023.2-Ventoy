@@ -18,7 +18,7 @@ Uma das maiores dificultades encontradas por mim, foi a falta de tempo para a pr
 
 A maior facilidade que tive durante o semestre foi a amizade que nós integrantes do grupo criamos, conseguimos nos conectar o que ajuda a solucionar problemas e encontrar soluções em conjunto. Dito isso, fez o processo ser mais leve e também todos do grupo participando ativamente das atividades, facilitou o desenvolvimento. Além disso, os feedbacks escritos pelos monitores foi ótimo para conseguir corrigir os artefatos.
 
-## Luis Eduardo
+## Luis Miranda
 
 ### Dificuldades
 Acredito que o semestre curto, a falta de tempo para se dedicar a todas as disciplinas ( juntamente com seus respectivos trabalhos e provas ), e entregas que acabavam por necessitar tempo para que se tenha o minímo de qualidade exigida, foram um dos desafios e dificuldades que encontrei durante a matéria, tanto de Interação Humano-Computador, quanto para Engenharia de Requisitos.
