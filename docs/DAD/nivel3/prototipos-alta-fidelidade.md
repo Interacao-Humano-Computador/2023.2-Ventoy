@@ -82,7 +82,7 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
 Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
-**Figura 08**: Protótipo de alta fidelidade da página de documentação/How Ventoy Works/Disk Ventoy in MBR;
+**Figura 09**: Protótipo de alta fidelidade da página de documentação/How Ventoy Works/Disk Ventoy in MBR;
 
 ![main-page](../../assets/prototipos-figma/document3.png)
 
@@ -95,21 +95,34 @@ As figuras 10,11 e 12 apresentam o protótipo de alta fidelidade da página de d
 
 <center>
 
-**Figura 07**: Protótipo de alta fidelidade da página de ISO testadas;
+**Figura 10**: Protótipo de alta fidelidade da página de ISO testadas;
 
 ![main-page](../../assets/prototipos-figma/iso1.png)
 
 Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
-**Figura 08**: Protótipo de alta fidelidade da página de ISO testadas/Search;
+**Figura 11**: Protótipo de alta fidelidade da página de ISO testadas/Search;
 
 ![main-page](../../assets/prototipos-figma/iso2.png)
 
 Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
-**Figura 08**: Protótipo de alta fidelidade da página de ISO testadas/Search/SerachResults;
+**Figura 12**: Protótipo de alta fidelidade da página de ISO testadas/Search/SerachResults;
 
 ![main-page](../../assets/prototipos-figma/iso3.png)
+
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
+
+### Plugin
+A figura 13 apresenta o protótipo de alta fidelidade da página de plugin.
+
+<center>
+
+**Figura 13**: Protótipo de alta fidelidade da página de plugin;
+
+![main-page](../../assets/prototipos-figma/plugin.png)
 
 Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
