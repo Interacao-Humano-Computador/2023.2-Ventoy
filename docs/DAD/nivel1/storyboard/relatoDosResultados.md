@@ -374,5 +374,5 @@ Na tabela 12 é possível verificar os principais resultados da entrevista reali
 | `1.4`  | 08/11/2023 | Adicionado resultados Utilizando o FAQ | [Mayara Alves](https://github.com/Mayara-tech) | [Vinícius Mendes](https://github.com/yabamiah) |
 | `1.5`  | 08/11/2023 | Adicionado resultados documentação e donwload | [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)   |
 | `1.6`  | 08/11/2023 | Adicionado resultados utilizando fórum | [Breno Queiroz](https://github.com/brenob6)| [Vinícius Mendes](https://github.com/yabamiah)   |
-| `1.7`  | 08/11/2023 | Correção da página de Relato dos Resultados | [Luis Eduardo](https://github.com/LuisMiranda10) | [Breno Queiroz](https://github.com) |
+| `1.7`  | 05/12/2023 | Correção da página de Relato dos Resultados | [Luis Eduardo](https://github.com/LuisMiranda10) | [Breno Queiroz](https://github.com) |
 
