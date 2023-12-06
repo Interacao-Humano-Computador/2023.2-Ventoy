@@ -14,7 +14,7 @@ Na Tabela 1 teremos a representação dos métodos e técnicas que utilizamos em
 
 **Tabela 1** - Métodos e Técnicas utilizados
 
-| Entrega | Artefato | Método/Técnica |
+| Etapa | Artefato | Método/Técnica |
 |---------|----------|----------------|
 |[Planejamento do Projeto](../planejamento/) |[Cronograma](../planejamento/cronograma.md) | Não foi utilizado método/técnica | 
 |[Planejamento do Projeto](../planejamento/) |[Ferraments](../planejamento/Ferramentas.md) | Não foi utilizado método/técnica|
