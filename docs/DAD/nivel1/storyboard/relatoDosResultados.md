@@ -196,9 +196,9 @@ O Storyboard em questão pode ser visto aqui [aqui](https://interacao-humano-com
 
 | Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Luis Eduardo](https://github.com/LuisMiranda10) | [Douglas Alves dos Santos](https://github.com/dougAlvs) | 19:02 | 19:13 | 08/11/2023 | Teams |
+| [Luis Miranda](https://github.com/LuisMiranda10) | [Douglas Alves dos Santos](https://github.com/dougAlvs) | 19:02 | 19:13 | 08/11/2023 | Teams |
 
-**Fonte** - [Luis Eduardo](https://github.com/LuisMiranda10)
+**Fonte** - [Luis Miranda](https://github.com/LuisMiranda10)
 
 </center>
 
@@ -236,7 +236,7 @@ Na tabela 8 é possível verificar os principais resultados da entrevista realiz
 |4 – As ações descritas no Storyboard seguem uma sequência lógica e fluida? | Sim |
 |5 – O Storyboard apresenta elementos visuais identificáveis, como personagens, objetos e cenários? | Sim |
 
-**Fonte** - [Luis Eduardo](https://github.com/LuisMiranda10).
+**Fonte** - [Luis Miranda](https://github.com/LuisMiranda10).
 
 </center>
 
@@ -368,11 +368,11 @@ Na tabela 12 é possível verificar os principais resultados da entrevista reali
 | Versão | Data       | Descrição                                       | Autor                                          | Revisor                                      |
 | ------ | ---------- | ----------------------------------------------- | -----------------------------------------------| ---------------------------------------------|
 | `1.0`  | 08/11/2023 | Adicionado Template da Documentação | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | [Milena Baruc](https://github.com/MilenaBaruc) |
-| `1.1`  | 08/11/2023 | Adicionado resultados plugin | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.1`  | 08/11/2023 | Adicionado resultados plugin | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Miranda](https://github.com/LuisMiranda10) |
 | `1.2`  | 08/11/2023 | Adicionado resultados documentação e donwload | [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)  |
 | `1.3`  | 08/11/2023 | Adicionado resultados da doação | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech)   |
 | `1.4`  | 08/11/2023 | Adicionado resultados Utilizando o FAQ | [Mayara Alves](https://github.com/Mayara-tech) | [Vinícius Mendes](https://github.com/yabamiah) |
 | `1.5`  | 08/11/2023 | Adicionado resultados documentação e donwload | [Vinícius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)   |
 | `1.6`  | 08/11/2023 | Adicionado resultados utilizando fórum | [Breno Queiroz](https://github.com/brenob6)| [Vinícius Mendes](https://github.com/yabamiah)   |
-| `1.7`  | 05/12/2023 | Correção da página de Relato dos Resultados | [Luis Eduardo](https://github.com/LuisMiranda10) | [Breno Queiroz](https://github.com) |
+| `1.7`  | 05/12/2023 | Correção da página de Relato dos Resultados | [Luis Miranda](https://github.com/LuisMiranda10) | [Breno Queiroz](https://github.com) |
 
