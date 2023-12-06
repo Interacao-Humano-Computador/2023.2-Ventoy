@@ -22,7 +22,7 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 </center>
 
 ### Download
-As figura 2, 3 e 4 apresentam o protótipo de alta fidelidade do download.
+As figuras 2, 3 e 4 apresentam o protótipo de alta fidelidade do download.
 
 <center>
 
@@ -46,7 +46,24 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
+### Página inicial
+As figuras 5 e 6 apresentam o protótipo de alta fidelidade da doação.
 
+<center>
+
+**Figura 05**: Protótipo de alta fidelidade da página doação;
+
+![main-page](../../assets/prototipos-figma/donation1.png)
+
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+
+**Figura 06**: Protótipo de alta fidelidade da página doação após clicar na opção de doar pelo WeChat pay;
+
+![main-page](../../assets/prototipos-figma/donation2.png)
+
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
 
 
 
