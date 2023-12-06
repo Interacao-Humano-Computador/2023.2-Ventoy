@@ -209,4 +209,4 @@ A Ventoy é predominantemente utilizada em ambientes de trabalho por meio de dis
 | Versão  | Data       | Descrição       | Autor(es)                | Revisor(es)                                                                                         |
 | ------- | ---------- | ------------------------------------ | ------------------------------------------ | ---------------------------- |
 | `1.0`   | 23/10/2023 | Criação da página guia de estilo.              | [Altino Arthur](https://github.com/arthurrochamoreira) e [Luis Miranda](https://github.com/LuisMiranda10 )        |  Vinicius Mendes   |
-| `1.1`   | 05/12/2023 | Inclusão de embasamento teórico e revisão das referências.  | [Altino Arthur](https://github.com/arthurrochamoreira) e [Luis Miranda](https://github.com/LuisMiranda10)     | Vinicius Mendes     |
+| `1.1`   | 05/12/2023 | Inclusão de embasamento teórico e revisão das referências.  | [Altino Arthur](https://github.com/arthurrochamoreira) | Vinicius Mendes     |
