@@ -11,7 +11,15 @@ A metodologia utilizada para construção do prótotipo de papel são as baseada
 ### Página inicial
 A figura 1 apresenta o protótipo de alta fidelidade da página inicial.
 
+<center>
 
+**Figura 01**: Protótipo de alta fidelidade da página inicial;
+
+![main-page](../../assets/prototipos-figma/main-page.png)
+
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
 
 ## Referência Bibliográficas
 
@@ -25,4 +33,4 @@ A figura 1 apresenta o protótipo de alta fidelidade da página inicial.
 
 | Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
 | :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|`1.0` | 27/09/2023 | Criação da página de protótipos de alta fidelidase.                       | [Limírio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)|
+|`1.0` | 06/12/2023 | Criação da página de protótipos de alta fidelidase.                       | [Limírio Guimarães](https://github.com/LimirioGuimaraes) | [Mayara Alves](https://github.com/Mayara-tech)|
