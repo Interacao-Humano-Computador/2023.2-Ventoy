@@ -209,6 +209,7 @@ nav:
                   - Página de FAQ: verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relato-dos-resultados/faq.md
   - Apresentação Final:
     - Síntese das Verificações: entrega-final/sintese-verificacao.md
+    - Síntese das Apresentações: entrega-final/sintese-video-apresentações.md
       
             
 theme:
@@ -236,3 +237,4 @@ theme:
   language: pt-BR
   favicon: assets/icon.PNG
   logo: assets/icon.PNG
+
