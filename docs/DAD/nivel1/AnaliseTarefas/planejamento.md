@@ -92,7 +92,7 @@ Vale ressaltar que, para que possamos utilizar as ferramentas é necessário um 
 
 ### Prazos
 
-As entrevistas serão documentados na tabela 1.
+As informações referêntes ao cronograma de realização das entrevistas serão documentados na tabela 1, logo após a realização da entrevista.
 
 <center>
 
