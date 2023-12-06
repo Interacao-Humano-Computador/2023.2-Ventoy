@@ -79,7 +79,7 @@
 
     </center>
 
-??? abstract "Tabela 6"
+??? abstract "Storyboard"
 
     <center>
 
@@ -87,17 +87,17 @@
 
     | Artefato | Autor | Revisor |
     |---|---|---|
-    | Planejamento da Avaliação do Storyboard| Limirio Guimarães  | Breno Queiroz |
-    | Planejamento do Relato dos Resultados | Mayara Alves | Luis Miranda
-    | Relado dos Resultados do Storyboard | 
-    | Storyboards | Vinícius Mendes| Luis Miranda|
+    | [Planejamento da Avaliação do Storyboard](../../verificacao-nossa-grupo02/D.A.D/storyboard/planejamento-da-avaliacao)| Limirio Guimarães  | Breno Queiroz |
+    | [Planejamento do Relato dos Resultados](../../verificacao-nossa-grupo02/D.A.D/storyboard/planejamento-relato-dos-resultados) | Mayara Alves | Luis Miranda
+    | [Relado dos Resultados do Storyboard](../../verificacao-nossa-grupo02/D.A.D/storyboard/) | 
+    | [Storyboards](../../verificacao-nossa-grupo02/D.A.D/storyboard/Verificação Storyboards) | Vinícius Mendes| Luis Miranda|
 
     **Fonte**: [Breno Queiroz](https://github.com/brenob6)
 
     </center>
 
 
-??? abstract "Tabela 7"
+??? abstract "Análise de Tarefas"
 
     <center>
 
@@ -105,15 +105,15 @@
 
     | Artefato | Autor | Revisor |
     |---|---|---|
-    | Planejamento da Avaliação da Análise de Tarefas| Milena Baruc | Altino Arthur |
-    | Planejamento do Relato dos Resultados | Mayara Alves | Luis Miranda |
-    | Relado dos Resultados do Storyboard | Vinícius Mendes | Luis Miranda |
+    | [Planejamento da Avaliação da Análise de Tarefas](../../verificacao-nossa-grupo02/D.A.D/analise-de-tarefas/planejamentoAvaliação)| Milena Baruc | Altino Arthur |
+    | [Planejamento do Relato dos Resultados](../../verificacao-nossa-grupo02/D.A.D/analise-de-tarefas/planejamento-relato-dos-resultados) | Mayara Alves | Luis Miranda |
+    | [Relado dos Resultados do Storyboard](../../verificacao-nossa-grupo02/D.A.D/analise-de-tarefas/RelatoDosResultados) | Vinícius Mendes | Luis Miranda |
 
     **Fonte**: [Breno Queiroz](https://github.com/brenob6)
 
     </center>
 
-??? abstract "Tabela 8"
+??? abstract "Verificações Prótipo de Papel"
 
     <center>
 
@@ -121,17 +121,14 @@
 
     | Artefato | Autor | Revisor |
     |---|---|---|
-    | Planejamento da Avaliação do Protótipo de Papel|  |  |
-    | Planejamento do Relato dos Resultados |  |  |
-    | Relado dos Resultados do Storyboard | Vinícius Mendes | Luis Miranda |
-    | Protótipos de Papel |
-    | Criar Post no Fórum                        | Limirio Guimarães  |              |   |   |   |   |   |   |   |
-    | Aba de Plugin                              | Limirio Guimarães  |              |   |   |   |   |   |   |   |
-    | Página de FAQ                              |                    |              |   |   |   |   |   |   |   |
-    | Página de Testes de ISO                    |                    |              |   |   |   |   |   |   |   |
-    | Realizar Doação                            |                    |              |   |   |   |   |   |   |   |
-    | Página de Compartilhamento de Experiências | Vinícius Mendes    | Luis Miranda |   |   |   |   |   |   |   |
-    | Iniciar Uso do Ventoy                      | Breno Queiroz      |              |   |   |   |   |   |   |  
+    | [Planejamento da Avaliação do Protótipo de Papel](../../verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/planejamento-da-avaliacao)| Limirio Guimarães |  |
+    | [Planejamento do Relato dos Resultados](../../verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/planejamento-relato-resultado-pp)| Altino Arthur |  |
+    | [Criar Post no Fórum](../../verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/resultados/criar-post-forum)| Limirio Guimarães  |              |
+    | [Aba de Plugin](../../verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/resultados/acessar-aba-plugin)| Limirio Guimarães  |              |
+    | [Página de FAQ*](../../verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/)|                    |              |
+    | [Página de Testes de ISO ](../../verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/resultados/testeIso)| Milena Baruc |              |
+    | [Realizar Doação*](../../verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/resultados/)|                    |              |
+    | [Página de Compartilhamento de Experiências ](../../verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/resultados/Compartilhamento)| Vinícius Mendes    | Luis Miranda |
 
     **Fonte**: [Breno Queiroz](https://github.com/brenob6)
 
