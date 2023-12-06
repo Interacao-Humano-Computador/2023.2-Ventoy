@@ -2,44 +2,21 @@
 
 ## Introdução
 
-Este relato sumariza os resultados obtidos na avaliação da Análise de Tarefas conduzida no site do Ventoy, incorporando a análise intersujeito para garantir a consolidação efetiva dos dados analisados pelo entrevistador e pelo participante. Com foco no perfil dos usuários adquirido durante a Análise de Requisitos, esta avaliação examinou a qualidade de uso da solução de Interação Humano-Computador (IHC) de forma detalhada, identificando pontos críticos na interação e na interface que poderiam comprometer a experiência do usuário. 
-
-### Objetivo e escopo da avaliação
-
-O objetivo principal desta avaliação foi examinar a eficácia, eficiência e satisfação na realização da tarefa da aba plugin no site do [Ventoy](https://www.ventoy.net/en/plugin.html). Esta avaliação visou identificar áreas de melhoria e estabelecer tendências de problemas com base nos problemas encontrados, alinhando-se assim com os objetivos definidos no planejamento da avaliação.
+Este relato sumariza os resultados obtidos na avaliação da Análise de Tarefas conduzida no site do Ventoy, visando melhorar a qualidade de uso da solução de Interação Humano-Computador (IHC). A avaliação incorporou a análise intersujeito, enfatizando a consolidação de percepções entre o entrevistador e os participantes.
 
 ## Entrevista - HTA Plugin
 
 ### Objetivo e escopo da avaliação
 
-O objetivo foi avaliar a eficácia, eficiência e satisfação na realização da tarefa da aba plugin no site do [Ventoy](https://www.ventoy.net/en/plugin.html), visando identificar áreas de melhoria.
+O objetivo foi avaliar a eficácia, eficiência e satisfação na realização da tarefa da aba plugin no site do [Ventoy](https://www.ventoy.net/en/plugin.html), com foco na identificação de áreas de melhoria e tendências de problemas com base nos objetivos definidos no planejamento da avaliação.
 
 ### Método de avaliação
 
-Para a avaliação, empregamos uma combinação de entrevistas e observações com usuários reais do produto. Esse método permitiu uma compreensão profunda das experiências dos usuários e suas interações com o site. Detalhamos abaixo como essas avaliações foram conduzidas:
-
-- **Preparação da Entrevista**:
-  - **Seleção de Participantes**: Os participantes foram selecionados com base em critérios específicos que correspondiam ao perfil do usuário típico do Ventoy. Consideramos fatores como idade, experiência em software e familiaridade com ferramentas similares.
-  - **Elaboração do Roteiro**: Um roteiro de entrevista foi cuidadosamente preparado, contendo perguntas abertas e fechadas que visavam explorar a experiência do usuário com o site do Ventoy.
-
-- **Condução da Entrevista**:
-  - **Ambiente**: As entrevistas foram realizadas em um ambiente controlado, livre de interrupções, para garantir a concentração do participante.
-  - **Duração**: Cada sessão de entrevista durou aproximadamente 30 minutos, permitindo uma discussão aprofundada sem causar fadiga ao participante.
-  - **Ferramentas Utilizadas**: Utilizamos plataformas de videoconferência como Teams e Discord para realizar as entrevistas, aproveitando recursos como gravação de sessão para revisão posterior.
-
-- **Observação do Usuário**:
-  - **Atividades Monitoradas**: Durante a observação, monitoramos como os usuários navegavam pelo site, identificando padrões de uso e áreas de dificuldade.
-  - **Registro de Comportamentos**: Comportamentos relevantes, como tempo gasto em determinadas páginas, cliques e expressões faciais, foram meticulosamente registrados para análise posterior.
-
-- **Análise dos Dados Coletados**:
-  - **Avaliação Qualitativa**: Após as entrevistas e observações, conduzimos uma análise qualitativa dos dados, focando nas percepções, atitudes e sugestões dos usuários.
-  - **Consolidação dos Resultados**: Os resultados de diferentes participantes foram consolidados para identificar padrões comuns e insights relevantes.
-
-Este método detalhado de avaliação garantiu uma compreensão abrangente da experiência do usuário com o site do Ventoy, permitindo identificar áreas críticas de melhoria na interação e na interface.
+Utilizamos entrevistas com análise intersujeito e observação com usuários reais, documentadas na **Tabela 1 - Cronograma da entrevista**.
 
 ### Seleção de participante
 
-Selecionamos participantes que correspondem ao perfil do usuário do Ventoy, garantindo a relevância dos resultados obtidos. O participante de nome Wanjo Christopher Paraizo Escobar, com 21 anos está fazendo engenharia de software, terceiro semestre, na Universidade de Brasília. Se encaixa no perfil de usuário, pois apesar de nunca ter precisado utilizar o site Ventoy, o estudante já sabe criar pen-drive bootável pela sua experiência dentro da faculdade, sendo assim, uma pessoa relativamente experiente em realizar ações relacionado a tecnologia.
+O perfil do usuário foi rigorosamente selecionado, garantindo a relevância dos resultados. Destacamos Wanjo Christopher Paraizo Escobar, um estudante de engenharia de software com experiência intermediária em tecnologia.
 
 ### Problemas e dificuldades encontradas
 
@@ -49,12 +26,31 @@ Selecionamos participantes que correspondem ao perfil do usuário do Ventoy, gar
 
 ### Sugestões de melhoria
 
-- Organizar a documentação para achar fácil os dados que estão sendo procurados
-- Corrigir o Design 
+- Organizar a documentação para facilitar a localização de dados
+- Melhorar o design da página
 
 ### Feedback do usuário
 
-O usuário consegue utilizar o site, porém deve abrir diversas páginas para encontrar sua resposta. 
+Os usuários conseguem utilizar o site, mas enfrentam desafios devido à falta de organização e ao design pouco atraente.
+
+### Análise e interpretação dos resultados
+
+A análise intersujeito revelou que os usuários têm dificuldade em localizar informações específicas devido à desorganização e ao design da interface. A análise destacou a necessidade de melhorias na disposição da informação e na estética da página.
+
+### Sumário dos principais resultados
+
+- As informações na página de plugins são claramente visíveis? Resposta: Sim, porém o design não é agradável.
+- A estrutura de navegação na página é intuitiva? Resposta: Sim.
+- Os plugins estão organizados de maneira lógica e categorizados? Resposta: Não, é necessário buscar ativamente.
+- Os plugins possuem documentação ou instruções de uso para ajudar os usuários? Resposta: Sim.
+
+## Planejamento de Reprojeto
+
+As mudanças sugeridas serão implementadas conforme o **Tabela 2 - Cronograma de Reprojeto**.
+
+### Representação dos Dados Coletados
+
+Os dados coletados durante as entrevistas e análises foram sistematizados e organizados em formatos de tabelas e gráficos, facilitando a compreensão das tendências e problemas identificados.
 
 ### Análise e interpretação dos resultados
 
