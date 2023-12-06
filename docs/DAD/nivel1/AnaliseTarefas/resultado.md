@@ -196,7 +196,7 @@ As mudanças sugeridas serão implementadas conforme o **Tabela 6 - Cronograma d
 | ------------------------ | ----------------- | -------------- | ---- |
 | [Luis Eduardo](https://github.com/LuisMiranda10) | 13:00 | 15:00 | 13/11/2023 |
 
-**Fonte**:[Luis Eduardo](https://github.com/LuisMiranda10)
+**Fonte**:[Luis Miranda](https://github.com/LuisMiranda10)
 </center>
 
 ## Entrevista - Diagrama HTA acessar a página de FAQ para consultar dúvida
