@@ -25,10 +25,12 @@ Na Tabela 1, tem-se o cronograma de entrega de todas as etapas do projeto, poden
 |  5   | Planejamento da Avaliação do Protótipo de Papel| Relato dos resultados do Story Board e da Análise de tarefas, o Planejamento da Avaliação do Protótipo de Papel e do planejamento do relato dos resultados da avaliação do Protótipo de Papel.                                                                                                             | 07/11/2023  | 08/11/2023  | 09/11/2023 |
 | 6.1  | Verificação dos artefatos I| Verificação e relato dos artefatos I                                                                                 | 14/11/2023  | 15/11/2023  | 16/11/2023 |
 |  7   | Planejamento da Avaliação do protótipo de alta fidelidade| Relato dos resultados do Protótipo de Papel, o Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade                                                                                                    | 21/11/2023  | 22/11/2023  | 23/11/2023 |
-|  8   | Resultados da avaliação do protótipo de alta fidelidade| Relato dos resultados da avaliação do protótipo de alta fidelidade                       | 26/11/2023  | 27/11/2023  | 28/11/2023 |
-| 6.2  | Verificação dos artefatos II| Verificação e relato dos artefatos II                                                                               | 28/11/2023  | 29/11/2023  | 30/11/2023 |
+|  8   | Resultados da avaliação do protótipo de alta fidelidade| Relato dos resultados da avaliação do protótipo de alta fidelidade                       | 28/11/2023  | 29/11/2023  | 30/11/2023 |
+| 6.2  | Verificação dos artefatos II| Verificação e relato dos artefatos II                                                                               | 03/12/2023*  | 04/12/2023*  | 05/12/2023* |
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
+- [*] Alteração na data de entrega
 
 ## Cronograma do Projeto
 
