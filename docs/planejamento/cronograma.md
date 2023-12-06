@@ -1,8 +1,14 @@
 # Cronograma 
 
 ## Introdução
-O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o planejamento, organização e distribuição das atividades que serão executadas e entregues ao longo do curso "Interação Humano Computador", ministrado pelo professor André Barros de Sales na Universidade de Brasília durante o período letivo de 2023.2. Os cronogramas a seguir foram desenvolvidos com base nas datas de entrega especificadas no plano de ensino^1^ fornecido pelo professor, utilizando também como referência o cronograma de projetos anteriores, tais como a Bilheteria Digital^2^  e o Banco Central do Brasil^3^ .
 
+A elaboração de um cronograma é crucial para qualquer projeto, pois fornece uma estrutura temporal clara, orientando a execução das tarefas e possibilitando uma gestão eficiente do tempo. Ao estabelecer datas de início e conclusão para cada atividade, o cronograma oferece uma visão geral do progresso, contribuindo para evitar atrasos e garantir um acompanhamento efetivo do projeto. O cronograma elaborado pela equipe tem como objetivo orientar e facilitar o planejamento, organização e distribuição das atividades que serão executadas e entregues ao longo do curso "Interação Humano Computador", ministrado pelo professor André Barros de Sales na Universidade de Brasília durante o período letivo de 2023.2. 
+
+
+## Metodologia 
+
+A metodologia adotada para a elaboração do cronograma das etapas de entrega do projeto baseou-se em nas datas de entrega especificadas no plano de ensino^1^ fornecido pelo professor, utilizando também como referência o cronograma de projetos anteriores, tais como a Bilheteria Digital^2^  e o Banco Central do Brasil^3^. Inicialmente, delineamos claramente o escopo do projeto, identificando objetivos de cada entrega. Em seguida, desdobramos essas entregas em atividades e tarefas mais específicas, atribuindo as responsabilidades para cada membro da equipe. A estimativa de duração de cada tarefa foi feita com utilizando os prazos de entrega de cada etapa, deixando uma margem de tempo sempre que possível para futuros imprevistos. 
+Essa abordagem proporcionou não apenas a construção de um cronograma, mas também contribuiu para a organização do projeto ao longo do semestre.
 
 ### Cronograma de entregas
 
@@ -354,7 +360,7 @@ Na Tabela 17, tem-se o cronograma executado para todas as atividades da oitava e
 
 Na Tabela 18, tem-se o cronograma planejado para todas as atividades da entrega 6.2.
 
-<p align="center"><b>Tabela 18</b> - Entrega 6.2. Verificação dos artefatos </p>
+<p align="center"><b>Tabela 18</b> - Entrega 6.2. Verificação dos artefatos II </p>
 
 | Atividade                                                        	      | Período de desenvolvimento  | Responsáveis       | Revisão   | Revisores          |
 | ------------------------------------------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
@@ -365,6 +371,24 @@ Na Tabela 18, tem-se o cronograma planejado para todas as atividades da entrega 
 | Cronograma executado                                           	        | Início: 28/11<br>Fim: 29/11 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino            |   29/11   | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino              |
 
 <font size="3"><p style="text-align: center">Fonte: [Altino Arthur](https://github.com/arthurrochamoreira).</p></font>
+
+### Cronograma executado entrega 6.2.
+
+Na Tabela 19, tem-se o cronograma executado para todas as atividades da entrega 6.2.
+
+<p align="center"><b>Tabela 19</b> - Entrega 6.2. Verificação dos artefatos II </p>
+
+| Atividade                    | Data prevista                                    	      | Período de execuçaõ  | Responsáveis       | Revisão   | Revisor            |
+| ---------------------------------- | --------------------------------------| --------------------------- | ------------------ | ----------| ------------------ |
+| Correção dos artefatos da entrega 8     |       Início: 21/11<br>Fim: 21/11        	            | Início: 30/11<br>Fim: 02/12 | Mayara, Limírio, Breno, Luís, Milena, Vinícius e Altino      	     | 02/12  | Mayara, Limírio, Luís, Milena, Vinícius e Altino            |
+| Verificação - Cronograma, Políticas, Aspectos eticos, P0lanejamento da avaliação da analise de tarefas, Prototipo de papel - acessar a pagina de Teste Iso, Planejamento do relato dos resultados do protótipo de alta fidelidade, Protótipo de alta fidelidade - realizar doação          |Início: 22/11<br>Fim: 23/11                 	      | Início: 30/11<br>Fim: 02/12 | Milena      |  02/12   | Mayara |
+| Verificação - Elicitação - entrevista, Relato dos resultados do prototipo de papel - Iniciar uso do Ventoy, Relato dos resultados do prototipo de alta fidelidade - Acessar a página de FAQ para consultar dúvida, Protótipos de alta fidelidade, Características Gerais, Relato do resultado do protótipo de papel - acessar a página de FAQ para consultar dúvida e  realizar doação, Relato do resultado do protótipo de alta fidelidade - Acessar a página de Testes de ISO para verificar os testes.   |Início: 22/11<br>Fim: 23/11               	      | Início: 30/11<br>Fim: 04/12 | Breno      |  04/12  | Limírio |
+| Verificação - Site escolhido, Cenários, Elicitação - introspecção, Guia de estilo, Planejamento da avaliação do storyboard, Planejamento da avaliação do protótipo de papel, Relato do resultado do protótipo de papel - criar post no forum e acessar aba de plugin.  |Início: 22/11<br>Fim: 23/11               	      | Início: 30/11<br>Fim: 02/12 | Limírio    |  02/12  | Milena |
+| Verificação - Metodologia, Grupo de foco, Planejamento do relato dos resultados do Storyboad, Planejamento do relato dos resultados da análise de tarefas, Relato do resultado do protótipo de alta fidelidade - criar post no forum e acessar aba de plugin  |Início: 22/11<br>Fim: 23/11               	      | Início: 30/11<br>Fim: 04/12 | Mayara   |  04/12  | Luis |
+| Gravação da apresentação      | Início: 28/11<br>Fim: 29/11       |   Início: 04/12<br>Fim: 04/12                         	  | Limírio, Breno, Luís, Milena, Vinícius e Altino             |   04/12  | Limírio, Breno, Luís, Milena, Vinícius e Altino           |
+| Cronograma executado                |   28/11<br>Fim: 29/11              	        | Início: 05/12 <br>Fim: 05/12 |Mayara          |  05/12  |  Vinícius     |
+
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
 ## Referências Bibliográficas
 

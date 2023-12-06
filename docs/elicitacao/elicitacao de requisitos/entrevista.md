@@ -1,10 +1,12 @@
 # Entrevista
 
 ## Introdução
-A técnica de entrevista é fundamental na coleta de dados e no processo de elicitação de requisitos. Esta metodologia consiste em uma discussão estruturada, onde o entrevistador utiliza um conjunto de perguntas pré-definidas para extrair informações valiosas de um entrevistado, como identificado por Seidman em 1998. A interação direta nas entrevistas fornece insights profundos sobre as necessidades e expectativas dos usuários em relação ao sistema proposto.
+
+A entrevista é uma das técnicas mais utilizadas de coleta de dados e levantamento de requisitos. Trata-se de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter informação de um entrevistado (Seidman^1^, 1998). A entrevista permite uma interação direta com os usuários para compreender suas necessidades e expectativas em relação ao sistema.
 
 ## Metodologia
-Realizamos uma entrevista semiestruturada no dia 15 de outubro de 2023 com Wycthor da Silva do Nascimento, um usuário do software Ventoy. A entrevistadora, Mayara Alves de Oliveira, iniciou com a apresentação do Termo de Consentimento, seguida de uma explanação sobre os objetivos do projeto. Utilizando o Microsoft Teams como plataforma, a entrevista seguiu um roteiro meticulosamente preparado de perguntas abertas, permitindo a coleta de dados ricos em um formato flexível e responsivo.
+
+A entrevista foi realizada no dia 15/10/2023 e contou com a participação de um usuário do Ventoy - Wycthor da Silva do Nascimento, tendo como entrevistadora Mayara Alves de Oliveira que fez ao início da entrevista a leitura do Termo de consentimento ao participante, e uma breve explicação sobre o intuito do projeto. Foi preparado um roteiro de perguntas a serem seguidas logo que o modelo de entrevista escolhido foi o de entrevista semiestruturada (o roteiro é composto por perguntas abertas que devem ser endereçados na entrevista, em uma ordem lógica) utilizando a plataforma Teams para gravação e condução da entrevista.
 
 A entrevista foi estruturada em várias fases para maximizar o conforto do entrevistado e a eficácia da sessão:
 
@@ -38,6 +40,25 @@ Fórum | 10. Você consegue identificar rapidamente os temas que são tratados e
 Página de TestedISO | 12. Você consegue acha rapidamente se uma distribução que você visa instalar foi testada no Ventoy?
 Sobre todo site | 13. Quais são as funcionalidades que acha que são importantes, que foram ou que devem ser implementadas no Ventoy para melhora a usabilidade do mesmo?
 
+<p align="center"><b>Fonte</b>: <a href="https://github.com/Mayara-tech">Mayara Alves.</a></p>
+
+## Análise dos resultados
+
+Devido ao um problema durante a gravação da entrevista, lamentamos informar que o vídeo da entrevista disponível em nosso canal, através do link fornecido, não conta com áudio. Diante deste contratempo foi elaborado uma tabela com as resposta do entrevistado em relação as perguntas referentes ao site do Ventoy. Na tabela 2 podemos observar as respostas referentes a entrevista.
+
+<p align="center"><b>Tabela 1.</b> Roteiro da entrevista  </p>
+
+  
+Página  | Pergunta | Resposta
+:---------: | :------ | :---------- |
+Página principal | 1.  Como você avalia o design da página principal? <br> 2.  O que você acha da barra de navegação do site? <br> 3.  A barra de navegação possui termos claros? <br> 4.  Você se incomoda com a disposição de anúncios do site? | 1. O site não apresenta um design muito bom, possui muita informação.<br> 2. Bom a barra de navegação e até que intuitiva porém me incomoda um pouco o fato de que alguns opções da barra estão em "japones". <br> 3. Sim, exceto esse que está em outro idioma. <br> 4. Sim, e fico um pouco receioso também pelo fato dos anúncios também serem em outro idioma.
+Página de documentação | 5. Você utiliza a página de documentação do Ventoy quando faz uso da ferramenta? <br> 6. É fácil encontrar tópicos na documentação? Ou seja, você encontra com facilidade o procura na página de documentação? <br> 7. Como você compara a página de documentação do Ventoy com de outras plataformas? | 5. Sim, utilizo sim. <br> 6. Apesar de utilizar a página de documentação quando preciso, e uma página muito confusa, as documentações não tem um padrão o que deixa bem complexo a utilização da página.<br> 7. Bom, não consigo me recorda de nenhuma página de documentação no momento. 
+Página FAQ | 8. Como você avalia a disposição das perguntas no FAQ? <br> 9. Os simbolos que colapsam as perguntas, são facilmente descritíveis? | 8. Bom, não tem como procurar uma pergunta diretamente, então se eu quiser achar a pergunta tenho que fica procurando tópico por tópico.<br> 9. Não, na verdade não ajudam em nada. 
+Fórum | 10. Você consegue identificar rapidamente os temas que são tratados em cada fórum? <br> 11. Os ícones mostrados na página de post de um fórum elas são descritíveis? você sabe o que elas significam? <br> | 10. Não, não tem qualquer dica ou direção os foruns. <br> 11. Não faço a mínima ideia do que são esses icones. 
+Página de TestedISO | 12. Você consegue acha rapidamente se uma distribução que você visa instalar foi testada no Ventoy? |12. Apesar, da bagunça que é as distribuições eu sempre acho o que eu estou procurando. 
+Sobre todo site | 13. Quais são as funcionalidades que acha que são importantes, que foram ou que devem ser implementadas no Ventoy para melhora a usabilidade do mesmo? | 13. Primeiramente o tamanho das letras, tem partes que são muito ruins para lê, principalmente porque os textos mudam de cor e não seguem o padrão, o modo escuro também acho que seria essencial logo que gosto muito de utiliza-ló a noite, seria bom também se tivesse como troca o idioma para portugues. 
+
+<p align="center"><b>Fonte</b>: <a href="https://github.com/Mayara-tech">Mayara Alves.</a></p>
 
 ## Requisitos Elicitados 
 Após a realização da entrevista com o usuário do Ventoy, foi possível eliciar os requisitos apresentados na Tabela 2. Onde cada requisito é classificado por um sigla formada por "ENT" + um número, em que "ENT" é um sigla de entrevista, e para representar o tipo do requisito, será usado as siglas "RF" ou "RNF", que representam o tipo do requisito funcional ou não funcional, além disso também será representado se já há uma implementação do requisito no aplicativo.
@@ -75,3 +96,4 @@ and the Social Sciences. New York, NY: Teachers College Press, 1998
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
 `1.0` | 15/10/2023| Entrevista  | [Mayara Alves](https://github.com/Mayara-tech) e [Breno Queiroz](https://github.com/brenob6) | [Altino Arthur](https://github.com/arthurrochamoreira) e [Luis Miranda](https://github.com/LuisMiranda10) |
+`2.0` | 05/12/2023| Correção do artefato | [Mayara Alves](https://github.com/Mayara-tech) | [Luis Miranda](https://github.com/LuisMiranda10) |

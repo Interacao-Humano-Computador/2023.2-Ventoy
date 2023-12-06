@@ -1,62 +1,61 @@
 ## Introdução
 
-Segundo Barbosa e Silva (2011, p.282)1, o Guia de Estilo é um registro das principais decisões de design tomadas, garantindo que essas decisões sejam incorporadas efetivamente no produto final. Ele desempenha um papel fundamental como ferramenta de comunicação com os stakeholders da equipe, permitindo fácil consulta e discussão de decisões para projeções futuras e atualizações.
+Segundo Barbosa e Silva (2011, p.282)[^1], o Guia de Estilo é um registro vital das decisões de design, assegurando sua efetiva incorporação no produto final. No contexto do Ventoy, este guia é uma ferramenta chave para comunicar decisões de design com os stakeholders, facilitando consultas e discussões para futuras projeções e atualizações, garantindo interfaces que atendam às necessidades específicas dos usuários do Ventoy.
 
-Para atingir esses objetivos, é essencial contar com um Guia de Estilo que oriente a criação de interfaces que atendam às necessidades e expectativas dos usuários, mantendo a consistência visual e de interação em todo o sistema, além de aprimorar a experiência do usuário. Neste documento, analisaremos os elementos do Ventoy.
+## Objetivo do Guia de Estilo
 
-### Objetivo do Guia de Estilo
+Este guia visa fornecer diretrizes e melhores práticas para o design e desenvolvimento de interfaces de usuário eficazes e usáveis no Ventoy, enfocando elementos como disposição espacial, tipografia, cores, símbolos e estilos de interação. Ele serve como um roteiro para assegurar que as funcionalidades do Ventoy sejam intuitivas e acessíveis, melhorando a experiência do usuário.
 
-Este guia de estilo tem como objetivo fornecer diretrizes e melhores práticas para o design e desenvolvimento de interfaces de usuário eficazes e usáveis na disciplina de IHC. Nele iremos analisar os elementos que são:
+## Princípios Gerais de IHC
 
-- Elementos de interface: disposição espacial e _grid_, janelas, tipografia, cores, símbolos, _widgets_, logo, ferramentas e design de telas;
-- Elementos de interação: estilos de interação, seleção de um estilo, aceleradores (teclas de atalho);
-- Elementos de ação: preenchimento de campos, seleção e ativação.
+Incorporamos princípios gerais de IHC, aplicados ao contexto do Ventoy:
+
+- **Consistência**: Mantém elementos similares com comportamentos similares em todo o Ventoy.
+- **Feedback**: Garante informações claras sobre ações e alterações de estado no Ventoy.
+- **Prevenção de Erros**: Design do Ventoy que antecipa e evita erros comuns dos usuários.
+- **Eficiência de Uso**: Otimização das operações mais comuns no Ventoy para agilizar a interação.
+- **Estética e Design Minimalista**: Interfaces do Ventoy com apenas informações essenciais.
+- **Reconhecimento em vez de Lembrança**: Facilita o reconhecimento de opções no Ventoy.
 
 ### Organização e Conteúdo do Guia de Estilo
 
-O guia de estilo do Ventoy vai ser seguido na seguinte ordem: Elementos de interface, Elementos de interação, Elementos de ação, Resultados da análise e Proposta de Intervenção. Com um objetivo para que a experiência do usuário seja a melhor e mais otimizada possível, e assim ficando com uma interação e padronização mais efetiva dentro do site.
+O guia de estilo do Ventoy será organizado da seguinte forma: Elementos de interface, Elementos de interação, Elementos de ação, Resultados da análise e Proposta de Intervenção. Isso visa otimizar a experiência do usuário e efetivar a interação e padronização dentro do site.
 
 ### Público-alvo do Guia de Estilo
 
-Este Guia de Estilo destina-se a atender às necessidades dos usuários da Ventoy, incluindo desenvolvedores, entusiastas de tecnologia e designers que desejam compreender e contribuir para a evolução do produto. Ele fornecerá diretrizes e melhores práticas para o uso eficaz da Ventoy. Em que os usuários devem consultar para fornecer feedbacks e atualizações em relação a sua utilização. 
+Este Guia de Estilo é destinado a:
 
-- Usuários do Ventoy: Envolvidos na interação com a tecnologia.
-- Desenvolvedores: Encarregados de executar o design da interface de acordo com as orientações definidas no guia.
-- Entusiastas de tecnologia: Encarregados de contribuir para a melhoria da experiência do usuário e o sucesso da plataforma.
-- Designers: Participantes na elaboração e modelagem da interface, assegurando a correta aplicação dos princípios de design.
+- **Usuários do Ventoy**: Facilita a interação com a tecnologia.
+- **Desenvolvedores**: Auxilia na execução do design da interface de acordo com as orientações do guia.
+- **Entusiastas de Tecnologia**: Contribui para a melhoria da experiência do usuário e o sucesso da plataforma.
+- **Designers**: Ajuda na elaboração e modelagem da interface, assegurando a aplicação correta dos princípios de design.
 
 ### Como utilizar o Guia
 
-O Guia de Estilo é uma ferramenta valiosa para manter a integridade visual, com consistência e coesão de um site. Seguir suas diretrizes cuidadosamente assegura que a identidade da marca seja mantida e que a experiência do usuário seja consistente e agradável, sendo mais usada para um apoio na sua criatividade. A economia de tempo também ajuda a criar uma experiência visualmente harmoniosa para os usuários.
-
-Além de que, o Guia de Estilo do Ventoy pode ser utilizado como referência durante todo o ciclo de vida do projeto, desde a produção até a manutenção. As diretrizes e práticas aqui definidas auxiliarão na tomada de decisões de design que garantam uma interação eficaz e satisfatória com o sistema.
+O Guia de Estilo é uma ferramenta essencial para manter a integridade visual e a coesão do site do Ventoy. Sua utilização assegura a manutenção da identidade da marca e uma experiência do usuário consistente e agradável. O guia serve como um recurso de apoio criativo, economizando tempo e criando uma experiência visualmente harmoniosa para os usuários. Além disso, é uma referência contínua durante todo o ciclo de vida do projeto, desde a produção até a manutenção.
 
 ### Como manter o Guia
 
-Para que se tenha um guia de estilo alinhado com o desenvolvimento/progresso do projeto, mantendo as diretrizes estabelecidas, consistência visual e com novidades vindas das interações com os usuários, é necessário que se tenha hábitos para uma manutenção que visa garantir uma melhor experiência do usuário, sendo elas: 
+Para manter o guia de estilo alinhado com o desenvolvimento do projeto e garantir uma experiência melhorada para o usuário:
 
-1. **Responsabilidades Designadas** : São atribuidas responsabilidades claras para a manutenção e atualização do guia de estilo, garantindo que alguém seja encarregado de supervisionar esse aspecto do projeto.
-2. **Teste Constante** : Testes são realizados para verificar se o guia de estilo está sendo seguido corretamente em todas as etapas do desenvolvimento do projeto.
-3. **Versionamento e Controle de Mudanças** : É recomendado um sistema de versionamento e um processo de controle de mudanças para rastrear e gerenciar as alterações feitas no guia de estilo ao longo do tempo.
-4. **Feedback Contínuo** : Temos que estar abertos a feedbacks de equipe, usuários e partes interessadas, e usar essas contribuições para o aprimoraramento do guia de estilo.
+1. **Responsabilidades Designadas**: Atribuição clara de responsabilidades para manutenção e atualização do guia.
+2. **Teste Constante**: Verificação contínua para assegurar que o guia de estilo está sendo seguido.
+3. **Versionamento e Controle de Mudanças**: Sistema de versionamento e processo de controle de mudanças para gerenciar as alterações.
+4. **Feedback Contínuo**: Abertura para feedbacks de equipe, usuários e partes interessadas, usando-os para aprimorar o guia.
 
 ## Elementos de Interface
 
 ### Disposição Espacial e Grid
 
-O layout principal da página consiste em uma estrutura de cabeçalho, conteúdo e rodapé.
-O conteúdo é organizado em seções e subseções.
-Os elementos devem estar alinhados e espaçados para proporcionar uma aparência ordenada.
+O layout principal do Ventoy consiste em cabeçalho, conteúdo e rodapé, com organização em seções e subseções, alinhados e espaçados seguindo os princípios de consistência e design minimalista.
 
 ### Janelas
 
-Não há janelas pop-up,mas a estrutura do site pode ser considerada como seções separadas que podem ser visualizadas como "janelas" virtuais.
+O site do Ventoy não possui janelas pop-up, mas sua estrutura permite visualizar seções separadas como "janelas" virtuais, melhorando a navegação e reconhecimento.
 
 ### Tipografia
 
-As fontes principais atuais usadas no site são "arial, helvetica, sans-serif" . Contendo tamanhos de fonte variados que são utilizados para cabeçalhos, texto principal e outros elementos. Já na parte de formatação da fonte é incluido o negrito e itálico em alguns lugares. 
-
-&emsp;&emsp; Neste guia, dispõe de uma fonte diferente, sendo ela: Ubuntu, a fonte Ubuntu é uma escolha popular para designers gráficos que desejam criar designs limpos e modernos. Ela pode ser usada em logotipos, cartazes, panfletos e outras peças de design, como é representado na figura 1.
+O Ventoy utiliza fontes como "arial, helvetica, sans-serif", com variação de tamanhos e formatações como negrito e itálico. A fonte Ubuntu é destacada neste guia pela sua clareza e modernidade.
 
 <center>
 
@@ -68,27 +67,9 @@ Fonte: Altino Arthur
 
 </center>
 
-
 ### Cores
 
-Cores de Fundo:
-
-- A cor de fundo principal do site é branca (#ffffff).
-- Há uma cor de fundo azul usada para realçar algumas seções (#007aff).
-- A cor de fundo de algumas partes do site pode ser observada como amarelo (#ffff00).
-
-Cores de Texto:
-
-- A cor de texto padrão é preta (#000000).
-- O texto destacado em vermelho tem a cor (#ff0000).
-- O texto em azul claro é usado para links e tem a cor (#007aff).
-
-Cores de Botões:
-
-- Os botões podem ter cores diferentes, incluindo fundos cinza (#ccc) quando não estão ativados e fundos com cores de destaque quando o mouse passa sobre eles.
-- Os botões de anúncio podem ter fundos azuis (#007aff).
-
-Neste guia, as cores a serem utilizadas ( Figura 2 ) na interface, foram selecionadas de acordo com as já presentes no site do Ventoy, apenas deixando mais padronizado e visualmente harmonico.
+O guia detalha a paleta de cores utilizada no Ventoy, incluindo cores de fundo, texto e botões, e sua aplicação para manter a identidade visual coesa.
 
 <center>
 
@@ -100,10 +81,19 @@ Fonte: Luis Miranda
 
 </center>
 
+### Símbolos não tipográficos
 
-### Simbolos não tipográficos
+Os símbolos não tipográficos são essenciais para a interação intuitiva no Ventoy, seguindo princípios de eficiência de uso e prevenção de erros.
 
-Dentro do site do Ventoy não se tem esses simbolos não tiponográficos. Eles representam elementos gráficos, como ícones, botões, setas e outros indicadores visuais que transcendem o texto. Esses símbolos não apenas simplificam a documentação e a comunicação entre a equipe de design, desenvolvedores e demais partes interessadas, mas também ajudam os usuários a identificar rapidamente funcionalidades e interações dentro de uma interface, contribuindo para uma experiência mais intuitiva e eficaz. 
+<center>
+
+<p align="center"> <b>Figura 3</b>. Símbolos não tipográficos </p>
+
+![Cores](../assets/naotipografico.png)
+
+Fonte: Altino Arthur
+
+</center>
 
 Os elementos estão representados na figura 5 abaixo. 
 
@@ -196,7 +186,7 @@ A Ventoy é predominantemente utilizada em ambientes de trabalho por meio de dis
 
 ## Conclusão
 
-&emsp;&emsp; Dentro do âmbito do projeto do site Ventoy, desenvolvemos um guia de estilo com o propósito de direcionar tanto o design quanto a interação para um projeto de Interação Humano-Computador (IHC).
+&emsp;&emsp; Desenvolvemos um guia de estilo para o site do Ventoy, fundamentado em princípios de IHC, visando uma experiência do usuário consistente e intuitiva.
 
 &emsp;&emsp; Durante a criação do guia de estilo foi utilizado um comportamento flexível e adaptado às necessidades específicas do site, nos quais fornecerão uma estrutura sólida para o desenvolvimento de um guia de estilo eficaz. 
 
@@ -204,7 +194,11 @@ A Ventoy é predominantemente utilizada em ambientes de trabalho por meio de dis
 
 ## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+- BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+- Norman, D. A. The Design of Everyday Things. Basic Books, 2013.
+- Shneiderman, B., et al. Designing the User Interface. 6th ed., Pearson, 2016.
+
+[^1]: Barbosa, S. D. J.; Silva, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Bibliografia
 
@@ -215,3 +209,4 @@ A Ventoy é predominantemente utilizada em ambientes de trabalho por meio de dis
 | Versão  | Data       | Descrição       | Autor(es)                | Revisor(es)                                                                                         |
 | ------- | ---------- | ------------------------------------ | ------------------------------------------ | ---------------------------- |
 | `1.0`   | 23/10/2023 | Criação da página guia de estilo.              | [Altino Arthur](https://github.com/arthurrochamoreira) e [Luis Miranda](https://github.com/LuisMiranda10 )        |  Vinicius Mendes   |
+| `1.1`   | 05/12/2023 | Inclusão de embasamento teórico e revisão das referências.  | [Altino Arthur](https://github.com/arthurrochamoreira) | Vinicius Mendes     |

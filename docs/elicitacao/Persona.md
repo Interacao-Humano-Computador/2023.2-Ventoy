@@ -6,7 +6,14 @@ Personas são representações fictícias que incorporam as características e c
 
 ## Metodologia
 
-Nossa metodologia para criar personas se baseou nas características delineadas no [perfil de usuário](/elicitacao/PerfilUsuario/), traduzindo dados demográficos e psicográficos em narrativas de usuário que guiam a criação do produto. Quatro personas foram definidas, incluindo duas primárias, uma secundária e uma antipersona, garantindo uma cobertura ampla e representativa dos usuários sem perder de vista os principais stakeholders. Imagens para cada persona foram geradas usando a ferramenta [This Person Doesn't Exist](https://this-person-does-not-exist.com/pt), proporcionando uma representação visual que facilita a identificação e empatia dos membros da equipe de desenvolvimento com os usuários finais. Através desta abordagem, as personas se tornam uma parte integrante do processo de design, assegurando que as funcionalidades do sistema estejam alinhadas com as expectativas e necessidades dos usuários.
+Nossa metodologia para criar personas se baseou nas características delineadas no [perfil de usuário](/elicitacao/PerfilUsuario/), traduzindo dados demográficos e psicográficos em narrativas de usuário que guiam a criação do produto. Quatro personas foram definidas, incluindo duas primárias, uma secundária e uma antipersona, garantindo uma cobertura ampla e representativa dos usuários sem perder de vista os principais usuários. A escolha de quatro personas tem como base Courage e Baxter (2005)^1^ que afirmavam que um elenco de personas deve ter entre 3 a 12 personas distintas podendo ser elas:
+
+- Personas primárias que é a representação detalhada do usuário ideal para um produto ou serviço, sendo o foco principal das estratégias de design e desenvolvimento;
+- Persona secundária que é uma representação adicional, abordando um segmento específico de usuários que complementa a persona primária
+- Persona terciária seria aquela que não se encaixa em nenhum dos outros dois e são satisfeitas com as soluções da primeira ou da segunda
+- Antipersona que representa um usuário que não é o público-alvo desejado.
+
+Cada persona foi visualmente representada por meio de imagens geradas utilizando a ferramenta [This Person Doesn't Exist^2^](https://this-person-does-not-exist.com/pt), proporcionando uma representação visual que facilita a identificação e empatia dos membros da equipe de desenvolvimento com os usuários finais. Através desta abordagem, as personas se tornam uma parte integrante do processo de design, assegurando que as funcionalidades do sistema estejam alinhadas com as expectativas e necessidades dos usuários.
 
 ## Elenco
 
@@ -91,9 +98,9 @@ Nossa metodologia para criar personas se baseou nas características delineadas 
 
 ## Referências Bibliográficas
 
-> <a id="QT1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> 1 .COURAGE, Catherine; BAXTER, Kathy. Understanding your users: A practical guide to user requirements methods, tools, and techniques. Gulf Professional Publishing, 2005.
 
-> <a id="QT2" href="#anchor_2">2.</a> This Person Doesn't Exist. Disponível em: [https://this-person-does-not-exist.com/](https://this-person-does-not-exist.com/pt). Acesso em: 29 de abr. de 2023. 
+> 2. This Person Doesn't Exist. Disponível em: [https://this-person-does-not-exist.com/](https://this-person-does-not-exist.com/pt). Acesso em: 29 de abr. de 2023. 
 
 ## Bibliografia
 
@@ -106,5 +113,6 @@ Nossa metodologia para criar personas se baseou nas características delineadas 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | `1.0`  | 14/10/2023 | Criação das personas                        |[Mayara Alves](https://github.com/Mayara-tech)  | [Breno Queiroz](https://github.com/brenob6)|
-| `2.0`  | 25/11/2023 | Melhoria nos textos de introdução e metodologia |[Altino Arthur](https://github.com/arthurrochamoreira)  | |
+| `2.0`  | 25/11/2023 | Melhoria nos textos de introdução e metodologia |[Altino Arthur](https://github.com/arthurrochamoreira)  | [Mayara Alves](https://github.com/Mayara-tech) |
+| `3.0`  | 05/12/2023 | Correção do artefato | [Mayara Alves](https://github.com/Mayara-tech)   | [Breno Queiroz](https://github.com/brenob6) |
 

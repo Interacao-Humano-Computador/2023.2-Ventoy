@@ -7,9 +7,9 @@ na qualidade do projeto, promover a colaboração dos integrantes e melhorar a e
 
 ## Issue
 
-As issues ajudam a documentar as tarefas que estão sendo desenvolvidas no projeto,
-e os reponsáveis por essas tarefas. 
-(GitHub Docs, About issues)
+As issues ajudam a documentar as tarefas que estão sendo desenvolvidas no projeto
+e os reponsáveis por essas tarefas. (GitHub Docs, About issues)
+Elas devem ser criadas assim que as tarefas da sprint forem definidas.
 
 ### Criação das issues
 
@@ -62,3 +62,4 @@ for aceito, a *issue* automaticamente será fechada.
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
 | `1.0`   |18/09/2023 |Criação da página de políticas do projeto | [Breno Queiroz](https://github.com/brenob6) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.1` | 06/12/2023 | Melhoria no texto de issue | [Breno Queiroz](https://github.com/brenob6) |
