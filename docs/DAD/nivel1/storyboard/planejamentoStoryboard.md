@@ -107,7 +107,7 @@ As entrevistas serão documentados na tabela 1.
 |  [Mayara Alves](https://github.com/Mayara-tech)                 |   Wycthor da Silva           |         22:07         |         22:11       |  08/11/2023   |       [Entrevista](https://www.youtube.com/watch?v=9t2AY5-XPFU)             |
 | [Breno Queiroz](https://github.com/brenob6) | Samuel Gomes|15:40  |     15:44      | 08/11/2023 | [Entrevista](https://www.youtube.com/watch?v=J4DbUkByxeo) |
 | [Limirio Guimarães](https://github.com/LimirioGuimaraes) | Breno Alexandre | 20:30 | 20:42 | 08/11/2023 | [Entrevista](https://youtu.be/vJ6OgmxM6bo) |
-| [Luis Eduardo](https://github.com/LuisMiranda10) | [Douglas Alves dos Santos](https://github.com/dougAlvs) | 19:02 | 19:13 | 08/11/2023 | [Entrevista](https://youtu.be/puBGGz80lMc) |
+| [Luis Miranda](https://github.com/LuisMiranda10) | [Douglas Alves dos Santos](https://github.com/dougAlvs) | 19:02 | 19:13 | 08/11/2023 | [Entrevista](https://youtu.be/puBGGz80lMc) |
 | [Vinícius Mendes](https://github.com/yabamiah) |   Rafael Boanch   |       15:07       |     15:40      | 08/11/2023 | [Entrevista](https://youtu.be/xTHNB-6jFOU) |
 
 **Fonte:** [Milena Baruc](https://github.com/MilenaBaruc)
