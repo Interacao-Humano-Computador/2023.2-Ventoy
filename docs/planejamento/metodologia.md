@@ -38,19 +38,24 @@ e produtivo.
 
 ## Metodologia do Projeto
 
-O projeto seguirá o método SCRUM com algumas adaptações. Foi preferível a escolha do método SCRUM sobre o XP,
-pois o projeto nãoo trás 
+O projeto seguirá a metologia SCRUM, pois é um método de comum conhecimento entre a equipe. 
+E para atender melhor as necessidades, tanto do grupo como do projeto serão feitas algumas
+adaptações na metologia em questão.
 
 Durante o projeto será realizado o seguinte processo iterativo:
 
-- **Reuniões de planejamento**: realizada toda semana com objetivo organizar e definir as tarefas da Sprint com os
+- **Reuniões de planejamento**: realizada toda quinta-feira de maneira não presencial através da
+ferramentas Teams. Com objetivo de organizar e definir as tarefas da Sprint com os
 integrantes do grupo.
 - **Sprints**: terão tamanho fixo de seis dias. 
 - **Reuniões diárias**: serão realizadas após o período de aula e através de ferramentas de comunicação como Whatapp e Teams.
 - **Revisão dos artefatos**:  após as entregas do projeto será feita uma revisão para corrigir os problemas e adicionar sugestões
 de melhorias relatadas durante a apresentação.
 
-Não será atribuido a nenhum integrante papeis do SCRUM (Product Owner, SCRUM Master ou desenvolvedor).
+Não será atribuido a nenhum integrante papeis do SCRUM (Product Owner, SCRUM Master ou desenvolvedor),
+e para que o projeto ocorra da melhor maneira possível será requerido uma constante comunicação
+entre os integrantes do grupo sobre idéias para o projeto, diponibilidade para a realização de
+tarefas, feedbacks, etc.
 
 ## Bibliografia
 
@@ -64,3 +69,4 @@ Não será atribuido a nenhum integrante papeis do SCRUM (Product Owner, SCRUM M
 | :-:   | :-----:       | :------       | -------    | -------            |
 |`1.0`   |27/09/2023 |   Criação da página de metodologia   |  [Breno Queiroz](https://github.com/brenob6)| [Mayara Alves](https://github.com/Mayara-tech) |
 |`1.1`   |28/11/2023 |   Melhorias no texto, incluindo uma introdução mais direta, explicações breves do SCRUM e XP, simplificação na descrição das reuniões e exemplos dos valores do XP.   |  [Altino Arthur](https://github.com/arthurrochamoreira)| [Mayara Alves](https://github.com/Mayara-tech) |
+|`1.2` | Correções da verificaçãoo | [Breno Queiroz](github.com/brenob6)
