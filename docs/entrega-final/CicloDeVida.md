@@ -26,3 +26,4 @@ Os Riscos Potencias com essa escolha foram o ter pouca experiência dos integran
 
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
+|`1.0` | 06/12/2023 | Criação da página da Tabela de Apresentações| [Luis Miranda](https://github.com/LuisMiranda10) | [Breno](https://github.com/brenob6.png)|
