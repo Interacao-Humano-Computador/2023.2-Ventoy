@@ -46,7 +46,7 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
-### Página inicial
+### Doação
 As figuras 5 e 6 apresentam o protótipo de alta fidelidade da doação.
 
 <center>
@@ -65,6 +65,30 @@ Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
 
+### Documentação
+As figuras 7,8 e 9 apresentam o protótipo de alta fidelidade da página de documentação.
+
+<center>
+
+**Figura 07**: Protótipo de alta fidelidade da página de documentação;
+
+![main-page](../../assets/prototipos-figma/document1.png)
+
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+
+**Figura 08**: Protótipo de alta fidelidade da página de documentação/How Ventoy Works;
+
+![main-page](../../assets/prototipos-figma/document2.png)
+
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+
+**Figura 08**: Protótipo de alta fidelidade da página de documentação/How Ventoy Works/Disk Ventoy in MBR;
+
+![main-page](../../assets/prototipos-figma/document3.png)
+
+Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
+
+</center>
 
 
 ## Referência Bibliográficas
