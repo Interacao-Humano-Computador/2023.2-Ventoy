@@ -144,7 +144,7 @@ nav:
       - Verificação:
         - Planejamento: 
           - Cronograma: verificacao-nossa-grupo02/planejamento/cronograma.md
-          - Ferramentas: verificacao-nossa-grupo02/ventoy.md
+          - Ferramentas: verificacao-nossa-grupo02/planejamento/ferramentas.md
           - Metodologia: verificacao-nossa-grupo02/planejamento/metodologia.md
           - Políticas: verificacao-nossa-grupo02/planejamento/politicas.md
           - Heatmap: verificacao-nossa-grupo02/planejamento/HeatMap.md
