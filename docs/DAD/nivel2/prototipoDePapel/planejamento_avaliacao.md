@@ -106,7 +106,7 @@ O cronograma previsto para a avaliação está detalhado na Tabela 3, na qual ca
 | [Altino Arthur](https://github.com/arthurrochamoreira)  | Presencial  | 20/11/2023 |
 | [Breno Queiroz](https://github.com/brenob6) | Presencial   | 20/11/2023 |
 | [Limirio Correia](https://github.com/LimirioGuimaraes) | Presencial  | 20/11/2023  |
-| [Luis Eduardo](https://github.com/LuisMiranda10)  | Presencial   | 20/11/2023  |
+| [Luis Miranda](https://github.com/LuisMiranda10)  | Presencial   | 20/11/2023  |
 |  [Mayara Alves](https://github.com/Mayara-tech)   | Presencial  | 20/11/2023 |
 | [Milena Baruc](https://github.com/MilenaBaruc)  |  Online  |  20/11/2023  |
 | [Vinicius Mendes](https://github.com/yabamiah)   |  Presencial |  20/11/2023  |                   
