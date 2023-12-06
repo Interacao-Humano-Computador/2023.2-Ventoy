@@ -6,13 +6,13 @@ Este relato sumariza os resultados obtidos na avaliação da Análise de Tarefas
 
 ## Entrevista - HTA Plugin
 
-### Objetivo e escopo da avaliação
+### Objetivo e escopo da avaliação 
 
-O objetivo foi avaliar a eficácia, eficiência e satisfação na realização da tarefa da aba plugin no site do [Ventoy](https://www.ventoy.net/en/plugin.html), visando identificar áreas de melhoria.
+O objetivo foi avaliar a eficácia, eficiência e satisfação na realização da tarefa da aba plugin no site do [Ventoy](https://www.ventoy.net/en/plugin.html), visando identificar áreas de melhoria. Os objetivos específicos incluíram a avaliação da usabilidade, acessibilidade, e clareza da informação apresentada na página.
 
 ### Método de avaliação
 
-O método de entrevista e observação com usuários reais do produto foi empregado. Detalhes da entrevista serão documentados na **Tabela 1 - Cronograma da entrevista**.
+O método de entrevista e observação com usuários reais do produto foi empregado, com a análise intersujeito para consolidar dados analisados pelo entrevistador e pelo participante. Detalhes da entrevista serão documentados na **Tabela 1 - Cronograma da entrevista**.
 
 ### Seleção de participante
 
@@ -24,10 +24,15 @@ Selecionamos participantes que correspondem ao perfil do usuário do Ventoy, gar
 - Design da página não é agradável 
 - Apenas em inglês
 
+### Tendências de Problemas
+
+A partir dos problemas identificados, observamos tendências como a necessidade de melhoria na organização da informação, aprimoramento da estética visual da página, e inclusão de suporte multilíngue para alcançar um público mais amplo.
+
 ### Sugestões de melhoria
 
 - Organizar a documentação para achar fácil os dados que estão sendo procurados
 - Corrigir o Design 
+- Implementar suporte para mais idiomas
 
 ### Feedback do usuário
 
@@ -35,14 +40,18 @@ O usuário consegue utilizar o site, porém deve abrir diversas páginas para en
 
 ### Análise e interpretação dos resultados
 
-De acordo com a [entrevista feita](ttps://youtu.be/wkiDJeg2-FQ), o usuário apenas teve dificuldade em saber onde estão os assuntos que o mesmo quer, devido a falta de organização e de design. O entrevistado achou a [Analise Hierarquica de Tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md/#acessar-a-página-de-plugin) em questão condizente com o site.
+De acordo com a [entrevista feita](https://youtu.be/wkiDJeg2-FQ), o usuário apenas teve dificuldade em saber onde estão os assuntos que o mesmo quer, devido a falta de organização e de design. O entrevistado achou a [Analise Hierarquica de Tarefas](../../../AnaliseDeRequisitos/analisedetarefas/analiseHierarquicaDeTarefas.md/#acessar-a-página-de-plugin) em questão condizente com o site.
 
 ### Sumário dos principais resultados
 
-- As informações na página de plugins são claramente visíveis? Resposta: Sim, porém o design do site não é agradável
-- A estrutura de navegação na página é intuitiva? Resposta: Sim
-- Os plugins estão organizados de maneira lógica e categorizados? Resposta: Não, para conseguir achar algo teria que "fuçar"
-- Os plugins possuem documentação ou instruções de uso para ajudar os usuários? Resposta: Sim
+**Tabela 7 - Sumário dos principais resultados**
+
+| Pergunta | Resposta |
+| -------- | -------- |
+| As informações na página de plugins são claramente visíveis? | Sim, mas o design não é agradável. |
+| A estrutura de navegação na página é intuitiva? | Sim. |
+| Os plugins estão organizados de maneira lógica e categorizados? | Não, é necessário "fuçar" para encontrar algo. |
+| Os plugins possuem documentação ou instruções de uso? | Sim. |
 
 ## Planejamento de Reprojeto
 
