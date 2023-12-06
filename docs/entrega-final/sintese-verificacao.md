@@ -2,13 +2,11 @@
 
 ## Introdução
 
-
-
 ## Metodologia
 
 ## Grupo 2
 
-??? abstract "Tabela 1"
+??? abstract "Verificação do Planejamento"
 
     <center>
 
@@ -16,51 +14,39 @@
 
     | Artefato | Autor | Revisor |
     |---|---|---|
-    | Cronograma | Milena Baruc | Mayara Alves |
-    | Ferramentas |
-    | Metodologia | Mayara Alves | Luis Miranda |
-    | Politicas | Milena Baruc | Mayara Alves |
-    | Heatmap | Luis Miranda | Vinícius Mendes
-    | Metodologia | Mayara Alves | Mayara Alves |
+    | [Cronograma](../../verificacao-nossa-grupo02/planejamento/cronograma) | Milena Baruc | Mayara Alves |
+    | [Ferramentas](../../verificacao-nossa-grupo02/planejamento/ferramentas) |
+    | [Metodologia](../../verificacao-nossa-grupo02/planejamento/metodologia) | Mayara Alves | Luis Miranda |
+    | [Politicas](../../verificacao-nossa-grupo02/planejamento/politicas) | Milena Baruc | Mayara Alves |
+    | [Heatmap](../../verificacao-nossa-grupo02/planejamento/HeatMap) | Luis Miranda | Vinícius Mendes
+    | [Metodologia](../../verificacao-nossa-grupo02/planejamento/metodologia) | Mayara Alves | Mayara Alves |
 
     **Fonte**: [Breno Queiroz](https://github.com/brenob6)
 
     </center>
 
-??? abstract "Tabela 2"
+??? abstract "Verificações da Análise de Requisitos I"
 
     <center>
 
-    **Tabela 2**: Verificações Elicitação
+    **Tabela 2**: Verificações Análise de Requisitos I
 
     | Artefato | Autor | Revisor |
     |---|---|---|
-    | Brainstorming | Luis Miranda | Breno Queiroz |
-    | Instrospecção| Limirio Guimarães | Vinicius Mendes|
-    | Grupo de Foco  | Mayara Alves | Luis Miranda |
-    | Entrevista | Breno Queiroz | Mayara Alves | Limirio Guimarães |
-
-    **Fonte**: [Breno Queiroz](https://github.com/brenob6)
-
-    </center>
-??? abstract "Tabela 3"
-
-    <center>
-
-    **Tabela 3**: Verificações Análise de Requisitos I
-
-    | Artefato | Autor | Revisor |
-    |---|---|---|
-    | Aspectos Éticos | Milena Baruc | Mayara Alves |
-    | Perfil de Usuário |
-    | Persona | Mayara Alves | Luis Miranda |
-    | Cenários | Limirio Guimarães | Mayara Alves |
+    | [Brainstorming](../../verificacao-nossa-grupo02/analise-req-1/Brainstorming) | Luis Miranda | Breno Queiroz |
+    | [Instrospecção](../../verificacao-nossa-grupo02/analise-req-1/instrospeccao)| Limirio Guimarães | Vinicius Mendes|
+    | [Grupo de Foco](../../verificacao-nossa-grupo02/analise-req-1/GrupoFoco)  | Mayara Alves | Luis Miranda |
+    | [Entrevista*](../../verificacao-nossa-grupo02/analise-req-1/) | Breno Queiroz | Mayara Alves | Limirio Guimarães |
+    | [Aspectos Éticos](../../verificacao-nossa-grupo02/analise-req-1/aspectosEticos) | Milena Baruc | Mayara Alves |
+    | [Perfil de Usuário*](../../verificacao-nossa-grupo02/analise-req-1/) |
+    | [Persona*](../../verificacao-nossa-grupo02/analise-req-1/) | Mayara Alves | Luis Miranda |
+    | [Cenários](../../verificacao-nossa-grupo02/analise-req-1/cenarios) | Limirio Guimarães | Mayara Alves |
 
     **Fonte**: [Breno Queiroz](https://github.com/brenob6)
 
     </center>
 
-??? abstract "Tabela 4"
+??? abstract "Verificações Análise de Requisitos II"
 
     <center>
 
@@ -68,10 +54,10 @@
 
     | Artefato | Autor | Revisor |
     |---|---|---|
-    | Principios Gerais | Luis Miranda | Breno Queiroz |
-    | Características Gerais |
-    | Metas de Usabilidade | Mayara Alves | Luis Miranda |
-    | Guia de Estilo | | |
+    | [Principios Gerais](../../verificacao-nossa-grupo02/analise-req-2/Principios-Gerais) | Luis Miranda | Breno Queiroz |
+    | [Características Gerais*](../../verificacao-nossa-grupo02/analise-req-2/) |
+    | [Metas de Usabilidade*](../../verificacao-nossa-grupo02/analise-req-2/) | Mayara Alves | Luis Miranda |
+    | [Guia de Estilo](../../verificacao-nossa-grupo02/analise-req-2/guia-de-estilo) | Limirio Guimarães | |
 
     **Fonte**: [Breno Queiroz](https://github.com/brenob6)
 

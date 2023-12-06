@@ -141,72 +141,71 @@ nav:
 
 
     - Grupo 02:
-      - Verificação:
-        - Planejamento: 
-          - Cronograma: verificacao-nossa-grupo02/planejamento/cronograma.md
-          - Ferramentas: verificacao-nossa-grupo02/planejamento/ferramentas.md
-          - Metodologia: verificacao-nossa-grupo02/planejamento/metodologia.md
-          - Políticas: verificacao-nossa-grupo02/planejamento/politicas.md
-          - Heatmap: verificacao-nossa-grupo02/planejamento/HeatMap.md
-          - Processo design: verificacao-nossa-grupo02/planejamento/verificacao-processo-design.md
-          - Sites avaliados: verificacao-nossa-grupo02/planejamento/SitesAvaliados.md
-          - Site escolhido: verificacao-nossa-grupo02/planejamento/site-escolhido.md
-        - Análise de Requisitos I:
-          - Aspectos Éticos: verificacao-nossa-grupo02/analise-req-1/aspectosEticos.md
-          - Perfil de Usuário(adicionar): verificacao-nossa-grupo02/ventoy.md
-          - Persona(add): verificacao-nossa-grupo02/ventoy.md
-          - Cenários: verificacao-nossa-grupo02/analise-req-1/cenarios.md
+      - Planejamento: 
+        - Cronograma: verificacao-nossa-grupo02/planejamento/cronograma.md
+        - Ferramentas: verificacao-nossa-grupo02/planejamento/ferramentas.md
+        - Metodologia: verificacao-nossa-grupo02/planejamento/metodologia.md
+        - Políticas: verificacao-nossa-grupo02/planejamento/politicas.md
+        - Heatmap: verificacao-nossa-grupo02/planejamento/HeatMap.md
+        - Processo design: verificacao-nossa-grupo02/planejamento/verificacao-processo-design.md
+        - Sites avaliados: verificacao-nossa-grupo02/planejamento/SitesAvaliados.md
+        - Site escolhido: verificacao-nossa-grupo02/planejamento/site-escolhido.md
+      - Análise de Requisitos I:
+        - Aspectos Éticos: verificacao-nossa-grupo02/analise-req-1/aspectosEticos.md
+        - Perfil de Usuário(adicionar): verificacao-nossa-grupo02/ventoy.md
+        - Persona(add): verificacao-nossa-grupo02/ventoy.md
+        - Cenários: verificacao-nossa-grupo02/analise-req-1/cenarios.md
         - Elicitação:
           - Entrevistas:
             - Lista de verificação: verificacao-nossa-grupo02/entrevista/checklist.md
             - Inspeção: verificacao-nossa-grupo02/entrevista/inspecao.md
           - Brainstorming: verificacao-nossa-grupo02/analise-req-1/Brainstorming.md
-          - Introspecção: verificacao-nossa-grupo02/analise-req-1/elicitacao/introspeccao.md
-          - Grupo de foco: verificacao-nossa-grupo02/analise-req-1/elicitacao/GrupoFoco.md
+          - Introspecção: verificacao-nossa-grupo02/analise-req-1/introspeccao.md
+          - Grupo de foco: verificacao-nossa-grupo02/analise-req-1/GrupoFoco.md
         - Análise de Tarefas: 
-          - Análise Hierárquica de Tarefas - HTA: verificacao-nossa-grupo02/ventoy.md
+          - Análise Hierárquica de Tarefas - HTA*: verificacao-nossa-grupo02/ventoy.md
           - ConcurTaskTrees - CTT: verificacao-nossa-grupo02/analise-req-1/verificacao-CTT.md
-        - Análise de requisitos II: 
-          - Princípios Gerais: verificacao-nossa-grupo02/analise-req-2/Principios-Gerais.md
-          - Características Gerais: verificacao-nossa-grupo02/ventoy.md
-          - Metas de Usabilidade: verificacao-nossa-grupo02/ventoy.md
-          - Guia de Estilo: verificacao-nossa-grupo02/analise-req-2/Principios-Gerais.md
-        - Design, Avaliação e Desenvolvimento:
-          - Nível 1:
-            - Storyboard:
-              - Planejamento da Avaliação do Storyboard: verificacao-nossa-grupo02/D.A.D/storyboard/planejamento-da-avaliacao.md
-              - Planejamento do Relato dos Resultados: verificacao-nossa-grupo02/D.A.D/storyboard/planejamento-relato-dos-resultados.md
-              - Relato dos Resultados do Storyboard(add): verificacao-nossa-grupo02/D.A.D/storyboard/Verificação Storyboards.md
-              - Storyboards: verificacao-nossa-grupo02/D.A.D/storyboard/Verificação Storyboards.md
-            - Análise de Tarefas:
-              - Planejamento da Avaliação da Análise de Tarefas: verificacao-nossa-grupo02/D.A.D/analise-de-tarefas/planejamentoAvaliação.md
-              - Planejamento do Relato dos Resultados da Avaliação: verificacao-nossa-grupo02/D.A.D/analise-de-tarefas/planejamento-relato-dos-resultados.md
-              - Relato dos Resultados da Avaliação: verificacao-nossa-grupo02/D.A.D/analise-de-tarefas/Verificação Relato dos Resultados da Avaliação da Análise de tarefas.md
-          - Nível 2:
-            - Protótipo de Papel: 
-              - Planejamento da Avaliação do protótipo de papel: verificacao-nossa-grupo02/ventoy.md
-              - Planejamento do Relato dos resultados do protótipo de papel: verificacao-nossa-grupo02/ventoy.md
-              - Protótipos de papel: verificacao-nossa-grupo02/ventoy.md
-              - Relato dos Resultados: 
-                - Criar post no fórum: verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/relato-dos-resultados/criar-post-forum.md
-                - Acessar a aba de plugin: verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/relato-dos-resultados/acessar-aba-plugin.md
-                - Acessar a página de FAQ para consultar dúvida: verificacao-nossa-grupo02/ventoy.md
-                - Acessar a página de Testes de ISO para verificar os testes: verificacao-nossa-grupo02/ventoy.md
-                - Realizar doação: verificacao-nossa-grupo02/ventoy.md
-                - Acessar a página de Compartilhamento de Experiências para consultar relatos: verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/relato-dos-resultados/Verificação Relato do resultado do Protótipo de Papel Acessar a página de Compartilhamento de Experiências para consultar relatos.md
-                - Iniciar Uso do Ventoy: verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/relato-dos-resultados/iniciar-ventoy.md
-          - Nível 3:
-            - Protótipo de alta fidelidade:
-              - Planejamento da Avaliação do protótipo de alta fidelidade: verificacao-nossa-grupo02/ventoy.md
-              - Planejamento do Relato dos resultados do protótipo de alta fidelidade: verificacao-nossa-grupo02/ventoy.md
-              - Relatos dos Prótotipos de alta fidelidade: 
-                - Relato Plugin: verificacao-nossa-grupo02/ventoy.md
-                - Relato Donation: verificacao-nossa-grupo02/ventoy.md
-                - Relato Iniciar o uso do Ventoy: verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relato-dos-resultados/Verificação Relato dos Resultados protótipo de alta fidelidade Iniciar o uso do Ventoy.md
-                - Relato Teste de Iso: verificacao-nossa-grupo02/ventoy.md
-                - Relato Realizar Postagem no Fórum: verificacao-nossa-grupo02/ventoy.md/prototipo-alta-fidelidade/relato-dos-resultados/Verificação Relato dos Resultados protótipo de alta fidelidade Iniciar o uso do Ventoy.md
-                - Página de FAQ:
-                  - Página de FAQ: verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relato-dos-resultados/faq.md
+      - Análise de requisitos II: 
+        - Princípios Gerais: verificacao-nossa-grupo02/analise-req-2/Principios-Gerais.md
+        - Características Gerais: verificacao-nossa-grupo02/ventoy.md
+        - Metas de Usabilidade: verificacao-nossa-grupo02/ventoy.md
+        - Guia de Estilo: verificacao-nossa-grupo02/analise-req-2/Principios-Gerais.md
+      - Design, Avaliação e Desenvolvimento:
+        - Nível 1:
+          - Storyboard:
+            - Planejamento da Avaliação do Storyboard: verificacao-nossa-grupo02/D.A.D/storyboard/planejamento-da-avaliacao.md
+            - Planejamento do Relato dos Resultados: verificacao-nossa-grupo02/D.A.D/storyboard/planejamento-relato-dos-resultados.md
+            - Relato dos Resultados do Storyboard(add): verificacao-nossa-grupo02/D.A.D/storyboard/Verificação Storyboards.md
+            - Storyboards: verificacao-nossa-grupo02/D.A.D/storyboard/Verificação Storyboards.md
+          - Análise de Tarefas:
+            - Planejamento da Avaliação da Análise de Tarefas: verificacao-nossa-grupo02/D.A.D/analise-de-tarefas/planejamentoAvaliação.md
+            - Planejamento do Relato dos Resultados da Avaliação: verificacao-nossa-grupo02/D.A.D/analise-de-tarefas/planejamento-relato-dos-resultados.md
+            - Relato dos Resultados da Avaliação: verificacao-nossa-grupo02/D.A.D/analise-de-tarefas/Verificação Relato dos Resultados da Avaliação da Análise de tarefas.md
+        - Nível 2:
+          - Protótipo de Papel: 
+            - Planejamento da Avaliação do protótipo de papel: verificacao-nossa-grupo02/ventoy.md
+            - Planejamento do Relato dos resultados do protótipo de papel: verificacao-nossa-grupo02/ventoy.md
+            - Protótipos de papel: verificacao-nossa-grupo02/ventoy.md
+            - Relato dos Resultados: 
+              - Criar post no fórum: verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/relato-dos-resultados/criar-post-forum.md
+              - Acessar a aba de plugin: verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/relato-dos-resultados/acessar-aba-plugin.md
+              - Acessar a página de FAQ para consultar dúvida: verificacao-nossa-grupo02/ventoy.md
+              - Acessar a página de Testes de ISO para verificar os testes: verificacao-nossa-grupo02/ventoy.md
+              - Realizar doação: verificacao-nossa-grupo02/ventoy.md
+              - Acessar a página de Compartilhamento de Experiências para consultar relatos: verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/relato-dos-resultados/Verificação Relato do resultado do Protótipo de Papel Acessar a página de Compartilhamento de Experiências para consultar relatos.md
+              - Iniciar Uso do Ventoy: verificacao-nossa-grupo02/D.A.D/prototipos-de-papel/relato-dos-resultados/iniciar-ventoy.md
+        - Nível 3:
+          - Protótipo de alta fidelidade:
+            - Planejamento da Avaliação do protótipo de alta fidelidade: verificacao-nossa-grupo02/ventoy.md
+            - Planejamento do Relato dos resultados do protótipo de alta fidelidade: verificacao-nossa-grupo02/ventoy.md
+            - Relatos dos Prótotipos de alta fidelidade: 
+              - Relato Plugin: verificacao-nossa-grupo02/ventoy.md
+              - Relato Donation: verificacao-nossa-grupo02/ventoy.md
+              - Relato Iniciar o uso do Ventoy: verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relato-dos-resultados/Verificação Relato dos Resultados protótipo de alta fidelidade Iniciar o uso do Ventoy.md
+              - Relato Teste de Iso: verificacao-nossa-grupo02/ventoy.md
+              - Relato Realizar Postagem no Fórum: verificacao-nossa-grupo02/ventoy.md/prototipo-alta-fidelidade/relato-dos-resultados/Verificação Relato dos Resultados protótipo de alta fidelidade Iniciar o uso do Ventoy.md
+              - Página de FAQ:
+                - Página de FAQ: verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relato-dos-resultados/faq.md
   - Apresentação Final:
     - Síntese das Verificações: entrega-final/sintese-verificacao.md
     - Síntese das Apresentações: entrega-final/sintese-video-apresentações.md
