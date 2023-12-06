@@ -2,8 +2,6 @@
 
 ## Introdução
 
-## Metodologia
-
 ## Grupo 2
 
 ??? abstract "Verificação do Planejamento"
@@ -135,7 +133,7 @@
     </center>
 
 
-??? abstract "Tabela 9"
+??? abstract "Protótipo de Alta Fidelidade"
 
     <center>
 
@@ -143,22 +141,18 @@
 
     | Artefato | Autor | Revisor |
     |---|---|---|
-    | Planejamento da Avaliação do protótipo de Alta Fidelidade |  |  |
-    | Planejamento do Relato dos Resultados |  |  |
-    | Relato Plugin |  |  |
-    | Relato Doação |  |  |
-    | Relato Inicar uso do Ventoy |  |  |
-    | Relato Teste de ISO |  |  |
-    | Relato Realizar Postagem no Fórum |  |  |
-    | Relato FAQ | Breno Queiroz |  |
+    | [Planejamento da Avaliação do protótipo de Alta Fidelidade](../../verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/planejamentoAvaliação) |  | Milena Baruc |
+    | [Planejamento do Relato dos Resultados*](../../verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/) |  |  |
+    | [Relato Plugin](../../verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relatos/acessar-aba-plugin) |  |  |
+    | [Relato Doação](../../verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relatos/realizarDoação) | Milena Baruc |  |
+    | [Relato Iniciar uso do Ventoy](../../verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relatos/IniciarUsoDoVentoy) | Vinícius Mendes | Luis Miranda |
+    | [Relato Teste de ISO](../../verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relatos/) |  |  |
+    | [Relato Realizar Postagem no Fórum](../../verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relatos/criar-post-forum) |  |  |
+    | [Relato FAQ*](../../verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relatos/) | Breno Queiroz |  |
 
     **Fonte**: [Breno Queiroz](https://github.com/brenob6)
 
     </center>
-
-# Bibliografia
-
-> BARBOSA, Simone; SILVA, Bruno. **Interação Humano-Computador**, Editora Elsevier, Rio de Janeiro, 2010
 
 ## 📑 Histório de versões
 
