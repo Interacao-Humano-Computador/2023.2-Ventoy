@@ -15,7 +15,7 @@ A figura 1 apresenta o protótipo de alta fidelidade da página inicial.
 
 ## Referência Bibliográficas
 
-> <a id=“RP1” href=“#TEC2”>1.</a> > FIGMA. Disponível em: [Figma](https://www.figma.com/). Acesso em: 22 de Nov. 2023.</br>
+> 1. FIGMA. Disponível em: [Figma](https://www.figma.com/). Acesso em: 22 de Nov. 2023.</br>
 
 ## Bibliografia
 
