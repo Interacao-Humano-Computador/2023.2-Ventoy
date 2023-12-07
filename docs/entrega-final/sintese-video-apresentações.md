@@ -70,11 +70,17 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
 ??? abstract "Entrega 3"
 
     <h1>Entrega 3</h1>
-
+    
+    Dois vídeos de dois participantes que foram gravados dentro do prazo de entrega não foram colocados quando foi enviado ao aprender 1 por quem enviou o arquivo, abaixo segue os vídeos com as respectivas datas da
+    gravação contida no vídeo
 
     <p style="text-align: center"><a href="https://www.youtube.com/watch?v=dz-av970OOI" target="blanket">Vídeo apresentação 3</a></p>
+
+    <p style="text-align: center"><a href="https://youtu.be/LU8ZE9kT6Hc" target="blanket">Vídeo apresentação 3 dois participantes</a></p>
     
     <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=dz-av970OOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+    <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/LU8ZE9kT6Hc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
     
     Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
     
