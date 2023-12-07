@@ -58,8 +58,6 @@ A interação com o grupo sempre foi bastante agradável e divertido, conserteza
 
 ## Mayara Alves
 
-## Mayara Alves
-
 ### Dificuldades
 
 A principal dificuldade que enfrentei ao longo do projeto foi a restrição de tempo. As demandas pessoais e acadêmicas tanto minhas como dos membros da equipe muitas vezes colidiram com os prazos estabelecidos, o que impactou diretamente o ritmo de progresso. A necessidade de equilibrar as responsabilidades individuais com as do projeto demandou uma gestão cuidadosa e, em alguns momentos, afetou a qualidade do trabalho entregue. Outro aspecto que gerou uma certa dificuldade foi conciliar o trabalho com as grande quantidade de trabalho do projeto, por muitas vezes houve a necessidade de virar noites estudando para dar conta de toda carga da matéria.
