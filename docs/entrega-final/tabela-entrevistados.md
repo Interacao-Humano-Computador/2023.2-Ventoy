@@ -52,8 +52,7 @@ Tabela 01: Tabela de registro de participantes <br/>
 |[Avaliação Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel3/relato-alta-fidelidade/iniciar-uso-do-ventoy/)| [Vinicius Mendes](https://github.com/yabamiah) | Renann de Oliveira Gomes |
 |[Avaliação Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel3/relato-alta-fidelidade/TesteDeISO/)| [Luis Miranda](https://github.com/LuisMiranda10) | Suellen Sayuri Sato |
 |[Avaliação Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel3/relato-alta-fidelidade/forum/)| [Breno Queiroz](https://github.com/brenob6) | Fernando Murussi |
-|[Avaliação Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel3/relato-dos-resultados-prototipo-de-papel/FAQ/)|  |  |
-|[Avaliação Protótipo de Alta Fidelidade]()|[Mayara Alves](https://github.com/Mayara-tech)  | Igor Luna |
+|[Avaliação Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel3/relato-dos-resultados-prototipo-de-papel/FAQ/)|  [Mayara Alves](https://github.com/Mayara-tech)  | Igor Luna |
 
 Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
