@@ -128,4 +128,4 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc).
 |`1.6`  | 29/10/2023 |Adicionado Storyboard 6|[Vinícius Mendes](https://github.com/yabamiah)|[Limírio Guimarães](https://github.com/LimirioGuimaraes)
 |`1.7`  | 29/10/2023 |Adicionado Storyboard 7|[Milena Baruc](https://github.com/MilenaBaruc)|[Luis Miranda](https://github.com/LuisMiranda10)
 |`2.0`  | 29/10/2023 |Atulizando Storyboard 7|[Milena Baruc](https://github.com/MilenaBaruc)|[Luis Miranda](https://github.com/LuisMiranda10)
-|`3.0` | 06/12/2023 | Adicionado texto de metodologia | [Breno Queiroz](https://github.com/brenob6) | 
+|`3.0` | 06/12/2023 | Adicionado texto de metodologia | [Breno Queiroz](https://github.com/brenob6) |  [Altino Arthur](https://github.com/altinoarthurmoreira)  | 
