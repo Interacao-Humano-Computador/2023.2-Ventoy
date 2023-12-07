@@ -11,7 +11,7 @@ Caso o artefato em questão não fosse citado em nenhuma literatura, foram utili
 propostas pelo professor durante as aulas.
 
 
-??? abstract "Planejamento"
+???abstract "Planejamento"
 
     <center>
 
@@ -29,7 +29,7 @@ propostas pelo professor durante as aulas.
 
     </center>
 
-??? abstract "Requisitos I"
+???abstract "Requisitos I"
 
     <center>
 
@@ -49,7 +49,7 @@ propostas pelo professor durante as aulas.
 
     </center>
 
-??? abstract "Análise de Requisitos II"
+???abstract "Análise de Requisitos II"
 
     <center>
 
@@ -65,7 +65,7 @@ propostas pelo professor durante as aulas.
 
     </center>
 
-??? abstract "Storyboard"
+???abstract "Storyboard"
 
     <center>
 
@@ -82,7 +82,7 @@ propostas pelo professor durante as aulas.
     </center>
 
 
-??? abstract "Análise de Tarefas"
+???abstract "Análise de Tarefas"
 
     <center>
 
@@ -98,7 +98,7 @@ propostas pelo professor durante as aulas.
 
     </center>
 
-??? abstract "Prótipo de Papel"
+???abstract "Prótipo de Papel"
 
     <center>
 
@@ -118,7 +118,7 @@ propostas pelo professor durante as aulas.
     </center>
 
 
-??? abstract "Protótipo de Alta Fidelidade"
+???abstract "Protótipo de Alta Fidelidade"
 
     <center>
 
