@@ -42,7 +42,6 @@ Tabela 01: Tabela de registro de participantes <br/>
 |[Avaliação Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoDePapel/RelatoTesteISO/#metodo-de-avaliacao)| [Luis Eduardo](https://github.com/LuisMiranda10) | Luiz Amaral |
 |[Avaliação Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoDePapel/RelatoEXP/)| [Altino Arthur](https://github.com/arthurrochamoreira) | 	Matheus José da Silva |
 |[Avaliação Protótipo de Papel](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoDePapel/resultado_comecar-usar-ventoy/)| [Vinicius Mendes](https://github.com/yabamiah)| Igor Luna |
-|[Avaliação Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoAltaFidelidade/RelatoPlugin/#metodo-da-avaliacao)|  |  |
 |[Avaliação Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoAltaFidelidade/RelatoPlugin/)| [Milena Baruc](https://github.com/MilenaBaruc) | Pedro Henrique dos Santos |
 |[Avaliação Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoAltaFidelidade/RelatoPlugin/)| [Milena Baruc](https://github.com/MilenaBaruc) | 	Ana Catarina Lopes |
 |[Avaliação Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.2-Ventoy/DAD/nivel2/prototipoAltaFidelidade/RelatoPlugin/)| [Milena Baruc](https://github.com/MilenaBaruc) | Victor Hugo Rodrigues |
