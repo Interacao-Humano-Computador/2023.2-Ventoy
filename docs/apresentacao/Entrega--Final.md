@@ -20,12 +20,12 @@ A partir da entrega 5, os itens de avaliação na apresentação não é mais di
 
 ## Correções pós-apresentação
 
-Correção | responsável | revisor 
+|Correção | responsável | revisor 
 --------- | --------------- | ------
 | Corrigir os relatos do protótipo de alta fidelidade a partir das listas de verificações feitas| Cada um corrige o seu| | 
 
 ## 📑 Histórico de versões 
 
-Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
---------- | ------ | ------ | ---------- | ----------
+|Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
+|--------- | ------ | ------ | ---------- | ----------
 |`1.0` | 06/11/2023| Criação da página de apresentação final |[Luis Miranda](https://github.com/mayara-tech) |[Breno Queiroz](https://github.com/brenob6) |
