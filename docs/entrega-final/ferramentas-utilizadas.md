@@ -43,4 +43,4 @@ facilitem o caminho para o sucesso.
 
 | Versão | Data | Descrição | Autor | Revisor |
 |-------|-------|------------|-------|--------|
-|`1.0`| 06/12/2023| Criação do documento | [Limírio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara ALves](https://github.com/Mayara-tech) |
+|`1.0`| 06/12/2023| Criação do documento | [Limírio Guimarães](https://github.com/LimirioGuimaraes)| [Mayara Alves](https://github.com/Mayara-tech) |
