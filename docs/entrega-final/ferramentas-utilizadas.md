@@ -25,6 +25,7 @@ A tabela 1 a seguir agrupa as ferramentas utilizadas.
 | ![](../assets/forms.png){width=75} | Goolgle Forms | Utilizado para realizar formulários. | 
 | ![](../assets/excell.png){width=75} | Excell Online| Utilizado para realizar o HeatMap da equipe. | 
 | ![](../assets/discord.png){width=75} | Discord| Utilizado para realizar algumas entrevistas com usuários que preferiam esta plataforma de comunicação. |
+| ![](../assets/drawio.png){width=75} | Draw.io | Utilizado confeccionar os diagramas HTA. |
 
 
 Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
