@@ -188,4 +188,4 @@ Respostas as perguntas apresentadas no tópico de objetivos da avaliação:
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
 |`1.0`| 22/11/2023 | Criação do documento | [Mayara Alves](https://github.com/Mayara-tech) | [Luis Eduardo](https://github.com/LuisMiranda10) |
-|`1.1`| 02/12/2023 | Adicionando retrabalho do protótipo de papel | [Mayara Alves](https://github.com/Mayara-tech) | |
+|`1.1`| 02/12/2023 | Adicionando retrabalho do protótipo de papel | [Mayara Alves](https://github.com/Mayara-tech) | [Altino Arthur](https://github.com/arthurrochamoreira)|
