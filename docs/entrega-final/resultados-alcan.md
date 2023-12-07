@@ -14,6 +14,23 @@ O objetivo da disciplina era alcançar uma série de resultados que promovessem 
 
 A cada fase de desenvolvimento do projeto, esses resultados foram aplicados e incorporados cada vez mais nas entregas dos artefatos, permitindo uma compreensão mais profunda da disciplina de Interação Humano-Computador.
 
+
+
+- **GitPages**: 1 artefato
+- **Apresentações**: 7 artefatos
+- **Atas**: 5 artefatos
+- **Entrega 1 - Planejamento do Projeto**: 8 artefatos
+- **Entrega 2 - Análise de Requisitos I**: 8 artefatos
+- **Entrega 3 - Análise de Requisitos 2**: 4 artefatos
+- **Etapa 4 - Design, Avaliação e Desenvolvimento 1**: 9 artefatos
+- **Entrega 5 - Design, Avaliação e Desenvolvimento 2**: 3 artefatos
+- **Entrega 6.1 - Verificação dos Artefatos I - Grupo 3**: 26 artefatos
+- **Entrega 6.2 - Verificação dos Artefatos I - Grupo 2**: 27 artefatos
+- **Entrega 7 - Relatos Protótipos de Papel e Avaliação do Protótipo de Alta Fidelidade**: 3 artefatos
+
+**Total de Artefatos**: 101 artefatos.
+
+
 ## Bibliografia
 > GABRIEL, Lucas. Entrega Final. Repositório do Grupo Lichess e Documentos da disciplina de Interação Humano-Computador da Universidade de Brasília, 2022. Disponível em: [Link para a documentação](https://interacao-humano-computador.github.io/2022.2-Lichess/entrega_final/#sintese-das-avaliacoes). Acesso em: 04 de dezembro de 2023.
 
