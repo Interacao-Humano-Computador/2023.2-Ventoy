@@ -12,539 +12,539 @@ Na tabela 1 estão todos os artefatos criados pelo Grupo 2 durante a disciplina 
 
 **Tabela 1** - Artefatos Criados
 
-<table class="tg">
+<table >
 <thead>
   <tr>
-    <th class="tg-0pky">Entrega</th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky">Autor</th>
-    <th class="tg-0pky">Revisor</th>
+    <th >Entrega</th>
+    <th ></th>
+    <th >Autor</th>
+    <th >Revisor</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">GitPages</td>
-    <td class="tg-0pky">Home</td>
-    <td class="tg-0pky"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"><a href="https://github.com/Mayara-tech">Mayara Alves</a>, <a href="https://github.com/LuisMiranda10">Luis Miranda</a>, <a href="https://github.com/brenob6">Breno Queiroz</a>, <a href="https://github.com/arthurrochamoreira">Altino Arthur</a>, <a href="https://github.com/yabamiah">Vinícius Mendes</a> </td>
+    <td >GitPages</td>
+    <td >Home</td>
+    <td ><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ><a href="https://github.com/Mayara-tech">Mayara Alves</a>, <a href="https://github.com/LuisMiranda10">Luis Miranda</a>, <a href="https://github.com/brenob6">Breno Queiroz</a>, <a href="https://github.com/arthurrochamoreira">Altino Arthur</a>, <a href="https://github.com/yabamiah">Vinícius Mendes</a> </td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="7">Apresentações</td>
-    <td class="tg-0pky">Apresentação 1</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a></td>
+    <td  rowspan="7">Apresentações</td>
+    <td >Apresentação 1</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Apresentação 2</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td >Apresentação 2</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Apresentação 3</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td >Apresentação 3</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Apresentação 4</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Apresentação 4</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Apresentação 5</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Apresentação 5</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Apresentação 6</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Apresentação 6</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Apresentação 7</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td >Apresentação 7</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="5">Atas </td>
-    <td class="tg-0pky">Ata 1</td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td  rowspan="5">Atas </td>
+    <td >Ata 1</td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Ata 2</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Ata 2</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Ata 3</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td >Ata 3</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Ata 4</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Ata 4</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Ata 5</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Ata 5</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="8">Entrega 1 - Planejamento do Projeto</td>
-    <td class="tg-0pky">Cronograma</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a>,  <span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a>, <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td  rowspan="8">Entrega 1 - Planejamento do Projeto</td>
+    <td >Cronograma</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a>,  <span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a>, <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Ferramentas</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Ferramentas</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Metodologias</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Metodologias</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Políticas</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td >Políticas</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Heatmap</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a>,  <span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a>, <a href="https://github.com/arthurrochamoreira">Altino Arthur</a>, <span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a>, <a href="https://github.com/LuisMiranda10">Luis Miranda</a>, <a href="https://github.com/yabamiah">Vinícius Mendes</a> e <a href="https://github.com/MilenaBaruc">Milena Baruc</a></td>
+    <td >Heatmap</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a>,  <span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a>, <a href="https://github.com/arthurrochamoreira">Altino Arthur</a>, <span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a>, <a href="https://github.com/LuisMiranda10">Luis Miranda</a>, <a href="https://github.com/yabamiah">Vinícius Mendes</a> e <a href="https://github.com/MilenaBaruc">Milena Baruc</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Processo Design</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a> e&nbsp;&nbsp;<a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Processo Design</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a> e&nbsp;&nbsp;<a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Sites Avaliados</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td >Sites Avaliados</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Sites Escolhidos</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> e <a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td >Sites Escolhidos</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> e <a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="10">Entrega 2 - Análise de Requisitos I</td>
-    <td class="tg-0pky">Aspectos Éticos</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td  rowspan="10">Entrega 2 - Análise de Requisitos I</td>
+    <td >Aspectos Éticos</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Perfil de Usuário</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a> e <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td >Perfil de Usuário</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a> e <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Persona</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td >Persona</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Cenários</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td >Cenários</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Entrevista</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a> e <a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a> e&nbsp;&nbsp;<a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td >Entrevista</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a> e <a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a> e&nbsp;&nbsp;<a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Brainstorming</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a> e <a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Brainstorming</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a> e <a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Introspecção</td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a> e  <a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td >Introspecção</td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a> e  <a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Grupo de Foco</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a> e <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td >Grupo de Foco</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a> e <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Análise Hierárquica de Tarefas</td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a>, <span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a> e <a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a> e  <a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td >Análise Hierárquica de Tarefas</td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a>, <span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a> e <a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a> e  <a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Análise Hierárquica Concorrente</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a> e <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td >Análise Hierárquica Concorrente</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a> e <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="4">Entrega 3 - Análise de Requisitos 2</td>
-    <td class="tg-0pky">Princípios Gerais</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a> e <a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td  rowspan="4">Entrega 3 - Análise de Requisitos 2</td>
+    <td >Princípios Gerais</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a> e <a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Características Gerais</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Características Gerais</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Metas de Usabilidade</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a> e <a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td >Metas de Usabilidade</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a> e <a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Guia de Estilo</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a> e  <a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Guia de Estilo</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a> e  <a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="7">Etapa 4 - Design, Avaliação e Desenvolvimento 1</td>
-    <td class="tg-0pky">Planejamento da Avaliação do Storyboard</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td  rowspan="7">Etapa 4 - Design, Avaliação e Desenvolvimento 1</td>
+    <td >Planejamento da Avaliação do Storyboard</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Planejamento do Relato dos Resultados Avaliação do Storyboard</td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a> e <a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Planejamento do Relato dos Resultados Avaliação do Storyboard</td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a> e <a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Relato dos Resultados do Storyboard</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td >Relato dos Resultados do Storyboard</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Storyboards</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td >Storyboards</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Planejamento da Avaliação da Análise de Tarefas</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a>, <a href="https://github.com/brenob6">Breno Queiroz</a> e <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Planejamento da Avaliação da Análise de Tarefas</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a>, <a href="https://github.com/brenob6">Breno Queiroz</a> e <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Planejamento do Relato dos Resultados Avaliação da Análise de Tarefas</td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a> e <a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Planejamento do Relato dos Resultados Avaliação da Análise de Tarefas</td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a> e <a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Relato dos Resultados da Análise de Tarefas</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td >Relato dos Resultados da Análise de Tarefas</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="3">Entrega 5 - Design, Avaliação e Desenvolvimento 2</td>
-    <td class="tg-0pky">Planejamento da Avaliação do Protótipo de Papel</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td  rowspan="3">Entrega 5 - Design, Avaliação e Desenvolvimento 2</td>
+    <td >Planejamento da Avaliação do Protótipo de Papel</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Planejamento do Relato dos Resultados Avaliação do Protótipo de Papel</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Planejamento do Relato dos Resultados Avaliação do Protótipo de Papel</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Relato dos Resultados do <span style="font-weight:400;font-style:normal">Protótipo de Papel</td>
-    <td class="tg-0pky">Todos</td>
-    <td class="tg-0pky">Todos</td>
+    <td >Relato dos Resultados do <span style="font-weight:400;font-style:normal">Protótipo de Papel</td>
+    <td >Todos</td>
+    <td >Todos</td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="29">Entrega 6.1 - Verificação dos Artefatos I - Grupo 3</td>
-    <td class="tg-0pky">Planejamento da Verificação dos Artefatos do Grupo 03</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td  rowspan="29">Entrega 6.1 - Verificação dos Artefatos I - Grupo 3</td>
+    <td >Planejamento da Verificação dos Artefatos do Grupo 03</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação da Metodologia</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td >Verificação da Metodologia</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Heatmap</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td >Verificação do Heatmap</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Sites Avaliados</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td >Verificação do Sites Avaliados</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Site Escolhido</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td >Verificação do Site Escolhido</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação de Ferramentas</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Verificação de Ferramentas</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Cronograma</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Verificação do Cronograma</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação da Padronização do Projeto</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Verificação da Padronização do Projeto</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Processo de Design</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
-    <td class="tg-0pky"></td>
+    <td >Verificação do Processo de Design</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Aspectos Éticos</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Verificação do Aspectos Éticos</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Cenário</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"></td>
+    <td >Verificação do Cenário</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação da Entrevista</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"></td>
+    <td >Verificação da Entrevista</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação da Brainstorming</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td >Verificação da Brainstorming</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação da Introspecção</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"></td>
+    <td >Verificação da Introspecção</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Grupo de Foco</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Verificação do Grupo de Foco</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação da Análise de Tarefas Concorrentes</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Verificação da Análise de Tarefas Concorrentes</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Princípios Gerais</td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Verificação do Princípios Gerais</td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação da Caracterísitcas da Plataforma</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Verificação da Caracterísitcas da Plataforma</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação da Metas de Usbilidade</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Verificação da Metas de Usbilidade</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação de Guia de Estilo</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Verificação de Guia de Estilo</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Planejamento da Avaliação da Análise de Tarefas</td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Verificação do Planejamento da Avaliação da Análise de Tarefas</td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Planejamento do Relato dos Resultados do Planejamento da Avaliação da Análise de Tarefas</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Verificação do Planejamento do Relato dos Resultados do Planejamento da Avaliação da Análise de Tarefas</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Relato dos Resultados da Avaliação da Análise de Tarefas</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td >Verificação do Relato dos Resultados da Avaliação da Análise de Tarefas</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Planejamento da Avaliação do Storyboard</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td >Verificação do Planejamento da Avaliação do Storyboard</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Planejamento do Relato dos Resultados do Planejamento da Avaliação do Storyboard</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td >Verificação do Planejamento do Relato dos Resultados do Planejamento da Avaliação do Storyboard</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Relato dos Resultados da Avaliação do Storyboard</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td >Verificação do Relato dos Resultados da Avaliação do Storyboard</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Storyboard</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td >Verificação do Storyboard</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Planejamento do Protótipo de Papel</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Verificação do Planejamento do Protótipo de Papel</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Planejamento do Relato dos Resultados do Planejamento da Avaliação do Protótipo de Papel</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Verificação do Planejamento do Relato dos Resultados do Planejamento da Avaliação do Protótipo de Papel</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="24">Entrega 6.2 - Verificação dos Artefatos I - Grupo 2</td>
-    <td class="tg-0pky">Verificação do Processo de Design</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
-    <td class="tg-0pky"></td>
+    <td  rowspan="24">Entrega 6.2 - Verificação dos Artefatos I - Grupo 2</td>
+    <td >Verificação do Processo de Design</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Políticas</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
-    <td class="tg-0pky"></td>
+    <td >Verificação do Políticas</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Metodologia</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"></td>
+    <td >Verificação do Metodologia</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Heatmap</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Verificação do Heatmap</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Sites Avaliados</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td >Verificação do Sites Avaliados</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação Políticas</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
-    <td class="tg-0pky"></td>
+    <td >Verificação Políticas</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Site Escolhido</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"></td>
+    <td >Verificação do Site Escolhido</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação de Ferramentas</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td >Verificação de Ferramentas</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Cronograma</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
-    <td class="tg-0pky"></td>
+    <td >Verificação do Cronograma</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Aspectos Éticos</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
-    <td class="tg-0pky"></td>
+    <td >Verificação do Aspectos Éticos</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação da Entrevista</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"></td>
+    <td >Verificação da Entrevista</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação da Brainstorming</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td >Verificação da Brainstorming</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação da Introspecção</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"></td>
+    <td >Verificação da Introspecção</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Grupo de Foco</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"></td>
+    <td >Verificação do Grupo de Foco</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação da Análise de Tarefas Concorrentes</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
-    <td class="tg-0pky"></td>
+    <td >Verificação da Análise de Tarefas Concorrentes</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Planejamento da Avaliação da Análise de Tarefas</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td >Verificação do Planejamento da Avaliação da Análise de Tarefas</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/MilenaBaruc">Milena Baruc</a> </td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Planejamento do Relato dos Resultados do Planejamento da Avaliação da Análise de Tarefas</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"></td>
+    <td >Verificação do Planejamento do Relato dos Resultados do Planejamento da Avaliação da Análise de Tarefas</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Relato dos Resultados da Avaliação da Análise de Tarefas</td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td >Verificação do Relato dos Resultados da Avaliação da Análise de Tarefas</td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Planejamento da Avaliação do Storyboard</td>
-    <td class="tg-0pky"><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
-    <td class="tg-0pky"></td>
+    <td >Verificação do Planejamento da Avaliação do Storyboard</td>
+    <td ><a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Planejamento do Relato dos Resultados do Planejamento da Avaliação do Storyboard</td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
-    <td class="tg-0pky"></td>
+    <td >Verificação do Planejamento do Relato dos Resultados do Planejamento da Avaliação do Storyboard</td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a></td>
+    <td ></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Relato dos Resultados da Avaliação do Storyboard</td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td >Verificação do Relato dos Resultados da Avaliação do Storyboard</td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação do Storyboard</td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
+    <td >Verificação do Storyboard</td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/LuisMiranda10">Luis Miranda</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação dos Relatos dos Protótipos de Papel </td>
-    <td class="tg-0pky">Todos</td>
-    <td class="tg-0pky">Todos</td>
+    <td >Verificação dos Relatos dos Protótipos de Papel </td>
+    <td >Todos</td>
+    <td >Todos</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Verificação dos Relatos dos Protótipos de Alta Fidelidade</td>
-    <td class="tg-0pky">Todos</td>
-    <td class="tg-0pky">Todos</td>
+    <td >Verificação dos Relatos dos Protótipos de Alta Fidelidade</td>
+    <td >Todos</td>
+    <td >Todos</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Entrega 7 - Relatos Protótipos de Papel e Avaliação do Protótipo de Alta Fidelidade</td>
-    <td class="tg-0pky">Relato do resultados da Avaliação do Protótipo de Papel</td>
-    <td class="tg-0pky">Todos</td>
-    <td class="tg-0pky">Todos</td>
+    <td >Entrega 7 - Relatos Protótipos de Papel e Avaliação do Protótipo de Alta Fidelidade</td>
+    <td >Relato do resultados da Avaliação do Protótipo de Papel</td>
+    <td >Todos</td>
+    <td >Todos</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Planejamento da Avaliação do Protótipo de Alta Fidelidade</td>
-    <td class="tg-0pky"> <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a>,<span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a> e  <a href="https://github.com/brenob6">Breno Queiroz</a></td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
+    <td ></td>
+    <td >Planejamento da Avaliação do Protótipo de Alta Fidelidade</td>
+    <td > <a href="https://github.com/LimirioGuimaraes">Limírio Guimarães</a>,<span style="font-weight:400;font-style:normal"><a href="https://github.com/Mayara-tech">Mayara Alves</a> e  <a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Planejamento do Relato dos Resultados do Planejamento da Avaliação do Storyboard</td>
-    <td class="tg-0pky"><a href="https://github.com/yabamiah">Vinícius Mendes</a>, <a href="https://github.com/LuisMiranda10">Luis Miranda</a> e <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
+    <td ></td>
+    <td >Planejamento do Relato dos Resultados do Planejamento da Avaliação do Storyboard</td>
+    <td ><a href="https://github.com/yabamiah">Vinícius Mendes</a>, <a href="https://github.com/LuisMiranda10">Luis Miranda</a> e <a href="https://github.com/arthurrochamoreira">Altino Arthur</a></td>
+    <td ><span style="font-weight:400;font-style:normal"><a href="https://github.com/brenob6">Breno Queiroz</a></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade</td>
-    <td class="tg-0pky">Todos</td>
-    <td class="tg-0pky">Todos</td>
+    <td ></td>
+    <td >Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade</td>
+    <td >Todos</td>
+    <td >Todos</td>
   </tr>
 </tbody>
 </table>
