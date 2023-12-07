@@ -33,6 +33,7 @@ O Método seguiu o [planejamento](https://interacao-humano-computador.github.io
 Fonte: [Luis Miranda](https://github.com/LuisMiranda10)
 
 </center>
+
 ### Seleção dos participantes
 
 O participante da entrevista, Suellen Sayuri Sato é estudante de Engenharia de Computação, no 4 semestre, na UDF. Já chegou a utilizar a ferramenta algumas vezes para trabalhos na faculdade.
