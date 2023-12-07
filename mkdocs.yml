@@ -207,15 +207,15 @@ nav:
               - Página de FAQ: verificacao-nossa-grupo02/D.A.D/prototipo-alta-fidelidade/relatos/resultados/faq.md
   - Apresentação Final:
       - Site Selecionado: entrega-final/site_escolhido.md
-      - Cronograma Planejado e Executado: planejamento/cronograma.md
       - Ciclo de Vida Utilizado: entrega-final/CicloDeVida.md
+      - Cronograma Planejado e Executado: planejamento/cronograma.md
+      - Execução do Projeto: planejamento/execucaoCicloDeVida.md
+      - Síntese das Ferramentas: entrega-final/ferramentas-utilizadas.md
       - Síntese das Técnicas: entrega-final/sintese-metodos.md
       - Síntese dos Artefatos: entrega-final/sintese-artefatos.md
       - Síntese das Entrevistas: entrega-final/tabela-entrevistados.md
       - Síntese das Verificações: entrega-final/sintese-verificacao.md
       - Síntese das Apresentações: entrega-final/sintese-video-apresentações.md
-      - Síntese dos Artefatos: entrega-final/sintese-artefatos.md
-      - Síntese dos Métodos e Técnicas: entrega-final/sintese-metodos.md
 theme:
   name: material
   features:
