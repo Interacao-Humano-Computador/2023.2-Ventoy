@@ -15,6 +15,24 @@ O objetivo da disciplina era alcançar uma série de resultados que promovessem 
 A cada fase de desenvolvimento do projeto, esses resultados foram aplicados e incorporados cada vez mais nas entregas dos artefatos, permitindo uma compreensão mais profunda da disciplina de Interação Humano-Computador.
 
 
+**Compilado Geral - Métodos**
+
+- **Tipos de Métodos/Técnicas Utilizados:**
+  - Ciclo de Vida de Mayhew
+  - Questionário
+  - Framework DECIDE
+  - Teste Piloto
+  - Entrevista
+  - Frameworl DECIDE
+  - Prototipação em Papel
+  - Teste de Usabilidade
+  - Storyboards
+  - Análise de Tarefas
+  - Inspeção de Fagan
+
+  - **Total de Métodos Utilizados: 19 métodos/técnicas.**
+
+**Compilado Geral - Quantidade de Artefatos por Entrega**
 
 - **GitPages**: 1 artefato
 - **Apresentações**: 7 artefatos
@@ -29,6 +47,28 @@ A cada fase de desenvolvimento do projeto, esses resultados foram aplicados e in
 - **Entrega 7 - Relatos Protótipos de Papel e Avaliação do Protótipo de Alta Fidelidade**: 3 artefatos
 
 **Total de Artefatos**: 101 artefatos.
+
+## Dificuldades Gerais
+
+- **Tempo Escasso**: Um desafio comum enfrentado foi o semestre curto e a falta de tempo para se dedicar a todas as disciplinas, o que incluía trabalhos e provas em outras matérias. Isso tornou difícil dedicar o tempo necessário para atender aos requisitos de qualidade das entregas.
+
+- **Coordenação de Horários**: A diversidade de horários entre os membros da equipe e a conciliação com outras disciplinas foi uma dificuldade. Encontrar horários livres em comum para reuniões tornou-se complicado, especialmente com prazos apertados e atividades desafiadoras.
+
+- **Pressão de Prazos Curtos**: A pressão de prazos curtos e atividades complexas foi mencionada como uma dificuldade comum. A necessidade de gerenciar várias entregas ao mesmo tempo foi um desafio constante.
+
+### Facilidades Gerais
+
+- **Trabalho em Grupo**: A principal vantagem foi a colaboração em grupo, pois a equipe conseguiu se conectar bem e colaborar de forma eficaz na elaboração dos artefatos. A transparência nas entregas e as reuniões produtivas contribuíram para um ambiente agradável de trabalho em equipe.
+
+- **Apoio do Professor**: A abordagem do professor e os feedbacks oferecidos foram destacados como facilitadores na compreensão do conteúdo e no desenvolvimento das atividades. O professor manteve a turma envolvida e acelerou a aprendizagem de conceitos e técnicas.
+
+- **Cursar Ambas as Disciplinas Juntas**: A possibilidade de cursar as disciplinas de Requisitos e Interação Humano-Computador juntas foi mencionada como benéfica, pois permitiu a aplicação de conceitos entre as matérias, otimizando o aprendizado.
+
+- **Interação Amigável no Grupo**: A interação amigável no grupo tornou as reuniões mais leves e a matéria mais divertida, mesmo com a carga de trabalho. Isso criou um ambiente propício para a colaboração e a resolução de desafios.
+
+- **Aulas Dinâmicas do Professor**: As aulas dinâmicas do professor facilitaram a compreensão de conceitos e técnicas, ajudando no desenvolvimento das atividades e possivelmente em experiências fora da disciplina.
+
+- **Ganho de Conhecimento**: Apesar dos desafios, muitos membros destacaram que o esforço e a dedicação resultaram em ganho de conhecimento, mesmo com as exigências da disciplina.
 
 
 ## Bibliografia
