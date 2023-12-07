@@ -6,7 +6,7 @@ O propósito desta página consiste em arquivar os elementos pertinentes à seti
 (caso não seja possível acessar o vídeo diretamente pela página, gentilmente clique no link correspondente) até os aspectos que foram avaliados
 durante a exposição, além da segmentação dos aspectos a serem corrigidos.
 
-## Apresentação 8 - 29/11/2023
+## Apresentação 7 - 22/11/2023
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=3ixiOypU-4Q" target="blanket">Vídeo apresentação 7</a></p>
 
