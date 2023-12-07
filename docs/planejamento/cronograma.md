@@ -395,6 +395,28 @@ Na Tabela 19, tem-se o cronograma executado para todas as atividades da entrega 
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
 
+## Cronograma executado - Entrega Final
+
+Na Tabela 20, tem-se o cronograma executado para todas as atividades da entrega final.
+
+<p align="center"><b>Tabela 19</b> - Cronograma executado - Entrega Final </p>
+
+| Atividade                   | Período de execução | Responsáveis       | Revisão   | Revisor            |
+| ---------------------------------- |--------------------------- | ------------------ | ----------| ------------------ |
+| Apresentação do site escolhido   |       Início: 06/12<br>Fim: 06/12  | Milena  	     | 06/12  | Luís           |
+| Cronograma planejado e executado      |  Início: 06/12<br>Fim: 06/12 | Mayara     |  06/12   | Vinicius |
+| Ciclo de vida utilizado   |  Início: 06/12<br>Fim: 06/12 | Luis    |  06/12   | Breno |
+| Síntese de Métodos e Técnicas Utilizados no Projeto |  Início: 06/12<br>Fim: 06/12 | Vinicius    |  06/12   | Luis |
+| Síntese dos Artefatos Criados em Cada Etapa do Projeto|  Início: 06/12<br>Fim: 06/12 | Vinicius    |  06/12   | Luis |
+| Registro de Participantes: Tabela com Nomes dos Entrevistados |  Início: 06/12<br>Fim: 06/12 | Limírio   |  06/12   | Mayara |
+| Síntese das Verificações |  Início: 06/12<br>Fim: 06/12 | Breno   |  06/12   | Luis |
+| Síntese das Apresentações|  Início: 06/12<br>Fim: 06/12 | Luis   |  06/12   | Breno |
+| Síntese de Métodos e Técnicas Utilizados no Projeto|  Início: 06/12<br>Fim: 06/12 | Vinícius  |  06/12   | Luis |
+| Gravação da apresentação        |   Início: 06/12<br>Fim: 06/12     	  | Limírio, Breno, Luís, Milena, Mayara, Vinícius e Altino     |   06/12  |  Limírio, Breno, Luís, Milena, Mayara, Vinícius e Altino          |
+| Cronograma executad             	        | Início: 06/12<br>Fim: 06/12  |Mayara          |  05/12  |  Vinícius     |
+
+<font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github.com/Mayara-tech).</p></font>
+
 ## Referências Bibliográficas
 
 > <a id=“RP1” href=“#TEC1”>1.</a> SALES. A. B - PLANO DE ENSINO. Interação Humano Computador. Distrito Federal, 2023. Disponível em: <https://aprender3.unb.br/course/view.php?id=19947&section=7>. Acesso em: 04/10/2023.
@@ -418,6 +440,7 @@ Na Tabela 19, tem-se o cronograma executado para todas as atividades da entrega 
 | `1.8`   |23/11/2023| Adicionando cronograma executado da sétima entrega |[Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/LimirioGuimaraes)|
 | `1.9`   |05/12/2023| Adicionando cronograma executado da oitava entrega |[Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/LimirioGuimaraes)|
 | `2.0`   |05/12/2023| Adicionando cronograma executado da entrega 6.2 |[Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/LimirioGuimaraes)|
+| `2.1`   |05/12/2023| Adicionando cronograma executado da entrega final |[Mayara Alves](https://github.com/Mayara-tech)| [Vinicius Mendes](https://github.com/LimirioGuimaraes)|
 
 
 
