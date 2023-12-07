@@ -158,4 +158,4 @@ A seguir temos a gravação da entrevista, de acordo com os aspectos que foram c
 |`1.0`| 30/10/2023 | Criação do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Vinícius Mendes](https://github.com/yabamiah) |
 |`1.1`| 30/10/2023 | Correção do documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Vinícius Mendes](https://github.com/yabamiah) |
 |`1.2`| 08/11/2023 | Adição entrevista 03 | [Milena Baruc](https://github.com/MilenaBaruc)| [Vinícius Mendes](https://github.com/yabamiah) |
-| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/) |
+| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [Altino Arthur](https://github.com/altinoarthurmoreira) |
