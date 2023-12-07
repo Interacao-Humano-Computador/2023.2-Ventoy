@@ -12,7 +12,7 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
 
     <p style="text-align: center"><a href="https://www.youtube.com/watch?v=eUFJTsYTvYU" target="blanket">Vídeo apresentação 1</a></p>
 
-    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=eUFJTsYTvYU" title="Apresentação 20/09/2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/eUFJTsYTvYU?si=C71peXs1hCtFmMyu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
     Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
 
@@ -45,7 +45,7 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
 
     <p style="text-align: center"><a href="https://www.youtube.com/watch?v=fwnilCMhktQ" target="blanket">Vídeo apresentação 2</a></p>
 
-    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=fwnilCMhktQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/fwnilCMhktQ?si=Ygwvbu3cgKduheXq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></iframe></p>
 
     Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
 
@@ -78,9 +78,9 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
 
     <p style="text-align: center"><a href="https://youtu.be/LU8ZE9kT6Hc" target="blanket">Vídeo apresentação 3 dois participantes</a></p>
     
-    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=dz-av970OOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/dz-av970OOI?si=2MksbY-vipj9teNn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-    <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/LU8ZE9kT6Hc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LU8ZE9kT6Hc?si=PASx9q8jQ2X26Dc1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
     
     Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
     
@@ -109,7 +109,7 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
 
     <p style="text-align: center"><a href="https://www.youtube.com/watch?v=nltM36WD8bo" target="blanket">Vídeo apresentação 4</a></p>
     
-    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=nltM36WD8bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nltM36WD8bo?si=zFDEbE8zcX9-apcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
     
     Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
     
@@ -138,7 +138,7 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
 
     <p style="text-align: center"><a href="https://www.youtube.com/watch?v=KMUJoi9Ysow" target="blanket">Vídeo apresentação 5</a></p>
     
-    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=KMUJoi9Ysow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/KMUJoi9Ysow?si=RK4Jg5ntZZ6A5JRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
     
     Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
     
@@ -167,15 +167,11 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
     
     <p style="text-align: center"><a href="https://www.youtube.com/watch?v=PWHiflHsvKM" target="blanket">Vídeo apresentação 6.1</a></p>
     
-    <p style="text-align: center"><a href="https://youtu.be/n86Xy517VpU" target="blanket">Vídeo apresentação 6.1 do integrante Luis Miranda que não foi colocado juntoo aos demais</a></p>
+    <p style="text-align: center"><a href="https://youtu.be/n86Xy517VpU" target="blanket">Vídeo apresentação 6.1 do integrante Luis Miranda que não foi colocado junto aos demais</a></p>
     
-    <p style="text-align: center"><a href="" target="blanket">Vídeo apresentação 6.1 da integrante Mayara Alves que não foi colocado junto aos demais</a></p>
+    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/PWHiflHsvKM?si=hxZipZwe46-ZTN21" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
     
-    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=PWHiflHsvKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-    
-    <p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/n86Xy517VpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-    
-    <p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/n86Xy517VpU?si=EPqtzobuYoUokIC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
     
     Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
     
@@ -203,7 +199,7 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
     
     <p style="text-align: center"><a href="https://www.youtube.com/watch?v=3ixiOypU-4Q" target="blanket">Vídeo apresentação 7</a></p>
     
-    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=3ixiOypU-4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3ixiOypU-4Q?si=dwtAykwQXtq-n7yl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
     
     Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
     
@@ -232,7 +228,7 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
     
     <p style="text-align: center"><a href="https://www.youtube.com/watch?v=Urrd0P5xgR4" target="blanket">Vídeo apresentação 8</a></p>
     
-    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=Urrd0P5xgR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+    <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Urrd0P5xgR4?si=TBC0fiZ66IsBZ8Xi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
     
     Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
     
