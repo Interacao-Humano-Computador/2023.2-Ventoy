@@ -65,4 +65,4 @@ Ao encerrar este registro, refletimos sobre a riqueza de insights e perspectivas
 
 | Versão | Data | Descrição | Autor | Revisor |
 |-------|-------|------------|-------|--------|
-|`1.0`| 06/12/2023| Criação do documento | [Limírio Guimarães](https://github.com/LimirioGuimaraes)| |
+|`1.0`| 06/12/2023| Criação do documento | [Limírio Guimarães](https://github.com/LimirioGuimaraes)|[Mayara Alves](https://github.com/Mayara-tech)|
