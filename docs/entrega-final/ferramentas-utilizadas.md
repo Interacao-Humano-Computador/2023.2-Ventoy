@@ -23,7 +23,7 @@ A tabela 1 a seguir agrupa as ferramentas utilizadas.
 | ![](../assets/youtube.jpg){width=75} | YouTube | Utilizado para hospedar vídeos de apresentações e reuniões do projeto e entrevistas. | 
 | ![](../assets/thispersondoesntexist.png){width=75} | This Person Does Not Exist | Utilizado para geração de imagens de personas fictícias para prototipagem e demonstrações. | 
 | ![](../assets/forms.png){width=75} | Goolgle Forms | Utilizado para realizar formulários | 
-
+| ![](../assets/excell.png){width=75} | Excell Online| Utilizado para realizar o HeatMap da equipe | 
 Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
 </center>
