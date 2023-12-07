@@ -55,10 +55,15 @@ A maior facilidade que tive durante toda a disciplina foi a integração entre t
 
 ## Mayara Alves
 
+## Mayara Alves
+
 ### Dificuldades
+
+A principal dificuldade que enfrentei ao longo do projeto foi a restrição de tempo. As demandas pessoais e acadêmicas tanto minhas como dos membros da equipe muitas vezes colidiram com os prazos estabelecidos, o que impactou diretamente o ritmo de progresso. A necessidade de equilibrar as responsabilidades individuais com as do projeto demandou uma gestão cuidadosa e, em alguns momentos, afetou a qualidade do trabalho entregue. Outro aspecto que gerou uma certa dificuldade foi conciliar o trabalho com as grande quantidade de trabalho do projeto, por muitas vezes houve a necessidade de virar noites estudando para dar conta de toda carga da matéria.
 
 ### Facilidades
 
+Acredito que a maior facilidade durante o semestre foi a interação amigavel com o grupo, isso tornava as reuniões mais leves e tornava a matéria mais divertida mesmo com a grande gama de trabalho, outro aspecto que ajudou muito ao longo do semestre foi cursar as duas matérias juntas (requisitos e IHC), porque dava pra aproveitar muitos conceitos entre uma e outra, a abordagem do professor também ajudou muito, ele sempre mantem a turma ligada e isso faz com que acabamos aprendendo com mais rápidez os conteúdos.
 
 ## Limirio Guimarães
 
@@ -71,7 +76,8 @@ A maior facilidade que tive durante toda a disciplina foi a integração entre t
 
 | Versão |    Data    |       Descrição      | Autor                                          |   Revisor                            |
 | ------ | ---------- | -------------------- | ---------------------------------------------- | ---------------------------------- |
-| `1.0`  | 25/11/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
-| `1.1`  | 25/11/2023 | Adição no documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
-| `1.2`  | 25/11/2023 | Adição no Documento | [Vinicius Mendes](https://github.com/yabamiah.png) | [Milena Baruc](https://github.com/MilenaBaruc) |
-| `1.3`  | 25/11/2023 | Adição no Documento | [Altino Arthur](https://github.com/arthurrochamoreira) | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.0`  | 06/12/2023 | Criação do Documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.1`  | 06/12/2023 | Adição no documento | [Milena Baruc](https://github.com/MilenaBaruc) | [Luis Eduardo](https://github.com/LuisMiranda10) |
+| `1.2`  | 06/12/2023 | Adição no Documento | [Vinicius Mendes](https://github.com/yabamiah.png) | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.3`  | 06/12/2023 | Adição no Documento | [Altino Arthur](https://github.com/arthurrochamoreira) | [Milena Baruc](https://github.com/MilenaBaruc) |
+| `1.4`  | 06/12/2023 | Adição no Documento | [Mayara Alves](https://github.com/arthurrochamoreira) | [Altino Arthur](https://github.com/arthurrochamoreira) |
