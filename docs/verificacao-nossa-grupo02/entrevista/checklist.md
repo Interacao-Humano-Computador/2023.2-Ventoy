@@ -78,5 +78,5 @@ Fonte: BARBOSA; SILVA, p. 145
 
 | Versão | Data       | Descrição  | Autor | Revisor |
 | ------ | ---------- | ---------- | ------| --------|
-| `1.0`  | 16/11/2023 | Criação do Documento | [Breno Queiroz](https://github.com/brenob6) | [](https://github.com/) |
+| `1.0`  | 16/11/2023 | Criação do Documento | [Breno Queiroz](https://github.com/brenob6) | [Altino Arthur](https://github.com/arthurrochamoreira) |
 
