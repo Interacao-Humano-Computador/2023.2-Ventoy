@@ -14,37 +14,39 @@ O objetivo da disciplina era alcançar uma série de resultados que promovessem 
 
 A cada fase de desenvolvimento do projeto, esses resultados foram aplicados e incorporados cada vez mais nas entregas dos artefatos, permitindo uma compreensão mais profunda da disciplina de Interação Humano-Computador.
 
+## Compilado Geral - Métodos
 
-**Compilado Geral - Métodos**
+| Número | Métodos/Técnicas Utilizados |
+|--------|-----------------------------|
+| 1      | Ciclo de Vida de Mayhew      |
+| 2      | Questionário                  |
+| 3      | Framework DECIDE              |
+| 4      | Teste Piloto                  |
+| 5      | Entrevista                    |
+| 6      | Frameworl DECIDE              |
+| 7      | Prototipação em Papel         |
+| 8      | Teste de Usabilidade          |
+| 9      | Storyboards                   |
+| 10     | Análise de Tarefas            |
+| 11     | Inspeção de Fagan             |
 
-- **Tipos de Métodos/Técnicas Utilizados:**
-  - Ciclo de Vida de Mayhew
-  - Questionário
-  - Framework DECIDE
-  - Teste Piloto
-  - Entrevista
-  - Frameworl DECIDE
-  - Prototipação em Papel
-  - Teste de Usabilidade
-  - Storyboards
-  - Análise de Tarefas
-  - Inspeção de Fagan
+**Total de Métodos Utilizados:** 11 métodos/técnicas.
 
-  - **Total de Métodos Utilizados: 19 métodos/técnicas.**
+## Compilado Geral - Quantidade de Artefatos por Entrega
 
-**Compilado Geral - Quantidade de Artefatos por Entrega**
-
-- **GitPages**: 1 artefato
-- **Apresentações**: 7 artefatos
-- **Atas**: 5 artefatos
-- **Entrega 1 - Planejamento do Projeto**: 8 artefatos
-- **Entrega 2 - Análise de Requisitos I**: 8 artefatos
-- **Entrega 3 - Análise de Requisitos 2**: 4 artefatos
-- **Etapa 4 - Design, Avaliação e Desenvolvimento 1**: 9 artefatos
-- **Entrega 5 - Design, Avaliação e Desenvolvimento 2**: 3 artefatos
-- **Entrega 6.1 - Verificação dos Artefatos I - Grupo 3**: 26 artefatos
-- **Entrega 6.2 - Verificação dos Artefatos I - Grupo 2**: 27 artefatos
-- **Entrega 7 - Relatos Protótipos de Papel e Avaliação do Protótipo de Alta Fidelidade**: 3 artefatos
+| Entrega                                           | Quantidade de Artefatos |
+|---------------------------------------------------|--------------------------|
+| **GitPages**                                      | 1                        |
+| **Apresentações**                                 | 7                        |
+| **Atas**                                          | 5                        |
+| **Entrega 1 - Planejamento do Projeto**            | 8                        |
+| **Entrega 2 - Análise de Requisitos I**            | 8                        |
+| **Entrega 3 - Análise de Requisitos 2**            | 4                        |
+| **Etapa 4 - Design, Avaliação e Desenvolvimento 1**| 9                        |
+| **Entrega 5 - Design, Avaliação e Desenvolvimento 2**| 3                      |
+| **Entrega 6.1 - Verificação dos Artefatos I - Grupo 3**| 26                    |
+| **Entrega 6.2 - Verificação dos Artefatos I - Grupo 2**| 27                    |
+| **Entrega 7 - Relatos Protótipos de Papel e Avaliação do Protótipo de Alta Fidelidade**| 3 |
 
 **Total de Artefatos**: 101 artefatos.
 
@@ -70,7 +72,6 @@ A cada fase de desenvolvimento do projeto, esses resultados foram aplicados e in
 
 - **Ganho de Conhecimento**: Apesar dos desafios, muitos membros destacaram que o esforço e a dedicação resultaram em ganho de conhecimento, mesmo com as exigências da disciplina.
 
-
 ## Bibliografia
 > GABRIEL, Lucas. Entrega Final. Repositório do Grupo Lichess e Documentos da disciplina de Interação Humano-Computador da Universidade de Brasília, 2022. Disponível em: [Link para a documentação](https://interacao-humano-computador.github.io/2022.2-Lichess/entrega_final/#sintese-das-avaliacoes). Acesso em: 04 de dezembro de 2023.
 
@@ -78,5 +79,4 @@ A cada fase de desenvolvimento do projeto, esses resultados foram aplicados e in
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|------------|------|---------|
-| `1.0` | 06/12/2023 | Criação do documento e do seu conteúdo |  [Altino Arthur](https://github.com/arthurrochamoreira)| [Mayara Alves](https://github.com/Mayara-tech) | 
-
+| `1.0` | 06/12/2023 | Criação do documento e do seu conteúdo |  [Altino Arthur](https://github.com/arthurrochamoreira)| [Mayara Alves](https://github.com/Mayara-tech) |
