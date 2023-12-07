@@ -406,12 +406,14 @@ Na Tabela 20, tem-se o cronograma executado para todas as atividades da entrega 
 | Apresentação do site escolhido   |       Início: 06/12<br>Fim: 06/12  | Milena  	     | 06/12  | Luís           |
 | Cronograma planejado e executado      |  Início: 06/12<br>Fim: 06/12 | Mayara     |  06/12   | Vinicius |
 | Ciclo de vida utilizado   |  Início: 06/12<br>Fim: 06/12 | Luis    |  06/12   | Breno |
-| Síntese de Métodos e Técnicas Utilizados no Projeto |  Início: 06/12<br>Fim: 06/12 | Vinicius    |  06/12   | Luis |
-| Síntese dos Artefatos Criados em Cada Etapa do Projeto|  Início: 06/12<br>Fim: 06/12 | Vinicius    |  06/12   | Luis |
-| Registro de Participantes: Tabela com Nomes dos Entrevistados |  Início: 06/12<br>Fim: 06/12 | Limírio   |  06/12   | Mayara |
+| Síntese das ferramentas  |  Início: 06/12<br>Fim: 06/12 | Limírio  |  06/12   | Mayara |
+| Síntese das entrevistas  | Início: 06/12<br>Fim: 06/12 | Limírio  |  06/12   | Mayara |
+| Síntese das Técnicas |  Início: 06/12<br>Fim: 06/12 | Vinicius    |  06/12   | Luis |
+| Síntese dos Artefatos |  Início: 06/12<br>Fim: 06/12 | Vinicius    |  06/12   | Luis |
 | Síntese das Verificações |  Início: 06/12<br>Fim: 06/12 | Breno   |  06/12   | Luis |
 | Síntese das Apresentações|  Início: 06/12<br>Fim: 06/12 | Luis   |  06/12   | Breno |
-| Síntese de Métodos e Técnicas Utilizados no Projeto|  Início: 06/12<br>Fim: 06/12 | Vinícius  |  06/12   | Luis |
+| Execução do projeto |  Início: 06/12<br>Fim: 06/12 | Luis   |  06/12   | Breno |
+| Consideraçãoes finais |  |   Início: 06/12<br>Fim: 06/12     	  | Limírio, Breno, Luís, Milena, Mayara, Vinícius e Altino     |   06/12  |  Limírio, Breno, Luís, Milena, Mayara, Vinícius e Altino          |
 | Gravação da apresentação        |   Início: 06/12<br>Fim: 06/12     	  | Limírio, Breno, Luís, Milena, Mayara, Vinícius e Altino     |   06/12  |  Limírio, Breno, Luís, Milena, Mayara, Vinícius e Altino          |
 | Cronograma executad             	        | Início: 06/12<br>Fim: 06/12  |Mayara          |  05/12  |  Vinícius     |
 
