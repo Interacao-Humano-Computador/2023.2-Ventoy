@@ -216,6 +216,7 @@ nav:
       - Síntese das Entrevistas: entrega-final/tabela-entrevistados.md
       - Síntese das Verificações: entrega-final/sintese-verificacao.md
       - Síntese das Apresentações: entrega-final/sintese-video-apresentações.md
+      - Considerações Finais: entrega-final/consideracoesFinais.md
 theme:
   name: material
   features:
