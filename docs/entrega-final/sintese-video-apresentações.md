@@ -275,7 +275,7 @@ Esse documento vai apresentar os vídeos das apresentações de cada etapa do pr
     
      Fonte: [Luis Miranda](https://github.com/LuisMiranda10.png)
 
-## Histórico de Versões
+## 📑 Histórico de versão
 
 | **Versão** | **Data** | **Descrição** | **Autor** | **Revisor** |
 |--------|------|------------|--------|--------|
