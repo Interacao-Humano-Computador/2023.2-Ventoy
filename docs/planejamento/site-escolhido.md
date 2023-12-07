@@ -73,6 +73,6 @@ A [Licença do software Ventoy](../assets/Licenca_uso) está sob a GNU GENERAL P
 | :-:   | :-:       | :--       | --    | --            |
 | `1.0`   |02/10/2023 |Criação da página Site escolhido de IHC| [Milena Baruc](https://github.com/MilenaBaruc) e [Vinicius Mendes](https://github.com/yabamiah)  | [Luis Eduardo](https://github.com/LuisMiranda10) |
 | `1.1`   |10/10/2023 |Correção da página Site escolhido de IHC|[Luis Eduardo](https://github.com/LuisMiranda10) | [Vinicius Mendes](https://github.com/yabamiah) |
-| `2.0`   |28/11/2023 |Revisão Textual, Atualização do Texto, Adição da Metodologia|[Altino Arthur](https://github.com/arthurrochamoreira) | [](https://github.com/) |
+| `2.0`   |28/11/2023 |Revisão Textual, Atualização do Texto, Adição da Metodologia|[Altino Arthur](https://github.com/arthurrochamoreira) |  [Luis Eduardo](https://github.com/LuisMiranda10) |
 | `3.0` | 05/12/2023 | Correção final do artefato | [Vinícius Mendes](https://github.com/yabamiah) | [Mayara Alves](https://github.com/Mayara-tech) |
 
