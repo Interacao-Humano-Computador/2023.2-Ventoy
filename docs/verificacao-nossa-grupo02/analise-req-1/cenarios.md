@@ -149,5 +149,5 @@ Fonte: [Limirio Guimarães](https://github.com/LimirioGuimaraes)
 
 | Versão |    Data    |       Descrição      | Autor                |   Revisor   |
 | ------ | ---------- | -------------------- | ---------------------| ----------- |
-| `1.0`  | 25/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
-| `1.1`  | 04/12/2023 | Adicionado o desenvolvimento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| |
+| `1.0`  | 25/11/2023 | Criação do Documento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Altino Arthur](https://github.com/arthurrochamoreira) |
+| `1.1`  | 04/12/2023 | Adicionado o desenvolvimento | [Limirio Guimarães](https://github.com/LimirioGuimaraes)| [Altino Arthur](https://github.com/arthurrochamoreira) |
