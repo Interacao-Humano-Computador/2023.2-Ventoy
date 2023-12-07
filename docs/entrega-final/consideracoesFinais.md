@@ -72,7 +72,11 @@ Acredito que a maior facilidade durante o semestre foi a interação amigavel co
 
 ### Dificuldades
 
+Um dos maiores problemas durante a realização da matéria foi a falta de tempo hábil para confeccionar os artefatos com a qualidade que eu sei que poderia atingir. Outra dificuldade que encontrei está relacionada aos horários do grupo como um todo para realizar atividades em que todos estejam presentes. A falta de tempo também dificulta um pouco a confecção de artefatos que envolvem usuários.  
+
 ### Facilidades
+
+Uma grande facilidade foi cursar as duas disciplinas (IHC e REQ) com o mesmo grupo, o que facilitou a padronização da organização e otimizou o tempo gasto em reuniões semanais. Felizmente, o grupo desenvolveu um grande entrosamento, tornando as reuniões divertidas e amigáveis, com muitas brincadeiras e sempre mantendo o respeito (takaka). Essa descontração do grupo foi benéfica nas reuniões que ocorriam ao final das semanas e ao final do dia, momentos em que todos já estavam exaustos, mas isso tornou as reuniões mais toleráveis, sem comprometer muito o rendimento do grupo. A didática em sala do professor também foi muito proveitosa; raramente me sentia perdido ou sem saber o que fazer ao executar o artefato, sendo a falta de tempo o único obstáculo para alcançar melhores resultados.
 
 
 ## 📑 Histórico de Versões
@@ -84,3 +88,4 @@ Acredito que a maior facilidade durante o semestre foi a interação amigavel co
 | `1.2`  | 06/12/2023 | Adição no Documento | [Vinicius Mendes](https://github.com/yabamiah.png) | [Milena Baruc](https://github.com/MilenaBaruc) |
 | `1.3`  | 06/12/2023 | Adição no Documento | [Altino Arthur](https://github.com/arthurrochamoreira) | [Milena Baruc](https://github.com/MilenaBaruc) |
 | `1.4`  | 06/12/2023 | Adição no Documento | [Mayara Alves](https://github.com/arthurrochamoreira) | [Altino Arthur](https://github.com/arthurrochamoreira) |
+| `1.5`  | 06/12/2023 | Adição no Documento | [Limírio Guimarães](https://github.com/LimirioGuimaraes) | [Altino Arthur](https://github.com/arthurrochamoreira) |
