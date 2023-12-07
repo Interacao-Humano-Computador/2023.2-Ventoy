@@ -74,4 +74,4 @@ Neste item será apresentado pelos avaliadores, as gravações tanto dos testes-
 | Versão | Data | Descrição | Autores | Revisor |
 |-----------|--------|---------------|------------|------------|
 | `1.0`` | 30/10/2023 | Criação do documento do planejamento do relato dos resultados da avaliação do storyboard | [Luis Miranda](https://github.com/LuisMiranda10) e [Vinicius Mendes](https://github.com/yabamiah)| [Mayara Alves](https://github.com/Mayara-tech)  |
-|`2.0` | 05/12/2023 | Correção final do artefato | [Vinícius Mendes](https://github.com/yabamiah) |
+|`2.0` | 05/12/2023 | Correção final do artefato | [Vinícius Mendes](https://github.com/yabamiah) | [Altino Arthur](https://github.com/altinoarthurmoreira) |
