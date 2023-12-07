@@ -62,4 +62,4 @@ for aceito, a *issue* automaticamente será fechada.
 | Versão| Data      | Descrição | Autor | Revisor       |
 | :-:   | :-:       | :--       | --    | --            |
 | `1.0`   |18/09/2023 |Criação da página de políticas do projeto | [Breno Queiroz](https://github.com/brenob6) | [Luis Eduardo](https://github.com/LuisMiranda10) |
-| `1.1` | 06/12/2023 | Melhoria no texto de issue | [Breno Queiroz](https://github.com/brenob6) |
+| `1.1` | 06/12/2023 | Melhoria no texto de issue | [Breno Queiroz](https://github.com/brenob6) | [Altino Arthur](https://github.com/arthurrochamoreira)  |
