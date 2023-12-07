@@ -413,7 +413,7 @@ Essa abordagem proporcionou não apenas a construção de um cronograma, mas tam
     | Síntese das Verificações |  Início: 06/12<br>Fim: 06/12 | Breno   |  06/12   | Luis |
     | Síntese das Apresentações|  Início: 06/12<br>Fim: 06/12 | Luis   |  06/12   | Breno |
     | Execução do projeto |  Início: 06/12<br>Fim: 06/12 | Luis   |  06/12   | Breno |
-    | Consideraçãoes finais |  |   Início: 06/12<br>Fim: 06/12     	  | Limírio, Breno, Luís, Milena, Mayara, Vinícius e Altino     |   06/12  |  Limírio, Breno, Luís, Milena, Mayara, Vinícius e Altino          |
+    | Consideraçãoes finais |    Início: 06/12<br>Fim: 06/12     	  | Limírio, Breno, Luís, Milena, Mayara, Vinícius e Altino     |   06/12  |  Limírio, Breno, Luís, Milena, Mayara, Vinícius e Altino          |
     | Gravação da apresentação        |   Início: 06/12<br>Fim: 06/12     	  | Limírio, Breno, Luís, Milena, Mayara, Vinícius e Altino     |   06/12  |  Limírio, Breno, Luís, Milena, Mayara, Vinícius e Altino          |
     | Cronograma executad             	        | Início: 06/12<br>Fim: 06/12  |Mayara          |  05/12  |  Vinícius     |
 
