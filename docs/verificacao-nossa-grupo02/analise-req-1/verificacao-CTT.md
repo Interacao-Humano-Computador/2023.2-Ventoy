@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este documento é uma verificação do artefato [ConcurTaskTrees - CTT](https://interacao-humano-computador.github.io/2023.2-Ventoy/planejamento/concurtasktrees_ctt/) na versão 1.1 de data 08/10/2023, autorada por [Breno Queiroz](https://github.com/brenob6), que é integrante do [grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main), cujo projeto tem como foco o site do [Ventoy](https://www.ventoy.net/en/index.html). O propósito desta verificação é identificar possíveis problemas no artefato.
+Este documento é uma verificação do artefato [ConcurTaskTrees - CTT](https://interacao-humano-computador.github.io/2023.2-Ventoy/AnaliseDeRequisitos/analisedetarefas/ConcurTaskTrees/) na versão 1.1 de data 08/10/2023, autorada por [Milena Baruc](https://github.com), que é integrante do [grupo 02](https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/tree/main), cujo projeto tem como foco o site do [Ventoy](https://www.ventoy.net/en/index.html). O propósito desta verificação é identificar possíveis problemas no artefato.
 
 ## Metodologia 
 
