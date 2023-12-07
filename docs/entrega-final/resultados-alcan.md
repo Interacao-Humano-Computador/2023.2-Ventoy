@@ -14,24 +14,6 @@ O objetivo da disciplina era alcançar uma série de resultados que promovessem 
 
 A cada fase de desenvolvimento do projeto, esses resultados foram aplicados e incorporados cada vez mais nas entregas dos artefatos, permitindo uma compreensão mais profunda da disciplina de Interação Humano-Computador.
 
-## Compilado Geral - Métodos
-
-| Número | Métodos/Técnicas Utilizados |
-|--------|-----------------------------|
-| 1      | Ciclo de Vida de Mayhew      |
-| 2      | Questionário                  |
-| 3      | Framework DECIDE              |
-| 4      | Teste Piloto                  |
-| 5      | Entrevista                    |
-| 6      | Frameworl DECIDE              |
-| 7      | Prototipação em Papel         |
-| 8      | Teste de Usabilidade          |
-| 9      | Storyboards                   |
-| 10     | Análise de Tarefas            |
-| 11     | Inspeção de Fagan             |
-
-**Total de Métodos Utilizados:** 11 métodos/técnicas.
-
 ## Compilado Geral - Quantidade de Artefatos por Entrega
 
 | Entrega                                           | Quantidade de Artefatos |
