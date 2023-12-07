@@ -6,9 +6,10 @@ O propósito desta página consiste em arquivar os elementos pertinentes à quar
 
 ## Apresentação 4 - 30/10/2023
 
-<p style="text-align: center"><a href="https://youtu.be/nltM36WD8bo" target="blanket">Vídeo apresentação 4</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=nltM36WD8bo" target="blanket">Vídeo apresentação 4</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/nltM36WD8bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nltM36WD8bo?si=zFDEbE8zcX9-apcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
 
 <font size="3"><p style="text-align: center">Fonte: [Breno Queiroz](https://github/brenob6).</p></font>
 
