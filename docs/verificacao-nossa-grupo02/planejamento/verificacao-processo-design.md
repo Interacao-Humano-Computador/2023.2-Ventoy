@@ -139,22 +139,25 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 Através dos checklists realizados, podemos observar que:
 
-- 0/11 exigências são atendidas (Conformes);
-- 0/11 exigências estão incompletas;
+- 5/11 exigências são atendidas (Conformes);
+- 2/11 exigências estão incompletas;
 - 0/11 exigências estão erradas ou não foram realizadas (Não conformes).
-- 0/11 não se aplica.
+- 4/11 não se aplicam.
 
-Onde 11 é a quantidade de itens avaliados na verificação (considerando a soma dos itens das Tabelas 1 e 2).
+Onde 11 é a quantidade de itens avaliados na verificação (considerando a soma dos itens das Tabelas 3 e 4).
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em XX,XX%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em aproximadamente 45,45%.
+
 
 ## Retrabalho
 
 ### Tabela 2 - Cronograma de Correções
 
-| Data de Correção | Descrição                 |              Responsável(eis)               |                   Revisor(es)                    |      Status      |
-| ---------------- | :------------------------ | :-----------------------------------------: | :----------------------------------------------: | :--------------: |
-|                  |                           |                                             |                                                  |                  |
+| Data de Correção | Descrição                                                                                   | Responsável(eis)  | Revisor(es)  | Status  |
+|------------------|---------------------------------------------------------------------------------------------|-------------------|--------------|---------|
+| 04/12/2023       | Clarificação das relações de ativação entre tarefas nos diagramas CTT                       | Altino Arthur     | [Mayara Alves](https://github.com/Mayara-tech)              | Executado|
+| 04/12/2023       | Verificação da exclusividade mútua em tarefas alternativas                                  | Altino Arthur     |  [Mayara Alves](https://github.com/Mayara-tech)            | Executado|
+| 04/12/2023       | Detalhamento das relações de suspensão e retomada de tarefas nos diagramas CTT              | Altino Arthur     |    [Mayara Alves](https://github.com/Mayara-tech)          | Executado|
 
 ## Bibliografia
 
@@ -166,4 +169,4 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 | Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
-|  `1.0` | [02/12/2023] | Criação da verificação do Processo de Design | [Altino Arthur](https://github.com/arthurrochamoreira)                                       | [Nome dos Revisores]                             |
+|  `1.0` | [02/12/2023] | Criação da verificação do Processo de Design | [Altino Arthur](https://github.com/arthurrochamoreira)                                       | [Mayara Alves](https://github.com/Mayara-tech)                           |
