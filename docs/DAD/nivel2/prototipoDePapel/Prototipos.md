@@ -160,4 +160,4 @@ A partir disso, foi feito um testo piloto para verificar o funcionamento do proc
 |`1.5`| 22/11/2023 | Adicionando protótipo 2 | [Breno Queiroz](https://github.com/brenob6)      | [Mayara Alves](https://github.com/Mayara-tech)   |
 |`1.6`| 22/11/2023 | Adicionando protótipo 6 | [Altino Arthur](https://github.com/arthurrochamoreira) | [Vinicius Mendes](https://github.com/yabamiah)  |
 |`1.7`| 05/12/2023 | Adicionando metodologia | [Mayara Alves](https://github.com/Mayara-tech)| [Breno Queiroz](https://github.com/brenob6)  |
-| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [nome](https://github.com/) |
+| `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) |[Altino Arthur](https://github.com/arthurrochamoreira) |
