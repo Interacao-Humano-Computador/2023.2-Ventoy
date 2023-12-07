@@ -4,7 +4,7 @@
 
 O propósito desta página consiste em arquivar os elementos pertinentes à quinta apresentação, abrangendo desde o vídeo da própria apresentação (caso não seja possível acessar o vídeo diretamente pela página, gentilmente clique no link correspondente) até os aspectos que foram avaliados durante a exposição, além da segmentação dos aspectos a serem corrigidos.
 
-## Apresentação 5 - 22/11/2023
+## Apresentação 6 - 22/11/2023
 
 <p style="text-align: center"><a href="https://youtu.be/3ixiOypU-4Q" target="blanket">Vídeo apresentação 6</a></p>
 
