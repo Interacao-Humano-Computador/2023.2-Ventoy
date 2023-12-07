@@ -6,9 +6,13 @@ O propósito desta página consiste em arquivar os elementos pertinentes à quin
 
 ## Apresentação 6 - 22/11/2023
 
-<p style="text-align: center"><a href="https://youtu.be/3ixiOypU-4Q" target="blanket">Vídeo apresentação 6</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=PWHiflHsvKM" target="blanket">Vídeo apresentação 6.1</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/3ixiOypU-4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/n86Xy517VpU" target="blanket">Vídeo apresentação 6.1 do integrante Luis Miranda que não foi colocado junto aos demais</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/PWHiflHsvKM?si=hxZipZwe46-ZTN21" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/n86Xy517VpU?si=EPqtzobuYoUokIC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Mayara Alves](https://github/Mayara-tech).</p></font>
 
@@ -27,5 +31,5 @@ Deixar as listas de verificações mais específicas em relação aos seu conte�
 Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
 --------- | ------ | ------ | ---------- | ----------
 |`1.0` | 22/11/2023| Criação da página de apresentação 6 |[Breno Queiroz](https://github.com/brenob6) |[Mayara alves](https://github.com/mayara-tech) |
-|`2.0` | 06/12/2023 | Correção finao do artefato | [Vinícius Mendes](https://github.com/yabamiah) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
+|`2.0` | 06/12/2023 | Correção final do artefato | [Vinícius Mendes](https://github.com/yabamiah) | [Limírio Guimarães](https://github.com/LimirioGuimaraes) |
 
