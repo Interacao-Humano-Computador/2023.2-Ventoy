@@ -55,11 +55,11 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 | ID | Descrição                                                                                              | Avaliação (Sim, Não, Incompleto)  | Observação                                                             |
 |----|------------------------------------------------------------------------------------------------------- |------------|------------------------------------------------------------------------|
-| 1  | O artefato possui Introdução?                                                                          |            |                                                                       |
-| 2  | O artefato possui a metodologia utilizada?                                                             |            |                                                                       |
-| 3  | O artefato possui bibliografia/referências bibliográficas?                                             |            |                                                                       |
-| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |            |                                                                       |
-| 5  | Todos os textos estão na norma padrão?                                                                 |            |                                                                       |
+| 1  | O artefato possui Introdução?                                                                          |   Sim      |                                                                       |
+| 2  | O artefato possui a metodologia utilizada?                                                             |   Sim      |                                                                       |
+| 3  | O artefato possui bibliografia/referências bibliográficas?                                             |    Sim     |                                                                       |
+| 4  | O artefato possui um histórico de versões com o id e descrição das versões, data, autores e revisores? |    Sim     |                                                                       |
+| 5  | Todos os textos estão na norma padrão?                                                                 |    Sim     |                                                                       |
 
 Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
@@ -73,14 +73,14 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 | ID | Descrição                                                                                                         | Avaliação (Sim, Não, Incompleto)  | Observações               |
 |----|------------------------------------------------------------------------------------------------------------------|------------|---------------------------|
-| 1  | O modelo inclui tarefas do usuário externas ao sistema?                                                           |            |                          |
-| 2  | Inclui tarefas do sistema sem interação do usuário?                                                               |            |                          |
-| 3  | Inclui tarefas interativas (diálogos usuário-sistema)?                                                             |            |                          |
-| 4  | Possui tarefas abstratas para auxiliar na decomposição?                                                           |            |                          |
-| 5  | As relações de ativação entre tarefas são definidas? (Tarefa T2 inicia após T1)                                    |            |                          |
-| 6  | As tarefas alternativas (escolhas) são mutuamente exclusivas?                                                      |            |                          |
-| 7  | Tarefas concorrentes que podem ser realizadas simultaneamente estão identificadas?                                 |            |                          |
-| 8  | Relações de suspensão e retomada de tarefas estão presentes?                                                       |            |                          |
+| 1  | O modelo inclui tarefas do usuário externas ao sistema?                                                          |   Sim      |                          |
+| 2  | Inclui tarefas do sistema sem interação do usuário?                                                              |   Sim         |                          |
+| 3  | Inclui tarefas interativas (diálogos usuário-sistema)?                                                           |   Sim         |                          |
+| 4  | Possui tarefas abstratas para auxiliar na decomposição?                                                          |   Incompleto        |  Nem todas as relações de ativação estão claramente definidas nos diagramas.                        |
+| 5  | As relações de ativação entre tarefas são definidas? (Tarefa T2 inicia após T1)                                  |   Incompleto       |     Não está totalmente claro se todas as tarefas alternativas são mutuamente exclusivas.                     |
+| 6  | As tarefas alternativas (escolhas) são mutuamente exclusivas?                                                    |   Sim        |                          |
+| 7  | Tarefas concorrentes que podem ser realizadas simultaneamente estão identificadas?                               |   Sim       |                          |
+| 8  | Relações de suspensão e retomada de tarefas estão presentes?                                                     |   Incompleto        |     As relações de suspensão e retomada não estão completamente detalhadas em todos os diagramas.                     |
 
 </center>
 
@@ -134,22 +134,22 @@ Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equaç
 
 Através dos checklists realizados, podemos observar que:
 
-- 0/13 exigências são atendidas (Conformes);
-- 0/13 exigências estão incompletas;
-- 0/13 exigências estão erradas ou não foram realizadas (Não conformes).
-- 0/13 não se aplica.
+- **9/13** exigências são atendidas (Conformes);
+- **4/13** exigências estão incompletas;
+- **0/13** exigências estão erradas ou não foram realizadas (Não conformes).
+- **0/13** não se aplica.
 
 Onde 13 é a quantidade de itens avaliados na verificação (considerando a soma dos itens das Tabelas 1 e 2).
 
-Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em XX,XX%.
+Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento deste artefato está em 69,23%.
 
 ## Retrabalho
 
-### Tabela 2 - Cronograma de Correções
-
-| Data de Correção | Descrição                 |              Responsável(eis)               |                   Revisor(es)                    |      Status      |
-| ---------------- | :------------------------ | :-----------------------------------------: | :----------------------------------------------: | :--------------: |
-|                  |                           |                                             |                                                  |                  |
+| Data de Correção | Descrição                                                                                   | Responsável(eis)  | Revisor(es)  | Status  |
+|------------------|---------------------------------------------------------------------------------------------|-------------------|--------------|---------|
+| 04/12/2023       | Clarificação das relações de ativação entre tarefas nos diagramas CTT                       | Altino Arthur     | [Mayara Alves](https://github.com/Mayara-tech)              | Executado|
+| 04/12/2023       | Verificação da exclusividade mútua em tarefas alternativas                                  | Altino Arthur     |  [Mayara Alves](https://github.com/Mayara-tech)            | Executado|
+| 04/12/2023       | Detalhamento das relações de suspensão e retomada de tarefas nos diagramas CTT              | Altino Arthur     |    [Mayara Alves](https://github.com/Mayara-tech)          | Executado|
 
 ## Bibliografia
 
@@ -160,4 +160,4 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 | Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
-|  1.0   | [02/12/2023] | Criação da verificação do ConcurTaskTrees - CTT | [Altino Arthur](https://github.com/arthurrochamoreira) | [Nome dos Revisores]       
+|  1.0   | [02/12/2023] | Criação da verificação do ConcurTaskTrees - CTT | [Altino Arthur](https://github.com/arthurrochamoreira) |[Mayara Alves](https://github.com/Mayara-tech)   |     
