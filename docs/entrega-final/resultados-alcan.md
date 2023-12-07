@@ -17,5 +17,9 @@ A cada fase de desenvolvimento do projeto, esses resultados foram aplicados e in
 ## Bibliografia
 > GABRIEL, Lucas. Entrega Final. Repositório do Grupo Lichess e Documentos da disciplina de Interação Humano-Computador da Universidade de Brasília, 2022. Disponível em: [Link para a documentação](https://interacao-humano-computador.github.io/2022.2-Lichess/entrega_final/#sintese-das-avaliacoes). Acesso em: 04 de dezembro de 2023.
 
+## 📑 Histórico de Versões
 
+| Versão | Data | Descrição | Autor | Revisor |
+|--------|------|------------|------|---------|
+| `1.0` | 06/12/2023 | Criação do documento e do seu conteúdo |  [Altino Arthur](https://github.com/arthurrochamoreira)| [Mayara Alves](https://github.com/Mayara-tech) | 
 
