@@ -561,4 +561,4 @@ A compilação abrangente dos artefatos produzidos pela equipe durante o projeto
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
-|`1.0`|06/12/2023| Criação do documento |<a href="https://github.com/yabamiah">Vinícius Mendes</a> | | 
+|`1.0`|06/12/2023| Criação do documento |<a href="https://github.com/yabamiah">Vinícius Mendes</a> | [Luis Miranda](https://github.com/LuisMiranda10)  | 
