@@ -6,24 +6,23 @@ Neste documento, apresentamos as ferramentas que foram peças-chave durante o no
 colaborar e produzir resultados de alta qualidade. As ferramentas que escolhemos refletem nosso esforço em utilizar tecnologias que nos ajudam a alcançar nossos objetivos. 
 
 # Tabela de ferramentas
-A tabela 1 a seguir agrupa as ferramentas utilizadas, com a finalidade que uma determinada ferramentas foi utilizada e em qual artefato foi necessária.
+A tabela 1 a seguir agrupa as ferramentas utilizadas.
 
 <center>
 
 **Tabela 1** - Ferramentas Utilizadas
 
-| Ferramenta | Nome | Finalidade | Artefato que foi utilizada |
-|------------|------|------------| -------------------------- |
-| ![](../assets/teams.png){width=75} | Microsoft Teams | Utilizado para reuniões virtuais, compartilhamento de documentos e colaboração em tempo real, promovendo comunicação rápida e eficaz. |  |
-| ![](../assets/github.png){width=75} | GitHub | Serve para controle de versão e colaboração em projetos, com rastreamento de alterações e revisão de código, facilitando a colaboração organizada. |  |
-| ![](../assets/figma.png){width=75} | Figma | Ferramenta de design para a criação e colaboração em UI/UX, usada na prototipação de alternativas de design para o site do projeto. |  |
-| ![](../assets/mkdocs.png){width=75} | MkDocs | Utilizado para simplificar a criação e manutenção de documentação de projetos de forma organizada e eficiente. |  |
-| ![](../assets/vscode.png){width=75} | Visual Studio Code | Editor de código para desenvolvimento e documentação, com suporte a extensões e integração com Git. |   |
-| ![](../assets/whatsapp.png){width=75} | WhatsApp | Plataforma de mensagens para comunicação rápida e direta entre membros da equipe. |  |
-| ![](../assets/youtube.jpg){width=75} | YouTube | Plataforma para hospedar vídeos de apresentações e reuniões do projeto. |  |
-| ![](../assets/gdrive.png){width=75} | Google Drive | Serviço de compartilhamento e armazenamento de arquivos, utilizado para distribuição de documentos e arquivos de mídia. |  |
-| ![](../assets/thispersondoesntexist.png){width=75} | This Person Does Not Exist | Geração de imagens de personas fictícias para prototipagem e demonstrações. |  |
-| ![](../assets/excel_logo.png){width=75} | Microsoft Excel | Criação de planilhas para organização de horários e dados do projeto. |  |
+| Ferramenta | Nome | Finalidade | 
+|------------|------|------------| 
+| ![](../assets/teams.png){width=75} | Microsoft Teams | Utilizado para reuniões virtuais, compartilhamento de documentos e colaboração em tempo real, promovendo comunicação rápida e eficaz. | 
+| ![](../assets/github.png){width=75} | GitHub |Organizar, versionar e documentar artefatos produzidos para o projeto. | 
+| ![](../assets/figma.png){width=75} | Figma | Utilizado para criar protótipos de alta fidelidade | 
+| ![](../assets/mkdocs.png){width=75} | MkDocs | Utilizado para simplificar a criação e manutenção de documentação da gitpage. |
+| ![](../assets/vscode.png){width=75} | Visual Studio Code | Edição dos arquivos de documentação. |  
+| ![](../assets/whatsapp.png){width=75} | WhatsApp | Utilizado para enviar mensagens para comunicação rápida e direta entre membros da equipe. |
+| ![](../assets/youtube.jpg){width=75} | YouTube | Utilizado para hospedar vídeos de apresentações e reuniões do projeto e entrevistas. | 
+| ![](../assets/thispersondoesntexist.png){width=75} | This Person Does Not Exist | Utilizado para geração de imagens de personas fictícias para prototipagem e demonstrações. | 
+| ![](../assets/forms.png){width=75} | Goolgle Forms | Utilizado para realizar formulários | 
 
 Fonte: [Limírio Guimarães](https://github.com/LimirioGuimaraes)
 
