@@ -95,27 +95,6 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 |--------------|-------|---------|-----------------|
 | Luis Miranda, Vinicius Mendes e Altino Arthur | 04/12/2023 | 00:00/00:00| [Link da Gravação]()  |
 
-
-</center>
-
-## Sugestões de Melhorias
-
-<center>
-
-**Figura 1** - Percentual das respostas obtidas na verificação checklist geral
-
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
-</center>
-
-<center>
-
-**Figura 2** - Percentual das respostas obtidas na verificação checklist específico
-
-
-Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
-</center>
-
 ### Percentual de Aproveitamento
 
 Para saber a porcentagem de aproveitamento do artefato, será utilizado a Equação na figura 3:
