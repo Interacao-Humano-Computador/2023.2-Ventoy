@@ -8,18 +8,23 @@ Ao final do projeto, é possível fazer uma análise abrangente dos resultados o
 O objetivo da disciplina foi alcançar resultados promovendo a compreensão, planejamento e desenvolvimento de sistemas interativos centrados no usuário. O grupo atingiu os seguintes marcos:
 
 **Conhecimento Teórico e Prático:**
+
    - Adquirimos conhecimento sólido sobre os princípios de interação humano-computador, incluindo usabilidade, acessibilidade e design centrado no usuário.
 
    **Pesquisa e Metodologias:**
+   
    - Aplicamos técnicas como entrevistas, testes de usabilidade e análise de tarefas para conduzir pesquisas de forma eficaz.
 
 **Design Centrado no Usuário:**
+
    - Desenvolvemos a habilidade de criar protótipos considerando as preferências dos usuários na interface.
 
 **Diversidade e Acessibilidade:**
+
    - Reconhecemos a importância da diversidade e acessibilidade em interfaces, demonstrando sensibilidade para atender a diferentes públicos com variadas habilidades e necessidades.
 
 **Consciência Ética:**
+
    - Identificamos e consideramos questões éticas, como privacidade, segurança e impactos sociais, demonstrando uma abordagem ética ao longo do projeto.
 
 Esses resultados foram integrados progressivamente nas entregas dos artefatos em cada fase do desenvolvimento do projeto, proporcionando uma compreensão mais profunda da disciplina de Interação Humano-Computador.
