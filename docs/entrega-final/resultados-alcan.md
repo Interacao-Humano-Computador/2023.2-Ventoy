@@ -81,15 +81,15 @@ Esses resultados foram integrados progressivamente nas entregas dos artefatos em
 
 ## Conclusão
 
-Ao encerrarmos este projeto de Interação Humano-Computador, é possível observar os resultados conquistados pelo grupo, refletindo o esforço coletivo na busca pelos objetivos propostos.
+Ao finalizar este projeto de Interação Humano-Computador, destacamos os avanços conquistados pelo grupo no desenvolvimento prático e teórico.
 
-O conhecimento adquirido abrangeu de maneira consistente os fundamentos da interação humano-computador, destacando-se em conceitos como usabilidade, acessibilidade e design centrado no usuário. A aplicação prática de métodos de pesquisa, como entrevistas e testes de usabilidade, fortaleceu nossa abordagem investigativa.
+Adquirimos um conhecimento sólido em conceitos fundamentais de interação humano-computador, como usabilidade, acessibilidade e design centrado no usuário. A aplicação eficaz de métodos de pesquisa, incluindo entrevistas e testes de usabilidade, fortaleceu nossa abordagem prática.
 
-No âmbito do design centrado no usuário, desenvolvemos a capacidade de criar protótipos alinhados às preferências dos usuários, demonstrando uma evolução na consideração das necessidades do público-alvo. A conscientização em relação à diversidade e acessibilidade permeou nossas decisões de design, reconhecendo a importância de uma abordagem inclusiva.
+No processo de design, aprimoramos nossa habilidade na criação de protótipos considerando as preferências dos usuários. A atenção à diversidade e acessibilidade foi integrada às decisões de design.
 
-Apesar dos desafios enfrentados, como a gestão do tempo limitado e prazos ajustados, conseguimos entregar um total de 101 artefatos ao longo do projeto. Essas entregas graduais refletiram nosso comprometimento em cumprir os requisitos e metas propostas.
+Mesmo diante de desafios, como o tempo limitado e prazos ajustados, entregamos um total de 101 artefatos ao longo do projeto.
 
-Em resumo, os resultados alcançados representam um avanço no entendimento prático da disciplina de Interação Humano-Computador. A experiência adquirida durante o projeto contribuiu não apenas para o desenvolvimento de artefatos, mas também para a nossa preparação diante de desafios futuros nesta área de estudo.
+Em resumo, os resultados alcançados, embora modestos, representam um avanço significativo na compreensão prática da disciplina de Interação Humano-Computador. A experiência adquirida durante o projeto contribuiu não apenas para o desenvolvimento dos artefatos, mas também para a nossa preparação diante de desafios futuros nessa área.
 
 ## Bibliografia
 > GABRIEL, Lucas. Entrega Final. Repositório do Grupo Lichess e Documentos da disciplina de Interação Humano-Computador da Universidade de Brasília, 2022. Disponível em: [Link para a documentação](https://interacao-humano-computador.github.io/2022.2-Lichess/entrega_final/#sintese-das-avaliacoes). Acesso em: 04 de dezembro de 2023.
