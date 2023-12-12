@@ -5,7 +5,7 @@ Ao final do projeto, é possível fazer uma análise abrangente dos resultados o
 
 ## Resultados
 
-O objetivo central do projeto foi capacitar os participantes a aplicar de forma prática os princípios e técnicas aprendidos ao longo da disciplina, destacando as principais teorias, reforçando os princípios de interação humano-computador, que incluem conceitos essenciais como usabilidade, acessibilidade e design centrado no usuário.
+O objetivo central do projeto foi capacitar os participantes a aplicar de forma prática os princípios e técnicas aprendidos ao longo da disciplina, reforçando os princípios de interação humano-computador, que incluem conceitos essenciais como usabilidade, acessibilidade e design centrado no usuário.
 
 **Conhecimento Teórico e Prático:**
 
