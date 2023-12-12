@@ -5,7 +5,7 @@ Ao final do projeto, é possível fazer uma análise abrangente dos resultados o
 
 ## Resultados
 
-O objetivo da disciplina foi alcançar resultados promovendo a compreensão, planejamento e desenvolvimento de sistemas interativos centrados no usuário. O grupo atingiu os seguintes marcos:
+O objetivo central do projeto foi capacitar os participantes a aplicar de forma prática os princípios e técnicas aprendidos, destacando as principais teorias, consolidando de forma sólida os princípios de interação humano-computador, que incluem conceitos essenciais como usabilidade, acessibilidade e design centrado no usuário.
 
 **Conhecimento Teórico e Prático:**
 
