@@ -137,4 +137,4 @@ Portanto, com base no cálculo apresentado, pode-se dizer que o aproveitamento d
 
 | Versão | Data       | Descrição              | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
-|  `1.0` | [02/12/2023] | Criação da verificação do Processo de Design | [Altino Arthur](https://github.com/arthurrochamoreira)                                       | [Mayara Alves](https://github.com/Mayara-tech)                           |
+|  `1.0` | [02/12/2023] | Criação da verificação das Personas | [Altino Arthur](https://github.com/arthurrochamoreira)                                       | [Mayara Alves](https://github.com/Mayara-tech)                           |
