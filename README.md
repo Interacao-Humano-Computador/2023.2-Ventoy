@@ -1,4 +1,4 @@
-# 💻 Ventoy - Avaliação de IHC
+# 💻 Ventoy
 
 ## Sobre o Projeto
 
