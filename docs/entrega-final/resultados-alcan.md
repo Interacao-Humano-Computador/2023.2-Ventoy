@@ -77,6 +77,20 @@ Esses resultados foram integrados progressivamente nas entregas dos artefatos em
 
 - **Ganho de Conhecimento**: Apesar dos desafios, muitos membros destacaram que o esforço e a dedicação resultaram em ganho de conhecimento, mesmo com as exigências da disciplina.
 
+<br>
+
+## Conclusão
+
+Ao encerrarmos este projeto de Interação Humano-Computador, é possível observar os resultados conquistados pelo grupo, refletindo o esforço coletivo na busca pelos objetivos propostos.
+
+O conhecimento adquirido abrangeu de maneira consistente os fundamentos da interação humano-computador, destacando-se em conceitos como usabilidade, acessibilidade e design centrado no usuário. A aplicação prática de métodos de pesquisa, como entrevistas e testes de usabilidade, fortaleceu nossa abordagem investigativa.
+
+No âmbito do design centrado no usuário, desenvolvemos a capacidade de criar protótipos alinhados às preferências dos usuários, demonstrando uma evolução na consideração das necessidades do público-alvo. A conscientização em relação à diversidade e acessibilidade permeou nossas decisões de design, reconhecendo a importância de uma abordagem inclusiva.
+
+Apesar dos desafios enfrentados, como a gestão do tempo limitado e prazos ajustados, conseguimos entregar um total de 101 artefatos ao longo do projeto. Essas entregas graduais refletiram nosso comprometimento em cumprir os requisitos e metas propostas.
+
+Em resumo, os resultados alcançados representam um avanço no entendimento prático da disciplina de Interação Humano-Computador. A experiência adquirida durante o projeto contribuiu não apenas para o desenvolvimento de artefatos, mas também para a nossa preparação diante de desafios futuros nesta área de estudo.
+
 ## Bibliografia
 > GABRIEL, Lucas. Entrega Final. Repositório do Grupo Lichess e Documentos da disciplina de Interação Humano-Computador da Universidade de Brasília, 2022. Disponível em: [Link para a documentação](https://interacao-humano-computador.github.io/2022.2-Lichess/entrega_final/#sintese-das-avaliacoes). Acesso em: 04 de dezembro de 2023.
 
