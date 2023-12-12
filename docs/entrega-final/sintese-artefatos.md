@@ -151,6 +151,7 @@ Na tabela 1 estão todos os artefatos criados pelo Grupo 2 durante a disciplina 
 | Verificação de Ferramentas | Breno Queiroz | Limírio Guimarães |
 | Verificação do Cronograma | Milena Baruc | Vinícius Mendes |
 | Verificação do Aspectos Éticos | Milena Baruc | Vinícius Mendes |
+| Verificação das Personas | Altino Arthur | Mayara Alves |
 | Verificação da Entrevista | Breno Queiroz | Vinícius Mendes |
 | Verificação da Brainstorming | Luis Miranda | Breno Queiroz |
 | Verificação da Introspecção | Limírio Guimarães | Vinícius Mendes |
