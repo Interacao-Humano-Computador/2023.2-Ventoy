@@ -14,7 +14,7 @@ Na tabela 1 estão todos os artefatos criados pelo Grupo 2 durante a disciplina 
 
 | Entrega | Autor | Revisor |
 |---------|-------|---------|
-| GitPages | Mayara Alves | Mayara Alves, Luis Miranda, Breno Queiroz, Altino Arthur, Vinícius Mendes |
+| GitPages - Home | Mayara Alves | Mayara Alves, Luis Miranda, Breno Queiroz, Altino Arthur, Vinícius Mendes |
 | | | |
 | **Apresentações** | | |
 | Apresentação 1 | Mayara Alves | Milena Baruc |
