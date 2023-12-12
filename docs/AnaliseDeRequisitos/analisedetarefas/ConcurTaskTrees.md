@@ -124,6 +124,6 @@ Fonte: [Milena Baruc](https://github.com/MilenaBaruc)
 
 | **Versão**   |   **Data**   | **Descrição** | **Autor** | **Revisor** |
 |--------|---------|-----------|--------|---------|
-|`1.0`| 16/10/2023 | Criação da página de análise de tarefas CTT | [Milena Baruc](https://github.com/MilenaBaruc)| [Mayara Alves](https://github.com/Mayara-tech) e [Altino Arthur](https://github.com/altinoarthurmoreira)|
+|`1.0`| 16/10/2023 | Criação da página de análise de tarefas CTT | [Milena Baruc](https://github.com/MilenaBaruc) e [Altino Arthur](https://github.com/altinoarthurmoreira)| [Mayara Alves](https://github.com/Mayara-tech)|
 |`1.1`| 07/11/2023 | Adição CTTs | [Milena Baruc](https://github.com/MilenaBaruc)| [Mayara Alves](https://github.com/Mayara-tech)|
 | `2.0`  | 05/12/2023 | Correção de acordo com as verificações | [Milena Baruc](https://github.com/MilenaBaruc) | [Altino Arthur](https://github.com/altinoarthurmoreira) |
