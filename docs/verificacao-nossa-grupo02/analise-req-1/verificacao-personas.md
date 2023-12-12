@@ -100,12 +100,6 @@ Fonte: [Altino Arthur](https://github.com/arthurrochamoreira)
 
 ## Sugestões de Melhorias
 
-</center>
-
-## Acompanhamento
-
-A figura 1 e 2 apresenta um gráfico com o percentual de respostas conforme, não conforme, incompleto ou não se aplica, obtidas através da checklist geral e específico de verificação.
-
 <center>
 
 **Figura 1** - Percentual das respostas obtidas na verificação checklist geral
