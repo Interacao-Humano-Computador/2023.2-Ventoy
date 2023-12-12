@@ -12,8 +12,6 @@ O Ventoy é uma ferramenta de código aberto que permite criar unidades USB inic
 | :----------------------------------------------------------: | :----------------------------------------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------: | :---------------------------------------------------------: |
 | [Altino Arthur](https://github.com/arthurrochamoreira)       | [Breno Queiroz](https://github.com/brenob6)             | [Limirio Guimarães](https://github.com/LimirioGuimaraes)            | [Luis Eduardo](https://github.com/LuisMiranda10)                 | [Mayara Alves](https://github.com/Mayara-tech)              | [Milena Baruc](https://github.com/MilenaBaruc)            | [Vinicius Mendes](https://github.com/yabamiah)              |
 
-![Ventoy Interface](https://github.com/Interacao-Humano-Computador/2023.2-Grupo02/assets/67807684/e6728fd1-bb4b-4160-a70b-4e5b8dacdf36)
-
 ## Estrutura do Repositório
 
 * `docs/` - Documentação das análises e estudos realizados.
@@ -30,3 +28,6 @@ Este projeto é distribuído sob a licença MIT. Veja `LICENSE` para mais detalh
 ## Contato
 
 Para entrar em contato conosco, por favor, abra uma issue neste repositório ou envie um email para um dos colaboradores listados acima.
+
+![Ventoy Interface](https://github.com/Interacao-Humano-Computador/2023.2-Grupo02/assets/67807684/e6728fd1-bb4b-4160-a70b-4e5b8dacdf36)
+
