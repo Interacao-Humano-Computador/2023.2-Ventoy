@@ -4,17 +4,31 @@
 Ao final do projeto, é possível fazer uma análise abrangente dos resultados obtidos pelo grupo. Este documento discutirá os resultados alcançados ao longo do projeto.
 
 ## Resultados
-O objetivo da disciplina era alcançar uma série de resultados que promovessem a compreensão, o planejamento e o desenvolvimento de sistemas interativos eficazes e centrados no usuário. Abaixo, apresentamos um resumo do que foi alcançado em grupo:
 
-- Aquisição de conhecimento sobre os princípios teóricos e práticos de interação humano-computador, incluindo uma compreensão sólida dos fundamentos de usabilidade, acessibilidade e design centrado no usuário;
-- Aplicação de técnicas e metodologias de pesquisa, como entrevistas com usuários, testes de usabilidade e análise de tarefas;
-- Capacidade de projetar protótipos que levem em consideração as preferências dos usuários no design da interface;
-- Reconhecimento da importância da diversidade e acessibilidade em diferentes interfaces. Durante o projeto, desenvolveu-se uma sensibilidade em relação a diferentes públicos com habilidades, conhecimentos e necessidades variadas;
-- Consciência ética, na qual o grupo foi capaz de identificar questões éticas, como privacidade, segurança e impactos sociais.
+O objetivo da disciplina foi alcançar resultados promovendo a compreensão, planejamento e desenvolvimento de sistemas interativos centrados no usuário. O grupo atingiu os seguintes marcos:
 
-A cada fase de desenvolvimento do projeto, esses resultados foram aplicados e incorporados cada vez mais nas entregas dos artefatos, permitindo uma compreensão mais profunda da disciplina de Interação Humano-Computador.
+1. **Conhecimento Teórico e Prático:**
+   - Adquirimos conhecimento sólido sobre os princípios de interação humano-computador, incluindo usabilidade, acessibilidade e design centrado no usuário.
 
-## Compilado Geral - Quantidade de Artefatos por Entrega
+2. **Pesquisa e Metodologias:**
+   - Aplicamos técnicas como entrevistas, testes de usabilidade e análise de tarefas para conduzir pesquisas de forma eficaz.
+
+3. **Design Centrado no Usuário:**
+   - Desenvolvemos a habilidade de criar protótipos considerando as preferências dos usuários na interface.
+
+4. **Diversidade e Acessibilidade:**
+   - Reconhecemos a importância da diversidade e acessibilidade em interfaces, demonstrando sensibilidade para atender a diferentes públicos com variadas habilidades e necessidades.
+
+5. **Consciência Ética:**
+   - Identificamos e consideramos questões éticas, como privacidade, segurança e impactos sociais, demonstrando uma abordagem ética ao longo do projeto.
+
+Esses resultados foram integrados progressivamente nas entregas dos artefatos em cada fase do desenvolvimento do projeto, proporcionando uma compreensão mais profunda da disciplina de Interação Humano-Computador.
+
+<br>
+
+<center>
+
+##  **Tabela 1** - Artefatos por Entrega 
 
 | Entrega                                           | Quantidade de Artefatos |
 |---------------------------------------------------|--------------------------|
@@ -31,6 +45,10 @@ A cada fase de desenvolvimento do projeto, esses resultados foram aplicados e in
 | **Entrega 7 - Relatos Protótipos de Papel e Avaliação do Protótipo de Alta Fidelidade**| 3 |
 
 **Total de Artefatos**: 101 artefatos.
+
+</center>
+
+<br>
 
 ## Dificuldades Gerais
 
