@@ -8,28 +8,21 @@ O Ventoy é uma ferramenta de código aberto que permite criar unidades USB inic
 
 ### Colaboradores
 
-| [![Altino Arthur](https://github.com/arthurrochamoreira.png)](https://github.com/arthurrochamoreira) | [![Breno Queiroz](https://github.com/brenob6.png)](https://github.com/brenob6) | [![Limirio Guimarães](https://github.com/LimirioGuimaraes.png)](https://github.com/LimirioGuimaraes) | [![Luis Eduardo](https://github.com/LuisMiranda10.png)](https://github.com/LuisMiranda10) | [![Mayara Alves](https://github.com/Mayara-tech.png)](https://github.com/Mayara-tech) | [![Milena Baruc](https://github.com/MilenaBaruc.png)](https://github.com/MilenaBaruc) | [![Vinicius Mendes](https://github.com/yabamiah.png)](https://github.com/yabamiah) |
-| :----------------------------------------------------------: | :----------------------------------------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------: | :-----------------------------------------------------------: | :-------------------------------------------------------: | :---------------------------------------------------------: |
-| [Altino Arthur](https://github.com/arthurrochamoreira)       | [Breno Queiroz](https://github.com/brenob6)             | [Limirio Guimarães](https://github.com/LimirioGuimaraes)            | [Luis Eduardo](https://github.com/LuisMiranda10)                 | [Mayara Alves](https://github.com/Mayara-tech)              | [Milena Baruc](https://github.com/MilenaBaruc)            | [Vinicius Mendes](https://github.com/yabamiah)              |
+| <img src="https://github.com/arthurrochamoreira.png" width="80px"> | <img src="https://github.com/brenob6.png" width="80px"> | <img src="https://github.com/LimirioGuimaraes.png" width="80px"> | <img src="https://github.com/LuisMiranda10.png" width="80px"> | <img src="https://github.com/Mayara-tech.png" width="80px"> | <img src="https://github.com/MilenaBaruc.png" width="80px"> | <img src="https://github.com/yabamiah.png" width="80px"> |
+|:----------------------------------------------------------:|:------------------------------------------------:|:-------------------------------------------------------------:|:----------------------------------------------------:|:----------------------------------------------------:|:----------------------------------------------------:|:----------------------------------------------------:|
+| [Altino Arthur](https://github.com/arthurrochamoreira)     | [Breno Queiroz](https://github.com/brenob6)      | [Limirio Guimarães](https://github.com/LimirioGuimaraes)      | [Luis Eduardo](https://github.com/LuisMiranda10)     | [Mayara Alves](https://github.com/Mayara-tech)      | [Milena Baruc](https://github.com/MilenaBaruc)      | [Vinicius Mendes](https://github.com/yabamiah)      |
 
 ## Estrutura do Repositório
 
 * `docs/` - Documentação das análises e estudos realizados.
 * `assets/` - Imagens e outros recursos utilizados na documentação.
 
-## Contribuições
-
-Contribuições são sempre bem-vindas! Veja `CONTRIBUTING.md` para saber como contribuir com o projeto.
-
 ## Licença
 
-Este projeto é distribuído sob a licença MIT. Veja `LICENSE` para mais detalhes.
+Este projeto é distribuído sob a licença MIT.
 
 ## Contato
 
 Para entrar em contato conosco, por favor, abra uma issue neste repositório ou envie um email para um dos colaboradores listados acima.
 
-<p align="center"><img src="https://github.com/Interacao-Humano-Computador/2023.2-Grupo02/assets/67807684/e6728fd1-bb4b-4160-a70b-4e5b8dacdf36" width = 100%></p>
-
-
-
+<p align="center"><img src="https://github.com/Interacao-Humano-Computador/2023.2-Grupo02/assets/67807684/e6728fd1-bb4b-4160-a70b-4e5b8dacdf36" width="100%"></p>
