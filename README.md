@@ -1,6 +1,6 @@
 # 💻 Ventoy
 
-<p align="center"><img src="docs/assets/ventoy-logo-4k.png" width="100%"></p>
+<p align="center"><img src="docs/assets/ventoy-logo-4k (1).png" width="100%"></p>
 
 
 ## Sobre o Projeto
