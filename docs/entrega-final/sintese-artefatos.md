@@ -24,6 +24,7 @@ Na tabela 1 estão todos os artefatos criados pelo Grupo 2 durante a disciplina 
 | Apresentação 5 | Mayara Alves | Vinícius Mendes |
 | Apresentação 6 | Breno Queiroz | Mayara Alves |
 | Apresentação 7 | Breno Queiroz | Luis Miranda |
+| Apresentação Final| Luis Miranda| Breno Queiroz|
 | | | |
 | **Atas** | | |
 | Ata 1 | Vinícius Mendes | Mayara Alves |
@@ -53,7 +54,7 @@ Na tabela 1 estão todos os artefatos criados pelo Grupo 2 durante a disciplina 
 | Introspecção | Vinícius Mendes | Altino Arthur e Luis Miranda |
 | Grupo de Foco | Luis Miranda | Vinícius Mendes e Altino Arthur |
 | Análise Hierárquica de Tarefas | Vinícius Mendes, Mayara Alves e Breno Queiroz | Altino Arthur e Luis Miranda |
-| Análise Hierárquica Concorrente | Milena Baruc | Mayara Alves e Altino Arthur |
+| Análise Hierárquica Concorrente | Milena Baruc e Altino Arthur | Mayara Alves |
 | | | |
 | **Entrega 3 - Análise de Requisitos 2** |                              |                 |
 | Princípios Gerais                   | Limírio Guimarães e Vinícius Mendes | Mayara Alves    |
