@@ -1,4 +1,4 @@
-<p align="center" ><br><img style="border: 2px solid white; border-radius: 30%" src="assets/Ventoy-logo.PNG" width = 80%></p>
+<p align="center" ><br><img style="border: 2px solid white; border-radius: 30%" src="assets/ventoy-logo-4k (1).png" width = 80%></p>
 <p align="center" > <font><a href="https://www.ventoy.net/en/index.html">Ventoy</a></font> <br></p>
 
 Esta página é dedicada à documentação de todos os artefatos produzidos pelo grupo 02 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 2º semestre de 2023. O objetivo do projeto é fazer a avaliação de IHC do site [Ventoy](https://www.ventoy.net/en/download.html), aplicando os conceitos aprendidos em classe, sugerir melhoras em sua interface. O Ventoy é uma ferramenta de código aberto para criar uma unidade USB inicializável para arquivos ISO.
