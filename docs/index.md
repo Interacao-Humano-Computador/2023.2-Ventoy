@@ -1,5 +1,4 @@
-# <p align="center"> VENTOY
-<p align="center"><img src="assets/ventoy-logo-4k (1).png" width="75%"></p>
+<p align="center"><img src="assets/ventoy-logo-4k (1).png" width="100%"></p>
 
 <br>
 
